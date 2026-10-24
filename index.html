@@ -1,0 +1,1970 @@
+<!DOCTYPE html>
+<html lang="ta" data-theme="dark">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>தமிழ்நாடு அரசுப் பாடநூல்கள் — வகுப்பு 10 (TNSCERT Class 10)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Tamil:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
+  <style>
+    :root {
+      --primary: #0284c7;
+      --primary-light: #38bdf8;
+      --bg-body: #0b1329;
+      --bg-card: #152238;
+      --bg-card-subtle: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --border: #334155;
+      --border-subtle: rgba(255, 255, 255, 0.08);
+      --font-main: 'Noto Sans Tamil', 'Inter', -apple-system, sans-serif;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: var(--font-main);
+      background: var(--bg-body);
+      color: var(--text-main);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 30px 16px 80px 16px;
+      line-height: 1.6;
+    }
+    .header { text-align: center; max-width: 900px; margin-bottom: 28px; }
+    .badge-pill {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: rgba(2, 132, 199, 0.2);
+      border: 1px solid rgba(56, 189, 248, 0.4);
+      color: var(--primary-light);
+      font-size: 13px; font-weight: 700;
+      padding: 6px 16px; border-radius: 999px;
+      margin-bottom: 14px; letter-spacing: 0.5px;
+    }
+    h1 { font-size: 32px; font-weight: 800; color: #ffffff; margin-bottom: 8px; letter-spacing: -0.5px; }
+    p.subtitle { font-size: 16px; color: var(--text-muted); max-width: 720px; margin: 0 auto; }
+    .stats-row { display: flex; justify-content: center; gap: 16px; margin-top: 16px; flex-wrap: wrap; }
+    .stat-chip {
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid var(--border-subtle);
+      border-radius: 8px; padding: 4px 14px;
+      font-size: 13px; color: #cbd5e1;
+    }
+    .stat-chip strong { color: #38bdf8; }
+
+    .search-container { width: 100%; max-width: 800px; margin-bottom: 24px; position: relative; }
+    .search-input {
+      width: 100%; background: #1e293b; border: 1px solid #334155;
+      border-radius: 12px; padding: 14px 20px 14px 44px;
+      font-size: 15px; color: #ffffff; outline: none;
+      font-family: inherit; transition: all 0.2s ease;
+    }
+    .search-input:focus { border-color: #38bdf8; box-shadow: 0 0 0 3px rgba(56, 189, 248, 0.2); }
+    .search-icon { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); font-size: 18px; color: #94a3b8; }
+
+    .subjects-container { width: 100%; max-width: 1100px; display: flex; flex-direction: column; gap: 28px; }
+    .subject-section {
+      background: var(--bg-card); border: 1px solid var(--border);
+      border-radius: 16px; padding: 24px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+    }
+    .subject-header {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 18px; padding-bottom: 12px;
+      border-bottom: 1px solid var(--border-subtle);
+    }
+    .subject-icon { font-size: 26px; }
+    .subject-title { font-size: 20px; font-weight: 800; color: #ffffff; flex: 1; }
+    .subject-count {
+      font-size: 12px; background: rgba(56, 189, 248, 0.15);
+      color: #38bdf8; padding: 3px 10px; border-radius: 6px; font-weight: 700;
+    }
+
+    .lesson-list {
+      list-style: none; display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 10px;
+    }
+    .lesson-card {
+      background: #1e293b; border: 1px solid rgba(255, 255, 255, 0.04);
+      border-radius: 8px; padding: 10px 12px;
+      display: flex; justify-content: space-between; align-items: center;
+      gap: 10px; transition: all 0.15s ease;
+    }
+    .lesson-card:hover { background: #253347; border-color: rgba(56, 189, 248, 0.4); transform: translateX(2px); }
+    .lesson-info { overflow: hidden; }
+    .lesson-name { font-size: 13.5px; font-weight: 600; color: #f1f5f9; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .lesson-meta { font-size: 11.5px; color: #94a3b8; }
+    .action-links { display: flex; gap: 6px; flex-shrink: 0; }
+    .view-btn {
+      display: inline-flex; align-items: center; gap: 4px;
+      background: #0284c7; color: #ffffff;
+      padding: 6px 12px; border-radius: 6px;
+      font-size: 12px; font-weight: 700; text-decoration: none;
+      transition: background 0.15s ease;
+    }
+    .view-btn:hover { background: #0369a1; }
+    .pdf-btn {
+      display: inline-flex; align-items: center;
+      background: #334155; color: #cbd5e1;
+      padding: 6px 8px; border-radius: 6px;
+      font-size: 11px; font-weight: 600; text-decoration: none;
+      transition: all 0.15s ease;
+    }
+    .pdf-btn:hover { background: #475569; color: #ffffff; }
+
+    .footer { margin-top: 60px; text-align: center; font-size: 13px; color: #64748b; }
+    .footer a { color: #38bdf8; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <div class="badge-pill">
+      <span>⚡ Cloudflare Pages Edge CDN • 100% Ultra-HD Vector Quality</span>
+    </div>
+    <h1>தமிழ்நாடு அரசுப் பாடநூல்கள் — வகுப்பு 10</h1>
+    <p class="subtitle">முழு ஆண்டு நூல் பதிப்பு — டிஜிட்டல் அச்சுப் பக்கங்கள் & அதிவேக வெக்டார் வியூவர் (TNSCERT Class 10 Full-Book Annual Edition)</p>
+    <div class="stats-row">
+      <div class="stat-chip">📚 <strong>8</strong> பாடங்கள்</div>
+      <div class="stat-chip">📘 முழு ஆண்டு நூல் (Full Book Annual)</div>
+      <div class="stat-chip">📄 <strong>2624</strong> வெக்டார் பக்கங்கள் (100% PASS)</div>
+      <div class="stat-chip">🚀 <strong>0.05 நொடி</strong> கேன்வாஸ் லோடிங்</div>
+    </div>
+  </div>
+
+  <div class="search-container">
+    <span class="search-icon">🔍</span>
+    <input type="text" id="searchInput" class="search-input" placeholder="இயல் அல்லது பக்க எண்ணைத் தேடுங்கள் (எ.கா. தமிழ் இன்பம், science, geometry, page 10)..." onkeyup="filterCards()"/>
+  </div>
+
+  <div class="subjects-container" id="subjectsContainer">
+
+    <div class="subject-section" data-subject="tamil">
+      <div class="subject-header">
+        <span class="subject-icon">📖</span>
+        <div class="subject-title">தமிழ் (Tamil)</div>
+        <span class="subject-count">248 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 10 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="mozhi amuthaootru">
+          <div class="lesson-info">
+            <div class="lesson-name">mozhi amuthaootru</div>
+            <div class="lesson-meta">பக்கங்கள்: 11 – 35 (25 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/01_mozhi_amuthaootru/page_011.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/01_mozhi_amuthaootru/page_011.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="iyarkai kaetkiradhaa">
+          <div class="lesson-info">
+            <div class="lesson-name">iyarkai kaetkiradhaa</div>
+            <div class="lesson-meta">பக்கங்கள்: 36 – 59 (24 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/02_iyarkai_kaetkiradhaa/page_036.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/02_iyarkai_kaetkiradhaa/page_036.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="panpaadu virundhu">
+          <div class="lesson-info">
+            <div class="lesson-name">panpaadu virundhu</div>
+            <div class="lesson-meta">பக்கங்கள்: 60 – 85 (26 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/03_panpaadu_virundhu/page_060.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/03_panpaadu_virundhu/page_060.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="ariviyal seyarkai nunnarivu">
+          <div class="lesson-info">
+            <div class="lesson-name">ariviyal seyarkai nunnarivu</div>
+            <div class="lesson-meta">பக்கங்கள்: 86 – 109 (24 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/04_ariviyal_seyarkai_nunnarivu/page_086.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/04_ariviyal_seyarkai_nunnarivu/page_086.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="kalvi mozhipeyarppu">
+          <div class="lesson-info">
+            <div class="lesson-name">kalvi mozhipeyarppu</div>
+            <div class="lesson-meta">பக்கங்கள்: 110 – 137 (28 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/05_kalvi_mozhipeyarppu/page_110.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/05_kalvi_mozhipeyarppu/page_110.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="kalai panmugak kalaignar">
+          <div class="lesson-info">
+            <div class="lesson-name">kalai panmugak kalaignar</div>
+            <div class="lesson-meta">பக்கங்கள்: 138 – 169 (32 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/06_kalai_panmugak_kalaignar/page_138.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/06_kalai_panmugak_kalaignar/page_138.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="naagarigam sirragal oli">
+          <div class="lesson-info">
+            <div class="lesson-name">naagarigam sirragal oli</div>
+            <div class="lesson-meta">பக்கங்கள்: 170 – 193 (24 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/07_naagarigam_sirragal_oli/page_170.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/07_naagarigam_sirragal_oli/page_170.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="aram sangailakkiyam">
+          <div class="lesson-info">
+            <div class="lesson-name">aram sangailakkiyam</div>
+            <div class="lesson-meta">பக்கங்கள்: 194 – 213 (20 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/08_aram_sangailakkiyam/page_194.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/08_aram_sangailakkiyam/page_194.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="manidham jeyakaandham">
+          <div class="lesson-info">
+            <div class="lesson-name">manidham jeyakaandham</div>
+            <div class="lesson-meta">பக்கங்கள்: 214 – 248 (35 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./tamil/09_manidham_jeyakaandham/page_214.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./tamil/09_manidham_jeyakaandham/page_214.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="english">
+      <div class="subject-header">
+        <span class="subject-icon">🔤</span>
+        <div class="subject-title">English</div>
+        <span class="subject-count">224 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 4 (4 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="his first flight">
+          <div class="lesson-info">
+            <div class="lesson-name">his first flight</div>
+            <div class="lesson-meta">பக்கங்கள்: 5 – 20 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/01_his_first_flight/page_005.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/01_his_first_flight/page_005.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="life">
+          <div class="lesson-info">
+            <div class="lesson-name">life</div>
+            <div class="lesson-meta">பக்கங்கள்: 21 – 24 (4 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/02_life/page_021.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/02_life/page_021.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="the tempest">
+          <div class="lesson-info">
+            <div class="lesson-name">the tempest</div>
+            <div class="lesson-meta">பக்கங்கள்: 25 – 33 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/03_the_tempest/page_025.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/03_the_tempest/page_025.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="night ghost got in">
+          <div class="lesson-info">
+            <div class="lesson-name">night ghost got in</div>
+            <div class="lesson-meta">பக்கங்கள்: 34 – 48 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/04_night_ghost_got_in/page_034.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/04_night_ghost_got_in/page_034.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="grumble family">
+          <div class="lesson-info">
+            <div class="lesson-name">grumble family</div>
+            <div class="lesson-meta">பக்கங்கள்: 49 – 53 (5 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/05_grumble_family/page_049.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/05_grumble_family/page_049.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="zigzag">
+          <div class="lesson-info">
+            <div class="lesson-name">zigzag</div>
+            <div class="lesson-meta">பக்கங்கள்: 54 – 63 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/06_zigzag/page_054.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/06_zigzag/page_054.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="empowered women">
+          <div class="lesson-info">
+            <div class="lesson-name">empowered women</div>
+            <div class="lesson-meta">பக்கங்கள்: 64 – 87 (24 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/07_empowered_women/page_064.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/07_empowered_women/page_064.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="every woman">
+          <div class="lesson-info">
+            <div class="lesson-name">every woman</div>
+            <div class="lesson-meta">பக்கங்கள்: 88 – 91 (4 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/08_every_woman/page_088.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/08_every_woman/page_088.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="story of mulan">
+          <div class="lesson-info">
+            <div class="lesson-name">story of mulan</div>
+            <div class="lesson-meta">பக்கங்கள்: 92 – 97 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/09_story_of_mulan/page_092.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/09_story_of_mulan/page_092.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="the attic">
+          <div class="lesson-info">
+            <div class="lesson-name">the attic</div>
+            <div class="lesson-meta">பக்கங்கள்: 98 – 118 (21 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/10_the_attic/page_098.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/10_the_attic/page_098.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="ant and cricket">
+          <div class="lesson-info">
+            <div class="lesson-name">ant and cricket</div>
+            <div class="lesson-meta">பக்கங்கள்: 119 – 123 (5 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/11_ant_and_cricket/page_119.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/11_ant_and_cricket/page_119.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="aged mother">
+          <div class="lesson-info">
+            <div class="lesson-name">aged mother</div>
+            <div class="lesson-meta">பக்கங்கள்: 124 – 129 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/12_aged_mother/page_124.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/12_aged_mother/page_124.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="tech bloomers">
+          <div class="lesson-info">
+            <div class="lesson-name">tech bloomers</div>
+            <div class="lesson-meta">பக்கங்கள்: 130 – 151 (22 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/13_tech_bloomers/page_130.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/13_tech_bloomers/page_130.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="secret of machines">
+          <div class="lesson-info">
+            <div class="lesson-name">secret of machines</div>
+            <div class="lesson-meta">பக்கங்கள்: 152 – 156 (5 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/14_secret_of_machines/page_152.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/14_secret_of_machines/page_152.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="american journalist 2889">
+          <div class="lesson-info">
+            <div class="lesson-name">american journalist 2889</div>
+            <div class="lesson-meta">பக்கங்கள்: 157 – 165 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/15_american_journalist_2889/page_157.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/15_american_journalist_2889/page_157.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="the last lesson">
+          <div class="lesson-info">
+            <div class="lesson-name">the last lesson</div>
+            <div class="lesson-meta">பக்கங்கள்: 166 – 182 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/16_the_last_lesson/page_166.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/16_the_last_lesson/page_166.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="no men are foreign">
+          <div class="lesson-info">
+            <div class="lesson-name">no men are foreign</div>
+            <div class="lesson-meta">பக்கங்கள்: 183 – 186 (4 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/17_no_men_are_foreign/page_183.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/17_no_men_are_foreign/page_183.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="little hero of holland">
+          <div class="lesson-info">
+            <div class="lesson-name">little hero of holland</div>
+            <div class="lesson-meta">பக்கங்கள்: 187 – 192 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/18_little_hero_of_holland/page_187.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/18_little_hero_of_holland/page_187.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="dying detective">
+          <div class="lesson-info">
+            <div class="lesson-name">dying detective</div>
+            <div class="lesson-meta">பக்கங்கள்: 193 – 205 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/19_dying_detective/page_193.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/19_dying_detective/page_193.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="house on elm street">
+          <div class="lesson-info">
+            <div class="lesson-name">house on elm street</div>
+            <div class="lesson-meta">பக்கங்கள்: 206 – 208 (3 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/20_house_on_elm_street/page_206.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/20_house_on_elm_street/page_206.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="a dilemma">
+          <div class="lesson-info">
+            <div class="lesson-name">a dilemma</div>
+            <div class="lesson-meta">பக்கங்கள்: 209 – 224 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./english/21_a_dilemma/page_209.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./english/21_a_dilemma/page_209.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="maths_tm">
+      <div class="subject-header">
+        <span class="subject-icon">🔢</span>
+        <div class="subject-title">கணிதம் - தமிழ் வழி (Maths TM)</div>
+        <span class="subject-count">368 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 6 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="uravugalum saarbugalum">
+          <div class="lesson-info">
+            <div class="lesson-name">uravugalum saarbugalum</div>
+            <div class="lesson-meta">பக்கங்கள்: 7 – 42 (36 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/01_uravugalum_saarbugalum/page_007.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/01_uravugalum_saarbugalum/page_007.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="enkalum thodarvarisaigalum">
+          <div class="lesson-info">
+            <div class="lesson-name">enkalum thodarvarisaigalum</div>
+            <div class="lesson-meta">பக்கங்கள்: 43 – 91 (49 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/02_enkalum_thodarvarisaigalum/page_043.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/02_enkalum_thodarvarisaigalum/page_043.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="iyarkanitham">
+          <div class="lesson-info">
+            <div class="lesson-name">iyarkanitham</div>
+            <div class="lesson-meta">பக்கங்கள்: 92 – 170 (79 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/03_iyarkanitham/page_092.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/03_iyarkanitham/page_092.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="vadivyal">
+          <div class="lesson-info">
+            <div class="lesson-name">vadivyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 171 – 215 (45 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/04_vadivyal/page_171.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/04_vadivyal/page_171.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="aayathodai vadivyal">
+          <div class="lesson-info">
+            <div class="lesson-name">aayathodai vadivyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 216 – 252 (37 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/05_aayathodai_vadivyal/page_216.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/05_aayathodai_vadivyal/page_216.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="mukkonaviyal">
+          <div class="lesson-info">
+            <div class="lesson-name">mukkonaviyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 253 – 282 (30 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/06_mukkonaviyal/page_253.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/06_mukkonaviyal/page_253.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="alavial">
+          <div class="lesson-info">
+            <div class="lesson-name">alavial</div>
+            <div class="lesson-meta">பக்கங்கள்: 283 – 314 (32 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/07_alavial/page_283.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/07_alavial/page_283.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="pulliyiyalum nigazhthagavum">
+          <div class="lesson-info">
+            <div class="lesson-name">pulliyiyalum nigazhthagavum</div>
+            <div class="lesson-meta">பக்கங்கள்: 315 – 352 (38 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/08_pulliyiyalum_nigazhthagavum/page_315.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/08_pulliyiyalum_nigazhthagavum/page_315.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="answers">
+          <div class="lesson-info">
+            <div class="lesson-name">answers</div>
+            <div class="lesson-meta">பக்கங்கள்: 353 – 363 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/09_answers/page_353.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/09_answers/page_353.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="glossary">
+          <div class="lesson-info">
+            <div class="lesson-name">glossary</div>
+            <div class="lesson-meta">பக்கங்கள்: 364 – 368 (5 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_tm/10_glossary/page_364.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_tm/10_glossary/page_364.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="maths_em">
+      <div class="subject-header">
+        <span class="subject-icon">📐</span>
+        <div class="subject-title">Mathematics - English Medium (Maths EM)</div>
+        <span class="subject-count">352 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 6 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="relations and functions">
+          <div class="lesson-info">
+            <div class="lesson-name">relations and functions</div>
+            <div class="lesson-meta">பக்கங்கள்: 7 – 41 (35 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/01_relations_and_functions/page_007.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/01_relations_and_functions/page_007.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="numbers and sequences">
+          <div class="lesson-info">
+            <div class="lesson-name">numbers and sequences</div>
+            <div class="lesson-meta">பக்கங்கள்: 42 – 90 (49 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/02_numbers_and_sequences/page_042.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/02_numbers_and_sequences/page_042.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="algebra">
+          <div class="lesson-info">
+            <div class="lesson-name">algebra</div>
+            <div class="lesson-meta">பக்கங்கள்: 91 – 166 (76 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/03_algebra/page_091.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/03_algebra/page_091.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="geometry">
+          <div class="lesson-info">
+            <div class="lesson-name">geometry</div>
+            <div class="lesson-meta">பக்கங்கள்: 167 – 208 (42 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/04_geometry/page_167.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/04_geometry/page_167.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="coordinate geometry">
+          <div class="lesson-info">
+            <div class="lesson-name">coordinate geometry</div>
+            <div class="lesson-meta">பக்கங்கள்: 209 – 244 (36 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/05_coordinate_geometry/page_209.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/05_coordinate_geometry/page_209.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="trigonometry">
+          <div class="lesson-info">
+            <div class="lesson-name">trigonometry</div>
+            <div class="lesson-meta">பக்கங்கள்: 245 – 274 (30 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/06_trigonometry/page_245.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/06_trigonometry/page_245.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="mensuration">
+          <div class="lesson-info">
+            <div class="lesson-name">mensuration</div>
+            <div class="lesson-meta">பக்கங்கள்: 275 – 306 (32 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/07_mensuration/page_275.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/07_mensuration/page_275.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="statistics and probability">
+          <div class="lesson-info">
+            <div class="lesson-name">statistics and probability</div>
+            <div class="lesson-meta">பக்கங்கள்: 307 – 339 (33 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/08_statistics_and_probability/page_307.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/08_statistics_and_probability/page_307.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="answers">
+          <div class="lesson-info">
+            <div class="lesson-name">answers</div>
+            <div class="lesson-meta">பக்கங்கள்: 340 – 348 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/09_answers/page_340.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/09_answers/page_340.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="mathematical terms">
+          <div class="lesson-info">
+            <div class="lesson-name">mathematical terms</div>
+            <div class="lesson-meta">பக்கங்கள்: 349 – 352 (4 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./maths_em/10_mathematical_terms/page_349.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./maths_em/10_mathematical_terms/page_349.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="science_tm">
+      <div class="subject-header">
+        <span class="subject-icon">🔬</span>
+        <div class="subject-title">அறிவியல் - தமிழ் வழி (Science TM)</div>
+        <span class="subject-count">360 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 8 (8 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="iyakka vidhigal">
+          <div class="lesson-info">
+            <div class="lesson-name">iyakka vidhigal</div>
+            <div class="lesson-meta">பக்கங்கள்: 9 – 23 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/01_iyakka_vidhigal/page_009.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/01_iyakka_vidhigal/page_009.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="oliyiyal">
+          <div class="lesson-info">
+            <div class="lesson-name">oliyiyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 24 – 40 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/02_oliyiyal/page_024.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/02_oliyiyal/page_024.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="veppa iyarpiyal">
+          <div class="lesson-info">
+            <div class="lesson-name">veppa iyarpiyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 41 – 50 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/03_veppa_iyarpiyal/page_041.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/03_veppa_iyarpiyal/page_041.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="minnottaviyal">
+          <div class="lesson-info">
+            <div class="lesson-name">minnottaviyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 51 – 67 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/04_minnottaviyal/page_051.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/04_minnottaviyal/page_051.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="oliyiyal olivadhai">
+          <div class="lesson-info">
+            <div class="lesson-name">oliyiyal olivadhai</div>
+            <div class="lesson-meta">பக்கங்கள்: 68 – 81 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/05_oliyiyal_olivadhai/page_068.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/05_oliyiyal_olivadhai/page_068.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="anukkaru iyarpiyal">
+          <div class="lesson-info">
+            <div class="lesson-name">anukkaru iyarpiyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 82 – 98 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/06_anukkaru_iyarpiyal/page_082.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/06_anukkaru_iyarpiyal/page_082.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="anukkalum moolakkoorukalum">
+          <div class="lesson-info">
+            <div class="lesson-name">anukkalum moolakkoorukalum</div>
+            <div class="lesson-meta">பக்கங்கள்: 99 – 111 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/07_anukkalum_moolakkoorukalum/page_099.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/07_anukkalum_moolakkoorukalum/page_099.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="thanimangalin aavarthana vagaipaadu">
+          <div class="lesson-info">
+            <div class="lesson-name">thanimangalin aavarthana vagaipaadu</div>
+            <div class="lesson-meta">பக்கங்கள்: 112 – 128 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/08_thanimangalin_aavarthana_vagaipaadu/page_112.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/08_thanimangalin_aavarthana_vagaipaadu/page_112.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="kaiyarasalkal">
+          <div class="lesson-info">
+            <div class="lesson-name">kaiyarasalkal</div>
+            <div class="lesson-meta">பக்கங்கள்: 129 – 142 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/09_kaiyarasalkal/page_129.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/09_kaiyarasalkal/page_129.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="vedhivinaikalin vagaikal">
+          <div class="lesson-info">
+            <div class="lesson-name">vedhivinaikalin vagaikal</div>
+            <div class="lesson-meta">பக்கங்கள்: 143 – 159 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/10_vedhivinaikalin_vagaikal/page_143.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/10_vedhivinaikalin_vagaikal/page_143.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="carbonum adhan sermangalum">
+          <div class="lesson-info">
+            <div class="lesson-name">carbonum adhan sermangalum</div>
+            <div class="lesson-meta">பக்கங்கள்: 160 – 177 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/11_carbonum_adhan_sermangalum/page_160.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/11_carbonum_adhan_sermangalum/page_160.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="thavara ullamaippiyal">
+          <div class="lesson-info">
+            <div class="lesson-name">thavara ullamaippiyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 178 – 191 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/12_thavara_ullamaippiyal/page_178.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/12_thavara_ullamaippiyal/page_178.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="uyirinangalin amaippu nilaikal">
+          <div class="lesson-info">
+            <div class="lesson-name">uyirinangalin amaippu nilaikal</div>
+            <div class="lesson-meta">பக்கங்கள்: 192 – 204 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/13_uyirinangalin_amaippu_nilaikal/page_192.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/13_uyirinangalin_amaippu_nilaikal/page_192.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="thavarangalin kadaththudhal">
+          <div class="lesson-info">
+            <div class="lesson-name">thavarangalin kadaththudhal</div>
+            <div class="lesson-meta">பக்கங்கள்: 205 – 222 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/14_thavarangalin_kadaththudhal/page_205.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/14_thavarangalin_kadaththudhal/page_205.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="narambu mandalam">
+          <div class="lesson-info">
+            <div class="lesson-name">narambu mandalam</div>
+            <div class="lesson-meta">பக்கங்கள்: 223 – 233 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/15_narambu_mandalam/page_223.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/15_narambu_mandalam/page_223.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="thavara vilangu hormonegal">
+          <div class="lesson-info">
+            <div class="lesson-name">thavara vilangu hormonegal</div>
+            <div class="lesson-meta">பக்கங்கள்: 234 – 247 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/16_thavara_vilangu_hormonegal/page_234.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/16_thavara_vilangu_hormonegal/page_234.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="inappergukkam">
+          <div class="lesson-info">
+            <div class="lesson-name">inappergukkam</div>
+            <div class="lesson-meta">பக்கங்கள்: 248 – 266 (19 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/17_inappergukkam/page_248.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/17_inappergukkam/page_248.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="marabiyal">
+          <div class="lesson-info">
+            <div class="lesson-name">marabiyal</div>
+            <div class="lesson-meta">பக்கங்கள்: 267 – 280 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/18_marabiyal/page_267.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/18_marabiyal/page_267.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="uyirin thotramum parinamamum">
+          <div class="lesson-info">
+            <div class="lesson-name">uyirin thotramum parinamamum</div>
+            <div class="lesson-meta">பக்கங்கள்: 281 – 292 (12 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/19_uyirin_thotramum_parinamamum/page_281.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/19_uyirin_thotramum_parinamamum/page_281.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="inakkalappu uyirithozhilnutpam">
+          <div class="lesson-info">
+            <div class="lesson-name">inakkalappu uyirithozhilnutpam</div>
+            <div class="lesson-meta">பக்கங்கள்: 293 – 306 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/20_inakkalappu_uyirithozhilnutpam/page_293.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/20_inakkalappu_uyirithozhilnutpam/page_293.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="udal nalam noikal">
+          <div class="lesson-info">
+            <div class="lesson-name">udal nalam noikal</div>
+            <div class="lesson-meta">பக்கங்கள்: 307 – 322 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/21_udal_nalam_noikal/page_307.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/21_udal_nalam_noikal/page_307.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="sutrusoozhal melaanmai">
+          <div class="lesson-info">
+            <div class="lesson-name">sutrusoozhal melaanmai</div>
+            <div class="lesson-meta">பக்கங்கள்: 323 – 336 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/22_sutrusoozhal_melaanmai/page_323.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/22_sutrusoozhal_melaanmai/page_323.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="kaatchi thodarpu">
+          <div class="lesson-info">
+            <div class="lesson-name">kaatchi thodarpu</div>
+            <div class="lesson-meta">பக்கங்கள்: 337 – 360 (24 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_tm/23_kaatchi_thodarpu/page_337.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_tm/23_kaatchi_thodarpu/page_337.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="science_em">
+      <div class="subject-header">
+        <span class="subject-icon">🧪</span>
+        <div class="subject-title">Science - English Medium (Science EM)</div>
+        <span class="subject-count">360 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 8 (8 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="laws of motion">
+          <div class="lesson-info">
+            <div class="lesson-name">laws of motion</div>
+            <div class="lesson-meta">பக்கங்கள்: 9 – 23 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/01_laws_of_motion/page_009.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/01_laws_of_motion/page_009.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="optics">
+          <div class="lesson-info">
+            <div class="lesson-name">optics</div>
+            <div class="lesson-meta">பக்கங்கள்: 24 – 39 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/02_optics/page_024.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/02_optics/page_024.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="thermal physics">
+          <div class="lesson-info">
+            <div class="lesson-name">thermal physics</div>
+            <div class="lesson-meta">பக்கங்கள்: 40 – 49 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/03_thermal_physics/page_040.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/03_thermal_physics/page_040.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="electricity">
+          <div class="lesson-info">
+            <div class="lesson-name">electricity</div>
+            <div class="lesson-meta">பக்கங்கள்: 50 – 66 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/04_electricity/page_050.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/04_electricity/page_050.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="acoustics">
+          <div class="lesson-info">
+            <div class="lesson-name">acoustics</div>
+            <div class="lesson-meta">பக்கங்கள்: 67 – 81 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/05_acoustics/page_067.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/05_acoustics/page_067.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="nuclear physics">
+          <div class="lesson-info">
+            <div class="lesson-name">nuclear physics</div>
+            <div class="lesson-meta">பக்கங்கள்: 82 – 98 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/06_nuclear_physics/page_082.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/06_nuclear_physics/page_082.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="atoms and molecules">
+          <div class="lesson-info">
+            <div class="lesson-name">atoms and molecules</div>
+            <div class="lesson-meta">பக்கங்கள்: 99 – 113 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/07_atoms_and_molecules/page_099.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/07_atoms_and_molecules/page_099.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="periodic classification">
+          <div class="lesson-info">
+            <div class="lesson-name">periodic classification</div>
+            <div class="lesson-meta">பக்கங்கள்: 114 – 131 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/08_periodic_classification/page_114.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/08_periodic_classification/page_114.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="solutions">
+          <div class="lesson-info">
+            <div class="lesson-name">solutions</div>
+            <div class="lesson-meta">பக்கங்கள்: 132 – 144 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/09_solutions/page_132.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/09_solutions/page_132.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="types of chemical reactions">
+          <div class="lesson-info">
+            <div class="lesson-name">types of chemical reactions</div>
+            <div class="lesson-meta">பக்கங்கள்: 145 – 162 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/10_types_of_chemical_reactions/page_145.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/10_types_of_chemical_reactions/page_145.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="carbon and compounds">
+          <div class="lesson-info">
+            <div class="lesson-name">carbon and compounds</div>
+            <div class="lesson-meta">பக்கங்கள்: 163 – 180 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/11_carbon_and_compounds/page_163.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/11_carbon_and_compounds/page_163.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="plant anatomy physiology">
+          <div class="lesson-info">
+            <div class="lesson-name">plant anatomy physiology</div>
+            <div class="lesson-meta">பக்கங்கள்: 181 – 194 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/12_plant_anatomy_physiology/page_181.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/12_plant_anatomy_physiology/page_181.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="structural organisation animals">
+          <div class="lesson-info">
+            <div class="lesson-name">structural organisation animals</div>
+            <div class="lesson-meta">பக்கங்கள்: 195 – 207 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/13_structural_organisation_animals/page_195.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/13_structural_organisation_animals/page_195.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="transportation circulation">
+          <div class="lesson-info">
+            <div class="lesson-name">transportation circulation</div>
+            <div class="lesson-meta">பக்கங்கள்: 208 – 225 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/14_transportation_circulation/page_208.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/14_transportation_circulation/page_208.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="nervous system">
+          <div class="lesson-info">
+            <div class="lesson-name">nervous system</div>
+            <div class="lesson-meta">பக்கங்கள்: 226 – 236 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/15_nervous_system/page_226.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/15_nervous_system/page_226.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="plant animal hormones">
+          <div class="lesson-info">
+            <div class="lesson-name">plant animal hormones</div>
+            <div class="lesson-meta">பக்கங்கள்: 237 – 250 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/16_plant_animal_hormones/page_237.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/16_plant_animal_hormones/page_237.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="reproduction">
+          <div class="lesson-info">
+            <div class="lesson-name">reproduction</div>
+            <div class="lesson-meta">பக்கங்கள்: 251 – 268 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/17_reproduction/page_251.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/17_reproduction/page_251.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="genetics">
+          <div class="lesson-info">
+            <div class="lesson-name">genetics</div>
+            <div class="lesson-meta">பக்கங்கள்: 269 – 281 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/18_genetics/page_269.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/18_genetics/page_269.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="origin evolution of life">
+          <div class="lesson-info">
+            <div class="lesson-name">origin evolution of life</div>
+            <div class="lesson-meta">பக்கங்கள்: 282 – 293 (12 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/19_origin_evolution_of_life/page_282.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/19_origin_evolution_of_life/page_282.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="breeding biotechnology">
+          <div class="lesson-info">
+            <div class="lesson-name">breeding biotechnology</div>
+            <div class="lesson-meta">பக்கங்கள்: 294 – 307 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/20_breeding_biotechnology/page_294.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/20_breeding_biotechnology/page_294.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="health and diseases">
+          <div class="lesson-info">
+            <div class="lesson-name">health and diseases</div>
+            <div class="lesson-meta">பக்கங்கள்: 308 – 322 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/21_health_and_diseases/page_308.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/21_health_and_diseases/page_308.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="environmental management">
+          <div class="lesson-info">
+            <div class="lesson-name">environmental management</div>
+            <div class="lesson-meta">பக்கங்கள்: 323 – 336 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/22_environmental_management/page_323.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/22_environmental_management/page_323.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="visual communication">
+          <div class="lesson-info">
+            <div class="lesson-name">visual communication</div>
+            <div class="lesson-meta">பக்கங்கள்: 337 – 360 (24 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./science_em/23_visual_communication/page_337.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./science_em/23_visual_communication/page_337.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="social_science_tm">
+      <div class="subject-header">
+        <span class="subject-icon">🌍</span>
+        <div class="subject-title">சமூக அறிவியல் - தமிழ் வழி (Social Science TM)</div>
+        <span class="subject-count">368 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 6 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h01 mudhal ulagapporin vedippu">
+          <div class="lesson-info">
+            <div class="lesson-name">h01 mudhal ulagapporin vedippu</div>
+            <div class="lesson-meta">பக்கங்கள்: 7 – 23 (17 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h01_mudhal_ulagapporin_vedippu/page_007.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h01_mudhal_ulagapporin_vedippu/page_007.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h02 iru ulagapporgalukku idaiyil">
+          <div class="lesson-info">
+            <div class="lesson-name">h02 iru ulagapporgalukku idaiyil</div>
+            <div class="lesson-meta">பக்கங்கள்: 24 – 36 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h02_iru_ulagapporgalukku_idaiyil/page_024.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h02_iru_ulagapporgalukku_idaiyil/page_024.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h03 irandaam ulagapor">
+          <div class="lesson-info">
+            <div class="lesson-name">h03 irandaam ulagapor</div>
+            <div class="lesson-meta">பக்கங்கள்: 37 – 49 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h03_irandaam_ulagapor/page_037.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h03_irandaam_ulagapor/page_037.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h04 irandaam ulagaporukkuppindhaiya">
+          <div class="lesson-info">
+            <div class="lesson-name">h04 irandaam ulagaporukkuppindhaiya</div>
+            <div class="lesson-meta">பக்கங்கள்: 50 – 63 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h04_irandaam_ulagaporukkuppindhaiya/page_050.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h04_irandaam_ulagaporukkuppindhaiya/page_050.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h05 19am noorrandil seerthirutha iyakkangal">
+          <div class="lesson-info">
+            <div class="lesson-name">h05 19am noorrandil seerthirutha iyakkangal</div>
+            <div class="lesson-meta">பக்கங்கள்: 64 – 73 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h05_19am_noorrandil_seerthirutha_iyakkangal/page_064.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h05_19am_noorrandil_seerthirutha_iyakkangal/page_064.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h06 thodakkakala kilarchigal">
+          <div class="lesson-info">
+            <div class="lesson-name">h06 thodakkakala kilarchigal</div>
+            <div class="lesson-meta">பக்கங்கள்: 74 – 85 (12 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h06_thodakkakala_kilarchigal/page_074.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h06_thodakkakala_kilarchigal/page_074.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h07 kalaniyathukku ethiraana iyakkangal">
+          <div class="lesson-info">
+            <div class="lesson-name">h07 kalaniyathukku ethiraana iyakkangal</div>
+            <div class="lesson-meta">பக்கங்கள்: 86 – 100 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h07_kalaniyathukku_ethiraana_iyakkangal/page_086.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h07_kalaniyathukku_ethiraana_iyakkangal/page_086.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h08 desiyam gandhiya kaalagattam">
+          <div class="lesson-info">
+            <div class="lesson-name">h08 desiyam gandhiya kaalagattam</div>
+            <div class="lesson-meta">பக்கங்கள்: 101 – 118 (18 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h08_desiyam_gandhiya_kaalagattam/page_101.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h08_desiyam_gandhiya_kaalagattam/page_101.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h09 tamilnattil viduthalaip poraattam">
+          <div class="lesson-info">
+            <div class="lesson-name">h09 tamilnattil viduthalaip poraattam</div>
+            <div class="lesson-meta">பக்கங்கள்: 119 – 129 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h09_tamilnattil_viduthalaip_poraattam/page_119.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h09_tamilnattil_viduthalaip_poraattam/page_119.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h10 tamilnattil samooga maatrangal">
+          <div class="lesson-info">
+            <div class="lesson-name">h10 tamilnattil samooga maatrangal</div>
+            <div class="lesson-meta">பக்கங்கள்: 130 – 143 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/h10_tamilnattil_samooga_maatrangal/page_130.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/h10_tamilnattil_samooga_maatrangal/page_130.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g01 india amaividam nilathotram">
+          <div class="lesson-info">
+            <div class="lesson-name">g01 india amaividam nilathotram</div>
+            <div class="lesson-meta">பக்கங்கள்: 144 – 158 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/g01_india_amaividam_nilathotram/page_144.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/g01_india_amaividam_nilathotram/page_144.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g02 india kaalanilai thaavarangal">
+          <div class="lesson-info">
+            <div class="lesson-name">g02 india kaalanilai thaavarangal</div>
+            <div class="lesson-meta">பக்கங்கள்: 159 – 168 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/g02_india_kaalanilai_thaavarangal/page_159.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/g02_india_kaalanilai_thaavarangal/page_159.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g03 india velaanmai">
+          <div class="lesson-info">
+            <div class="lesson-name">g03 india velaanmai</div>
+            <div class="lesson-meta">பக்கங்கள்: 169 – 184 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/g03_india_velaanmai/page_169.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/g03_india_velaanmai/page_169.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g04 india valangal thozhilagangal">
+          <div class="lesson-info">
+            <div class="lesson-name">g04 india valangal thozhilagangal</div>
+            <div class="lesson-meta">பக்கங்கள்: 185 – 200 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/g04_india_valangal_thozhilagangal/page_185.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/g04_india_valangal_thozhilagangal/page_185.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g05 india makkal thogai pokkuvaraththu">
+          <div class="lesson-info">
+            <div class="lesson-name">g05 india makkal thogai pokkuvaraththu</div>
+            <div class="lesson-meta">பக்கங்கள்: 201 – 258 (58 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/g05_india_makkal_thogai_pokkuvaraththu/page_201.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/g05_india_makkal_thogai_pokkuvaraththu/page_201.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c01 indhiya arasiyalamaippu">
+          <div class="lesson-info">
+            <div class="lesson-name">c01 indhiya arasiyalamaippu</div>
+            <div class="lesson-meta">பக்கங்கள்: 259 – 268 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/c01_indhiya_arasiyalamaippu/page_259.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/c01_indhiya_arasiyalamaippu/page_259.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c02 naduvan arasu">
+          <div class="lesson-info">
+            <div class="lesson-name">c02 naduvan arasu</div>
+            <div class="lesson-meta">பக்கங்கள்: 269 – 280 (12 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/c02_naduvan_arasu/page_269.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/c02_naduvan_arasu/page_269.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c03 maanila arasu">
+          <div class="lesson-info">
+            <div class="lesson-name">c03 maanila arasu</div>
+            <div class="lesson-meta">பக்கங்கள்: 281 – 290 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/c03_maanila_arasu/page_281.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/c03_maanila_arasu/page_281.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c04 india veliyuravu kolkai">
+          <div class="lesson-info">
+            <div class="lesson-name">c04 india veliyuravu kolkai</div>
+            <div class="lesson-meta">பக்கங்கள்: 291 – 299 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/c04_india_veliyuravu_kolkai/page_291.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/c04_india_veliyuravu_kolkai/page_291.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c05 india sarvadesa uravugal">
+          <div class="lesson-info">
+            <div class="lesson-name">c05 india sarvadesa uravugal</div>
+            <div class="lesson-meta">பக்கங்கள்: 300 – 314 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/c05_india_sarvadesa_uravugal/page_300.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/c05_india_sarvadesa_uravugal/page_300.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e01 motha ulnaattu uttpaththi">
+          <div class="lesson-info">
+            <div class="lesson-name">e01 motha ulnaattu uttpaththi</div>
+            <div class="lesson-meta">பக்கங்கள்: 315 – 326 (12 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/e01_motha_ulnaattu_uttpaththi/page_315.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/e01_motha_ulnaattu_uttpaththi/page_315.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e02 ulagamayamaadhal vaarthagam">
+          <div class="lesson-info">
+            <div class="lesson-name">e02 ulagamayamaadhal vaarthagam</div>
+            <div class="lesson-meta">பக்கங்கள்: 327 – 335 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/e02_ulagamayamaadhal_vaarthagam/page_327.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/e02_ulagamayamaadhal_vaarthagam/page_327.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e03 unavu paadhukaappu">
+          <div class="lesson-info">
+            <div class="lesson-name">e03 unavu paadhukaappu</div>
+            <div class="lesson-meta">பக்கங்கள்: 336 – 345 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/e03_unavu_paadhukaappu/page_336.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/e03_unavu_paadhukaappu/page_336.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e04 arasaangamum varigalum">
+          <div class="lesson-info">
+            <div class="lesson-name">e04 arasaangamum varigalum</div>
+            <div class="lesson-meta">பக்கங்கள்: 346 – 353 (8 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/e04_arasaangamum_varigalum/page_346.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/e04_arasaangamum_varigalum/page_346.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e05 tamilnattil thozhil thogupugal">
+          <div class="lesson-info">
+            <div class="lesson-name">e05 tamilnattil thozhil thogupugal</div>
+            <div class="lesson-meta">பக்கங்கள்: 354 – 368 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_tm/e05_tamilnattil_thozhil_thogupugal/page_354.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_tm/e05_tamilnattil_thozhil_thogupugal/page_354.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+    <div class="subject-section" data-subject="social_science_em">
+      <div class="subject-header">
+        <span class="subject-icon">🗺️</span>
+        <div class="subject-title">Social Science - English Medium (Social Science EM)</div>
+        <span class="subject-count">344 பக்கங்கள்</span>
+      </div>
+      <ul class="lesson-list">
+    
+        <li class="lesson-card" data-title="prelims">
+          <div class="lesson-info">
+            <div class="lesson-name">prelims</div>
+            <div class="lesson-meta">பக்கங்கள்: 1 – 6 (6 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/00_prelims/page_001.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/00_prelims/page_001.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h01 outbreak of wwi">
+          <div class="lesson-info">
+            <div class="lesson-name">h01 outbreak of wwi</div>
+            <div class="lesson-meta">பக்கங்கள்: 7 – 21 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h01_outbreak_of_wwi/page_007.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h01_outbreak_of_wwi/page_007.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h02 world between two world wars">
+          <div class="lesson-info">
+            <div class="lesson-name">h02 world between two world wars</div>
+            <div class="lesson-meta">பக்கங்கள்: 22 – 32 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h02_world_between_two_world_wars/page_022.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h02_world_between_two_world_wars/page_022.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h03 world war ii">
+          <div class="lesson-info">
+            <div class="lesson-name">h03 world war ii</div>
+            <div class="lesson-meta">பக்கங்கள்: 33 – 45 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h03_world_war_ii/page_033.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h03_world_war_ii/page_033.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h04 world after wwii">
+          <div class="lesson-info">
+            <div class="lesson-name">h04 world after wwii</div>
+            <div class="lesson-meta">பக்கங்கள்: 46 – 58 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h04_world_after_wwii/page_046.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h04_world_after_wwii/page_046.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h05 social religious reform 19th century">
+          <div class="lesson-info">
+            <div class="lesson-name">h05 social religious reform 19th century</div>
+            <div class="lesson-meta">பக்கங்கள்: 59 – 68 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h05_social_religious_reform_19th_century/page_059.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h05_social_religious_reform_19th_century/page_059.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h06 early revolts tamil nadu">
+          <div class="lesson-info">
+            <div class="lesson-name">h06 early revolts tamil nadu</div>
+            <div class="lesson-meta">பக்கங்கள்: 69 – 80 (12 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h06_early_revolts_tamil_nadu/page_069.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h06_early_revolts_tamil_nadu/page_069.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h07 anti colonial movements nationalism">
+          <div class="lesson-info">
+            <div class="lesson-name">h07 anti colonial movements nationalism</div>
+            <div class="lesson-meta">பக்கங்கள்: 81 – 94 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h07_anti_colonial_movements_nationalism/page_081.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h07_anti_colonial_movements_nationalism/page_081.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h08 nationalism gandhian phase">
+          <div class="lesson-info">
+            <div class="lesson-name">h08 nationalism gandhian phase</div>
+            <div class="lesson-meta">பக்கங்கள்: 95 – 110 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h08_nationalism_gandhian_phase/page_095.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h08_nationalism_gandhian_phase/page_095.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h09 freedom struggle tamil nadu">
+          <div class="lesson-info">
+            <div class="lesson-name">h09 freedom struggle tamil nadu</div>
+            <div class="lesson-meta">பக்கங்கள்: 111 – 120 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h09_freedom_struggle_tamil_nadu/page_111.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h09_freedom_struggle_tamil_nadu/page_111.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="h10 social transformation tamil nadu">
+          <div class="lesson-info">
+            <div class="lesson-name">h10 social transformation tamil nadu</div>
+            <div class="lesson-meta">பக்கங்கள்: 121 – 134 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/h10_social_transformation_tamil_nadu/page_121.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/h10_social_transformation_tamil_nadu/page_121.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g01 india location relief drainage">
+          <div class="lesson-info">
+            <div class="lesson-name">g01 india location relief drainage</div>
+            <div class="lesson-meta">பக்கங்கள்: 135 – 149 (15 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g01_india_location_relief_drainage/page_135.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g01_india_location_relief_drainage/page_135.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g02 climate natural vegetation">
+          <div class="lesson-info">
+            <div class="lesson-name">g02 climate natural vegetation</div>
+            <div class="lesson-meta">பக்கங்கள்: 150 – 159 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g02_climate_natural_vegetation/page_150.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g02_climate_natural_vegetation/page_150.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g03 india agriculture">
+          <div class="lesson-info">
+            <div class="lesson-name">g03 india agriculture</div>
+            <div class="lesson-meta">பக்கங்கள்: 160 – 175 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g03_india_agriculture/page_160.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g03_india_agriculture/page_160.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g04 india resources industries">
+          <div class="lesson-info">
+            <div class="lesson-name">g04 india resources industries</div>
+            <div class="lesson-meta">பக்கங்கள்: 176 – 191 (16 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g04_india_resources_industries/page_176.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g04_india_resources_industries/page_176.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g05 india population transport trade">
+          <div class="lesson-info">
+            <div class="lesson-name">g05 india population transport trade</div>
+            <div class="lesson-meta">பக்கங்கள்: 192 – 205 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g05_india_population_transport_trade/page_192.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g05_india_population_transport_trade/page_192.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g06 physical geography tamil nadu">
+          <div class="lesson-info">
+            <div class="lesson-name">g06 physical geography tamil nadu</div>
+            <div class="lesson-meta">பக்கங்கள்: 206 – 218 (13 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g06_physical_geography_tamil_nadu/page_206.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g06_physical_geography_tamil_nadu/page_206.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="g07 human geography">
+          <div class="lesson-info">
+            <div class="lesson-name">g07 human geography</div>
+            <div class="lesson-meta">பக்கங்கள்: 219 – 244 (26 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/g07_human_geography/page_219.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/g07_human_geography/page_219.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c01 indian constitution">
+          <div class="lesson-info">
+            <div class="lesson-name">c01 indian constitution</div>
+            <div class="lesson-meta">பக்கங்கள்: 245 – 253 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/c01_indian_constitution/page_245.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/c01_indian_constitution/page_245.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c02 central government">
+          <div class="lesson-info">
+            <div class="lesson-name">c02 central government</div>
+            <div class="lesson-meta">பக்கங்கள்: 254 – 264 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/c02_central_government/page_254.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/c02_central_government/page_254.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c03 state government">
+          <div class="lesson-info">
+            <div class="lesson-name">c03 state government</div>
+            <div class="lesson-meta">பக்கங்கள்: 265 – 274 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/c03_state_government/page_265.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/c03_state_government/page_265.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c04 india foreign policy">
+          <div class="lesson-info">
+            <div class="lesson-name">c04 india foreign policy</div>
+            <div class="lesson-meta">பக்கங்கள்: 275 – 283 (9 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/c04_india_foreign_policy/page_275.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/c04_india_foreign_policy/page_275.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="c05 india international relations">
+          <div class="lesson-info">
+            <div class="lesson-name">c05 india international relations</div>
+            <div class="lesson-meta">பக்கங்கள்: 284 – 297 (14 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/c05_india_international_relations/page_284.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/c05_india_international_relations/page_284.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e01 gdp and growth">
+          <div class="lesson-info">
+            <div class="lesson-name">e01 gdp and growth</div>
+            <div class="lesson-meta">பக்கங்கள்: 298 – 308 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/e01_gdp_and_growth/page_298.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/e01_gdp_and_growth/page_298.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e02 globalization trade">
+          <div class="lesson-info">
+            <div class="lesson-name">e02 globalization trade</div>
+            <div class="lesson-meta">பக்கங்கள்: 309 – 316 (8 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/e02_globalization_trade/page_309.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/e02_globalization_trade/page_309.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e03 food security nutrition">
+          <div class="lesson-info">
+            <div class="lesson-name">e03 food security nutrition</div>
+            <div class="lesson-meta">பக்கங்கள்: 317 – 326 (10 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/e03_food_security_nutrition/page_317.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/e03_food_security_nutrition/page_317.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e04 government and taxes">
+          <div class="lesson-info">
+            <div class="lesson-name">e04 government and taxes</div>
+            <div class="lesson-meta">பக்கங்கள்: 327 – 333 (7 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/e04_government_and_taxes/page_327.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/e04_government_and_taxes/page_327.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+        <li class="lesson-card" data-title="e05 industrial clusters tamil nadu">
+          <div class="lesson-info">
+            <div class="lesson-name">e05 industrial clusters tamil nadu</div>
+            <div class="lesson-meta">பக்கங்கள்: 334 – 344 (11 பக்கங்கள்)</div>
+          </div>
+          <div class="action-links">
+            <a class="view-btn" href="./viewer.html?pdf=./social_science_em/e05_industrial_clusters_tamil_nadu/page_334.pdf" target="_blank">🖼️ திற</a>
+            <a class="pdf-btn" href="./social_science_em/e05_industrial_clusters_tamil_nadu/page_334.pdf" target="_blank" title="நேரடி PDF">PDF</a>
+          </div>
+        </li>
+        
+      </ul>
+    </div>
+    
+  </div>
+
+  <div class="footer">
+    தமிழ்நாடு பள்ளிக் கல்வித் துறை — 10-ஆம் வகுப்பு டிஜிட்டல் களஞ்சியம்<br/>
+    Powered by <a href="https://pages.cloudflare.com/" target="_blank">Cloudflare Pages</a> &amp; GitHub Edge Infrastructure
+  </div>
+
+  <script>
+    function filterCards() {
+      const q = document.getElementById('searchInput').value.toLowerCase().trim();
+      document.querySelectorAll('.subject-section').forEach(sec => {
+        let anyVisible = false;
+        sec.querySelectorAll('.lesson-card').forEach(card => {
+          const title = card.getAttribute('data-title') || '';
+          const match = (q === '' || title.includes(q));
+          card.style.display = match ? 'flex' : 'none';
+          if (match) anyVisible = true;
+        });
+        sec.style.display = anyVisible ? 'block' : 'none';
+      });
+    }
+  </script>
+</body>
+</html>
