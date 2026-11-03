@@ -706,3 +706,220 @@ The 2025 Revised 184-page publication's first Iyal text includes the printed for
 ### 18.7 Scope across other Classes
 
 The supplied Cloudflare URL is specifically named `tn-class-10.pages.dev`. Do not infer Cloudflare hostnames for other classes. For Classes 1–12, obtain / verify the correct GitHub Repository or Cloudflare Pages URL for each class, then repeat the same Current-Book Version Gate at subject / medium / term level. A general URL pattern must not be invented.
+
+
+---
+
+## 19. New Source Candidate — TNTextbooks.in + 2026–27 Official Distribution Cross-check (03-11-2026)
+
+### 19.1 Website Assessment
+
+User-supplied index:
+[https://www.tntextbooks.in/p/school-books.html](https://www.tntextbooks.in/p/school-books.html)
+
+Class-wise pages are listed for 1st–12th standard. Example:
+- [1st Books](https://www.tntextbooks.in/p/1st-books.html)
+- [3rd Books](https://www.tntextbooks.in/p/3rd-books.html)
+- [6th Books](https://www.tntextbooks.in/p/6th-books.html)
+- [8th Books](https://www.tntextbooks.in/p/8th-books.html)
+- [9th Books](https://www.tntextbooks.in/p/9th-books.html)
+- [10th Books](https://www.tntextbooks.in/p/10th-books.html)
+- [11th Books](https://www.tntextbooks.in/p/11th-books.html)
+- [12th Books](https://www.tntextbooks.in/p/12th-books.html)
+
+The pages often contain:
+- Current / "New Edition" sections.
+- Previous Edition sections.
+- Older academic-year / syllabus sections.
+- Tamil Medium and English Medium.
+- Term-wise PDFs / ZIP files / EPUBs / Google Drive links.
+
+**Assessment:** This is a useful third-party textbook discovery and download index. It is **not** the official Tamil Nadu Government textbook publisher or the authoritative place to decide the current edition. Use it to discover candidate PDFs, not to certify validity.
+
+Official distribution authority:
+[Tamil Nadu Textbook and Educational Services Corporation](https://www.textbookcorp.in/) and its [Schools / Textbook Distribution Notices](https://textbookcorp.in/schools).
+
+### 19.2 Important reliability warnings from TNTextbooks.in
+
+The pages contain broad "New Syllabus - 2026–27" headings, but some descriptive text is contradictory, stale, or inconsistent with official distribution information. Examples observed:
+
+1. **Class 8 page:** It calls the books 2026–27 new books but also says students will follow old books until 2026–27. It separately labels 2024–25 as Previous Edition. A current-section Drive file title is `Class_8_Tamil_2025_Edition`. This title alone does not prove whether the book is the exact current 2026–27 school copy.
+   - [Class 8 page](https://www.tntextbooks.in/p/8th-books.html)
+   - Google Drive title returned from its current Tamil download: `Class_8_Tamil_2025_Edition-www.tntextbooks.in.pdf`.
+
+2. **Class 1 page:** It labels its contents 2026–27 but the first Term-I current-section Drive PDF title is `Class_1_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition`. The official Corporation separately says 2025–26 Term-I books for Classes 1–3 are now obsolete and that 2026–27 Term-I / Term-II books have new distribution dates. Therefore this particular 2025-named Term-I file must be treated as **suspect / unverified**, not automatically current.
+   - [Class 1 page](https://www.tntextbooks.in/p/1st-books.html)
+   - Google Drive title returned: `Class_1_Tamil_Tamil_Tamil_-_Term_1_-_2025_Edition-www.tntextbooks.in.pdf`.
+
+3. **Class 6 page:** It lists 2026–27 Term 1, Term 2 and Term 3 for TM / EM, plus a separate Previous Edition area. A current-section Drive title for Tamil Term-I appears as `6th_Tamil_Term_I - www.tntextbooks.in.pdf`; its filename does not itself identify an edition year. Verify the PDF's internal imprint and match against the current official book.
+   - [Class 6 page](https://www.tntextbooks.in/p/6th-books.html).
+
+4. **Class 12 page:** It has a heading "New Edition Books Update", but one current-section PDF title returned by Google Drive is `Class_12_Accountancy_Tamil_2024_Edition-www.tntextbooks.in.pdf`. This is a clear example that a file carrying a 2024 edition label may still appear in a page with a 2026–27 heading. Do not classify it as current or old until the actual inside imprint / contents and official current book are compared.
+   - [Class 12 page](https://www.tntextbooks.in/p/12th-books.html).
+
+5. **Class 10 page:** It has a 2026–27 "New Books" area and separate Previous Edition books, including 2024–25 / older editions. Download the current-section PDF candidate, inspect its internal title and revision page, and compare it with the exact 2026–27 school copy before use.
+   - [Class 10 page](https://www.tntextbooks.in/p/10th-books.html).
+
+These findings show why the heading / section name / file name cannot serve as the only edition proof. Page content and file metadata must be verified.
+
+### 19.3 Official 2026–27 Distribution Schedule — Authoritative checkpoint
+
+The Tamil Nadu Textbook and Educational Services Corporation's current public notice gives these 2026–27 sale / distribution dates:
+
+| Classes | Current book structure / official release notice | Date |
+|---|---|---|
+| 1–3 | Term-I (TM / EM / minority languages) | 25-05-2026 |
+| 1–3 | Term-II (TM / EM / minority languages) | 22-09-2026 |
+| 4–7 | Term-I | 14-05-2026 |
+| 1–7 | Term-II | 22-09-2026 |
+| 8 and 11 | Annual textbooks (TM / EM) | 14-05-2026 |
+| 9, 10 and 12 | Annual textbooks (all subjects, TM / EM) | 10-04-2026 |
+
+The Corporation also lists 2026–27 Tamil textbooks for Classes 1–10 as available from 10-04-2026. Check the official notice wording for the exact subject / volume structure before creating a class inventory.
+
+**Critical obsolete-book notice:** The Corporation explicitly says that Class 1–3 Term-I textbooks printed during academic year 2025–26 are now obsolete / no longer in use, and offers them at a discount for competitive-exam aspirants until 03-12-2026. Therefore, do not use those old 2025–26 Term-I PDFs as the current 2026–27 source.
+
+Official source:
+- [Textbook Corporation — Schools](https://textbookcorp.in/schools)
+- [Textbook Corporation Home](https://www.textbookcorp.in/)
+
+This schedule is a release/distribution confirmation. It does **not**, by itself, provide every book's internal edition/reprint metadata. The actual printed copy / official PDF still has to be inspected.
+
+### 19.4 Critical distinction — Edition vs Reprint vs Academic Year
+
+Do not treat these as the same field:
+
+| Field | What it means | Example |
+|---|---|---|
+| First Edition | First publication year | 2019 |
+| Revised Edition | Year the text was revised | 2024 or 2025 |
+| Reprint / Printing Year | When the same edition was printed again; may include corrections | 2026 reprint |
+| Academic Year Validity | School year in which this book is actually prescribed / used | 2026–27 |
+| Term / Volume | Which term / volume the PDF belongs to | Term I, Term II, Annual, Volume I / II |
+| Medium | Instruction language | TM / EM |
+
+A 2024 Revised Edition may still be the current 2026–27 book if the same edition continues to be prescribed / reprinted. Conversely, a 2025-labeled Term-I file may already be obsolete if the Corporation has replaced that school-year volume. The only correct answer is established by matching the actual book against current official distribution and the book's internal contents / imprint.
+
+### 19.5 Solution — Create a Version Manifest Before Re-extracting Questions
+
+For every Class × Subject × Medium × Term / Volume, create an edition record:
+
+| Field | Required value |
+|---|---|
+| Class | 1–12 |
+| Subject | Exact subject name |
+| Medium | TM / EM / other |
+| Academic Year | 2026–27, etc. |
+| Term / Volume | Term I / II / III / Annual / Vol I / II |
+| First Edition | As printed |
+| Revised Edition | As printed |
+| Reprint Year | As printed |
+| Total PDF Pages | Physical page count |
+| Contents / Chapters | Exact chapter list |
+| Current Official Release Evidence | Corporation notice / school-issued copy |
+| Candidate PDF URL | Official URL if available; otherwise third-party mirror clearly marked |
+| File SHA-256 | Hash of the exact downloaded source PDF |
+| Edition Status | CURRENT / CURRENT_REPRINT / SUPERSEDED / UNVERIFIED |
+| Verification Date | Date checked |
+| Notes | Mismatch / correction / page or lesson differences |
+
+A useful edition manifest filename can be `book_manifest.json` at the subject / book level or a master `edition_audit.csv` for all classes. Do not add unnecessary files to each lesson folder.
+
+### 19.6 Versioned Storage — Never Delete the Existing Old Work
+
+**Do not overwrite or delete the existing PDF pages, questions.md, quiz.md or quiz.json.** They are valuable work and may be reused where the content is unchanged.
+
+Recommended principle:
+- Existing edition = preserve as Legacy / Archive.
+- Verified current edition = create as the Active version.
+- Every question, answer and quiz must identify which book edition it belongs to.
+- Keep the current lesson-folder pattern and the same file names inside each edition.
+
+Example structure (implementation can be adjusted to avoid breaking existing Cloudflare URLs):
+
+    <class>/<subject>/
+    ├── _editions/
+    │   ├── 2024-legacy/
+    │   │   ├── source_book.pdf
+    │   │   ├── pages/
+    │   │   └── old_chapters/
+    │   │       └── book_back_questions/
+    │   │           ├── questions.md
+    │   │           ├── quiz.md
+    │   │           ├── quiz.json
+    │   │           └── answers.md
+    │   └── 2026-27-current/
+    │       ├── source_book.pdf
+    │       ├── pages/
+    │       └── current_chapters/
+    │           └── book_back_questions/
+    │               ├── questions.md
+    │               ├── quiz.md
+    │               ├── quiz.json
+    │               └── answers.md
+    └── edition_audit.md
+
+The exact location can be chosen during repository implementation. Existing live paths must remain intact until Cloudflare / viewer / index references are safely migrated. If moving files would break existing site URLs, leave the old paths untouched and build the current edition in a parallel folder first.
+
+### 19.7 PDF Download and Single-page Extraction Procedure
+
+For each verified current PDF:
+
+1. Prefer the official Government / Corporation PDF link. If it is unavailable, use TNTextbooks.in as a discovery mirror and record that it is third-party.
+2. Download the full original PDF first. Do not split directly from a browser preview.
+3. Preserve the original unmodified PDF as the source copy. Record source URL, download date, exact filename, byte size, PDF page count and SHA-256.
+4. Open and inspect:
+   - Cover / title page.
+   - Copyright / First Edition / Revised Edition / Reprint page.
+   - Contents / TOC.
+   - Chapter starting pages.
+   - Every Book Back / Evaluation / Exercise page.
+5. Split the original PDF into one-page PDF files, preserving physical sequence:
+   - `page_001.pdf`
+   - `page_002.pdf`
+   - ...
+   - `page_NNN.pdf`
+6. Keep physical PDF page number separate from the printed textbook page number. Preliminary pages can cause offsets.
+7. Create / update `pages.json` to map each physical PDF page to its chapter, printed page and page label.
+8. Do not assume a smaller / larger page count alone proves a different edition. Compare text, TOC, chapter structure and Book Back pages.
+
+### 19.8 Old-to-Current Question Migration
+
+For every chapter, compare existing `questions.md` with the verified current textbook:
+
+| Comparison Status | Meaning | Action |
+|---|---|---|
+| UNCHANGED | Same question and same meaning | Reuse after page and wording verification |
+| WORDING_CHANGED | Question text revised | Update to exact current-book wording |
+| PAGE_MOVED | Same content moved to another page | Update page reference |
+| QUESTION_ADDED | New current-book question | Add to current questions.md |
+| QUESTION_REMOVED | Old question no longer present | Keep in legacy edition only; do not include in current Quiz |
+| CHAPTER_RESTRUCTURED | Chapters merged / split / renamed | Re-map old chapters to current TOC |
+| NOT_MATCHED | No valid counterpart | Manual review; do not guess |
+
+If chapter structure or exercises change substantially, re-extract the entire current edition's Book Back question set for that subject rather than trying to patch fragments. If only a few pages changed, update those pages and retain verified unchanged questions.
+
+### 19.9 Answer and Quiz Sequence for Each Current Chapter
+
+1. Confirm the current book edition for this Class / Subject / Medium / Term.
+2. Verify questions.md against the current PDF page by page.
+3. Collect Round 1 answers from one suitable direct Answer Website / Guide Source into answers.md. Record exact URL / PDF page and mark missing answers.
+4. Do not force an old Answer Website's questions to fit the new book. Use its answer only if the question / context actually matches.
+5. Create Quiz only from the current book's existing Objective / One-word / MCQ questions.
+6. Validate exactly one correct answer and three incorrect options.
+7. Ensure each explanation is supported by current textbook context or an explicit Answer Source. Otherwise mark REVIEW_REQUIRED.
+8. Generate / validate quiz.json to match quiz.md.
+9. Complete the chapter, then proceed to the next chapter.
+10. After the subject is complete, create a subject-level audit summary.
+
+### 19.10 Current Recommendation
+
+Do not immediately redo all 12 classes. First build the edition audit matrix for all available class repositories and all books. This prevents redoing work that is already based on a still-current reprint.
+
+Prioritize:
+1. Class 10 Tamil — confirmed need for current-vs-legacy comparison because current Repo has 248 pages / 9 folders while the 2025 revised candidate has 184 pages / 7 iyals.
+2. Classes 1–3 — urgently inspect Term-I PDFs because the Corporation explicitly says 2025–26 Term-I books are obsolete and 2026–27 Term-I / Term-II books have been issued.
+3. Classes 4–7 — verify 2026–27 Term-I and Term-II books individually.
+4. Classes 8, 9, 10, 11, 12 — verify each 2026–27 annual book and its internal edition / reprint page.
+
+**Rule:** No mass deletion, no blind overwrite, no global “all 2024 books are old” assumption. Audit first; then archive, reuse, re-extract or update each subject based on evidence.
