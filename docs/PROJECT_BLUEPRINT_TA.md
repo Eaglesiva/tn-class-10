@@ -463,3 +463,16 @@ Stage 4–7 முடிவதற்கு முன் 1–12 Classes முழ
 **Repository Purpose:** Common AI Working Space; Final Student-facing Website அல்ல. வேலை முடிந்ததும் Local Backup மற்றும் Public GitHub Cleanup செய்ய வேண்டும்.
 
 **Current Status:** Blueprint மற்றும் Initial Source List தயார். Full Coverage Audit இன்னும் Pending.
+
+
+### நேரடியாகத் திறக்கப்பட்ட Guide PDF உதாரணங்கள்
+
+கீழே உள்ளவை Guide Index மட்டும் அல்ல; முன்பு ஆய்வில் நேரடியாகத் திறந்து பார்த்த PDF Link உதாரணங்கள். இவை எல்லா வகுப்புகளுக்கும் தற்போதைய முழு Coverage நிரூபிக்கவில்லை; குறிப்பிட்ட வகுப்பு / Term / Edition-க்கான மாதிரி ஆதாரங்கள் மட்டுமே.
+
+| வகுப்பு | Publisher / Guide | Medium / Term | நேரடி PDF | சரிபார்ப்பு குறிப்பு |
+|---|---|---|---|---|
+| 2 | Ganga Guide | Tamil / Term 1 | [2nd Standard Tamil Ganga Guide PDF](https://samacheerkalvistudents.in/Guides/Guides%20Samacheer%20kalvi/2nd%20std/Guides/2nd_standard_tamil_guide_term_1.pdf) | 49-page PDF எனக் காட்டப்பட்டது; current edition match இன்னும் செய்ய வேண்டும் |
+| 5 | Ganga Guide | Tamil / Term 1 | [5th Standard Tamil Ganga Guide PDF](https://samacheerkalvistudents.in/Guides/Guides%20Samacheer%20kalvi/5th%20std/Ganga/5th_tamil_ganga_guide_term_1.pdf) | 90-page PDF எனக் காட்டப்பட்டது; current edition match இன்னும் செய்ய வேண்டும் |
+| 6 | Sura Science Guide | Tamil Medium / Term 1 | [6th Standard Science Sura Sample PDF](https://samacheerkalvistudents.in/Guides/Guides%20Samacheer%20kalvi/6th%20std/Science/6th_science_sura_sample_guide_term_1_tm_219286.pdf) | 56-page Sample Copy; முழு Guide அல்ல |
+
+**இந்த PDF-களைப் பயன்படுத்தும் முன்:** PDF-ன் Cover / Copyright / Edition Page, Academic Year, Medium, Term மற்றும் Chapter Question Number ஆகியவற்றைச் சரிபார்க்க வேண்டும். PDF பக்க எண்ணிக்கை மட்டும் முழுமையான Answer Coverage-க்கு சான்று அல்ல.
