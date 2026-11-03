@@ -148,13 +148,31 @@ jobs:
           total_pages = len(doc)
           print(f"Validated PDF Document. Total Pages: {total_pages}")
 
+          # CORRECTION 1: Strict Cryptographic & Page Count Gate for Class 10 Tamil
+          if subject == "tamil" and "10th_Tamil_Text.pdf" in pdf_url:
+              expected_md5 = "47d5859ae1740f4a7aabd17683e9a3e7"
+              expected_pages = 248
+              print(f"Enforcing strict validation gate for Class 10 Tamil:")
+              print(f"  Expected MD5:   {expected_md5}")
+              print(f"  Calculated MD5: {file_md5}")
+              print(f"  Expected Pages: {expected_pages}")
+              print(f"  Actual Pages:   {total_pages}")
+
+              if file_md5.lower() != expected_md5.lower():
+                  print(f"GATE ERROR: MD5 mismatch! Expected {expected_md5}, got {file_md5}. Aborting!")
+                  sys.exit(1)
+              if total_pages != expected_pages:
+                  print(f"GATE ERROR: Page count mismatch! Expected {expected_pages}, got {total_pages}. Aborting!")
+                  sys.exit(1)
+              print("Validation Gate Passed: 100% Exact Class 10 Tamil Bit-for-Bit Hash and Page Match!")
+
           imprint_text = ""
           target_page_idx = 1 if total_pages >= 2 else 0
           imprint_text = doc[target_page_idx].get_text("text").strip()
           clean_imprint = "\n".join([line.strip() for line in imprint_text.splitlines() if line.strip()][:15])
 
-          # 5. Split PDF into Individual Page PDFs
-          print(f"Splitting {total_pages} pages into individual page PDFs...")
+          # 5. Split PDF into Individual Page PDFs & CORRECTION 2: Validate Every Single Page PDF
+          print(f"Splitting {total_pages} pages into individual page PDFs and validating integrity...")
           total_split_bytes = 0
           for page_idx in range(total_pages):
               page_num = page_idx + 1
@@ -163,10 +181,30 @@ jobs:
               page_out_path = os.path.join(pages_target, f"page-{page_num:03d}.pdf")
               page_doc.save(page_out_path, garbage=4, deflate=True)
               page_doc.close()
-              total_split_bytes += os.path.getsize(page_out_path)
+
+              # CORRECTION 2: Verify page PDF file
+              if not os.path.exists(page_out_path):
+                  print(f"VERIFICATION ERROR: {page_out_path} was not created!")
+                  sys.exit(1)
+              p_sz = os.path.getsize(page_out_path)
+              if p_sz == 0:
+                  print(f"VERIFICATION ERROR: {page_out_path} is 0 bytes!")
+                  sys.exit(1)
+              if p_sz > 25 * 1024 * 1024:
+                  print(f"VERIFICATION ERROR: {page_out_path} exceeds Cloudflare Pages 25MB limit: {p_sz} bytes!")
+                  sys.exit(1)
+
+              # Verify page count is exactly 1 and readable
+              test_p = fitz.open(page_out_path)
+              if len(test_p) != 1:
+                  print(f"VERIFICATION ERROR: {page_out_path} has {len(test_p)} pages instead of 1!")
+                  sys.exit(1)
+              test_p.close()
+
+              total_split_bytes += p_sz
 
           doc.close()
-          print(f"Page splitting completed! {total_pages} page PDFs created.")
+          print(f"All {total_pages} individual page PDFs successfully created and validated!")
           print(f"Total split pages size: {total_split_bytes:,} bytes ({total_split_bytes / (1024*1024):.2f} MB).")
 
           # CRITICAL ARCHITECTURAL RULE:
@@ -175,28 +213,28 @@ jobs:
           print("Original master PDF retained in /tmp/ only. Excluded from Git commit to preserve repository size.")
 
           # 6. Generate Table of Contents (TOC) structure
-          # For Class 10 Tamil, populate the exact verified 9-Iyal TOC structure
           if subject == "tamil" and total_pages == 248:
               units_data = [
-                  {"unit_id": 0, "title": "முகப்பு & பொருளடக்கம் (Prelims)", "start_page": 1, "end_page": 10},
-                  {"unit_id": 1, "title": "இயல் 1: மொழி - அமுதஊற்று", "start_page": 11, "end_page": 35},
-                  {"unit_id": 2, "title": "இயல் 2: இயற்கை, சுற்றுச்சூழல் - கேட்கிறதா என்குரல்", "start_page": 36, "end_page": 59},
-                  {"unit_id": 3, "title": "இயல் 3: பண்பாடு - விருந்து போற்றுதும்", "start_page": 60, "end_page": 85},
-                  {"unit_id": 4, "title": "இயல் 4: அறிவியல், தொழில்நுட்பம் - செயற்கை நுண்ணறிவு", "start_page": 86, "end_page": 109},
-                  {"unit_id": 5, "title": "இயல் 5: கல்வி - மொழிபெயர்ப்புக் கல்வி", "start_page": 110, "end_page": 137},
-                  {"unit_id": 6, "title": "இயல் 6: கலை, அழகியல் - பன்முகக் கலைஞர்", "start_page": 138, "end_page": 169},
-                  {"unit_id": 7, "title": "இயல் 7: நாகரிகம், நாடு, சமூகம் - சிற்றகல் ஒளி", "start_page": 170, "end_page": 193},
-                  {"unit_id": 8, "title": "இயல் 8: அறம், தத்துவம் - சங்க இலக்கியத்தில் அறம்", "start_page": 194, "end_page": 213},
-                  {"unit_id": 9, "title": "இயல் 9: மனிதம், ஆளுமை - ஜெயகாந்தம் நினைவு இதழ்", "start_page": 214, "end_page": 248}
+                  {"unit_id": 0, "title": "முகப்பு & பொருளடக்கம் (Prelims)", "start_page": 1, "end_page": 10, "page_count": 10},
+                  {"unit_id": 1, "title": "இயல் 1: மொழி - அமுதஊற்று", "start_page": 11, "end_page": 35, "page_count": 25},
+                  {"unit_id": 2, "title": "இயல் 2: இயற்கை, சுற்றுச்சூழல் - கேட்கிறதா என்குரல்", "start_page": 36, "end_page": 59, "page_count": 24},
+                  {"unit_id": 3, "title": "இயல் 3: பண்பாடு - விருந்து போற்றுதும்", "start_page": 60, "end_page": 85, "page_count": 26},
+                  {"unit_id": 4, "title": "இயல் 4: அறிவியல், தொழில்நுட்பம் - செயற்கை நுண்ணறிவு", "start_page": 86, "end_page": 109, "page_count": 24},
+                  {"unit_id": 5, "title": "இயல் 5: கல்வி - மொழிபெயர்ப்புக் கல்வி", "start_page": 110, "end_page": 137, "page_count": 28},
+                  {"unit_id": 6, "title": "இயல் 6: கலை, அழகியல் - பன்முகக் கலைஞர்", "start_page": 138, "end_page": 169, "page_count": 32},
+                  {"unit_id": 7, "title": "இயல் 7: நாகரிகம், நாடு, சமூகம் - சிற்றகல் ஒளி", "start_page": 170, "end_page": 193, "page_count": 24},
+                  {"unit_id": 8, "title": "இயல் 8: அறம், தத்துவம் - சங்க இலக்கியத்தில் அறம்", "start_page": 194, "end_page": 213, "page_count": 20},
+                  {"unit_id": 9, "title": "இயல் 9: மனிதம், ஆளுமை - ஜெயகாந்தம் நினைவு இதழ்", "start_page": 214, "end_page": 248, "page_count": 35}
               ]
           else:
               units_data = [
-                  {"unit_id": 1, "title": "முழுமையான புத்தகம் (Full Book)", "start_page": 1, "end_page": total_pages}
+                  {"unit_id": 1, "title": "முழுமையான புத்தகம் (Full Book)", "start_page": 1, "end_page": total_pages, "page_count": total_pages}
               ]
 
           toc_data = {
               "edition": edition_name,
               "academic_year": academic_year,
+              "printed_edition": "2024 Revised Edition (29/02/2024 Imprint)",
               "total_pages": total_pages,
               "units": units_data
           }
@@ -211,11 +249,12 @@ jobs:
               f.write(f"| விவரம் (Field) | மதிப்பு (Value) |\n")
               f.write(f"|:---|:---|\n")
               f.write(f"| **பாடம் (Subject)** | `{subject}` |\n")
-              f.write(f"| **கல்வியாண்டு (Academic Year)** | `{academic_year}` |\n")
-              f.write(f"| **பதிப்புப் பெயர் (Edition ID)** | `{edition_name}` |\n")
-              f.write(f"| **மொத்தப் பக்கங்கள் (Page Count)** | `{total_pages}` |\n")
+              f.write(f"| **கல்வியாண்டு (Academic Year)** | `{academic_year}` (அரசு SCERT போர்டல் வழங்கல்) |\n")
+              f.write(f"| **அச்சிடப்பட்ட திருத்திய பதிப்பு (Printed Edition)** | `2024 Revised Edition` (அச்சு நாள்: 29/02/2024) |\n")
+              f.write(f"| **பதிப்பு அடைவுப் பெயர் (Edition ID)** | `{edition_name}` |\n")
+              f.write(f"| **மொத்தப் பக்கங்கள் (Page Count)** | `{total_pages}` (9 இயல்கள்) |\n")
               f.write(f"| **அசல் கோப்பின் அளவு (Master Size)** | `{total_bytes:,} bytes` ({total_bytes / (1024*1024):.2f} MB) |\n")
-              f.write(f"| **பிரிக்கப்பட்ட பக்கங்களின் மொத்த அளவு (Split Pages Size)** | `{total_split_bytes:,} bytes` ({total_split_bytes / (1024*1024):.2f} MB) |\n")
+              f.write(f"| **பிரிக்கப்பட்ட 248 பக்கங்களின் மொத்த அளவு** | `{total_split_bytes:,} bytes` ({total_split_bytes / (1024*1024):.2f} MB) |\n")
               f.write(f"| **அசல் SHA-256 Hash** | `{file_sha256}` |\n")
               f.write(f"| **அசல் MD5 Hash** | `{file_md5}` |\n")
               f.write(f"| **பதிவிறக்கப்பட்ட தேதி (Download Date)** | `{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}` |\n")
@@ -226,24 +265,31 @@ jobs:
               f.write(clean_imprint if clean_imprint else "No imprint text extracted")
               f.write("\n```\n")
 
-          # 8. Update editions.json
+          # 8. CORRECTION 3: Accurate editions.json referencing true legacy unit folders
           editions_json_path = os.path.join(subj_base, "editions.json")
           editions_data = {
               "subject": subject,
-              "active_edition": edition_name,
+              "active_edition": "legacy-production",
               "editions": [
                   {
-                      "id": "legacy-current",
-                      "title": "முந்தைய பதிப்பு (Legacy Production)",
-                      "type": "legacy",
-                      "folder": "editions/legacy-current"
+                      "id": "legacy-production",
+                      "title": "தற்போதைய தயாரிப்பு பதிப்பு (2024 Revised / Production)",
+                      "type": "production",
+                      "structure": "unit_folders",
+                      "pages_manifest": "pages.json",
+                      "printed_edition": "2024 Revised Edition",
+                      "total_pages": 248
                   },
                   {
                       "id": edition_name,
                       "title": f"அதிகாரப்பூர்வ அரசு பதிப்பு ({academic_year})",
-                      "type": "official",
+                      "type": "official_scert",
+                      "structure": "page_files",
                       "folder": f"editions/{edition_name}",
+                      "printed_edition": "2024 Revised Edition (29/02/2024 Imprint)",
+                      "academic_year": academic_year,
                       "total_pages": total_pages,
+                      "md5": file_md5,
                       "sha256": file_sha256,
                       "url": pdf_url
                   }
