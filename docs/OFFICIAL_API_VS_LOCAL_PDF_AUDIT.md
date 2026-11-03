@@ -1,6 +1,6 @@
-# தமிழ்நாடு அரசு SCERT அதிகாரப்பூர்வ பாடநூல் API vs உள்ளூர் PDF ஒப்பீட்டு தணிக்கை அறிக்கை (Complete Classes 1–12 Official Audit)
+# தமிழ்நாடு அரசு SCERT அதிகாரப்பூர்வ பாடநூல் API vs உள்ளூர் PDF முழுமையான தணிக்கை அறிக்கை (Complete Classes 1–12 Verification Report)
 
-**அதிகாரப்பூர்வ API:** `https://emis3.tnschools.gov.in/api/get_scert_books`  
+**அதிகாரப்பூர்வ அரசு API:** `https://emis3.tnschools.gov.in/api/get_scert_books`  
 **அரசு அதிகாரப்பூர்வ போர்டல்:** [`https://tnschools.gov.in/scert-textbook`](https://tnschools.gov.in/scert-textbook)  
 **அரசு CDN தளம்:** `https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/`  
 **தணிக்கை செய்யப்பட்ட தேதி:** 2026-11-03  
@@ -14,10 +14,11 @@
 |:---|:---:|:---|
 | **அரசு API-ல் உள்ள மொத்தப் புத்தகப் பதிவுகள்** | **587** | 1 முதல் 12 வகுப்புகள் வரையிலான அனைத்து மொழிப் பாடநூல்கள் |
 | **உள்ளூரில் உள்ள முதன்மை மாஸ்டர் PDF-கள்** | **253** | `tn_school_books/` கீழ் உள்ள முழு புத்தக/பருவ PDF-கள் |
-| **அரசு சர்வருடன் 100% நேரடி ஹாஷ் மேட்ச் ஆனவை** | **0** | ஒற்றை பைட் கூட மாறாமல் ETag/MD5 நேரடியாகப் பொருந்துபவை |
-| **அரசு API-ல் பட்டியலிடப்பட்டு உள்ளூரில் வேறுபட்டவை** | **0** | அளவு அல்லது வடிவம் வேறுபட்டவை |
-| **அரசு API-ல் உள்ள பிற மொழிப் புத்தகங்கள் (உள்ளூரில் இல்லாதவை)** | **587** | தெலுங்கு, கன்னடம், உருது, மலையாளம் போன்ற பிற மொழி வாசகங்கள் |
-| **உள்ளூர் ஆவணக் காப்பகத்தில் உள்ள கூடுதல் பதிவுகள்** | **253** | பழைய பருவ அல்லது தனித்தனி தொகுதி பதிவுகள் |
+| **அரசு சர்வருடன் 100% நேரடி ஹாஷ் மேட்ச் ஆனவை (Exact ETag/MD5)** | **1** | ஒற்றை பைட் கூட மாறாமல் ETag/MD5 நேரடியாகப் பொருந்துபவை |
+| **அரசு சர்வருடன் அளவு பொருந்தியவை (Size Match)** | **0** | பைட் அளவு நேரடியாகப் பொருந்தியவை |
+| **அரசு API-ல் பட்டியலிடப்பட்டு உள்ளூரில் வேறுபட்டவை** | **272** | அளவு அல்லது வடிவம் வேறுபட்டவை |
+| **அரசு API-ல் உள்ள பிற மொழிப் புத்தகங்கள் (உள்ளூரில் இல்லாதவை)** | **314** | தெலுங்கு, கன்னடம், உருது, மலையாளம் போன்ற பிற மொழி வாசகங்கள் |
+| **உள்ளூர் ஆவணக் காப்பகத்தில் உள்ள கூடுதல் பதிவுகள்** | **235** | பழைய பருவ அல்லது தனித்தனி தொகுதி பதிவுகள் |
 
 ---
 
@@ -47,40 +48,45 @@
 
 ---
 
-## 3. 📑 முக்கியப் பாடங்களுக்கான தணிக்கை அட்டவணை (Sample Core Audit Table)
+## 3. 📑 முக்கியப் பாடங்களுக்கான தணிக்கை அட்டவணை (Core Subjects Audit Table)
 
-| வகுப்பு | பாடம் | பயிற்று மொழி | பருவம் | அரசு CDN கோப்பு | உள்ளூர் நிலை | ETag / ஹாஷ் ஒப்பீடு | முடிவு / நிலை |
-|:---:|:---|:---:|:---:|:---|:---:|:---:|:---|
-| Class VIII | `Tamil` | Tamil | Term-Full | `8th Std Tamil_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `English` | English | Term-Full | `8th_English_Text.pdf` | இல்லை | `09340e32...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `Mathematics` | Tamil | Term-Full | `8th_Maths_TM_Text.pdf` | இல்லை | `d65830c9...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `Mathematics` | English | Term-Full | `8th_Maths_EM_Text.pdf` | இல்லை | `921427eb...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `Science` | Tamil | Term-Full | `8th_Science_Tamil Medium_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `Science` | English | Term-Full | `8th_Science_English Medium_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `Social Science` | Tamil | Term-Full | `8th_Social Science_TM_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class VIII | `Social Science` | English | Term-Full | `8th_Social Science _EM _Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Tamil` | Tamil | Term-Full | `9th_Tamil_Text.pdf` | இல்லை | `f0a57592...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `English` | English | Term-Full | `9th English_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Mathematics` | Tamil | Term-Full | `9th_Maths_TM_Text.pdf` | இல்லை | `c8fc7b3d...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Mathematics` | English | Term-Full | `9th_Maths_EM_Text.pdf` | இல்லை | `fd8202dd...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Science` | Tamil | Term-Full | `9th_Science_TM_Text.pdf` | இல்லை | `0df440d9...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Science` | English | Term-Full | `9th_Science_EM_Text.pdf` | இல்லை | `2b43a359...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Social Science` | Tamil | Term-Full | `9th_Social Science_TM_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class IX | `Social Science` | English | Term-Full | `9th_Social Science_EM_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Tamil` | Tamil | Term-Full | `10th_Tamil_Text.pdf` | இல்லை | `47d5859a...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `English` | English | Term-Full | `10th_English_Text.pdf` | இல்லை | `72ecec13...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Mathematics` | Tamil | Term-Full | `10th_Mathametics Tamil Medium_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Mathematics` | English | Term-Full | `10th_Mathametics English Medium_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Science` | Tamil | Term-Full | `10th_Science_TM_Text.pdf` | இல்லை | `a63e1699...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Science` | English | Term-Full | `10th_Science_EM_Text.pdf` | இல்லை | `8ba9ce0c...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Social Science` | Tamil | Term-Full | `10th_Social Science_TM_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class X | `Social Science` | English | Term-Full | `10th_Social Science_EM_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class XII | `General Tamil` | Tamil | Term-Full | `12th_Genreal Tamil.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class XII | `Advanced Tamil` | Tamil | Term-Full | `12th_Advance Tamil_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class XII | `General English` | English | Term-Full | `12th_General English_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class XII | `Communicative English` | English | Term-Full | `12th_Communicative English_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class XII | `Mathematics (Vol I)` | Tamil | Term-Full | `12th_Maths_Vol-1_Tamil Medium_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
-| Class XII | `Mathematics (Vol I)` | English | Term-Full | `12th_Maths_Vol-1_English Meduim_Text.pdf` | இல்லை | `...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| வகுப்பு | பாடம் | பயிற்று மொழி | பருவம் | அரசு CDN கோப்பு | உள்ளூர் கோப்பு | ETag / ஹாஷ் ஒப்பீடு | தணிக்கை நிலை |
+|:---:|:---|:---:|:---:|:---|:---|:---:|:---|
+| Class 10th | `Tamil` | Tamil | Term-Full | `10th_Tamil_Text.pdf` | `Class_10_Tamil_Full_Book.pdf` | `47d5859a...` | `OFFICIAL_API_MD5_ETAG_MATCH` |
+| Class 10th | `English` | English | Term-Full | `10th_English_Text.pdf` | `Class_10_English_Full_Book.pdf` | `72ecec13...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Mathematics` | Tamil | Term-Full | `10th_Mathametics Tamil Medium_Text.pdf` | `Class_10_Maths_TM_Full_Book.pdf` | `ab0811a7...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Mathematics` | English | Term-Full | `10th_Mathametics English Medium_Text.pdf` | `Class_10_Maths_EM_Full_Book.pdf` | `89cbc71c...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Science` | Tamil | Term-Full | `10th_Science_TM_Text.pdf` | `Class_10_Science_TM_Full.pdf` | `a63e1699...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Science` | English | Term-Full | `10th_Science_EM_Text.pdf` | `Class_10_Science_EM_Full.pdf` | `8ba9ce0c...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Social Science` | Tamil | Term-Full | `10th_Social Science_TM_Text.pdf` | `Class_10_Science_TM_Full.pdf` | `4de046df...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Social Science` | English | Term-Full | `10th_Social Science_EM_Text.pdf` | `Class_10_Science_EM_Full.pdf` | `6f45aed1...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `General Tamil` | Tamil | Term-Full | `11th_Genreal Tamil.pdf` | `Class_10_Tamil_Full_Book.pdf` | `6c9706b9...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Advanced Tamil` | Tamil | Term-Full | `11th_Advance Tamil_Text.pdf` | `Class_10_Tamil_Full_Book.pdf` | `1902be80...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `General English` | English | Term-Full | `11th_General English_Text.pdf` | `Class_10_English_Full_Book.pdf` | `3dacd047...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Communicative English` | English | Term-Full | `11th_Communicative English_Text.pdf` | `Class_10_English_Full_Book.pdf` | `65beba12...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Mathematics (Vol I)` | Tamil | Term-Full | `11th_Maths_Vol-1_Tamil Medium_Text.pdf` | `Class_10_Maths_TM_Full_Book.pdf` | `d6460fad...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Mathematics (Vol I)` | English | Term-Full | `11th_Maths_Vol-1_English Medium_Text.pdf` | `Class_10_Maths_EM_Full_Book.pdf` | `5ff5db0a...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Mathematics (Vol II)` | Tamil | Term-Full | `XIth_Maths_Vol-2_Tamil Medium_Text.pdf` | `Class_10_Maths_TM_Full_Book.pdf` | `f7751b86...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Mathematics (Vol II)` | English | Term-Full | `11th_Mathematics-Vol-2_English Medium_Text.pdf` | `Class_10_Maths_EM_Full_Book.pdf` | `e71e945e...` | `OFFICIAL_API_LISTED_LOCAL_MISMATCH` |
+| Class 10th | `Physics (Vol I)` | Tamil | Term-Full | `11th_Physics_Vol-1_Tamil Medium_Text.pdf` | `` | `eabd0456...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Physics (Vol I)` | English | Term-Full | `11th_Physics Vol 1_English Medium_Text.pdf` | `` | `a3e3edeb...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Physics (Vol II)` | Tamil | Term-Full | `11th_Physics_Vol-2_Tamil Medium_Text.pdf` | `` | `5e657780...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Physics (Vol II)` | English | Term-Full | `11th_Physics_Vol-2_English Medium_Text.pdf` | `` | `09746828...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Chemistry (Vol I)` | Tamil | Term-Full | `11th_Chemistry_Vol-1_Tamil Medium_Text.pdf` | `` | `c6162d61...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Chemistry (Vol I)` | English | Term-Full | `11th_Chemistry_Vol-2_English Medium_Text.pdf` | `` | `815a4201...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Chemistry (Vol II)` | Tamil | Term-Full | `11th Chemistry_Vol-2 TM_Text.pdf` | `` | `37a05ae1...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Chemistry (Vol II)` | English | Term-Full | `11th_Chemistry_Vol-2_English Medium_Text.pdf` | `` | `815a4201...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Botany ` | Tamil | Term-Full | `11th_Botany_TM_Text.pdf` | `` | `2cecccf6...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Botany ` | English | Term-Full | `11th_Botany_EM_Text.pdf` | `` | `c6a4a6a3...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Zoology ` | Tamil | Term-Full | `11th_Zoology_TM_Text.pdf` | `` | `742ee4c2...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Zoology ` | English | Term-Full | `11th_Zoology_EM_Text.pdf` | `` | `aad320d2...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Bio-Botany ` | Tamil | Term-Full | `11th Bio-Botany_TM.pdf` | `` | `a77f909d...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Bio-Botany ` | English | Term-Full | `11th Bio-Botany_EM.pdf` | `` | `654285fa...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Bio-Zoology ` | Tamil | Term-Full | `11th_Bio-Zoology_TM_Text.pdf` | `` | `dcba0b72...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Bio-Zoology ` | English | Term-Full | `11th_Bio-Zoology_EM_Text.pdf` | `` | `4b5613c8...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Bio-Chemistry` | Tamil | Term-Full | `11th_Bio-Chemistry_TM_Text.pdf` | `` | `ce247d4c...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Bio-Chemistry` | English | Term-Full | `11th_Bio-Chemistry_EM_Text.pdf` | `` | `2f6cb67b...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
+| Class 10th | `Micro Biology` | Tamil | Term-Full | `11th_Micro_Biology_TM_Text.pdf` | `` | `78d57e62...` | `OFFICIAL_API_LISTED_LOCAL_MISSING` |
 
 *(முழுமையான அனைத்து 587 கோப்புகளின் விரிவான ஒப்பீட்டு அட்டவணை `docs/official_api_local_match_manifest.csv` கோப்பில் பாதுகாப்பாக வைக்கப்பட்டுள்ளது).*
 
