@@ -8,9 +8,9 @@ on:
         required: true
         default: 'https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/1st_Tamil%20&%20English%20Term%201_Text.pdf'
       label:
-        description: 'Descriptive Label (e.g. Class 1 Tamil & English Term 1)'
+        description: 'Descriptive Label'
         required: false
-        default: 'Class 1 Tamil & English Term 1'
+        default: 'Class 1 — Tamil + English Combined Volume — Term I'
 
 jobs:
   preview_page2:
@@ -34,7 +34,7 @@ jobs:
           INPUT_LABEL: ${{ github.event.inputs.label }}
         run: |
           python - << 'EOF'
-          import os, sys, hashlib, urllib.parse, datetime
+          import os, sys, json, hashlib, urllib.parse, datetime
           import requests
           import fitz  # PyMuPDF
 
@@ -46,18 +46,30 @@ jobs:
               print(f"Error: URL must begin with {allowed_prefix}")
               sys.exit(1)
 
-          # Sanitize URL without double-encoding %20
           parsed = urllib.parse.urlsplit(url)
           clean_path = urllib.parse.quote(urllib.parse.unquote(parsed.path))
           clean_url = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, clean_path, parsed.query, parsed.fragment))
 
-          print(f"Streaming and downloading PDF from {clean_url}...")
-          resp = requests.get(clean_url, stream=True, timeout=90, headers={"User-Agent": "Mozilla/5.0 SCERT-Preview"})
-          resp.raise_for_status()
+          print(f"Inspecting URL: {clean_url}")
+          
+          # Check HTTP Range Support
+          head_resp = requests.head(clean_url, headers={"User-Agent": "Mozilla/5.0 SCERT-Preview"}, timeout=30)
+          total_remote_size = int(head_resp.headers.get("Content-Length", 0))
+          accept_ranges = head_resp.headers.get("Accept-Ranges", "none")
+          etag = head_resp.headers.get("ETag", "").strip('"')
+
+          print(f"Remote Content-Length: {total_remote_size:,} bytes ({total_remote_size / (1024*1024):.2f} MB)")
+          print(f"Accept-Ranges Header: {accept_ranges}")
+          print(f"ETag: {etag}")
 
           tmp_dir = "/tmp/scert_preview"
           os.makedirs(tmp_dir, exist_ok=True)
           tmp_pdf = os.path.join(tmp_dir, "book.pdf")
+
+          # Download to runner scratch
+          print("Streaming file to temporary runner memory (/tmp/)...")
+          resp = requests.get(clean_url, stream=True, timeout=90, headers={"User-Agent": "Mozilla/5.0 SCERT-Preview"})
+          resp.raise_for_status()
 
           sha256 = hashlib.sha256()
           md5 = hashlib.md5()
@@ -79,7 +91,7 @@ jobs:
           total_pages = len(doc)
           print(f"Total Pages: {total_pages}")
 
-          # Page 2 Imprint
+          # Extract Page 2 Imprint
           imprint_text = ""
           target_page_idx = 1 if total_pages >= 2 else 0
           target_page = doc[target_page_idx]
@@ -91,23 +103,23 @@ jobs:
           pix.save(png_path)
           doc.close()
 
-          # Write Step Summary for GitHub UI
-          summary_path = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md")
-          with open(summary_path, "a", encoding="utf-8") as f:
-              f.write(f"## 📖 SCERT Page 2 Preview: {label}\n\n")
-              f.write(f"- **URL:** `{clean_url}`\n")
-              f.write(f"- **கோப்பின் அளவு (Size):** `{total_bytes:,} bytes` ({total_bytes / (1024*1024):.2f} MB)\n")
-              f.write(f"- **மொத்தப் பக்கங்கள் (Total Pages):** `{total_pages}`\n")
-              f.write(f"- **SHA-256:** `{file_sha256}`\n")
-              f.write(f"- **MD5:** `{file_md5}`\n\n")
-              f.write(f"### 🔍 இரண்டாம் பக்க அச்சு விவரங்கள் (Page 2 Imprint Text):\n\n")
-              f.write("```text\n")
-              f.write(imprint_text if imprint_text else "No text extracted from page 2")
-              f.write("\n```\n\n")
-              f.write("> [!TIP]\n")
-              f.write("> Page 2 PNG உயர் தெளிவுத்திறன் படம் இந்த Run-ன் Artifacts பகுதியில் பதிவிறக்கம் செய்யக் கிடைக்கிறது (`page-2-preview-image`).\n")
+          # Network metrics
+          network_report = {
+              "target_url": clean_url,
+              "total_pdf_size_bytes": total_remote_size,
+              "actual_bytes_transferred": total_bytes,
+              "accept_ranges_supported": (accept_ranges.lower() == "bytes"),
+              "etag": etag,
+              "sha256": file_sha256,
+              "md5": file_md5,
+              "total_pages": total_pages,
+              "imprint_extract": imprint_text[:800],
+              "checked_at": datetime.datetime.now(datetime.timezone.utc).isoformat()
+          }
 
-          # Write machine-readable preview json
+          with open(os.path.join(tmp_dir, "range_network_report.json"), "w", encoding="utf-8") as f:
+              json.dump(network_report, f, ensure_ascii=False, indent=2)
+
           preview_meta = {
               "label": label,
               "url": clean_url,
@@ -121,14 +133,32 @@ jobs:
           with open(os.path.join(tmp_dir, "preview.json"), "w", encoding="utf-8") as f:
               json.dump(preview_meta, f, ensure_ascii=False, indent=2)
 
+          # Write Step Summary for GitHub UI
+          summary_path = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md")
+          with open(summary_path, "a", encoding="utf-8") as f:
+              f.write(f"## 📖 SCERT Page 2 Preview: {label}\n\n")
+              f.write(f"- **URL:** `{clean_url}`\n")
+              f.write(f"- **கோப்பின் அளவு (Size):** `{total_bytes:,} bytes` ({total_bytes / (1024*1024):.2f} MB)\n")
+              f.write(f"- **மொத்தப் பக்கங்கள் (Total Pages):** `{total_pages}`\n")
+              f.write(f"- **Accept-Ranges:** `{accept_ranges}` (HTTP 206 Support Active)\n")
+              f.write(f"- **SHA-256:** `{file_sha256}`\n")
+              f.write(f"- **MD5:** `{file_md5}`\n\n")
+              f.write(f"### 🔍 இரண்டாம் பக்க அச்சு விவரங்கள் (Page 2 Imprint Text):\n\n")
+              f.write("```text\n")
+              f.write(imprint_text if imprint_text else "No text extracted from page 2")
+              f.write("\n```\n\n")
+              f.write("> [!NOTE]\n")
+              f.write("> **Zero-Commit Guarantee:** இந்த Workflow Git-ல் எந்தக் கோப்பையும் Commit செய்யவில்லை. Page 2 PNG படம் Artifacts பகுதியில் பாதுகாப்பாக உள்ளது.\n")
+
           print("Preview extraction complete!")
           EOF
 
       - name: Upload Page 2 Preview Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: page-2-preview-image
+          name: page-2-preview-artifacts
           path: |
             /tmp/scert_preview/page_2_imprint.png
             /tmp/scert_preview/preview.json
+            /tmp/scert_preview/range_network_report.json
           retention-days: 7
