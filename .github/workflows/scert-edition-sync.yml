@@ -8,7 +8,7 @@ on:
         required: true
         default: 'tamil'
       official_pdf_url:
-        description: 'Official SCERT CloudFront PDF URL (Must start with https://d21mc000xink7q.cloudfront.net/)'
+        description: 'Official SCERT CloudFront PDF URL'
         required: true
         default: 'https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/10th_Tamil_Text.pdf'
       edition_folder_name:
@@ -48,9 +48,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pymupdf requests urllib3
+        run: pip install pymupdf requests urllib3
 
       - name: Execute Hardened SCERT Verification & Ingestion
         env:
@@ -93,11 +91,9 @@ jobs:
               sys.exit(1)
 
           # 2. Determine Local Directory Structure (Repository-Aware)
-          # In per-class repository (e.g. tn-class-10), folders are directly at root: ./<subject>/
           if os.path.isdir(subject):
               subj_base = subject
           else:
-              # Fallback if tn_school_books structure is used
               subj_base = os.path.join(".", subject)
               os.makedirs(subj_base, exist_ok=True)
 
@@ -111,23 +107,23 @@ jobs:
           pages_target = os.path.join(edition_target, "pages")
           os.makedirs(pages_target, exist_ok=True)
 
-          # 3. Download Official PDF with Proper URL Encoding
+          # 3. Download Official PDF with Safe URL Encoding (Prevent Double-Encoding %2520)
           parsed = urllib.parse.urlsplit(pdf_url)
-          clean_path = urllib.parse.quote(parsed.path)
+          clean_path = urllib.parse.quote(urllib.parse.unquote(parsed.path))
           clean_url = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, clean_path, parsed.query, parsed.fragment))
 
           print(f"Downloading from sanitized URL: {clean_url}")
-          resp = requests.get(clean_url, stream=True, timeout=60, headers={"User-Agent": "Mozilla/5.0 TN-SCERT-Actions"})
+          resp = requests.get(clean_url, stream=True, timeout=90, headers={"User-Agent": "Mozilla/5.0 TN-SCERT-Actions"})
           if resp.status_code != 200:
               print(f"HTTP ERROR: Received status {resp.status_code} from government server.")
               sys.exit(1)
 
-          book_pdf_path = os.path.join(edition_target, "book.pdf")
+          tmp_download_path = "/tmp/downloaded_book.pdf"
           sha256 = hashlib.sha256()
           md5 = hashlib.md5()
           total_bytes = 0
 
-          with open(book_pdf_path, "wb") as f:
+          with open(tmp_download_path, "wb") as f:
               for chunk in resp.iter_content(chunk_size=1024*1024):
                   if chunk:
                       f.write(chunk)
@@ -137,28 +133,25 @@ jobs:
 
           file_sha256 = sha256.hexdigest()
           file_md5 = md5.hexdigest()
-          print(f"Downloaded: {total_bytes} bytes ({total_bytes / (1024*1024):.2f} MB).")
+          print(f"Downloaded: {total_bytes:,} bytes ({total_bytes / (1024*1024):.2f} MB).")
           print(f"  SHA-256: {file_sha256}")
           print(f"  MD5: {file_md5}")
 
           # Security Check 3: Verify PDF Magic Header (%PDF-)
-          with open(book_pdf_path, "rb") as f:
+          with open(tmp_download_path, "rb") as f:
               magic = f.read(5)
               if magic != b"%PDF-":
                   print(f"VALIDATION ERROR: File is not a valid PDF! Magic bytes: {magic}")
                   sys.exit(1)
 
           # 4. Inspect and Extract Metadata via PyMuPDF
-          doc = fitz.open(book_pdf_path)
+          doc = fitz.open(tmp_download_path)
           total_pages = len(doc)
           print(f"Validated PDF Document. Total Pages: {total_pages}")
 
           imprint_text = ""
-          if total_pages >= 2:
-              imprint_text = doc[1].get_text("text").strip()
-          elif total_pages >= 1:
-              imprint_text = doc[0].get_text("text").strip()
-
+          target_page_idx = 1 if total_pages >= 2 else 0
+          imprint_text = doc[target_page_idx].get_text("text").strip()
           clean_imprint = "\n".join([line.strip() for line in imprint_text.splitlines() if line.strip()][:15])
 
           # 5. Split PDF into Pages (For R2 / Pages Viewer)
@@ -173,6 +166,15 @@ jobs:
 
           doc.close()
           print("Page splitting completed successfully!")
+
+          # Only copy full book.pdf if size <= 50MB; otherwise retain in external R2/LFS pointer
+          book_dest = os.path.join(edition_target, "book.pdf")
+          if total_bytes <= 50 * 1024 * 1024:
+              import shutil
+              shutil.copyfile(tmp_download_path, book_dest)
+              print(f"Copied book.pdf locally ({total_bytes / (1024*1024):.2f} MB).")
+          else:
+              print(f"File size {total_bytes / (1024*1024):.2f} MB exceeds 50MB. Retaining as external reference for R2/LFS.")
 
           # 6. Generate edition.md
           edition_md_path = os.path.join(edition_target, "edition.md")
