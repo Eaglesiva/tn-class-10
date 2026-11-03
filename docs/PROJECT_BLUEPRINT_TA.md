@@ -1196,3 +1196,133 @@ If a third-party mirror provides the candidate file, mark `THIRD_PARTY_MIRROR` s
 - Do not assume every 2024 imprint in Classes 4–12 is obsolete. Confirm each current book using official distribution + school-issued content / Government e-book PDF.
 
 **Operational priority:** In Chrome, try `https://tnschools.gov.in/scert-textbook` first. If it opens, download the exact Class 10 Tamil full-year PDF and share its URL or file. If it does not open, use the school-issued 2026–27 book / Corporation confirmation rather than guessing from a private site.
+
+
+---
+
+## 22. Latest Reconciliation — Official SCERT API vs 2025 7-Iyal Private Copy + All-Class Recheck (03-11-2026)
+
+### 22.1 Correct conclusion for Class 10 Tamil
+
+The latest evidence changes the earlier provisional conclusion. Do **not** continue to describe the 184-page / 7-Iyal copy as the strongest current State Board textbook candidate.
+
+The most direct current government evidence is now:
+- Official TNSchools page: [https://tnschools.gov.in/scert-textbook](https://tnschools.gov.in/scert-textbook)
+- Official Angular application's SCERT Books API: [https://emis3.tnschools.gov.in/api/get_scert_books](https://emis3.tnschools.gov.in/api/get_scert_books)
+- API-provided Government CDN PDF: [10th_Tamil_Text.pdf](https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/10th_Tamil_Text.pdf)
+
+The Antigravity-generated proof report records that this API-listed PDF is 57,588,385 bytes / 248 pages and its ETag / MD5 value is identical to the local file `tn_school_books/10th/tamil/pdf/Class_10_Tamil_Full_Book.pdf`. The Government API entry and exact file match make the 248-page / 9-Iyal copy the strongest available **official current-portal State Board textbook reference for Class 10 Tamil as of 03-11-2026**.
+
+This is stronger evidence than a third-party website title or a FlipHTML book listing. Preserve the current Local PDF and its question work. There is no reason to re-download or rebuild Class 10 Tamil from the 184-page file for the 2026–27 State Board workflow, unless a newer official API entry / school-issued copy is later found.
+
+### 22.2 What is the 184-page / 7-Iyal PDF?
+
+The 184-page copy discovered earlier is hosted / published by TAMILVITHAI, not linked as the current Class 10 Tamil PDF from the official SCERT API evidence reviewed in this report.
+
+Evidence:
+- [TAMILVITHAI's 2025–26 new-syllabus page](https://www.tamilvithai.com/2025/03/10th-tamil-new-syllabus-book-2025-26-pdf.html), published 15-03-2025, explicitly says that the 2025–26 Tamil syllabus / portion was reduced from 9 Iyals to 7 Iyals and that TAMILVITHAI uploaded the modified portion book on its own website.
+- [TAMILVITHAI's Unit 1 change-portion page](https://www.tamilvithai.com/2025/03/10th-tamil-new-book-change-portion-2025.html) lists removed, changed and newly added questions.
+- [FlipHTML5 copy](https://fliphtml5.com/bison/xbxt/10th_Tamil_new_book_2025_-_2026/) is attributed to uploader TAMILVITHAI and carries a printed Revised Edition 2025 imprint.
+
+**Correction to a previous statement:** Do not label this 184-page file as "CBSE-only" unless an official source explicitly proves that. The currently available evidence supports describing it as a **third-party-hosted 2025–26 reduced / modified 7-Iyal candidate**. Its exact official authorization and its relationship to any CBSE / State Board exam portion remain unverified. A government imprint reproduced inside a third-party-hosted copy does not, by itself, prove the file's host, completeness, or prescribed status.
+
+The distinction to preserve:
+- 248-page / 9-Iyal PDF = exact match to the current SCERT API's Class 10 Tamil PDF, based on Antigravity's recorded byte-size / MD5 evidence.
+- 184-page / 7-Iyal PDF = third-party-hosted reduced / modified 2025–26 copy; not shown by the current API proof to be the current full State Board book.
+
+### 22.3 Important scope limit of the official proof
+
+The existing `OFFICIAL_GOVERNMENT_CDN_VERIFICATION_PROOF.md` proves / records the exact match for **Class 10 Tamil only**. It does not yet prove that every Local PDF for Classes 1–12 matches the official API.
+
+The earlier `MASTER_EDITION_AUDIT_REPORT.md` is an imprint / page-count inventory. Its old `CURRENT` and `LEGACY` conclusions must not be used as final Current-Year determinations. An API listing, a local imprint, and a hash match are different pieces of evidence.
+
+For Classes 1–12, Antigravity must now perform a complete **Official API ↔ Local PDF file-level audit**. Do not merely inspect sample PDFs or report the API's list of classes. Compare every API entry with the corresponding Local file.
+
+### 22.4 Required full API ↔ Local file comparison
+
+For every official API record, extract:
+- API class / standard
+- Subject / textbook name
+- Medium
+- Term / Annual / Volume
+- Official filename
+- Direct CDN URL
+- Any official metadata / issue status
+
+For every local book:
+- Local class / subject / medium / term folder
+- Original PDF path
+- File size in bytes
+- Physical PDF page count
+- Printed page numbering / contents
+- Imprint / revised edition / reprint information
+- Local MD5 and SHA-256
+
+Then download the exact PDF at the official CDN URL (where feasible) and compare:
+- Remote vs local byte size
+- Remote vs local SHA-256 (preferred)
+- ETag / MD5 where SHA-256 cannot be obtained
+- PDF page count and contents
+
+A file may be declared an exact official match only when the actual bytes / strong hash match. If only filename / page count / imprint appears similar, do not label it a match.
+
+### 22.5 Required result statuses
+
+Use these statuses, separately from academic-year validity:
+- `OFFICIAL_API_SHA256_MATCH` — exact file match by SHA-256.
+- `OFFICIAL_API_MD5_ETAG_MATCH` — strong practical match recorded by same MD5 and ETag, with method stated.
+- `OFFICIAL_API_LISTED_LOCAL_MISMATCH` — official entry exists but local file differs.
+- `OFFICIAL_API_LISTED_LOCAL_MISSING` — official file exists but no local copy.
+- `LOCAL_NOT_FOUND_IN_CURRENT_API` — local file was not found in the latest API response; requires review, not automatic obsolete status.
+- `API_ENTRY_NOT_UNDERSTOOD` — API data could not be confidently mapped.
+- `CURRENT_SCHOOL_USE_UNVERIFIED` — exact online file exists, but its 2026–27 school-use status still needs a distribution / school-copy check.
+
+**Important special override:** the Textbook Corporation explicitly marks 2025–26 Term-I books for Classes 1–3 as obsolete for current use. Even if an older copy still appears in a file index or local folder, do not mark it current. Match the 2026–27 Term-I / Term-II entries separately.
+
+### 22.6 Full audit output files requested from Antigravity
+
+Create:
+1. `docs/OFFICIAL_API_VS_LOCAL_PDF_AUDIT.md` — readable class-wise summary and decisions.
+2. `docs/official_api_local_match_manifest.csv` — one row per official API entry / local candidate, including URL, class, subject, medium, term, filenames, byte sizes, SHA-256 / ETag, page counts, match status and notes.
+3. `docs/official_api_scert_books_raw.json` — raw API response snapshot and capture timestamp, if repository policy permits. If the raw response is too large / contains non-public technical data, store a sanitized public-book-only export instead.
+
+The report must clearly separate:
+- **API exact file match**
+- **official 2026–27 distribution evidence**
+- **edition / reprint imprint**
+- **question-content match**
+
+Do not collapse these into one "Current" label.
+
+### 22.7 Antigravity execution prompt
+
+Please perform a complete audit using the **live official TNSchools SCERT Books API**, not just the old imprint report.
+
+Official API:
+`https://emis3.tnschools.gov.in/api/get_scert_books`
+
+Official PDF CDN base:
+`https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/`
+
+Tasks:
+1. Fetch and save the API response with timestamp.
+2. Parse every Class 1–12 entry, including all subjects, TM / EM and applicable terms.
+3. Inventory every Local original PDF under `tn_school_books/` and the corresponding GitHub / Cloudflare page files.
+4. Map each official API PDF entry to the local PDF.
+5. Download official CDN files and compute SHA-256 for the remote / local file; if exact SHA-256 comparison is infeasible, record byte size and ETag / MD5 with limitations.
+6. Identify all exact matches, mismatches, missing local copies and local files absent from the API.
+7. For every mismatch, inspect the title, imprint, contents and Book Back pages. Do not decide Current / Old from the imprint year alone.
+8. Apply the official 2026–27 distribution schedule. In particular, Classes 1–3 Term-I 2025–26 copies are officially obsolete; current 2026–27 Term-I / Term-II must be distinguished.
+9. Reconcile Class 10 Tamil:
+   - Confirm the 248-page / 9-Iyal local file against the API PDF.
+   - Record the existing exact byte / hash match.
+   - Record the TAMILVITHAI 184-page / 7-Iyal copy separately as a third-party-hosted 2025–26 reduced/modified candidate, not as the official current full book unless new official evidence is found.
+   - Do not label it CBSE-only without a source proving that.
+10. Produce the full Markdown report and CSV manifest. Do not modify or delete any existing PDF, questions.md, quiz.md or quiz.json.
+11. Do not claim "100% all classes verified" unless every API entry has actually been compared. Report any failures or inaccessible files transparently.
+
+### 22.8 Project decision after current evidence
+
+- **Class 10 Tamil:** retain the 248-page / 9-Iyal Local PDF and the existing extracted question work as the current official-portal-matching base. Perform question-level QA, but do not rebuild from the third-party 184-page copy.
+- **Other Classes:** do not assume they match because their imprint says 2024 / 2025, and do not assume they are old because the imprint says 2018 / 2019 / 2022. Wait for the complete official API ↔ local PDF manifest.
+- **Old work preservation:** no destructive deletion; mismatches should be stored as separate versions after the report identifies them.
