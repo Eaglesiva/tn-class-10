@@ -224,3 +224,66 @@ For every fresh chat or new Antigravity session:
 5. Continue with the next unfinished item; do not repeat a completed comparison unless its source changed or the prior evidence is missing/invalid.
 
 **This blueprint is the policy.** Workflows, local scripts and AI summaries are implementation aids; they do not override these rules.
+
+## 9. Class-batch orchestration (updated 2026-11-04)
+
+The user-facing unit of work is **one whole class at a time**. The processing unit inside that class is **one official book/volume at a time, sequentially**. Do not force the user to create a separate prompt or manually trigger a separate workflow for every book.
+
+For a class batch:
+
+1. Fetch the complete live official API response once at the start. Save the raw response (not just the chosen record) as class_<N>_official_api_snapshot.json, plus retrieval UTC time and response SHA-256.
+2. Enumerate every record for the requested class, including all available terms, volumes, language/medium combinations and special categories. Keep the exact API identity (class, subject/title, term, medium IDs/names, file name, URL, type). Do not silently omit non-Tamil/English records; classify scope explicitly.
+3. Create an ordered queue from those live records. Separately check each official URL's HEAD/GET response, HTTP status, content type, content length, last-modified and ETag. A price-list title is not proof that a current PDF is live. A filename or old manifest row is not proof either.
+4. Process the queue sequentially with max concurrency = 1. One item downloads to a unique temporary /tmp location, is validated, inspected, compared, and then the master is deleted before the next item's download begins. Do not download the entire class's master PDFs at once.
+5. Store per-item result artifacts and one master class manifest with statuses such as QUEUED, IN_PROGRESS, MATCHED_NO_UPDATE_NEEDED, NEW_EDITION_CONFIRMED, MAPPING_UNRESOLVED, NOT_LISTED, URL_NOT_AVAILABLE, DOWNLOAD_FAILED, MANUAL_REVIEW_REQUIRED, SPLIT_VALIDATED, and COMMITTED_TO_AUDIT_BRANCH.
+6. A failed or ambiguous item must not terminate the other items. Record its exact error and continue with the next item. Retry only failed items, not already completed items. Use a checkpoint so a rerun resumes at the first unfinished item.
+7. Existing books that are verified as already matching the current official edition get MATCHED_NO_UPDATE_NEEDED; do not create duplicate split files or upload them again.
+8. For every item labelled NEW_EDITION_CONFIRMED, prepare that new edition only after the comparison evidence is complete. Split only that item. Keep all old production files intact. Commit new files only to a new class audit/edition branch, with explicit paths; never merge or deploy automatically.
+9. Finish the whole class queue and publish one class-level summary: official API records found, in-scope entries, URLs available, URLs unavailable, exact/whole-content matches, new/different books, unresolved mappings, failed downloads, books split, commits, and books not yet checked. Counts must reconcile to the raw API snapshot.
+10. Stop after that one class. Do not start the next class until the user has received the completed class summary.
+
+### Term III release handling
+
+A title appearing in the Corporation's textbook price list does not establish that the 2026–27 PDF has been released or is downloadable. For example, the official primary textbook price list displays Term-I, Term-II and Term-III titles for Classes 1–5, while the current public sale notice found on 2026-11-04 announces the 2026–27 Term-II sale for Classes 1–7 from 22-09-2026. The notice does not give a Term-III sale/release date.
+
+Sources:
+- https://textbookcorp.in/textbook/schools/books
+- https://www.textbookcorp.in/
+
+Therefore:
+- Check the live API and official URL for each Term-III book at the time of the class audit.
+- If the live API entry is absent, report NOT_LISTED_AS_OF_<UTC_DATE>.
+- If an API entry exists but its URL is unavailable or returns an error, report URL_NOT_AVAILABLE or DOWNLOAD_FAILED.
+- Do not predict a release month or infer a release date from the academic calendar.
+- Do not classify an unavailable future term as obsolete, missing content, or a failed local book.
+- A future check can be run later using a fresh API snapshot.
+
+### Correction note — Class 1 Term-I Vol-I pilot (run 41742395830)
+
+The pilot successfully downloaded the official Class 1 Term-I Vol-I PDF to runner temporary storage, rendered the official page 2 and local Tamil page 2, captured the official metadata, and uploaded an evidence artifact. Its branch commit added only:
+- .github/scripts/audit_class1.py
+- .github/workflows/scert-audit-class1.yml
+
+GitHub compare confirmed the branch was one commit ahead of the exact Class 1 main commit, with no existing book/page files changed.
+
+The artifact shows:
+- Official PDF: 227,062,369 bytes; 176 PDF pages; SHA-256 a1f3ed937c267805294d7d2dcf545e65b7746c8f0a0d413bcd8d427907f8bf2d.
+- Official page 2: முதல் பதிப்பு - 2026.
+- Local Tamil page 2: முதல் பதிப்பு - 2018, revised in 2019, 2020 and 2022.
+
+This is direct evidence of a printed-edition mismatch. However, the pilot script did not reconstruct the local Tamil+English composite PDF and did not compare every page. It only summed the manifest counts (81 Tamil + 65 English = 146), inspected the Tamil page 2, and compared that sum with the official 176-page count. Thus the correct reporting is:
+- PAGE2_IMPRINT_MISMATCH_CONFIRMED
+- DECLARED_LOCAL_PAGE_COUNT_SUM=146
+- OFFICIAL_PDF_PAGE_COUNT=176
+- ALL_PAGES_COMPARISON=NOT_DONE
+- COMBINED_VOLUME_PAGE_MAPPING=NOT_PROVEN
+
+The pilot's broad OFFICIAL_NEWER_OR_DIFFERENT label may be retained as a preliminary edition finding based on the page-2 imprint, but it must not be described as a completed all-pages content comparison. Do not rerun the same official Vol-I download just to repeat the pilot. Reuse its evidence; complete the missing local page reconstruction/TOC mapping only if needed before preparing the new edition.
+
+### Class 1 continuation after the pilot
+
+- First perform a complete live API inventory of all Class 1 records for the current year and every term/volume/medium. Do not limit the API query to Term-I Vol-I.
+- Mark the already audited Term-I Vol-I as PILOT_EVIDENCE_AVAILABLE; reuse its downloaded-report and page-2 image artifacts. Do not redownload it unless its live API record, URL, ETag/Last-Modified or expected current edition has changed.
+- Continue with all other currently listed and downloadable Class 1 records in deterministic sequence: Term-I Vol-II, Term-II Vol-I, Term-II Vol-II, and any other records actually returned by the live API. This is a discovery order, not an assumption that every title is published.
+- Term-III must be discovered from the live API and URL checks. Do not assume it is present or absent based only on the price list.
+- At class completion, reconcile the manifest record count to the raw API snapshot. Every API row must have a visible status; do not silently skip any row.
