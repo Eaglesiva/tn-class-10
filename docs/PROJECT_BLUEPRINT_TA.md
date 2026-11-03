@@ -1079,3 +1079,120 @@ Use the school's actual 2026–27 distributed copy as a cross-check. A photo of 
 | `ERRATA_PENDING` | Correction notice exists but has not been applied / checked |
 
 **Final rule:** Edition year is metadata; current academic-year validity is a separate verification result. Never set `CURRENT_CONFIRMED_2026_27` from a printed year or a private website's section label alone.
+
+
+---
+
+## 21. Practical Current Textbook Download Route — Government First (03-11-2026)
+
+### 21.1 Important distinction
+
+The exact official 2026–27 digital PDF and the official distribution notice are two separate things.
+
+- The Textbook Corporation notice proves that the relevant class / term / annual books have entered 2026–27 distribution.
+- A PDF download link must still be matched with the actual printed book's title / imprint / contents / exercise pages.
+- The Corporation's public site does not currently expose a complete public edition-history register for every class × subject × medium × term. Do not infer a full edition history from its annual sale notices or price list alone.
+
+### 21.2 Government / school-education PDF route to try first
+
+**Candidate official e-textbook route:**
+[https://tnschools.gov.in/scert-textbook](https://tnschools.gov.in/scert-textbook)
+
+This route is referenced by public textbook-download instructions as the Tamil Nadu School Education / SCERT textbook page. Suggested steps in a normal browser:
+
+1. Open the link above.
+2. Select the Class tab.
+3. Select the Subject.
+4. Select the Term / Full-year option actually prescribed for that class.
+5. Select Tamil Medium / English Medium.
+6. Click the download link (often described as "Click Here To Download").
+7. Save the complete source PDF before making page splits.
+8. Record the exact landing URL and direct PDF URL.
+
+**Tool-access note:** On 03-11-2026, the assistant's web retrieval layer could not render `tnschools.gov.in` dynamic pages (the main page and `/scert-textbook` returned empty / cache errors). This is not proof that the route is broken in Chrome. The user should test it in a normal browser. Do not claim a successful PDF download until the actual PDF opens.
+
+A third-party guide page describing this route is not the authority; the actual `tnschools.gov.in` domain / content and the downloaded book imprint must be checked.
+
+### 21.3 Official distribution / edition-validity authority
+
+**Tamil Nadu Textbook and Educational Services Corporation:**
+- [Official School / Distribution Notices](https://www.textbookcorp.in/schools)
+- [Official Contact and Regional Offices](https://textbookcorp.in/schools/contact)
+- [Official Textbook Price List PDF](https://www.textbookcorp.in/files/PRICELIST.pdf)
+
+The Corporation's current 2026–27 notices provide:
+- 1–3: Term-I (25-05-2026) and Term-II (22-09-2026).
+- 4–7: Term-I (14-05-2026); Term-II notice for 1–7 (22-09-2026).
+- 8 and 11: Annual books (14-05-2026).
+- 9, 10 and 12: Annual books (10-04-2026).
+- Tamil textbooks 1–10: 10-04-2026.
+- 2025–26 Term-I books for Classes 1–3: explicitly obsolete for current use.
+
+Its public price list provides class / subject / medium / book prices. It may help identify which titles are being sold, but **it does not itself prove the Revised Edition Year / the precise PDF contents**.
+
+### 21.4 Government resources that can supplement PDF acquisition
+
+| Official resource | URL | What it can do | Limitation |
+|---|---|---|---|
+| TN Schools / SCERT E-Textbook route | [tnschools.gov.in/scert-textbook](https://tnschools.gov.in/scert-textbook) | Class / Subject / Medium / Term book download route described by public instructions | Dynamic page did not render through assistant's web tool; must be tested in Chrome |
+| Manarkeni | [manarkeni.tnschools.gov.in](https://manarkeni.tnschools.gov.in/) | Government-hosted chapter e-Book / topic resources with Download and Book Preview on indexed records | Appears chapter/resource based; not confirmed as a complete full textbook PDF archive for every class |
+| TN DIKSHA | [diksha.gov.in/tn](https://diksha.gov.in/tn/) | SCERT-curated curriculum-linked digital resources, energized textbook QR resources, teaching / learning material | Not confirmed as a complete current 2026–27 full-book PDF archive |
+| Textbooksonline legacy portal | [textbooksonline.tn.nic.in](https://textbooksonline.tn.nic.in/) | Listed by India.gov as a government textbook online-reading service | Returned 502 during 03-11-2026 tool check; retry in normal browser, but do not treat a failure as evidence of obsolescence |
+| India.gov official portal listing | [Tamil Nadu Textbook Corporation](https://www.india.gov.in/category/education-learning/subcategory/school-education/details/website-of-tamil-nadu-textbook-corporation) | Confirms Textbook Corporation site / online textbook-reading service as a Government resource | Directory listing; not an edition-history table |
+| TN Textbook Corporation older catalogue route | [textbookcorp.in/textbook](https://textbookcorp.in/textbook/) | Government domain, book catalogue landing page | Current rendered page contains legacy / generic items and does not reliably expose the full current school textbook PDF collection |
+
+**Do not confuse these similar-looking domains:**
+- `textbooksonline.tn.nic.in`: the legacy online textbook portal listed by India.gov.
+- `tntextbooksonline.com`: a Textbook Corporation storefront focused on rare books / children's books / collections; it is not the same school-textbook PDF catalogue.
+- `tntextbooks.in`: third-party PDF aggregator, not a Government domain.
+- `tnschools.gov.in/scert-textbook`: Government School Education / SCERT e-textbook route to test for downloadable school books.
+- `textbookcorp.in`: official Corporation notices, contacts, price list and school distribution information.
+
+### 21.5 What to do when the official PDF route does not work
+
+1. First use the actual current 2026–27 book issued by a Government / Government-aided school as the physical reference. Ask the subject teacher / Headmaster to confirm the exact book being used.
+2. Photograph or scan only the evidence pages needed:
+   - Cover / title page.
+   - Imprint / First Edition / Revised Edition / Reprint page.
+   - Contents page.
+   - Book Back / Evaluation pages.
+3. If no official public PDF is available, contact the Corporation and ask for the digital textbook / exact current edition confirmation:
+   - Email: `support@textbookcorp.in`
+   - Salem Regional Office: `0427-2351834`
+   - Salem mobile contact on the current Corporation contact page: `7395800457`
+   - [Official contact page](https://textbookcorp.in/schools/contact)
+4. Ask specifically for:
+   - 2026–27 academic year prescribed book;
+   - class, subject, medium and term / annual;
+   - Revised Edition year;
+   - reprint / correction year;
+   - whether an earlier edition is still prescribed;
+   - official PDF / e-book URL if available;
+   - errata / correction circular, if any.
+5. If using TNTextbooks.in / FreeTNBooks / Padasalai / another aggregator, mark the PDF `THIRD_PARTY_MIRROR` until its actual internal imprint and all key content pages are matched against the school-issued copy.
+6. Never choose the PDF just because its host page says "New Edition 2026–27". Check the file downloaded behind the link.
+
+### 21.6 Edition decision protocol — practical
+
+A book can only receive `CURRENT_CONFIRMED_2026_27` when all relevant checks are satisfied:
+
+- The class / subject / medium / term matches the 2026–27 official distribution.
+- The actual PDF or school-issued book matches the title / imprint.
+- Contents / chapter structure matches.
+- Book Back / evaluation questions match.
+- Any correction / errata notices have been applied.
+- Evidence URL / photo / page references are recorded.
+
+If only the imprint is known, mark `IMPRINT_DETECTED` and `CURRENT_VALIDITY_UNVERIFIED`.
+If an official portal lists the book for the correct 2026–27 term, but the PDF file itself cannot be opened / matched, mark `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`.
+If a third-party mirror provides the candidate file, mark `THIRD_PARTY_MIRROR` separately from the validity status.
+
+### 21.7 Class 10 Tamil present decision
+
+- Existing Repo 2024 / 9-Iyal PDF: preserve as a pre-revision Legacy copy.
+- 2025 Revised / 7-Iyal book: strongest revised candidate identified to date.
+- 2026–27 current school-issued PDF / physical copy: exact official imprint and content match still pending.
+- Do not treat the 2025 FlipHTML5 mirror as an official Government-hosted PDF.
+- Do not assume every 2024 imprint in Classes 4–12 is obsolete. Confirm each current book using official distribution + school-issued content / Government e-book PDF.
+
+**Operational priority:** In Chrome, try `https://tnschools.gov.in/scert-textbook` first. If it opens, download the exact Class 10 Tamil full-year PDF and share its URL or file. If it does not open, use the school-issued 2026–27 book / Corporation confirmation rather than guessing from a private site.
