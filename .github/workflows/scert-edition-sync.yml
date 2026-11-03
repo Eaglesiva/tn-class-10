@@ -10,7 +10,7 @@ on:
       official_pdf_url:
         description: 'Official SCERT CloudFront PDF URL'
         required: true
-        default: 'https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/10th_Tamil_Text.pdf'
+        default: 'https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/1st_Tamil%20&%20English%20Term%201_Text.pdf'
       edition_folder_name:
         description: 'Target Edition Folder Name'
         required: true
@@ -63,7 +63,6 @@ jobs:
           import requests
           import fitz  # PyMuPDF
 
-          # 1. Retrieve and Validate Inputs from Environment Variables (Prevent Script Injection)
           subject = os.environ.get("INPUT_SUBJECT", "").strip()
           pdf_url = os.environ.get("INPUT_PDF_URL", "").strip()
           edition_name = os.environ.get("INPUT_EDITION_NAME", "").strip()
@@ -107,7 +106,7 @@ jobs:
           pages_target = os.path.join(edition_target, "pages")
           os.makedirs(pages_target, exist_ok=True)
 
-          # 3. Download Official PDF with Safe URL Encoding (Prevent Double-Encoding %2520)
+          # 3. Download Official PDF to Temporary Runner Memory (/tmp/)
           parsed = urllib.parse.urlsplit(pdf_url)
           clean_path = urllib.parse.quote(urllib.parse.unquote(parsed.path))
           clean_url = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, clean_path, parsed.query, parsed.fragment))
@@ -118,7 +117,7 @@ jobs:
               print(f"HTTP ERROR: Received status {resp.status_code} from government server.")
               sys.exit(1)
 
-          tmp_download_path = "/tmp/downloaded_book.pdf"
+          tmp_download_path = "/tmp/downloaded_master_book.pdf"
           sha256 = hashlib.sha256()
           md5 = hashlib.md5()
           total_bytes = 0
@@ -144,7 +143,7 @@ jobs:
                   print(f"VALIDATION ERROR: File is not a valid PDF! Magic bytes: {magic}")
                   sys.exit(1)
 
-          # 4. Inspect and Extract Metadata via PyMuPDF
+          # 4. Inspect Metadata via PyMuPDF
           doc = fitz.open(tmp_download_path)
           total_pages = len(doc)
           print(f"Validated PDF Document. Total Pages: {total_pages}")
@@ -154,8 +153,8 @@ jobs:
           imprint_text = doc[target_page_idx].get_text("text").strip()
           clean_imprint = "\n".join([line.strip() for line in imprint_text.splitlines() if line.strip()][:15])
 
-          # 5. Split PDF into Pages (For R2 / Pages Viewer)
-          print("Splitting PDF into page-by-page PDFs...")
+          # 5. Split PDF into Individual Page PDFs
+          print(f"Splitting {total_pages} pages into individual page PDFs...")
           for page_idx in range(total_pages):
               page_num = page_idx + 1
               page_doc = fitz.open()
@@ -167,16 +166,25 @@ jobs:
           doc.close()
           print("Page splitting completed successfully!")
 
-          # Only copy full book.pdf if size <= 50MB; otherwise retain in external R2/LFS pointer
-          book_dest = os.path.join(edition_target, "book.pdf")
-          if total_bytes <= 50 * 1024 * 1024:
-              import shutil
-              shutil.copyfile(tmp_download_path, book_dest)
-              print(f"Copied book.pdf locally ({total_bytes / (1024*1024):.2f} MB).")
-          else:
-              print(f"File size {total_bytes / (1024*1024):.2f} MB exceeds 50MB. Retaining as external reference for R2/LFS.")
+          # CRITICAL ARCHITECTURAL RULE:
+          # NEVER commit original master PDF to Git repository!
+          # Master PDF in /tmp/ is destroyed when the runner finishes.
+          print("Original master PDF retained in /tmp/ only. Excluded from Git commit to preserve repository size.")
 
-          # 6. Generate edition.md
+          # 6. Extract Table of Contents (TOC) if available
+          toc_data = {
+              "edition": edition_name,
+              "academic_year": academic_year,
+              "total_pages": total_pages,
+              "units": [
+                  {"title": "முழுமையான புத்தகம் (Full Book)", "start_page": 1, "end_page": total_pages}
+              ]
+          }
+          toc_json_path = os.path.join(edition_target, "toc.json")
+          with open(toc_json_path, "w", encoding="utf-8") as f:
+              json.dump(toc_data, f, ensure_ascii=False, indent=2)
+
+          # 7. Generate edition.md
           edition_md_path = os.path.join(edition_target, "edition.md")
           with open(edition_md_path, "w", encoding="utf-8") as f:
               f.write(f"# பதிப்பு விவரக் குறிப்பு (Edition Details) — {academic_year} Official\n\n")
@@ -186,9 +194,9 @@ jobs:
               f.write(f"| **கல்வியாண்டு (Academic Year)** | `{academic_year}` |\n")
               f.write(f"| **பதிப்புப் பெயர் (Edition ID)** | `{edition_name}` |\n")
               f.write(f"| **மொத்தப் பக்கங்கள் (Page Count)** | `{total_pages}` |\n")
-              f.write(f"| **கோப்பின் அளவு (Size in Bytes)** | `{total_bytes:,} bytes` ({total_bytes / (1024*1024):.2f} MB) |\n")
-              f.write(f"| **SHA-256 Hash** | `{file_sha256}` |\n")
-              f.write(f"| **MD5 Hash** | `{file_md5}` |\n")
+              f.write(f"| **அசல் கோப்பின் அளவு (Master Size)** | `{total_bytes:,} bytes` ({total_bytes / (1024*1024):.2f} MB) |\n")
+              f.write(f"| **அசல் SHA-256 Hash** | `{file_sha256}` |\n")
+              f.write(f"| **அசல் MD5 Hash** | `{file_md5}` |\n")
               f.write(f"| **பதிவிறக்கப்பட்ட தேதி (Download Date)** | `{datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}` |\n")
               f.write(f"| **அதிகாரப்பூர்வ அரசு URL** | [{pdf_url}]({pdf_url}) |\n")
               f.write(f"| **நிலை (Status)** | `OFFICIAL_GOVERNMENT_SCERT_VERIFIED` |\n\n")
@@ -197,7 +205,7 @@ jobs:
               f.write(clean_imprint if clean_imprint else "No imprint text extracted")
               f.write("\n```\n")
 
-          # 7. Update editions.json
+          # 8. Update editions.json
           editions_json_path = os.path.join(subj_base, "editions.json")
           editions_data = {
               "subject": subject,
@@ -223,7 +231,7 @@ jobs:
           with open(editions_json_path, "w", encoding="utf-8") as f:
               json.dump(editions_data, f, ensure_ascii=False, indent=2)
 
-          print(f"Successfully created edition metadata and editions.json for {subject}!")
+          print(f"Successfully created edition metadata, toc.json, and editions.json for {subject}!")
           EOF
 
       - name: Create or Switch to Safe Test Branch
@@ -241,5 +249,5 @@ jobs:
           EDITION: ${{ github.event.inputs.edition_folder_name }}
         run: |
           git add "$SUBJECT/"
-          git commit -m "feat(scert): ingest official $SUBJECT $EDITION [pilot]" || exit 0
+          git commit -m "feat(scert): ingest official $SUBJECT $EDITION pages [zero master pdf in git]" || exit 0
           git push -u origin "$TARGET_BRANCH"
