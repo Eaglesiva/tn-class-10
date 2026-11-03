@@ -476,3 +476,132 @@ Stage 4–7 முடிவதற்கு முன் 1–12 Classes முழ
 | 6 | Sura Science Guide | Tamil Medium / Term 1 | [6th Standard Science Sura Sample PDF](https://samacheerkalvistudents.in/Guides/Guides%20Samacheer%20kalvi/6th%20std/Science/6th_science_sura_sample_guide_term_1_tm_219286.pdf) | 56-page Sample Copy; முழு Guide அல்ல |
 
 **இந்த PDF-களைப் பயன்படுத்தும் முன்:** PDF-ன் Cover / Copyright / Edition Page, Academic Year, Medium, Term மற்றும் Chapter Question Number ஆகியவற்றைச் சரிபார்க்க வேண்டும். PDF பக்க எண்ணிக்கை மட்டும் முழுமையான Answer Coverage-க்கு சான்று அல்ல.
+
+
+---
+
+## 15. Execution Protocol — ஒவ்வொரு Subject / Chapter-க்கும் பின்பற்ற வேண்டிய நடைமுறை
+
+இந்த Protocol தான் இனிமேல் புதிய Chat / AI பணியைத் தொடங்கும்போது பின்பற்ற வேண்டிய Default Order.
+
+### 15.1 Subject தொடங்கும் முன் — Book Version Gate (ஒருமுறை)
+
+ஒவ்வொரு Subject-க்கும் முதலில் அதன் முழுப் புத்தகத்தைப் பற்றிய விவரங்களை உறுதிப்படுத்த வேண்டும்:
+
+1. Class, Subject, Medium.
+2. Academic Year — தற்போது வேலை செய்யும் கல்வியாண்டு.
+3. Book Title / Edition / Reprint Year / Correction Year.
+4. Term-based book ஆ அல்லது Annual / Full-Year book ஆ.
+5. PDF Page Count, Contents / TOC, Chapter Names.
+6. Official Textbook Corporation / SCERT அறிவிப்புடன் Version Match.
+
+**Term விதி:** Term 1 / 2 / 3 என எல்லா வகுப்புகளுக்கும் தானாக எழுதக்கூடாது. அந்த Class-ன் உண்மையான Textbook Structure term-based என்றால் மட்டுமே Term field பயன்படுத்த வேண்டும். உதாரணமாக 10ஆம் வகுப்பு Tamil என்பது Annual / Full-Year book; Term 1 என்று பதிவு செய்ய வேண்டாம். 1–7 வகுப்புகளுக்கு 2026–27 Term-wise announcements உள்ளதால் அந்த வகுப்புகளின் உண்மையான புத்தகப் பிரிவுகளை தனியாகச் சரிபார்க்க வேண்டும்.
+
+### 15.2 ஒவ்வொரு Chapter-க்கும்
+
+| படி | வேலை | Output / Check |
+|---|---|---|
+| 1 | அந்த Chapter-ன் questions.md மற்றும் PDF Page Range கண்டறிதல் | Original Question Inventory |
+| 2 | questions.md-ல் உள்ள ஒவ்வொரு கேள்வியையும் PDF Page-க்கு எதிராகச் சரிபார்த்தல் | Correct / Typo / Missing / Extra / Unclear Status |
+| 3 | அசல் கேள்வியின் சொற்களைச் சரிசெய்ய வேண்டுமெனில் PDF ஆதாரம் இருந்தால் மட்டுமே திருத்துதல் | Verified questions.md |
+| 4 | Quiz-க்கு தகுதியான Objective Questions-ஐ மட்டும் குறித்தல் | Quiz Candidate List |
+| 5 | Round 1-ல் ஒரு நல்ல Direct Answer Source தேர்வு செய்தல் | குறிப்பிட்ட பாடத்திற்கான Source Page / PDF |
+| 6 | அந்த Source-ல் உள்ள கேள்வி வாரியான பதில்களை answers.md-ல் Reference ஆகச் சேகரித்தல் | Source 1 Answer Collection |
+| 7 | அந்த Source-ல் பதில் இல்லாத கேள்விகளை Missing எனக் குறித்தல்; தேவையானால் அதே கட்டத்தில் ஒரு கூடுதல் Source தேடுதல் | Honest Coverage Status |
+| 8 | Objective Questions-ன் Correct Answer-ஐ Textbook / நம்பகமான Answer Source-உடன் சரிபார்த்தல் | Quiz Answer Validation |
+| 9 | உறுதிசெய்யப்பட்ட Objective Questions-ஐ ஏற்கெனவே உள்ள 10th Tamil Quiz Format-ல் அமைத்தல் | quiz.md |
+| 10 | அதே Data-வை quiz.json-ல் அமைத்து இரண்டையும் ஒப்பிடுதல் | Valid JSON + Content Match |
+| 11 | Question Count, Correct Answer Count, Options, Explanations, PDF references ஆகியவற்றை QA செய்தல் | Chapter Completion Check |
+
+**ஒவ்வொரு பாடத்திலும் Answers முதலில், Quiz அதன் பிறகு.** இதனால் Quiz-ல் உள்ள Answer மற்றும் Explanation-க்கு முன்னதாக Source ஆதாரம் இருக்கும்.
+
+### 15.3 Quiz Explanation (காரண விளக்கம்) விதி
+
+- காரண விளக்கம் வெறும் அலங்கார உரையாக இருக்கக்கூடாது.
+- அது பாடத்தின் கருத்து / இலக்கண விதி / உரை பகுதியிலிருந்து ஆதரிக்கப்பட வேண்டும்.
+- BrainKart அல்லது Guide-ல் ஏற்கெனவே விளக்கம் இருந்தால் அதனை Reference-ஆகப் பயன்படுத்தலாம்.
+- Explanation Source-ல் இல்லாவிட்டால் Textbook-ல் உள்ள தொடர்புடைய பகுதியைச் சரிபார்த்து ஆதரிக்க வேண்டும்.
+- எந்த ஆதாரமும் இல்லாத நிலையில் AI தானாகக் காரணம் உருவாக்கக்கூடாது; REVIEW_REQUIRED என்று குறிக்க வேண்டும்.
+
+### 15.4 Source 1-ன் பங்கு
+
+ஒரு Direct Answer Website-ல் இருந்து முதற்கட்ட Reference Set உருவாக்குவது நோக்கம். இது Final Answer அல்லது முழு சுயாதீன Cross-verification என்று கருதப்படக்கூடாது.
+
+- அந்த Source-ல் உண்மையில் உள்ள கேள்வி / பதில்களையே பதிவு செய்ய வேண்டும்.
+- Source-ல் இல்லாத கேள்வியைத் தானாக நிரப்பக்கூடாது.
+- Source Answer மற்றும் Textbook Question பொருந்துகிறதா பார்க்க வேண்டும்.
+- பின்னர் Round 2 / 3-ல் மற்ற Guide / Website Source-களிலிருந்து ஒப்பீடு செய்ய வேண்டும்.
+- Quiz-ல் பயன்படுத்தப்படும் Objective Answer-களுக்கு குறைந்தது Textbook Context அல்லது இரண்டாவது நம்பகமான ஆதாரம் மூலம் தனி சரிபார்ப்பு இருக்க வேண்டும்.
+
+### 15.5 Subject முடிக்கும் முறை
+
+ஒரு Subject-ல் உள்ள எல்லா Chapters-க்கும்:
+- questions.md PDF Cross-check முடிந்திருக்க வேண்டும்.
+- answers.md-ல் கிடைத்த Source Answers அனைத்தும் பதிவு செய்யப்பட்டிருக்க வேண்டும்.
+- Quiz eligible questions அனைத்தும் மட்டும் quiz.md / quiz.json-ல் இருக்க வேண்டும்.
+- Missing / Conflict / Wrong Edition ஆகியவை வெளிப்படையாகக் குறிக்கப்பட்டிருக்க வேண்டும்.
+- இறுதியில் Subject-level coverage மற்றும் pending list தயாரிக்க வேண்டும்.
+
+பிறகுதான் அடுத்த Subject-க்கு செல்ல வேண்டும். எல்லா Subject-களின் Reference Collection முடிந்த பிறகே Final Answer Comparison மற்றும் நம்முடைய சொந்த Wording-ல் பதில் உருவாக்கும் கட்டம்.
+
+---
+
+## 16. Current Audit Finding — Class 10 Tamil Book Version (Provisional Warning)
+
+**Repository:** [Eaglesiva/tn-class-10](https://github.com/Eaglesiva/tn-class-10)
+
+GitHub Tree Audit-ல் Tamil Subject-க்கான PDF Page Files:
+- tamil/00_prelims/page_001.pdf முதல் page_010.pdf
+- பாட அத்தியாயங்களின் கீழ் தொடர்ச்சியாக page_011.pdf முதல் page_248.pdf
+- மொத்தம்: **248 individual one-page PDF files**.
+
+### 16.1 வெளிப்புற புத்தகப் பதிப்பு ஒப்பீடு
+
+- FreeTNBooks 10ஆம் வகுப்பு புத்தகப் பக்கம் 2024 Tamil PDF மற்றும் தனியாக “New” 2025 Tamil PDF என இரண்டு பதிவுகளை வேறுபடுத்துகிறது. 2025 Edition Tamil புத்தகம் வெளியிடப்பட்டதாகவும் அந்தப் பக்கம் குறிப்பிடுகிறது: [10th Standard Books](https://www.freetnbooks.com/10th-standard-books/).
+- மற்றொரு 2026 textbook index 2025 10th Tamil book-ஐ 184 pages என்றும் 2024 Tamil book-ஐ 248 pages என்றும் வேறுபடுத்துகிறது: [Class 10 Tamil Book 2026 listing](https://cbsetamil.com/ncert-tamil-book-for-class-10-pdf/).
+- Tamil Nadu Textbook and Educational Services Corporation 2026–27 Class 10 Annual Textbooks விற்பனை 10-04-2026 முதல் தொடங்கியதாக அறிவித்துள்ளது: [Official Textbook Corporation](https://textbookcorp.in/schools).
+- 2026–27-ல் Classes 4–12 பழைய syllabus-ஐத் தொடரும் என்றும் புதிய curriculum 2027–28-ல் அமல்படுத்தப்படுமென்றும் செய்தி அறிக்கைகள் தெரிவிக்கின்றன: [DT Next — Classes 4–12 textbook work](https://www.dtnext.in/news/tamilnadu/teachers-continue-with-classes-4-12-textbook-work-despite-new-regime-uncertainty), [New Indian Express — draft curriculum](https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/21/tn-revamps-syllabus-for-class-6-10-with-emphasis-on-critical-thinking).
+
+### 16.2 தற்போதைய நிலை / தீர்மானம்
+
+Repo-வில் உள்ள 248 page sequence, வெளியிடப்பட்ட 2024 Edition 248-page தகவலுடன் பொருந்துகிறது. 2025 Revised Tamil Edition 184 pages என்று மற்றொரு Source காட்டுகிறது. எனவே Repo-வில் உள்ள 248-page copy **2024 Edition ஆக இருக்கக்கூடிய வலுவான சாத்தியம் உள்ளது**.
+
+ஆனால் PDF Cover / Imprint / Edition Page-ஐ நேரடியாகப் படித்து, 2025 copy-யுடன் page-level content comparison முடிக்காமல் இதை 100% உறுதிப்படுத்தக்கூடாது.
+
+**தற்காலிக முடிவு:** தற்போதைய Repo PDF-ஐ 2026–27-க்கான Verified Current Edition என்று குறிக்க வேண்டாம். 2025 Revised Tamil PDF (அல்லது 2026–27 official reprint) கிடைத்து அதன் title page, revision imprint, TOC, lesson pages மற்றும் Book Back Questions ஒப்பிடப்படும் வரை Quiz Finalization-ஐ நிறுத்த வேண்டும்.
+
+### 16.3 Class 10 Tamil — முதற்கட்ட Answer Source Candidate
+
+[BrainKart — 10th Tamil, இயல் 1: அமுத ஊற்று — Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/)
+
+இந்தப் பக்கம் இயல் 1-க்கான Objective, குறுவினா, சிறுவினா, நெடுவினா வகை உள்ளடக்கங்களை வழங்குகிறது. அதே பாடத்திற்கான Subject Index-ல் பிற இயல்களுக்கும் தனிப்பட்ட Questions & Answers பதிவுகள் உள்ளன: [BrainKart 10th Tamil Subject Index](https://www.brainkart.in/subject/Tamil-10th-Std_396).
+
+இது Round 1 Source Candidate மட்டுமே; பக்கம் 2022-ல் வெளியிடப்பட்டது. Current 2026–27 Textbook-உடன் ஒவ்வொரு கேள்வியும் பொருந்துகிறதா என்பதைக் கட்டாயம் சரிபார்க்க வேண்டும். இந்த Source-ல் இல்லாத கேள்விகளுக்கு பதில் உள்ளது என்று கருதக்கூடாது.
+
+### 16.4 Existing Class 10 Tamil Unit 1 File Cross-check Note
+
+தற்போதைய Repository-ல்:
+- [questions.md — Unit 1](https://github.com/Eaglesiva/tn-class-10/blob/main/tamil/01_mozhi_amuthaootru/book_back_questions/questions.md)
+- [quiz.md — Unit 1](https://github.com/Eaglesiva/tn-class-10/blob/main/tamil/01_mozhi_amuthaootru/book_back_questions/quiz.md)
+
+இரண்டிலும் சில சொல் / Option வேறுபாடுகள் உள்ளன. உதாரணமாக:
+- questions.md-ல் “எந்தமிழ்நா”; quiz.md-ல் “எண்தமிழ்நா” என்று உள்ளது.
+- ஒரு கேள்வியின் பெயர்/சொல் மற்றும் சில Options-ன் wording / ordering மாறுபடுகின்றன.
+
+இவை எது சரி என்று இப்போது தீர்மானிக்கக்கூடாது. சரியான 2026–27 Textbook Page-ஐப் பார்த்தே உறுதி செய்ய வேண்டும். தற்போதைய quiz.md-ன் **format**-ஐ மட்டும் Reference-ஆகப் பயன்படுத்தலாம்; அதில் உள்ள Question Content-ஐ Verified என்று கருதக்கூடாது.
+
+மேலும் questions.md-ல் உள்ள file:///e:/... போன்ற Local Computer Links மற்ற AI-க்கு அணுக முடியாது. Cross-check முடிந்தபின் அவற்றை Repository-relative link அல்லது GitHub Page Link-ஆக மாற்ற வேண்டும்.
+
+---
+
+## 17. புதிய Chat / AI-க்கு உடனடி அடுத்த செயல்
+
+1. முதலில் Section 16-ல் உள்ள Class 10 Tamil Version Warning-ஐத் தீர்க்க வேண்டும்.
+2. 2025 Revised / 2026–27 current Tamil textbook PDF-ஐப் பெற்று Cover, Revision Imprint, TOC, Chapter-1 pages, Book Back exercise pages ஆகியவற்றை பழைய Repo copy-யுடன் ஒப்பிட வேண்டும்.
+3. அது சரியான Current Edition என்று உறுதியான பின், Unit 1 questions.md-ஐ PDF-க்கு எதிராகத் திருத்த / உறுதி செய்ய வேண்டும்.
+4. BrainKart Unit 1 Direct Answer Page-ல் உள்ள ஒவ்வொரு கேள்வியையும் questions.md-உடன் ஒப்பிட்டு, Source 1 answers-ஐ answers.md-ல் பதிவு செய்ய வேண்டும்.
+5. அடுத்து Unit 1-ன் Objective questions-ஐ மட்டும் எடுத்துக் கொண்டு, ஆதாரமுள்ள Correct Answer மற்றும் உண்மையான Explanation உடன் quiz.md / quiz.json உருவாக்க / சரிபார்க்க வேண்டும்.
+6. Unit 1 முடிந்ததும் Unit 2-க்கு இதே நடைமுறையை மீண்டும் செய்ய வேண்டும்.
+7. எல்லா Tamil Chapters முடிந்த பின் Tamil Subject-level Audit முடித்து அடுத்த Subject-க்கு செல்ல வேண்டும்.
+
+**நிறுத்த வேண்டிய நிலை:** சரியான Book Edition உறுதி ஆகவில்லை என்றால், Source Answer Research-ஐ முன்னெடுத்துச் செல்லலாம்; ஆனால் அந்தப் பழைய புத்தகத்தின் PDF Page References அல்லது Quiz-ஐ Current Edition என்று Finalize செய்யக்கூடாது.
