@@ -1,0 +1,78 @@
+{
+  "edition": "2026-27-scert-official",
+  "academic_year": "2026-27",
+  "printed_edition": "2024 Revised Edition (29/02/2024 Imprint)",
+  "total_pages": 248,
+  "units": [
+    {
+      "unit_id": 0,
+      "title": "முகப்பு & பொருளடக்கம் (Prelims)",
+      "start_page": 1,
+      "end_page": 10,
+      "page_count": 10
+    },
+    {
+      "unit_id": 1,
+      "title": "இயல் 1: மொழி - அமுதஊற்று",
+      "start_page": 11,
+      "end_page": 35,
+      "page_count": 25
+    },
+    {
+      "unit_id": 2,
+      "title": "இயல் 2: இயற்கை, சுற்றுச்சூழல் - கேட்கிறதா என்குரல்",
+      "start_page": 36,
+      "end_page": 59,
+      "page_count": 24
+    },
+    {
+      "unit_id": 3,
+      "title": "இயல் 3: பண்பாடு - விருந்து போற்றுதும்",
+      "start_page": 60,
+      "end_page": 85,
+      "page_count": 26
+    },
+    {
+      "unit_id": 4,
+      "title": "இயல் 4: அறிவியல், தொழில்நுட்பம் - செயற்கை நுண்ணறிவு",
+      "start_page": 86,
+      "end_page": 109,
+      "page_count": 24
+    },
+    {
+      "unit_id": 5,
+      "title": "இயல் 5: கல்வி - மொழிபெயர்ப்புக் கல்வி",
+      "start_page": 110,
+      "end_page": 137,
+      "page_count": 28
+    },
+    {
+      "unit_id": 6,
+      "title": "இயல் 6: கலை, அழகியல் - பன்முகக் கலைஞர்",
+      "start_page": 138,
+      "end_page": 169,
+      "page_count": 32
+    },
+    {
+      "unit_id": 7,
+      "title": "இயல் 7: நாகரிகம், நாடு, சமூகம் - சிற்றகல் ஒளி",
+      "start_page": 170,
+      "end_page": 193,
+      "page_count": 24
+    },
+    {
+      "unit_id": 8,
+      "title": "இயல் 8: அறம், தத்துவம் - சங்க இலக்கியத்தில் அறம்",
+      "start_page": 194,
+      "end_page": 213,
+      "page_count": 20
+    },
+    {
+      "unit_id": 9,
+      "title": "இயல் 9: மனிதம், ஆளுமை - ஜெயகாந்தம் நினைவு இதழ்",
+      "start_page": 214,
+      "end_page": 248,
+      "page_count": 35
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "subject": "tamil",
+  "active_edition": "legacy-production",
+  "editions": [
+    {
+      "id": "legacy-production",
+      "title": "தற்போதைய தயாரிப்பு பதிப்பு (2024 Revised / Production)",
+      "type": "production",
+      "structure": "unit_folders",
+      "pages_manifest": "pages.json",
+      "printed_edition": "2024 Revised Edition",
+      "total_pages": 248
+    },
+    {
+      "id": "2026-27-scert-official",
+      "title": "அதிகாரப்பூர்வ அரசு பதிப்பு (2026-27)",
+      "type": "official_scert",
+      "structure": "page_files",
+      "folder": "editions/2026-27-scert-official",
+      "printed_edition": "2024 Revised Edition (29/02/2024 Imprint)",
+      "academic_year": "2026-27",
+      "total_pages": 248,
+      "md5": "47d5859ae1740f4a7aabd17683e9a3e7",
+      "sha256": "f638511d715c9ca8b1b7941bcb0e8e9f984b0e52a2b9091ee805dfd8b3ea3e02",
+      "url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/10th_Tamil_Text.pdf"
+    }
+  ]
+}
