@@ -605,3 +605,104 @@ Repo-வில் உள்ள 248 page sequence, வெளியிடப்ப
 7. எல்லா Tamil Chapters முடிந்த பின் Tamil Subject-level Audit முடித்து அடுத்த Subject-க்கு செல்ல வேண்டும்.
 
 **நிறுத்த வேண்டிய நிலை:** சரியான Book Edition உறுதி ஆகவில்லை என்றால், Source Answer Research-ஐ முன்னெடுத்துச் செல்லலாம்; ஆனால் அந்தப் பழைய புத்தகத்தின் PDF Page References அல்லது Quiz-ஐ Current Edition என்று Finalize செய்யக்கூடாது.
+
+
+---
+
+## 18. User Clarification + Cloudflare / Current-Book Verification Update (03-11-2026)
+
+### 18.1 User's authoritative rule for textbook version
+
+The project must use the textbook that students are actually studying in the **current academic year (2026–27)**. Do not assume a future year's planned syllabus, draft curriculum or proposed new edition is relevant.
+
+For each supplied book, verify whether it matches the currently used student copy. A book may retain an older First Edition year while having a newer Revised Edition / Reprint / Correction. Therefore:
+- First Edition year alone does not identify the current version.
+- Reprint year alone does not prove content changed.
+- Revised Edition / correction information, textbook contents, chapter structure, question text, page count and official current-year distribution must be compared together.
+- If the same book was reprinted with corrections, record the correction/revision evidence and verify affected pages.
+- If a substantially revised book has a new page count / TOC / unit structure, treat it as a different content version until verified.
+
+**The user's supplied current book is the primary reference for question wording and scope once it is confirmed to match the current student edition.** Answer Websites such as BrainKart may be older. They are answer sources only: do not make the current questions fit an older website. Use an old Answer Source only where the underlying question and textbook context actually match; otherwise mark it as a mismatch and look for another source.
+
+### 18.2 Cloudflare Pages URL supplied by user
+
+- User-provided site: [https://tn-class-10.pages.dev/](https://tn-class-10.pages.dev/)
+- The site is understood to be the Cloudflare Pages deployment of the same Class 10 GitHub repository.
+- Its page links are relative, for example:
+  - `./viewer.html?pdf=./tamil/00_prelims/page_001.pdf`
+  - `./tamil/00_prelims/page_001.pdf`
+- During this audit, the browser/web retrieval layer returned “URL is not accessible via this tool” for both the Cloudflare root and direct PDF route. This is a tool-access limitation; it does **not** establish that the site is broken for ordinary browsers.
+- GitHub Repository access is working. The GitHub connector can read text files such as `index.html`, `viewer.html`, `questions.md`, `quiz.md`, and the recursive file Tree. It can retrieve PDF file bytes as Base64, but this connector response does not itself render PDF pages visually.
+- The current Cloudflare deployment is a useful alternate page-viewing route for a browser that can access it. If direct PDF rendering is unavailable in the assistant's tools, record that limitation honestly; do not claim to have visually inspected the page.
+
+### 18.3 Class 10 Tamil — comparison evidence
+
+**Repo / Cloudflare index evidence (GitHub API):**
+- Repository: [Eaglesiva/tn-class-10](https://github.com/Eaglesiva/tn-class-10)
+- [Class 10 index.html](https://github.com/Eaglesiva/tn-class-10/blob/main/index.html) describes the site as the Class 10 annual textbook edition / digitised printed pages.
+- Its Tamil section reports **248 pages**.
+- It lists 9 Tamil lesson folders / units:
+  1. mozhi_amuthaootru
+  2. iyarkai_kaetkiradhaa
+  3. panpaadu_virundhu
+  4. ariviyal_seyarkai_nunnarivu
+  5. kalvi_mozhipeyarppu
+  6. kalai_panmugak_kalaignar
+  7. naagarigam_sirragal_oli
+  8. aram_sangailakkiyam
+  9. manidham_jeyakaandham
+- The PDF page files are split one page per file from `tamil/00_prelims/page_001.pdf` onward, continuing through `page_248.pdf`.
+
+**Publicly viewable 2025 Revised Tamil textbook evidence:**
+- [10th Tamil new book 2025–2026 — TAMILVITHAI FlipHTML5](https://fliphtml5.com/bison/xbxt/10th_Tamil_new_book_2025_-_2026/)
+- The publication view contains **184 pages** (pages P:01 through P:184).
+- Its second printed page states: First Edition 2019; Revised Editions 2020, 2021, 2022, 2023, 2024 and 2025; SCERT / Tamil Nadu Textbook and Educational Services Corporation details are printed on the page.
+- Its Contents pages show **7 iyals**, not 9:
+  1. மொழி, மனிதம்
+  2. இயற்கை, சுற்றுச்சூழல், அறிவியல்
+  3. பண்பாடு
+  4. கல்வி
+  5. கலை, அழகியல், புதுமை
+  6. நாகரிகம், நாடு, சமூகம்
+  7. அறம், தத்துவம், சிந்தனை
+- The book's first Iyal begins with the same broad title group “மொழி, மனிதம்”; its contents include “அன்னை மொழியே”, “அமுதஊற்று”, “தமிழ்ச்சொல் வளம்”, etc.
+- Page 184 is present as the final page in the publication view.
+
+**Current academic-year distribution evidence:**
+- [Tamil Nadu Textbook and Educational Services Corporation — Schools](https://textbookcorp.in/schools) states that the 2026–27 annual Tamil textbooks for Classes 1–10 and the annual books for Classes 9, 10 and 12 (Tamil and English Medium) went on sale from 10-04-2026.
+- [Padasalai Class 10 2026–27 textbook page](https://www.padasalai.net/2026/05/Tamilnadu-Class-10-Text-Books-PDF-Download-2026-2027.html) separately lists 2026–27 Class 10 Tamil Medium and English Medium textbooks for Tamil, English, Maths, Science and Social Science. This is an index / distribution source, not the Government publisher itself.
+- [CBSE Tamil Class 10 textbook comparison page](https://cbsetamil.com/ncert-tamil-book-for-class-10-pdf/) labels the 2025 Class 10 Tamil book as 184 pages and the 2024 book as 248 pages, and describes the 2025 book as current for 2026–27. This is a secondary comparison source; use the printed book / official distribution evidence as the authority.
+
+### 18.4 Provisional finding — do not use repo Tamil PDF as the current book yet
+
+There is a **strong structural mismatch**:
+- Repo Tamil: 248 pages and 9 lesson folders.
+- Public 2025 Revised Tamil book: 184 pages and 7 iyals.
+
+The 2025 book publication also displays the 2025 revised-edition imprint. Official textbook distribution confirms 2026–27 annual Tamil books for Classes 1–10 are in the current distribution cycle.
+
+Therefore, the current Repo Tamil PDF is **likely an older 248-page version**, while the 2025 Revised 184-page textbook is the leading candidate for the current 2026–27 student edition.
+
+This remains a **strong provisional finding**, not a final visual audit of the supplied Repo PDF: the assistant's web/browser layer could not open the Cloudflare PDF page, and the GitHub PDF connector returned binary Base64 rather than a visual page. Before marking the Repo copy definitively “old”, compare the actual PDF's cover / imprint / contents / selected page images against the 184-page revised copy or an official 2026–27 issued copy.
+
+**Do not generate or finalize current-year Tamil quiz data using the 248-page Repo book until this mismatch is resolved.** Preserve it as a legacy reference if needed.
+
+### 18.5 Unit 1 Question wording clue
+
+The 2025 Revised 184-page publication's first Iyal text includes the printed form **“எந்தமிழ்நா”** in the poem / prose section. The current Repo `questions.md` uses “எந்தமிழ்நா”, while the existing `quiz.md` has “எண்தமிழ்நா” in one question. This supports checking the original current textbook before copying quiz wording. It does not make the existing quiz question verified.
+
+### 18.6 Correct next actions for Class 10 Tamil
+
+1. Use the user's Cloudflare site and GitHub paths as the Repo-copy locator. Attempt the direct PDF / viewer route when tools support it; if not, record that page-level visual inspection was unavailable.
+2. Obtain / open the 2025 Revised 184-page Tamil textbook or an official 2026–27 issued copy.
+3. Compare cover, imprint, contents, total pages, all 7 Iyal titles, and Book Back evaluation pages against the Repo's 248-page / 9-folder structure.
+4. If confirmed mismatch, label the existing Repo files as Legacy / Old Edition in the audit notes; do not destructively delete them.
+5. Create or point to the correct current PDF page set before editing questions.md.
+6. Verify the existing extracted questions against the current book. Preserve exact printed question wording and source page references.
+7. Only after that, use BrainKart or another Answer Source as an answer reference. Compare each Answer Source question with the current textbook question before using it.
+8. Create answers.md Source 1 records for all question types found. Mark missing answers honestly.
+9. Derive quiz.md / quiz.json from verified objective questions and verified answers; preserve the existing Class 10 Tamil quiz presentation format, but do not blindly preserve the old quiz question text or answers.
+
+### 18.7 Scope across other Classes
+
+The supplied Cloudflare URL is specifically named `tn-class-10.pages.dev`. Do not infer Cloudflare hostnames for other classes. For Classes 1–12, obtain / verify the correct GitHub Repository or Cloudflare Pages URL for each class, then repeat the same Current-Book Version Gate at subject / medium / term level. A general URL pattern must not be invented.
