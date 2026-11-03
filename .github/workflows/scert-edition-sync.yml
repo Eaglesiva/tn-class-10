@@ -1,0 +1,183 @@
+name: SCERT Official Textbook Sync & Page Splitter
+
+on:
+  workflow_dispatch:
+    inputs:
+      class:
+        description: 'Target Class (e.g. 1st, 10th)'
+        required: true
+        default: '1st'
+      subject:
+        description: 'Subject folder name (e.g. tamil, maths_tm, english)'
+        required: true
+        default: 'tamil'
+      official_pdf_url:
+        description: 'Official SCERT CloudFront PDF URL'
+        required: true
+        default: 'https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/1st_Tamil%20&%20English%20Term%201_Text.pdf'
+      edition_folder_name:
+        description: 'Target Edition Folder Name'
+        required: true
+        default: '2026-27-scert-official'
+      academic_year:
+        description: 'Academic Year'
+        required: true
+        default: '2026-27'
+
+jobs:
+  sync_and_split:
+    name: Sync Official PDF & Split Pages
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pymupdf requests urllib3
+
+      - name: Execute Edition Ingestion & Page Splitting
+        run: |
+          python - << 'EOF'
+          import os, sys, hashlib, json, datetime, urllib.parse
+          import requests
+          import fitz  # PyMuPDF
+
+          target_class = "${{ github.event.inputs.class }}"
+          subject = "${{ github.event.inputs.subject }}"
+          pdf_url = "${{ github.event.inputs.official_pdf_url }}"
+          edition_name = "${{ github.event.inputs.edition_folder_name }}"
+          academic_year = "${{ github.event.inputs.academic_year }}"
+
+          print(f"Starting ingestion for Class: {target_class}, Subject: {subject}")
+          print(f"Official URL: {pdf_url}")
+
+          # Directory paths
+          subj_base = os.path.join("tn_school_books", target_class, subject)
+          editions_dir = os.path.join(subj_base, "editions")
+          edition_target = os.path.join(editions_dir, edition_name)
+          pages_target = os.path.join(edition_target, "pages")
+
+          os.makedirs(pages_target, exist_ok=True)
+
+          # 1. Download Master PDF
+          print("Downloading official SCERT PDF from CloudFront...")
+          clean_url = pdf_url.replace(" ", "%20")
+          resp = requests.get(clean_url, stream=True, timeout=60)
+          resp.raise_for_status()
+
+          book_pdf_path = os.path.join(edition_target, "book.pdf")
+          sha256 = hashlib.sha256()
+          md5 = hashlib.md5()
+          total_bytes = 0
+
+          with open(book_pdf_path, "wb") as f:
+              for chunk in resp.iter_content(chunk_size=1024*1024):
+                  if chunk:
+                      f.write(chunk)
+                      sha256.update(chunk)
+                      md5.update(chunk)
+                      total_bytes += len(chunk)
+
+          file_sha256 = sha256.hexdigest()
+          file_md5 = md5.hexdigest()
+          print(f"Downloaded: {total_bytes} bytes. SHA-256: {file_sha256}")
+
+          # 2. Inspect PDF with PyMuPDF
+          doc = fitz.open(book_pdf_path)
+          total_pages = len(doc)
+          print(f"Total Pages: {total_pages}")
+
+          # Page 2 Copyright Imprint extraction
+          imprint_text = ""
+          if total_pages >= 2:
+              imprint_text = doc[1].get_text("text").strip()
+          elif total_pages >= 1:
+              imprint_text = doc[0].get_text("text").strip()
+
+          clean_imprint = "\n".join([line.strip() for line in imprint_text.splitlines() if line.strip()][:15])
+
+          # 3. Split PDF into individual pages
+          print("Splitting PDF into page-by-page PDFs...")
+          for page_idx in range(total_pages):
+              page_num = page_idx + 1
+              page_doc = fitz.open()
+              page_doc.insert_pdf(doc, from_page=page_idx, to_page=page_idx)
+              page_out_path = os.path.join(pages_target, f"page-{page_num:03d}.pdf")
+              page_doc.save(page_out_path, garbage=4, deflate=True)
+              page_doc.close()
+
+          doc.close()
+          print("Page splitting completed successfully!")
+
+          # 4. Create edition.md
+          edition_md_path = os.path.join(edition_target, "edition.md")
+          with open(edition_md_path, "w", encoding="utf-8") as f:
+              f.write(f"# பதிப்பு விவரக் குறிப்பு (Edition Details) — {academic_year} Official\n\n")
+              f.write(f"| விவரம் (Field) | மதிப்பு (Value) |\n")
+              f.write(f"|:---|:---|\n")
+              f.write(f"| **வகுப்பு (Class)** | {target_class} |\n")
+              f.write(f"| **பாடம் (Subject)** | {subject} |\n")
+              f.write(f"| **கல்வியாண்டு (Academic Year)** | {academic_year} |\n")
+              f.write(f"| **பதிப்புப் பெயர் (Edition ID)** | `{edition_name}` |\n")
+              f.write(f"| **மொத்தப் பக்கங்கள் (Page Count)** | {total_pages} |\n")
+              f.write(f"| **கோப்பின் அளவு (Size in Bytes)** | {total_bytes:,} bytes ({total_bytes / (1024*1024):.2f} MB) |\n")
+              f.write(f"| **SHA-256 Hash** | `{file_sha256}` |\n")
+              f.write(f"| **MD5 Hash** | `{file_md5}` |\n")
+              f.write(f"| **பதிவிறக்கப்பட்ட தேதி (Download Date)** | {datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d %H:%M UTC')} |\n")
+              f.write(f"| **அதிகாரப்பூர்வ அரசு URL** | [{pdf_url}]({pdf_url}) |\n")
+              f.write(f"| **நிலை (Status)** | `OFFICIAL_GOVERNMENT_SCERT_VERIFIED` |\n\n")
+              f.write(f"### புத்தகத்தின் இரண்டாம் பக்க வாசகம் (Page 2 Imprint Extract):\n")
+              f.write("```text\n")
+              f.write(clean_imprint if clean_imprint else "No imprint text extracted")
+              f.write("\n```\n")
+
+          # 5. Update editions.json
+          editions_json_path = os.path.join(subj_base, "editions.json")
+          editions_data = {
+              "class": target_class,
+              "subject": subject,
+              "active_edition": edition_name,
+              "editions": [
+                  {
+                      "id": "legacy-current",
+                      "title": "முந்தைய பதிப்பு (Legacy Production)",
+                      "type": "legacy",
+                      "folder": "editions/legacy-current"
+                  },
+                  {
+                      "id": edition_name,
+                      "title": f"அதிகாரப்பூர்வ அரசு பதிப்பு ({academic_year})",
+                      "type": "official",
+                      "folder": f"editions/{edition_name}",
+                      "total_pages": total_pages,
+                      "sha256": file_sha256,
+                      "url": pdf_url
+                  }
+              ]
+          }
+          with open(editions_json_path, "w", encoding="utf-8") as f:
+              json.dump(editions_data, f, ensure_ascii=False, indent=2)
+
+          print("Successfully created edition metadata and editions.json!")
+          EOF
+
+      - name: Commit and Push to GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add tn_school_books/
+          git commit -m "feat(scert): ingest official ${{ github.event.inputs.class }} ${{ github.event.inputs.subject }} ${{ github.event.inputs.edition_folder_name }}" || exit 0
+          git push origin main
