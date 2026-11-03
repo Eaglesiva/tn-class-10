@@ -1,0 +1,134 @@
+name: SCERT Page 2 Preview & Imprint Inspector (Preview-First)
+
+on:
+  workflow_dispatch:
+    inputs:
+      official_pdf_url:
+        description: 'Official SCERT CloudFront PDF URL'
+        required: true
+        default: 'https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/1st_Tamil%20&%20English%20Term%201_Text.pdf'
+      label:
+        description: 'Descriptive Label (e.g. Class 1 Tamil & English Term 1)'
+        required: false
+        default: 'Class 1 Tamil & English Term 1'
+
+jobs:
+  preview_page2:
+    name: Extract Page 2 Imprint & Render Image
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+
+    steps:
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: pip install pymupdf requests urllib3
+
+      - name: Fetch PDF & Render Page 2
+        env:
+          INPUT_URL: ${{ github.event.inputs.official_pdf_url }}
+          INPUT_LABEL: ${{ github.event.inputs.label }}
+        run: |
+          python - << 'EOF'
+          import os, sys, hashlib, urllib.parse, datetime
+          import requests
+          import fitz  # PyMuPDF
+
+          url = os.environ.get("INPUT_URL", "").strip()
+          label = os.environ.get("INPUT_LABEL", "SCERT Book").strip()
+
+          allowed_prefix = "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/"
+          if not url.startswith(allowed_prefix):
+              print(f"Error: URL must begin with {allowed_prefix}")
+              sys.exit(1)
+
+          # Sanitize URL without double-encoding %20
+          parsed = urllib.parse.urlsplit(url)
+          clean_path = urllib.parse.quote(urllib.parse.unquote(parsed.path))
+          clean_url = urllib.parse.urlunsplit((parsed.scheme, parsed.netloc, clean_path, parsed.query, parsed.fragment))
+
+          print(f"Streaming and downloading PDF from {clean_url}...")
+          resp = requests.get(clean_url, stream=True, timeout=90, headers={"User-Agent": "Mozilla/5.0 SCERT-Preview"})
+          resp.raise_for_status()
+
+          tmp_dir = "/tmp/scert_preview"
+          os.makedirs(tmp_dir, exist_ok=True)
+          tmp_pdf = os.path.join(tmp_dir, "book.pdf")
+
+          sha256 = hashlib.sha256()
+          md5 = hashlib.md5()
+          total_bytes = 0
+
+          with open(tmp_pdf, "wb") as f:
+              for chunk in resp.iter_content(chunk_size=1024*1024):
+                  if chunk:
+                      f.write(chunk)
+                      sha256.update(chunk)
+                      md5.update(chunk)
+                      total_bytes += len(chunk)
+
+          file_sha256 = sha256.hexdigest()
+          file_md5 = md5.hexdigest()
+          print(f"Downloaded {total_bytes:,} bytes ({total_bytes / (1024*1024):.2f} MB).")
+
+          doc = fitz.open(tmp_pdf)
+          total_pages = len(doc)
+          print(f"Total Pages: {total_pages}")
+
+          # Page 2 Imprint
+          imprint_text = ""
+          target_page_idx = 1 if total_pages >= 2 else 0
+          target_page = doc[target_page_idx]
+          imprint_text = target_page.get_text("text").strip()
+
+          # Render high-res PNG image of Page 2
+          pix = target_page.get_pixmap(dpi=150)
+          png_path = os.path.join(tmp_dir, "page_2_imprint.png")
+          pix.save(png_path)
+          doc.close()
+
+          # Write Step Summary for GitHub UI
+          summary_path = os.environ.get("GITHUB_STEP_SUMMARY", "summary.md")
+          with open(summary_path, "a", encoding="utf-8") as f:
+              f.write(f"## 📖 SCERT Page 2 Preview: {label}\n\n")
+              f.write(f"- **URL:** `{clean_url}`\n")
+              f.write(f"- **கோப்பின் அளவு (Size):** `{total_bytes:,} bytes` ({total_bytes / (1024*1024):.2f} MB)\n")
+              f.write(f"- **மொத்தப் பக்கங்கள் (Total Pages):** `{total_pages}`\n")
+              f.write(f"- **SHA-256:** `{file_sha256}`\n")
+              f.write(f"- **MD5:** `{file_md5}`\n\n")
+              f.write(f"### 🔍 இரண்டாம் பக்க அச்சு விவரங்கள் (Page 2 Imprint Text):\n\n")
+              f.write("```text\n")
+              f.write(imprint_text if imprint_text else "No text extracted from page 2")
+              f.write("\n```\n\n")
+              f.write("> [!TIP]\n")
+              f.write("> Page 2 PNG உயர் தெளிவுத்திறன் படம் இந்த Run-ன் Artifacts பகுதியில் பதிவிறக்கம் செய்யக் கிடைக்கிறது (`page-2-preview-image`).\n")
+
+          # Write machine-readable preview json
+          preview_meta = {
+              "label": label,
+              "url": clean_url,
+              "size_bytes": total_bytes,
+              "total_pages": total_pages,
+              "sha256": file_sha256,
+              "md5": file_md5,
+              "imprint_extract": imprint_text,
+              "checked_at": datetime.datetime.now(datetime.timezone.utc).isoformat()
+          }
+          with open(os.path.join(tmp_dir, "preview.json"), "w", encoding="utf-8") as f:
+              json.dump(preview_meta, f, ensure_ascii=False, indent=2)
+
+          print("Preview extraction complete!")
+          EOF
+
+      - name: Upload Page 2 Preview Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: page-2-preview-image
+          path: |
+            /tmp/scert_preview/page_2_imprint.png
+            /tmp/scert_preview/preview.json
+          retention-days: 7
