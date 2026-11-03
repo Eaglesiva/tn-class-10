@@ -923,3 +923,159 @@ Prioritize:
 4. Classes 8, 9, 10, 11, 12 — verify each 2026–27 annual book and its internal edition / reprint page.
 
 **Rule:** No mass deletion, no blind overwrite, no global “all 2024 books are old” assumption. Audit first; then archive, reuse, re-extract or update each subject based on evidence.
+
+
+---
+
+## 20. Official Current-Edition Verification — Government Sources and Decision Rules (03-11-2026)
+
+### 20.1 The core rule
+
+Do not determine the current school textbook from the imprint year alone.
+
+A book can say "Revised Edition 2024" and still remain the prescribed 2026–27 textbook if the same content continues to be distributed. A book can have a 2025 printing / revision and still be superseded. A fresh 2026 reprint may reproduce a 2024 revised edition without changing lesson content.
+
+Always separate these fields:
+- First Edition year
+- Revised Edition year
+- Reprint / printing year
+- Academic Year prescribed for school use
+- Term / Volume
+- Current syllabus / content structure
+- Actual issue supplied to students in the target academic year
+
+The **current school-issued book** is the authority for question extraction. The most recent imprint year is only bibliographic evidence.
+
+### 20.2 Official Government sources checked
+
+| Priority | Official source | Link | What it proves | What it does not prove |
+|---|---|---|---|---|
+| 1 | Tamil Nadu Textbook and Educational Services Corporation | [Official School / Distribution Notices](https://www.textbookcorp.in/schools) | 2026–27 class / term / annual textbook sale and distribution notices; obsolete book notices | Does not list each Subject's internal Revision Year, page count or direct public PDF link |
+| 2 | Tamil Nadu Textbook and Educational Services Corporation | [Official Home](https://www.textbookcorp.in/) | Current 2026–27 distribution notice and official contact routes | Not a full public edition-history catalogue |
+| 3 | Legacy official online textbook portal listed by India.gov | [textbookcorp.tn.gov.in](https://textbookcorp.tn.gov.in/) and [textbooksonline.tn.nic.in](https://textbooksonline.tn.nic.in/) | India.gov identifies the Corporation website as a place where school textbooks can be read online | During the assistant's check, the old domains returned timeout / 502 / access errors. This is tool access failure, not proof that all users cannot open them. Verify manually in a normal browser before relying on a PDF |
+| 4 | SCERT / School Education digital learning platform | [TN DIKSHA](https://diksha.gov.in/tn/) | SCERT-curated curriculum-linked e-content, QR textbook resources and learning materials | Not confirmed as a complete downloadable PDF archive of every 2026–27 textbook |
+| 5 | School Education learning resources | [Manarkeni](https://manarkeni.tnschools.gov.in/) | Public indexed pages expose Class / Subject / Medium / Chapter e-Book, Download and Book Preview resources | A complete current full-book catalogue for every class / medium was not confirmed |
+| 6 | Official contact | [Textbook Corporation Contact](https://textbookcorp.in/schools/contact) | Direct email and regional offices for resolving edition / distribution questions | Contact support is required when a public edition-history answer is not published |
+
+**Important:** The current Textbook Corporation public Website is primarily a distribution / sales notice and school-order portal. It is not presently a complete public "Edition History" register with every Class × Subject × Medium × Term and downloadable official PDF.
+
+### 20.3 Official 2026–27 distribution facts (as published by the Corporation)
+
+The Corporation's School Notices currently state:
+
+| Classes | 2026–27 official distribution structure | Published start date |
+|---|---|---|
+| 1–3 | Term-I, TM / EM / minority languages | 25-05-2026 |
+| 1–3 | Term-II, TM / EM / minority languages | 22-09-2026 |
+| 4–7 | Term-I, TM / EM | 14-05-2026 |
+| 1–7 | Term-II, TM / EM / minority languages | 22-09-2026 |
+| 8 and 11 | Annual textbooks, TM / EM | 14-05-2026 |
+| 9, 10 and 12 | Annual textbooks, TM / EM | 10-04-2026 |
+| Tamil Textbooks | Classes 1–10 Annual Tamil textbook sale | 10-04-2026 |
+
+Official references:
+- [Textbook Corporation 2026–27 Notices](https://www.textbookcorp.in/schools)
+- [Textbook Corporation Contact](https://textbookcorp.in/schools/contact)
+
+**Obsolete-book warning:** The Corporation explicitly states that Classes 1–3 Term-I books printed during academic year 2025–26 are now obsolete and are sold at a discount for competitive-exam aspirants. Do not classify those books as current 2026–27 school textbooks. The current 2026–27 Term-I and Term-II books have separate distribution announcements.
+
+### 20.4 Curriculum transition — Classes 1–3 vs Classes 4–12
+
+A May 2026 report citing School Education Department officials says:
+- Classes 1–3 receive newly designed syllabus textbooks for 2026–27.
+- Classes 4–12 receive a new set of textbooks under the existing / old syllabus for 2026–27.
+- The broader curriculum revision is planned for 2027–28.
+
+Reference: [DT Next — 13 May 2026](https://www.dtnext.in/amp/story/news/tamilnadu/teachers-continue-with-classes-4-12-textbook-work-despite-new-regime-uncertainty).
+
+A separate August 2026 report says SCERT released draft curriculum for Classes 6–10 for public feedback under the Tamil Nadu Curriculum Framework 2025. A draft is not the same as a final implemented textbook. Do not use a proposed 2027–28 curriculum to replace the current 2026–27 student book.
+
+### 20.5 Class 10 Tamil — evidence and correct interpretation
+
+Current evidence:
+1. Repo's existing Tamil files were catalogued by Antigravity as a 2024-imprint book with 9 Iyal groups.
+2. In March 2025, TamilVithai published a 2025–26 Class 10 Tamil revised-book / change-portion page stating that the earlier 9-Iyal syllabus was reduced to 7 Iyals; it lists deleted, changed and newly added questions:
+   - [2025–26 new Class 10 Tamil book / change portion](https://www.tamilvithai.com/2025/03/10th-tamil-new-book-change-portion-2025.html)
+   - [2025–26 revised book page](https://www.tamilvithai.com/2025/03/10th-tamil-new-syllabus-book-2025-26-pdf.html)
+3. A 2025 third-party FlipHTML5 copy displays the textbook's printed imprint "Revised Edition 2025" and a 7-Iyal contents structure:
+   - [10th Tamil 2025–26 — TAMILVITHAI FlipHTML5](https://fliphtml5.com/bison/xbxt/10th_Tamil_new_book_2025_-_2026/)
+4. A July 2026 third-party exam-portion table lists Class 10 Tamil annual portions across Iyals 1–7. This is supporting school-use evidence but not a Government-issued edition file:
+   - [2026–27 exam portions](https://www.tamilaruvi.in/2026/07/tn-school-exam-syllabus-2026-2027-class-6-to-12-full-portion-details.html)
+5. The Corporation confirms 2026–27 annual Class 10 textbook distribution, but its public notice does not expose the exact Tamil PDF / revised imprint year.
+
+**Interpretation:** The 2025 7-Iyal Tamil book is the strongest current-version candidate for Class 10 in 2026–27, while the Repo's 2024 / 9-Iyal book is a pre-reduction version and should be kept as a Legacy Reference for now. But the precise 2026–27 school-issued imprint / reprint must be verified before writing `CURRENT_CONFIRMED`.
+
+Do not claim that a 184-page digital FlipHTML view is definitively the printed physical page count. Record separately:
+- PDF viewer page count
+- PDF file page count
+- printed page numbers visible inside the book
+- number of lesson units / TOC structure
+
+Do not infer printed book page count from split PDF page files or a flipbook's viewer page count without confirming its scanning layout.
+
+### 20.6 Why the Antigravity Master Edition Audit cannot declare "Current" yet
+
+GitHub report:
+[MASTER_EDITION_AUDIT_REPORT.md](https://github.com/Eaglesiva/tn-class-10/blob/main/docs/MASTER_EDITION_AUDIT_REPORT.md)
+
+The extraction of the PDF imprint page, edition year, and file page count is useful. However, its initial labels such as `100% Current`, `Current (2024/2025)` or `Legacy` were assigned without matching every Subject / Medium / Term against the actual 2026–27 school-issued copy or a Government-published per-book edition register.
+
+Therefore:
+- Treat the report as **PDF Imprint Inventory**, not a final Current Edition Audit.
+- All "Current" labels must remain `CURRENT_VALIDITY_UNVERIFIED` until distribution / content matching is done.
+- Older imprint years such as 2018 / 2019 / 2022 do not automatically prove obsolescence.
+- 2024 / 2025 imprint years do not automatically prove current status.
+- The known Classes 1–3 Term-I obsolete notice is a confirmed exception.
+- The Class 10 Tamil 2024 / 9-Iyal version requires migration to the 2025 revised / 7-Iyal candidate after 2026–27 copy verification.
+
+### 20.7 Official confirmation request process
+
+Where the public site does not show the exact edition history, request the Corporation to confirm the latest prescribed issue for a specific class / subject / medium / term.
+
+Official contact:
+- Email: `support@textbookcorp.in`
+- Salem regional office: 0427-2351834 / 7395800457
+- General contact page: [Official contact list](https://textbookcorp.in/schools/contact)
+
+Suggested enquiry fields:
+- Academic year: 2026–27
+- Class
+- Subject
+- Medium (TM / EM)
+- Term / Annual
+- Latest Revised Edition year
+- Latest Reprint / correction year
+- Whether the listed older imprint remains the book distributed to schools in 2026–27
+- Official PDF / e-book URL, if publicly available
+- Whether any errata / correction circular has been issued
+
+Use the school's actual 2026–27 distributed copy as a cross-check. A photo of its title page, imprint page and Contents page can resolve whether a PDF found online matches the physical student copy.
+
+### 20.8 Correct method to obtain the current PDF
+
+1. Start at the official Corporation notice and establish the correct class / term / annual book for 2026–27.
+2. Try the official online textbook reading links listed by India.gov / the Corporation. If the legacy portal does not load, record the failure and do not assume a third-party download is official.
+3. Check Manarkeni / TN DIKSHA for Government-hosted chapter e-Books or QR-linked resources where available.
+4. If the full book PDF is not publicly exposed, request the exact digital file / e-book link from the school / Headmaster / subject teacher or the Corporation; use the actual school-issued 2026–27 book as the reference.
+5. TNTextbooks.in and similar third-party indexes may be used to discover candidate PDFs, but must be labelled `THIRD_PARTY_MIRROR`; never certify their "Current/New Edition" heading without comparing the actual PDF to the official current book.
+6. Download the entire PDF before splitting. Save the original, URL, access date, file size and SHA-256.
+7. Inspect the Cover, imprint / correction page, Contents, and every Book Back exercise page.
+8. Split into `page_001.pdf` etc. only after the PDF is verified. Keep physical PDF page, scanned spread page and printed page number as separate fields.
+9. Preserve the existing old PDF and question work. Create the new active edition in a parallel versioned folder; do not overwrite old files.
+10. Compare old questions with the current book using `UNCHANGED`, `WORDING_CHANGED`, `PAGE_MOVED`, `QUESTION_ADDED`, `QUESTION_REMOVED`, `CHAPTER_RESTRUCTURED`, `NOT_MATCHED`.
+
+### 20.9 Edition status vocabulary — use instead of guessing
+
+| Status | When to use |
+|---|---|
+| `IMPRINT_DETECTED` | Only the edition / reprint statement was extracted |
+| `CURRENT_VALIDITY_UNVERIFIED` | Current academic-year use has not been proved |
+| `CURRENT_CONFIRMED_2026_27` | Matched to the actual 2026–27 prescribed / school-issued book |
+| `CURRENT_REPRINT_2026_27` | Reprint of an earlier revision, with content / official distribution match confirmed |
+| `SUPERSEDED` | Official evidence shows a newer prescribed edition replaced it |
+| `OBSOLETE_CONFIRMED` | Official Corporation / Department explicitly states it is no longer in use |
+| `THIRD_PARTY_MIRROR` | PDF came from a non-government mirror, pending official cross-check |
+| `CONTENT_MATCH_CONFIRMED` | TOC, chapter structure and question pages match the target current book |
+| `ERRATA_PENDING` | Correction notice exists but has not been applied / checked |
+
+**Final rule:** Edition year is metadata; current academic-year validity is a separate verification result. Never set `CURRENT_CONFIRMED_2026_27` from a printed year or a private website's section label alone.
