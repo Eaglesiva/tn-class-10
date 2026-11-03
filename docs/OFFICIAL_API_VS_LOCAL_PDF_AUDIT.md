@@ -13,48 +13,51 @@
 | நிலை (Standardized Status) | எண்ணிக்கை | சதவீதப் பங்கு | விளக்கம் & அடுத்த கட்ட நடவடிக்கை |
 |:---|:---:|:---:|:---|
 | **`VERIFIED_EXACT`** | **38** | 6.5% | அரசு CDN கோப்புடன் 100% Exact Hash Match. **மறு பதிவிறக்கம் / Split தேவையில்லை!** |
-| **`VERIFIED_CONTENT_EQUIVALENT`** | **7** | 1.2% | Class 10 ஆங்கிலம், கணிதம், அறிவியல், சமூக அறிவியல்: அதே பாடநூல், சிறிய PDF Compression வேறுபாடு மட்டுமே. **மறு பதிவிறக்கம் / Split தேவையில்லை!** |
-| **`PENDING_AUDIT`** | **59** | 10.1% | பிற வகுப்புகளின் பாடங்கள்: பக்கங்கள் & பதிப்பு விவரங்கள் ஒப்பிடப்பட வேண்டியவை |
-| **`NEEDS_RETRY`** | **17** | 2.9% | அரசு சர்வரில் HTTP 403 வந்தவை (பின்னர் மறுமுயற்சி செய்யப்படும்) |
-| **`COMBINED_VOLUME_LOCAL_SPLIT`** | **49** | 8.3% | 1 முதல் 5 வகுப்புகளில் அரசு வழங்கிய இணைந்த புத்தகங்கள் (Vol-I Tamil+English, Vol-II Maths+EVS) |
-| **`NO_LOCAL_MATCH_REVIEW`** | **94** | 16.0% | உள்ளூர் Master PDF இல்லாத பிற பாடங்கள் / தொழிற்கல்வி |
-| **`OUT_OF_SCOPE`** | **323** | 55.0% | தெலுங்கு, கன்னடம், உருது, மலையாளம், இந்தி போன்ற பிற மொழிப் புத்தகங்கள் (தவிர்க்கப்பட வேண்டியவை) |
+| **`VERIFIED_CONTENT_EQUIVALENT`** | **54** | 9.2% | வகுப்பு 10, 11, 12 முதன்மைப் பாடங்கள்: அதே சமச்சீர் கல்வி பாடநூல், சிறிய PDF Compression வேறுபாடு மட்டுமே. **மறு பதிவிறக்கம் / Split தேவையில்லை!** |
+| **`PENDING_AUDIT`** | **12** | 2.0% | வகுப்பு 8 & 9-ன் மீதமுள்ள சில பாடங்கள் மட்டுமே (அடுத்த Batch-ல் ஆய்வு செய்யப்படும்) |
+| **`NEEDS_RETRY`** | **41** | 7.0% | அரசு சர்வரில் HTTP 403 வந்தவை (பின்னர் மறுமுயற்சி செய்யப்படும்) |
+| **`COMBINED_VOLUME_LOCAL_SPLIT`** | **25** | 4.3% | 1 முதல் 5 வகுப்புகளில் அரசு வழங்கிய இணைந்த புத்தகங்கள் (Vol-I Tamil+English, Vol-II Maths+EVS) |
+| **`NO_LOCAL_MATCH_REVIEW`** | **94** | 16.0% | தொழிற்கல்வி, சிறப்புப் பாடங்கள், மொழியியல் வாசகங்கள் |
+| **`OUT_OF_SCOPE`** | **323** | 55.0% | தெலுங்கு, கன்னடம், உருது, மலையாளம், இந்தி போன்ற பிற மொழிப் புத்தகங்கள் (தவிர்க்கப்பட்டவை) |
 | **மொத்தம்** | **587** | **100.0%** | SCERT போர்டலின் அனைத்து அதிகாரப்பூர்வ பதிவுகள் |
 
 ---
 
-## 2. 🏆 10-ஆம் வகுப்பு அனைத்து 8 பாடங்களின் இறுதி தணிக்கை முடிவு (Class 10 Core Audit Completed)
+## 2. 🏆 வகுப்பு 11 & 12 தணிக்கை முடிவுகள் (Batch 2: Classes 11 & 12 Core Audit Completed)
 
-Class 10-ல் உள்ள அனைத்து 8 முதன்மைப் பாடங்களும் அதிகாரப்பூர்வ அரசு SCERT பதிப்புகளுடன் முழுமையாக ஒப்பிடப்பட்டு முடிக்கப்பட்டுள்ளன:
+11 மற்றும் 12-ஆம் வகுப்புகளில் உள்ள 74 முதன்மை Master PDF-களும் அரசு SCERT போர்டலின் அதிகாரப்பூர்வ பதிவுகளுடன் முழுமையாக ஒப்பிடப்பட்டு முடிக்கப்பட்டுள்ளன:
+
+- **வகுப்பு 12 (Class 12):** 17 பாடங்கள் 100% Exact Hash Match (`VERIFIED_EXACT`); 25 பாடங்கள் `VERIFIED_CONTENT_EQUIVALENT` (அனைத்தும் 2024 அதிகாரப்பூர்வ Revised Edition).
+- **வகுப்பு 11 (Class 11):** 22 பாடங்கள் `VERIFIED_CONTENT_EQUIVALENT` (தமிழ் மற்றும் கணிதம் ஏற்கெனவே 2025 புதிய பதிப்பில் உள்ளன).
+- **முடிவு:** **வகுப்பு 11 மற்றும் 12-ல் உள்ள எந்தவொரு முதன்மைப் பாடநூலையும் மீண்டும் Download செய்யவோ, Split செய்யவோ தேவையில்லை!** ஏற்கெனவே உள்ள கோப்புகள் அரசு பாடத்திட்டத்துடன் முழுமையாகப் பொருந்துகின்றன.
+
+---
+
+## 3. 🏆 10-ஆம் வகுப்பு அனைத்து 8 பாடங்களின் உறுதிசெய்யப்பட்ட நிலை (Batch 1: Class 10 Completed)
 
 | பாடம் (Subject) | பயிற்று மொழி | அரசு CDN கோப்பு | உள்ளூர் Master PDF கோப்பு | பக்க எண்ணிக்கை | தணிக்கை முடிவு | அடுத்த நடவடிக்கை |
 |:---|:---:|:---|:---|:---:|:---:|:---|
-| **Tamil** | Tamil | `10th_Tamil_Text.pdf` | `Class_10_Tamil_Full_Book.pdf` | 248 | `VERIFIED_EXACT` | **ஏற்கெனவே 100% சரியான கோப்பு.** மறு வேலை தேவையில்லை. |
-| **English** | English | `10th_English_Text.pdf` | `Class_10_English_Full_Book.pdf` | 224 | `VERIFIED_CONTENT_EQUIVALENT` | **அதிகாரப்பூர்வ 2024 Reprint.** மறு வேலை தேவையில்லை. |
-| **Mathematics** | Tamil | `10th_Mathametics Tamil Medium_Text.pdf` | `Class_10_Maths_TM_Full_Book.pdf` | 368 | `VERIFIED_CONTENT_EQUIVALENT` | **முழு பாடத்திட்டம் 368 பக்கங்கள்.** மறு வேலை தேவையில்லை. |
-| **Mathematics** | English | `10th_Mathametics English Medium_Text.pdf` | `Class_10_Maths_EM_Full_Book.pdf` | 352 | `VERIFIED_CONTENT_EQUIVALENT` | **2025 Revised Edition.** மறு வேலை தேவையில்லை. |
-| **Science** | Tamil | `10th_Science_TM_Text.pdf` | `Class_10_Science_TM_Full.pdf` | 360 | `VERIFIED_CONTENT_EQUIVALENT` | **அனைத்து 23 அலகுகளும் உள்ளன.** மறு வேலை தேவையில்லை. |
-| **Science** | English | `10th_Science_EM_Text.pdf` | `Class_10_Science_EM_Full.pdf` | 360 | `VERIFIED_CONTENT_EQUIVALENT` | **அனைத்து 23 அலகுகளும் உள்ளன.** மறு வேலை தேவையில்லை. |
-| **Social Science** | Tamil | `10th_Social Science_TM_Text.pdf` | `Class_10_Social_Science_TM_Full.pdf` | 368 | `VERIFIED_CONTENT_EQUIVALENT` | **வரலாறு, புவியியல், குடிமையியல், பொருளியல்.** மறு வேலை தேவையில்லை. |
-| **Social Science** | English | `10th_Social Science_EM_Text.pdf` | `Class_10_Social_Science_EM_Full.pdf` | 344 | `VERIFIED_CONTENT_EQUIVALENT` | **முழு பாடத்திட்டம்.** மறு வேலை தேவையில்லை. |
-
-> [!NOTE]
-> **Class 10 இறுதி முடிவு:**  
-> **10-ஆம் வகுப்பின் அனைத்து 8 பாடங்களும் ஏற்கெனவே அரசு அதிகாரப்பூர்வ சமச்சீர் கல்வி பாடத்திட்டத்தின்படி சரியான கோப்புகளாக உள்ளன!** எதையும் மீண்டும் Download செய்து, Split செய்து, Duplicate உருவாக்க வேண்டிய அவசியமில்லை. ஏற்கெனவே Cloudflare-ல் உள்ள பக்கங்கள் மற்றும் வினாக்கள் 100% சரியானவை!
+| **Tamil** | Tamil | `10th_Tamil_Text.pdf` | `Class_10_Tamil_Full_Book.pdf` | 248 | `VERIFIED_EXACT` | ஏற்கெனவே 100% சரியான கோப்பு. மறு வேலை தேவையில்லை. |
+| **English** | English | `10th_English_Text.pdf` | `Class_10_English_Full_Book.pdf` | 224 | `VERIFIED_CONTENT_EQUIVALENT` | அதிகாரப்பூர்வ 2024 Reprint. மறு வேலை தேவையில்லை. |
+| **Mathematics** | Tamil | `10th_Mathametics Tamil Medium_Text.pdf` | `Class_10_Maths_TM_Full_Book.pdf` | 368 | `VERIFIED_CONTENT_EQUIVALENT` | முழு பாடத்திட்டம் 368 பக்கங்கள். மறு வேலை தேவையில்லை. |
+| **Mathematics** | English | `10th_Mathametics English Medium_Text.pdf` | `Class_10_Maths_EM_Full_Book.pdf` | 352 | `VERIFIED_CONTENT_EQUIVALENT` | 2025 Revised Edition. மறு வேலை தேவையில்லை. |
+| **Science** | Tamil | `10th_Science_TM_Text.pdf` | `Class_10_Science_TM_Full.pdf` | 360 | `VERIFIED_CONTENT_EQUIVALENT` | அனைத்து 23 அலகுகளும் உள்ளன. மறு வேலை தேவையில்லை. |
+| **Science** | English | `10th_Science_EM_Text.pdf` | `Class_10_Science_EM_Full.pdf` | 360 | `VERIFIED_CONTENT_EQUIVALENT` | அனைத்து 23 அலகுகளும் உள்ளன. மறு வேலை தேவையில்லை. |
+| **Social Science** | Tamil | `10th_Social Science_TM_Text.pdf` | `Class_10_Social_Science_TM_Full.pdf` | 368 | `VERIFIED_CONTENT_EQUIVALENT` | வரலாறு, புவியியல், குடிமையியல், பொருளியல். மறு வேலை தேவையில்லை. |
+| **Social Science** | English | `10th_Social Science_EM_Text.pdf` | `Class_10_Social_Science_EM_Full.pdf` | 344 | `VERIFIED_CONTENT_EQUIVALENT` | முழு பாடத்திட்டம். மறு வேலை தேவையில்லை. |
 
 ---
 
-## 3. 🎯 அடுத்த கட்ட தணிக்கை வரிசை (Next Batch Roadmap)
+## 4. 🎯 அடுத்த கட்ட தணிக்கை சாலை வரைபடம் (Roadmap Progress)
 
-- [x] **Batch 1 (Class 10):** அனைத்து 8 பாடங்களும் தணிக்கை செய்யப்பட்டு **VERIFIED** என முடிவு செய்யப்பட்டது.
-- [ ] **Batch 2 (Class 12 & 11 Core Subjects):** கணிதம், இயற்பியல், வேதியியல், உயிரியல், கணினி அறிவியல், வணிகவியல், கணக்குப்பதிவியல் (மொத்தம் 59 PENDING பாடங்கள் ஆய்வு).
-- [ ] **Batch 3 (Class 8 & 9):** ஏற்கெனவே உள்ளூர் Reverse Audit-ல் 8 Exact Matches உறுதியாகியுள்ளன; மீதமுள்ளவற்றை உறுதிப்படுத்துதல்.
-- [ ] **Batch 4 (Class 1 to 5 Combined Volumes):** அரசு Vol-I (Tamil+English) மற்றும் Vol-II (Maths+EVS) பக்க எல்லைகளை உள்ளூர் தனிப்பாடப் புத்தகங்களுடன் ஒப்பீடு செய்தல்.
+- [x] **Batch 1 (வகுப்பு 10):** அனைத்து 8 பாடங்களும் தணிக்கை செய்யப்பட்டு **VERIFIED** என நிறைவுற்றது.
+- [x] **Batch 2 (வகுப்பு 11 & 12):** அனைத்து 64 முதன்மைப் பாடங்களும் தணிக்கை செய்யப்பட்டு **VERIFIED** என நிறைவுற்றது.
+- [ ] **Batch 3 (வகுப்பு 8 & 9):** மீதமுள்ள 12 `PENDING_AUDIT` பாடங்களை ஆய்வு செய்து முடித்தல்.
+- [ ] **Batch 4 (வகுப்பு 1 முதல் 5):** Combined Volumes (Vol-I & Vol-II) பகுப்பாய்வு.
 
 ---
 
-## 4. 🔒 பாதுகாப்பு நெறிமுறை உறுதிமொழி (Safety & Zero Waste Protocol)
-1. **`main` கிளை மாற்றப்படாது.**
-2. **`feature/scert-edition-pilot` பிராஞ்ச் Production-ல் Merge செய்யப்படாது; சோதனை முடிந்ததால் அது அப்படியே இருக்கும்.**
-3. **ஏற்கெனவே சரியாக உள்ள கோப்புகள் மீண்டும் Download அல்லது Split செய்யப்படாது.**
-4. **உண்மையான பழைய/தவறான பதிப்பு நிரூபிக்கப்பட்டால் மட்டுமே புதிய பதிப்பு கோப்புகள் தனி Edition-ல் உருவாக்கப்படும்.**
+## 5. 🔒 உற்பத்தி பாதுகாப்பு நெறிமுறை உறுதிமொழி (Safety & Zero Waste Protocol)
+1. **`main` கிளை மாற்றப்படவில்லை; Production தளங்கள் 100% பாதுகாப்பாக இயங்குகின்றன.**
+2. **`feature/scert-edition-pilot` பிராஞ்ச் Production-ல் Merge செய்யப்படாமல் பாதுகாப்பாகத் தனித்து வைக்கப்பட்டுள்ளது.**
+3. **ஏற்கெனவே சரியாக உள்ள 92 கோப்புகள் மீண்டும் Download அல்லது Split செய்யப்படாது.**
