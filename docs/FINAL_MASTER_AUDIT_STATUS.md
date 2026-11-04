@@ -26,7 +26,7 @@
    * **Tamil (1 book — 248p)**: `EXACT_MASTER_SHA256_MATCH` (bit-for-bit identical to official master PDF).
    * **Maths TM & EM (2 books — 720p)**: `MANUAL_REVIEW_REQUIRED` (temporarily excluded from confirmed GitHub Newer pending full master page comparison against refreshed API snapshot).
    * **English (1 book — 224p)**: `IMPRINT_AND_PAGE_COUNT_MATCHED; CONTENT_DIFF_PENDING`.
-   * **Science & Social Science (4 books — 1,432p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (pages reside in unit folders on update branch; restructuring into canonical `editions/2026-27-scert-official/` with formal `split_validation.json` pending).
+   * **Science & Social Science (4 books — 1,432p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (pages verified and structured in canonical `editions/2026-27-scert-official/` with continuous `manifest.json`; Layer 4 content diff against main pending).
 
 4. **Confirmed GitHub Is Newer Books (4 Books — 1,152 Pages)**:
    * Confirmed exclusively for **Class 11** (Tamil 176p, Maths TM Vol 1 320p, Maths TM Vol 2 288p, Maths EM Vol 1 368p = 1,152p).
@@ -61,7 +61,7 @@
 | **12** | 34 | 10,520 | 648 (2 books) | 0 | 32 (9,872p) | 0 | 0 | 0 | 0 | **32 Books Pending Diff (9,872p)** / 2 Stored Updates (648p) |
 | **TOTAL** | **165** | **33,592** | **9,912 (30 books)** | **4 (1,152p)** | **36 (11,176p)** | **2 (720p)** | **42 (7,656p)** | **16 (0p)** | **25 (0p)** | **41 Books Pending Diff (12,600p)** |
 
-*\* Class 10 Note: 1,432 pages exist across unit folders; canonical `editions/` restructuring and formal split_validation.json pending.*  
+*\* Class 10 Note: 1,432 pages across 4 edition folders on update branch (Science TM 360p, Science EM 360p, Social TM 368p, Social EM 344p) are sequentially verified and validated with manifest.json. Layer 4 content diff against main is pending.*  
 *\*\* Class 11 Note: 7,832 stored pages = 23 Validated Official Updates (7,528p) + 1 API Mapping Unresolved (Chemistry EM Vol 1: 304p).*
 
 ---
@@ -97,7 +97,7 @@
 
 3. **Priority 3: Class 10 Audit Correction & Restructuring**
    * Maintain `MANUAL_REVIEW_REQUIRED` for Maths TM (368p) and Maths EM (352p).
-   * Restructure 1,432 pages in Science TM/EM and Social TM/EM into canonical `editions/2026-27-scert-official/` with formal `split_validation.json`.
+   * Verify 1,432 pages in Science TM/EM and Social TM/EM stored in canonical `editions/2026-27-scert-official/` against main text for Layer 4 diff.
 
 4. **Priority 4: Layer 4 Content Diff Validation**
    * Perform systematic textual comparison for the 41 books where imprint and page counts match but content diff remains pending (Class 9: 8 books; Class 10: 1 book; Class 12: 32 books).
