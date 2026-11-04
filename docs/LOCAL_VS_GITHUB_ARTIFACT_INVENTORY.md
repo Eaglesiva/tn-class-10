@@ -20,6 +20,13 @@
 | 11 | [Class 11 official update branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates) | Main verification report plus Batch 1–4 reports, edition metadata/manifests/pages | 24 official edition page sets / 7,832 page PDFs exist. The older verification report classifies 32 items as 4 GitHub-newer, 4 same-version and 24 version-different. No fresh 2026–27 raw API snapshot/normalized catalog manifest was found in the checked branch. |
 | 12 | [Class 12 official update branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) | Main verification report and cloud edition update report | 2 differing official edition page sets / 648 page PDFs exist (Chemistry EM Vol-1 and Physics EM Vol-1). The older report says 32 of 34 books same-version and 2 version-different. No fresh 2026–27 raw API snapshot/normalized catalog manifest was found in the checked branch. |
 
+### Existing Class 11 / Class 12 report files
+
+- Class 11 [overall verification report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class11_verification_report.md)
+- Class 11 [Batch 1](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_1_report.md), [Batch 2](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_2_report.md), [Batch 3](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_3_report.md), [Batch 4](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_4_report.md)
+- Class 12 [overall verification report](https://github.com/Eaglesiva/tn-class-12/blob/scert/class-12/official-version-updates/docs/class12_verification_report.md)
+- Class 12 [cloud edition update report](https://github.com/Eaglesiva/tn-class-12/blob/scert/class-12/official-version-updates/docs/class_12_cloud_edition_update_report.md)
+
 ## 2. Central shared tracker files
 
 The temporary central tracker is stored on `Eaglesiva/tn-class-10`, branch `scert/master-edition-tracking`:
