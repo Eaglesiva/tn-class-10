@@ -46,7 +46,7 @@ The 7,656 figure is the sum of official master-PDF page counts in 42 GET-200 rec
 
 HTTP 403 is a retrieval result, not a publication decision.
 
-- Classes 1–3: the three Term-III State Board API records returned 403 in the 2026-11-04 audit. The sales notices checked announce Term-I and Term-II. The general price list contains Term-III titles for Classes 1–5, but this alone does not establish a 2026–27 Term-III release date. These records are CDN_UNAVAILABLE_AT_CHECK / RELEASE_STATUS_UNCONFIRMED.
+- Classes 1–3: the three Term-III State Board API records returned 403 in the 2026-11-04 audit. The sales notices checked announce Term-I and Term-II. The official 2026–2027 price list (`PRICELIST.pdf`) covers only Term-I and Term-II, and does not list Term-III. These records remain CDN_UNAVAILABLE_AT_CHECK / RELEASE_STATUS_UNCONFIRMED.
 - Classes 4–7: Term-II and Term-III URLs returned 403. Term-II sales for Classes 1–7 were officially announced from 22-09-2026. Therefore a Class 4–7 Term-II 403 is a CDN/URL access problem, not evidence that the books were not released.
 - Term-III: the API records exist, but the current 2026–27 sales notices checked do not give a Term-III release date. Keep the state unconfirmed until an official notice or accessible official PDF establishes it.
 - Class 8: all eight in-scope annual textbook URLs returned GET 200 in the audit manifest.
@@ -94,7 +94,9 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
   - [`45fd4501`](https://github.com/Eaglesiva/tn-class-09/commit/45fd4501324f22f7c4b8ed784ff7bec92d406e66): Audit manifest, summary, API snapshot.
   - [`0146eae7`](https://github.com/Eaglesiva/tn-class-09/commit/0146eae786be36f3aeb167fe99016b14e22cf2ae): Evidence package (`class9_results.json`, `class9_comparison.md`, `imprint_dump.txt`, `verify_class9.py`).
   - [`d83a1539`](https://github.com/Eaglesiva/tn-class-09/commit/d83a15398bb81641bad539628be1c3db29f9d5ef): Summary clarification.
-- All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint). Full word-level diff across 2,504 pages is pending.
+- All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint).
+- **Layer 4 Pilot Completed**: English (224p) verified 100% word-for-word exact match (224/224 pages) in commit `c46b7a41`.
+- Remaining 7 books (2,280p) pending Layer 4 text diff.
 
 ### Class 10 (8 records — 2,624 pages)
 - **Status**: 1 Exact Master SHA Match (248p) / 2 Manual Review (720p) / 1 Imprint Matched (224p) / 4 Stored Updates (1,432p)

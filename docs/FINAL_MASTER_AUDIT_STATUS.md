@@ -19,7 +19,7 @@
 
 2. **Classes 1–7 Term-III Release Watch (25 Books)**:
    * **Status**: 25 Term-III records in the API return HTTP 403.
-   * **Release Status**: Price lists list titles for Classes 1–5, but no official 2026–27 release date notification has been published.
+   * **Release Status**: The official Textbook Corporation 2026–2027 Price List (`PRICELIST.pdf`) covers only Term-I and Term-II; Term-III is not listed or priced in current notices. Status remains strictly unconfirmed pending official publication.
    * **Classification**: `RELEASE_STATUS_UNCONFIRMED; CDN_UNAVAILABLE_AT_CHECK; OFFICIAL_WATCH`. Third-party downloads are strictly prohibited until official publication.
 
 3. **Class 10 Categorization & Verification Requirements (8 Books — 2,624 Pages)**:
@@ -55,11 +55,11 @@
 | **6** | 15 | 864 | 0 | 0 | 0 | 0 | 5 (864p) | **5 (0p)** | 5 (0p) | Term-II Recovery Pending |
 | **7** | 15 | 880 | 0 | 0 | 0 | 0 | 5 (880p) | **5 (0p)** | 5 (0p) | Term-II Recovery Pending |
 | **8** | 8 | 2,208 | 0 | 0 | 0 | 0 | 8 (2,208p) | 0 | 0 | Audit Branch Verified |
-| **9** | 8 | 2,504 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | **8 Books Pending Diff (2,504p)** |
+| **9** | 8 | 2,504 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 Verified Equivalent (224p) / **7 Books Pending Diff (2,280p)** |
 | **10** | 8 | 2,624 | 1,432 (4 books)* | 0 | 0 | **2 (720p)** | 0 | 0 | 0 | 1 Exact SHA / **2 Manual Review** / **1 Pending Diff (224p)** / 4 Stored Updates |
 | **11** | 32 | 10,288 | 7,832 (24 books)** | **4 (1,152p)** | 4 (1,304p) | 0 | 0 | 0 | 0 | 4 Newer / 4 Same / 23 Stored Updates / 1 Mapping Unresolved |
 | **12** | 34 | 10,520 | 648 (2 books) | 0 | 32 (9,872p) | 0 | 0 | 0 | 0 | **32 Books Pending Diff (9,872p)** / 2 Stored Updates (648p) |
-| **TOTAL** | **165** | **33,592** | **9,912 (30 books)** | **4 (1,152p)** | **36 (11,176p)** | **2 (720p)** | **42 (7,656p)** | **16 (0p)** | **25 (0p)** | **41 Books Pending Diff (12,600p)** |
+| **TOTAL** | **165** | **33,592** | **9,912 (30 books)** | **4 (1,152p)** | **36 (11,176p)** | **2 (720p)** | **42 (7,656p)** | **16 (0p)** | **25 (0p)** | 1 Verified Equivalent (224p) / **40 Books Pending Diff (12,376p)** |
 
 *\* Class 10 Note: 1,432 pages across 4 edition folders on update branch (Science TM 360p, Science EM 360p, Social TM 368p, Social EM 344p) are sequentially verified and validated with manifest.json. Layer 4 content diff against main is pending.*  
 *\*\* Class 11 Note: 7,832 stored pages = 23 Validated Official Updates (7,528p) + 1 API Mapping Unresolved (Chemistry EM Vol 1: 304p).*
