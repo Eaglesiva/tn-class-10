@@ -58,7 +58,7 @@
 - **S2 GreenTamil:** option ஈ) “சருகும் சண்டும்” என விடை தருகிறது.
 - **S7 TVA:** சருகு = காய்ந்த இலை; சண்டு = காய்ந்த புல்தாள் எனச் சொற்பொருள் விளக்கம் தருகிறது.
 
-**Source links:** [BrainKart — MCQ 2](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 2](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — சருகு/சண்டு](https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141)
+**Source links:** [BrainKart — MCQ 2](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 2](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 **Status:** `ANSWER_FOUND` — பதிலும் சொற்பொருள் விளக்கமும் கிடைத்தன.  
 **Question-text note:** Markdown-ல் அடிக்கோடு formatting சேமிக்கப்படவில்லை; அசல் PDF-ல் அடிக்கோடிடப்பட்ட பகுதியைத் தனியாகச் சரிபார்க்க வேண்டும்.  
