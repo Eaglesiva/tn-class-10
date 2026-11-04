@@ -31,11 +31,13 @@
 4. **Confirmed GitHub Is Newer Books (4 Books — 1,152 Pages)**:
    * Confirmed exclusively for **Class 11** (Tamil 176p, Maths TM Vol 1 320p, Maths TM Vol 2 288p, Maths EM Vol 1 368p = 1,152p).
 
-5. **Layer 4 Full Content Diff Progress (1 Verified Equivalent / 40 Books Remaining — 12,376 Pages)**:
+5. **Layer 4 Full Content Diff Progress (2 Verified Equivalent / 39 Books Remaining — 12,104 Pages)**:
    * Matching page count and Page 2 imprint (Layers 2 & 3) does **not** prove word-for-word textual equivalence.
-   * **Pilot Completed**: Class 9 English (224p) verified 100% word-for-word exact text match in commit `a2c6840f` on `Eaglesiva/tn-class-09`.
-   * Full textual diff against legacy GitHub `main` editions remains `FULL_DIFF_PENDING` for 40 books (12,376 pages):
-     * **Class 9**: 7 books (2,280 pages)
+   * **Pilots Completed**:
+     * Class 9 English (224p): 224/224 pages (100.0%) exact word-for-word match (commit `a2c6840f`).
+     * Class 9 Tamil (272p): 270/272 pages exact match, 2 pages minor soft-wrap line breaks (99.99% overall similarity, 0 words altered; commit `6b28a78d`).
+   * Full textual diff against legacy GitHub `main` editions remains `FULL_DIFF_PENDING` for 39 books (12,104 pages):
+     * **Class 9**: 6 books (2,008 pages)
      * **Class 10**: 1 book — English (224 pages)
      * **Class 12**: 32 books (9,872 pages)
 
@@ -56,11 +58,11 @@
 | **6** | 15 | 864 | 0 | 0 | 0 | 0 | 5 (864p) | **5 (0p)** | 5 (0p) | Term-II Recovery Pending |
 | **7** | 15 | 880 | 0 | 0 | 0 | 0 | 5 (880p) | **5 (0p)** | 5 (0p) | Term-II Recovery Pending |
 | **8** | 8 | 2,208 | 0 | 0 | 0 | 0 | 8 (2,208p) | 0 | 0 | Audit Branch Verified |
-| **9** | 8 | 2,504 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 Verified Equivalent (224p) / **7 Books Pending Diff (2,280p)** |
+| **9** | 8 | 2,504 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 Verified Equivalent (496p) / **6 Books Pending Diff (2,008p)** |
 | **10** | 8 | 2,624 | 1,432 (4 books)* | 0 | 0 | **2 (720p)** | 0 | 0 | 0 | 1 Exact SHA / **2 Manual Review** / **1 Pending Diff (224p)** / 4 Stored Updates |
 | **11** | 32 | 10,288 | 7,832 (24 books)** | **4 (1,152p)** | 4 (1,304p) | 0 | 0 | 0 | 0 | 4 Newer / 4 Same / 23 Stored Updates / 1 Mapping Unresolved |
 | **12** | 34 | 10,520 | 648 (2 books) | 0 | 32 (9,872p) | 0 | 0 | 0 | 0 | **32 Books Pending Diff (9,872p)** / 2 Stored Updates (648p) |
-| **TOTAL** | **165** | **33,592** | **9,912 (30 books)** | **4 (1,152p)** | **36 (11,176p)** | **2 (720p)** | **42 (7,656p)** | **16 (0p)** | **25 (0p)** | 1 Verified Equivalent (224p) / **40 Books Pending Diff (12,376p)** |
+| **TOTAL** | **165** | **33,592** | **9,912 (30 books)** | **4 (1,152p)** | **36 (11,176p)** | **2 (720p)** | **42 (7,656p)** | **16 (0p)** | **25 (0p)** | 2 Verified Equivalent (496p) / **39 Books Pending Diff (12,104p)** |
 
 *\* Class 10 Note: 1,432 pages across 4 edition folders on update branch (Science TM 360p, Science EM 360p, Social TM 368p, Social EM 344p) are sequentially verified and validated with manifest.json. Layer 4 content diff against main is pending.*  
 *\*\* Class 11 Note: 7,832 stored pages = 23 Validated Official Updates (7,528p) + 1 API Mapping Unresolved (Chemistry EM Vol 1: 304p).*
@@ -101,7 +103,7 @@
    * Verify 1,432 pages in Science TM/EM and Social TM/EM stored in canonical `editions/2026-27-scert-official/` against main text for Layer 4 diff.
 
 4. **Priority 4: Layer 4 Content Diff Validation**
-   * Perform systematic textual comparison for the 40 books where imprint and page counts match but content diff remains pending (Class 9: 7 books / 2,280p; Class 10: 1 book / 224p; Class 12: 32 books / 9,872p).
+   * Perform systematic textual comparison for the 39 books where imprint and page counts match but content diff remains pending (Class 9: 6 books / 2,008p; Class 10: 1 book / 224p; Class 12: 32 books / 9,872p).
 
 5. **Priority 5: Mapping Corrections**
    * Class 11 Chemistry EM Vol-1: Maintain `API_MAPPING_UNRESOLVED` (preserve 304 pages).

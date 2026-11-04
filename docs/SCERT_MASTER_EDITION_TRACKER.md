@@ -1,6 +1,6 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 40 books / 12,376p; 1 book verified / 224p)  
+**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 39 books / 12,104p; 2 books verified / 496p)  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
 **Class 9–12 API snapshot date:** 2026-11-05  
@@ -95,8 +95,10 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
   - [`0146eae7`](https://github.com/Eaglesiva/tn-class-09/commit/0146eae786be36f3aeb167fe99016b14e22cf2ae): Evidence package (`class9_results.json`, `class9_comparison.md`, `imprint_dump.txt`, `verify_class9.py`).
   - [`d83a1539`](https://github.com/Eaglesiva/tn-class-09/commit/d83a15398bb81641bad539628be1c3db29f9d5ef): Summary clarification.
 - All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint).
-- **Layer 4 Pilot Completed**: English (224p) verified 100% word-for-word exact match (224/224 pages) in commit `c46b7a41`.
-- Remaining 7 books (2,280p) pending Layer 4 text diff.
+- **Layer 4 Pilots Completed**:
+  - English (224p): 224/224 pages (100.0%) exact word-for-word match (commit `a2c6840f`).
+  - Tamil (272p): 270/272 pages exact match, 2 pages minor soft-wrap line breaks (99.99% overall similarity, 0 words altered; commit `6b28a78d`).
+- Remaining 6 books (2,008p) pending Layer 4 text diff.
 
 ### Class 10 (8 records — 2,624 pages)
 - **Status**: 1 Exact Master SHA Match (248p) / 2 Manual Review (720p) / 1 Imprint Matched (224p) / 4 Stored Updates (1,432p)
@@ -153,7 +155,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **6** | 49 | 15 | 0 | Audit complete (`scert/class-06/audit-2026-27`) |
 | **7** | 49 | 15 | 0 | Audit complete (`scert/class-07/audit-2026-27`) |
 | **8** | 28 | 8 | 0 | Audit complete (`scert/class-08/audit-2026-27`) |
-| **9** | 28 | 8 | 0 | 1 Verified Equivalent (224p) / 7 Books Pending Diff (2,280p) |
+| **9** | 28 | 8 | 0 | 2 Verified Equivalent (496p) / 6 Books Pending Diff (2,008p) |
 | **10** | 32 | 8 | 1,432 | 1 Master Match / 2 Manual Review / 1 Match / 4 Stored Updates (1,432p) |
 | **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Match (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) [Total: 10,288p] |
 | **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Same Version (9,872p) / 2 Stored Updates (648p) |
