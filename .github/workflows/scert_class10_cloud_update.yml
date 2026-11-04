@@ -1,0 +1,42 @@
+name: SCERT Class 10 Cloud Edition Update
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'scert/class-10/official-version-updates'
+
+permissions:
+  contents: write
+
+jobs:
+  cloud_download_and_split:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Dependencies
+        run: |
+          pip install --upgrade pip
+          pip install pymupdf requests
+
+      - name: Run Cloud Edition Processing Script
+        run: |
+          python scripts/cloud_runner_c10_update.py
+
+      - name: Commit and Push Edition Updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add science_tamil/ science_english/ social_science_tamil/ social_science_english/ docs/
+          git commit -m "feat(scert): cloud download, verify and split 4 official 2024 reprint editions" || echo "No changes to commit"
+          git push origin ${{ github.ref_name }}
