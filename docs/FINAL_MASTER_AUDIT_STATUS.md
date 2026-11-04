@@ -35,7 +35,7 @@
    * Matching page count and Page 2 imprint (Layers 2 & 3) does **not** prove word-for-word textual equivalence.
    * **Pilots Completed**:
      * Class 9 English (224p): 224/224 pages (100.0%) exact word-for-word match (commit `a2c6840f`).
-     * Class 9 Tamil (272p): 270/272 pages exact match, 2 pages minor soft-wrap line breaks (99.99% overall similarity, 0 words altered; commit `6b28a78d`).
+     * Class 9 Tamil (272p): 270/272 pages exact raw match, 272/272 pages whitespace-collapsed match (`TEXT_EQUIVALENT_AFTER_WHITESPACE_NORMALIZATION`, 99.99% overall similarity, 0 words altered; commit `2f991681`).
    * Full textual diff against legacy GitHub `main` editions remains `FULL_DIFF_PENDING` for 39 books (12,104 pages):
      * **Class 9**: 6 books (2,008 pages)
      * **Class 10**: 1 book — English (224 pages)
