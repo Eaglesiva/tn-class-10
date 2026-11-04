@@ -1,6 +1,6 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Central register updated through Class 10; Classes 1–10 consolidated, Classes 11–12 pending reconciliation  
+**Status:** Central index populated through Class 10; Class 9–10 evidence qualifications remain; Class 11–12 central reconciliation is pending  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
 **Temporary canonical home:** Eaglesiva/tn-class-10, branch scert/master-edition-tracking
