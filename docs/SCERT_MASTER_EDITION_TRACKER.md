@@ -122,8 +122,14 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - **Status**: 32 Same Version (9,872p) / 2 Stored Updates (648p)
 - **Audit Branch**: [`scert/class-12/audit-2026-27`](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/audit-2026-27)
 - **Update Branch**: [`scert/class-12/official-version-updates`](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) (2 edition directories, 648 pages)
+- **API Mapping Scope**: The Class XII API snapshot contains 73 API subject groups. When expanded across mediums and terms, this yields 136 nested academic entries, from which our 34 core State Board Tamil and English medium textbooks are derived.
+- **GitHub Main Combined Volume Mapping**: Physics and Chemistry volumes share combined `pages.json` sequences on `main`. Per-volume boundaries are verified as:
+  - Physics TM (664p): Vol-I = 352p, Vol-II = 312p
+  - Physics EM (648p): Vol-I = 352p, Vol-II = 296p
+  - Chemistry TM (672p): Vol-I = 328p, Vol-II = 344p
+  - Chemistry EM (624p): Vol-I = 296p, Vol-II = 328p
 - **Breakdown**:
-  - **Same Version (32 books - 9,872p)**: Preserved on `main` (Page count and Page 2 imprint matched verbatim).
+  - **Same Version (32 books - 9,872p)**: Preserved on `main` (Per-volume page counts and Page 2 imprints matched; Layer 4 content diff remains `FULL_DIFF_PENDING`).
   - **Official Edition Updates (2 books - 648p)**: Stored as 1-page PDFs on branch `scert/class-12/official-version-updates`:
     - Physics EM Vol 1: 352 pages (`physics_em/editions/2026-27-scert-official/vol1/`)
     - Chemistry EM Vol 1: 296 pages (`chemistry_em/editions/2026-27-scert-official/vol1/`)
@@ -134,7 +140,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 
 ## 7. Master Index Summary Table (Classes 1–12 Reconciled)
 
-| Class | Total API Records | In-Scope State Board Books | Verified Stored Pages on Update Branches | Catalog Audit Status |
+| Class | API Subject Groups | Nested Academic Entries | In-Scope State Board Books | Verified Stored Pages on Update Branches | Catalog Audit Status |
 | :---: | :---: | :---: | :---: | :--- |
 | **1** | 34 | 9 | 0 | Audit complete (`scert/class-01/audit-2026-27-term1-vol1`) |
 | **2** | 34 | 9 | 0 | Audit complete (`scert/class-02/audit-2026-27`) |
@@ -146,9 +152,9 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **8** | 28 | 8 | 0 | Audit complete (`scert/class-08/audit-2026-27`) |
 | **9** | 28 | 8 | 0 | Imprint & page count matched (2,504p); full text diff pending |
 | **10** | 32 | 8 | 1,432 | 1 Master Match / 2 GitHub Newer / 1 Match / 4 Stored Updates (1,432p) |
-| **11** | 73 | 32 | 7,832 | 4 Match / 4 GitHub Newer / 23 Stored Updates / 1 API Mapping Unresolved (7,832p) |
-| **12** | 73 | 34 | 648 | 32 Same Version / 2 Stored Updates (648p) |
-| **Total** | **495** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV** |
+| **11** | 73 (groups) | 136 (nested) | 32 | 7,832 | 4 Match / 4 GitHub Newer / 23 Stored Updates / 1 API Mapping Unresolved (7,832p) |
+| **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Same Version (9,872p) / 2 Stored Updates (648p) |
+| **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV** |
 
 ---
 
