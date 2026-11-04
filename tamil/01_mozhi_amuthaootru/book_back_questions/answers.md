@@ -31,6 +31,24 @@
 
 ## இயல் 1 — விரிவான வினா வாரியான Reference பதிவுகள்
 
+## இரண்டாம் Source — ஒவ்வொரு இயலிலிருந்தும் நேரடியாகச் சரிபார்க்கப்பட்ட பாட விடைப் பக்கங்கள்
+
+கீழே ஒவ்வொரு இயலிலிருந்தும் குறைந்தது ஒரு தனிப்பாட Answer Page திறந்து சரிபார்க்கப்பட்டுள்ளது. இவை அந்தந்த பாடத்திற்கான நேரடி விடைப் பக்கங்கள்; இயல் முழுவதற்கான மூன்றாவது Source என்று கருதக்கூடாது. ஒவ்வொரு இயலின் மீதமுள்ள துணைப்பாடங்களுக்கும் இதே தளத்தின் தொடர்புடைய பக்கங்களைத் திறந்து பதிவு செய்ய வேண்டும்.
+
+| இயல் | பாடம் | நேரடி Answer Page | சரிபார்க்கப்பட்ட விடை வடிவங்கள் |
+|---|---|---|---|
+| 1 | அன்னை மொழியே | [Samacheer Kalvi Guide — அன்னை மொழியே](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-annai-mozhiye-question-answer/) | ஒரு மதிப்பெண் விடை வரி; குறுவினா புள்ளிகள்; சிறுவினா மேற்கோள் + புள்ளிகள்; நெடுவினா அறிமுகம், ஒப்பீட்டு அட்டவணை, நிறைவுரை |
+| 2 | கேட்கிறதா என் குரல்! | [Samacheer Kalvi Guide — கேட்கிறதா என் குரல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ketkiratha-en-kural-question-answer/) | MCQ விடை வரி; குறுவினா எண் பட்டியல்; சிறுவினா கற்பனைத் தலைப்புகள்; நெடுவினா விளக்கத் தலைப்புகள் மற்றும் எடுத்துக்காட்டுகள் |
+| 3 | விருந்து போற்றுதும்! | [Samacheer Kalvi Guide — விருந்து போற்றுதும்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-virunthu-potruthum-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; ஒவ்வொரு வினாவின் வடிவத்தைத் தனியே எடுக்க வேண்டும் |
+| 4 | செயற்கை நுண்ணறிவு | [Samacheer Kalvi Guide — செயற்கை நுண்ணறிவு](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-seyarkai-nunnarivu-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; உரைநடை விளக்க விடைகள் |
+| 5 | மொழிபெயர்ப்புக் கல்வி | [Samacheer Kalvi Guide — மொழிபெயர்ப்புக் கல்வி](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-mozhipeyarpu-kalvi-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; உரைநடை சார்ந்த விளக்க விடைகள் |
+| 6 | நிகழ்கலை | [Samacheer Kalvi Guide — நிகழ்கலை](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-nigalkalai-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; கலை/பண்பாட்டு விளக்க விடைகள் |
+| 7 | சிற்றகல் ஒளி | [Samacheer Kalvi Guide — சிற்றகல் ஒளி](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sitrakal-oli-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; தன்வரலாறு சார்ந்த விடைகள் |
+| 8 | சங்க இலக்கியத்தில் அறம் | [Samacheer Kalvi Guide — சங்க இலக்கியத்தில் அறம்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; இலக்கிய விளக்க விடைகள் |
+| 9 | ஜெயகாந்தம் (நினைவு இதழ்) | [Samacheer Kalvi Guide — ஜெயகாந்தம்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-jeyakantham-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; உரைநடை/வாழ்க்கைக் குறிப்பு சார்ந்த விடைகள் |
+
+**Source ஒப்பீட்டு விதி:** BrainKart-ன் இயல்-முழு Q&A பக்கத்தையும் Samacheer Kalvi Guide-ன் குறிப்பிட்ட பாட Answer Page-ஐயும் ஒரே கேள்விக்காகப் பொருத்திப் பார்க்க வேண்டும். இரண்டும் ஒரே கேள்விக்கு பதில் தரும்போது அவற்றின் சொல் தேர்வு, பதில் வரிசை, புள்ளிகள், எடுத்துக்காட்டுகள், அட்டவணை/பத்தி வடிவம் ஆகியவை தனித்தனியாகப் பதிவு செய்யப்பட வேண்டும். இங்கு ஒரு தளத்தின் பதிலை மற்றொரு தளத்தின் பதிலுடன் கலந்து விடையாக மாற்ற வேண்டாம்.
+
 ## Source பட்டியல்
 
 | ID | தளம் | நேரடி Answer Page | Page-ல் உள்ள பதில் வடிவம் |
