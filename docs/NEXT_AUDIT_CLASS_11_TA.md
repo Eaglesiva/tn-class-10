@@ -1,6 +1,6 @@
 # அடுத்த பணி — Class 11 Official Catalog vs GitHub Edition Reconciliation
 
-**பணி நிலை:** அடுத்ததாக தொடங்க வேண்டிய audit  
+**பணி நிலை:** Class 9 comparison evidence மற்றும் Class 10 ஏழு pending comparisons closeout ஆன பிறகு தொடங்க வேண்டிய audit  
 **முக்கிய கட்டுப்பாடு:** ஏற்கெனவே Download / Split / Commit செய்யப்பட்டுள்ள 2026–27 editions-ஐ மீண்டும் உருவாக்க வேண்டாம். முதலில் remote audit evidence-ஐ முழுமைப்படுத்து.
 
 ## 1. ஏற்கெனவே உள்ள ஆதாரங்கள்
@@ -9,7 +9,7 @@ Repository: [Eaglesiva/tn-class-11](https://github.com/Eaglesiva/tn-class-11)
 
 Edition branch: [`scert/class-11/official-version-updates`](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates)
 
-இந்த branch-ல் ஏற்கெனவே உள்ள report கோப்புகள்:
+இந்த branch-ல் ஏற்கெனவே உள்ள report கோப்புகள். இவற்றை மீண்டும் உருவாக்க வேண்டாம்:
 
 - [முழு Class 11 verification report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class11_verification_report.md)
 - [Batch 1 report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_1_report.md)
