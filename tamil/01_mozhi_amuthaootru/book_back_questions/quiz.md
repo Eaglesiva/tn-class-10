@@ -15,7 +15,7 @@
 
 **விளக்கம்:** கடலுக்குப் பெருமளவு வணிகக் கப்பல்கள்; தமிழுக்கு ஐம்பெரும் காப்பியங்கள் என்ற இரட்டுற மொழிதல் என நேரடி answer pages விளக்குகின்றன.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — இதே விடை](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TamilVithai — இதே வினா](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — இதே வினா](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
 
 ---
 
@@ -31,7 +31,7 @@
 
 **விளக்கம்:** சருகு என்பது காய்ந்த இலை; சண்டு என்பது காய்ந்த புல்தாள் என தமிழ் இணையக் கல்விக்கழகத்தின் சொற்பொருள் reference விளக்குகிறது.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — இதே விடை](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TVA — சருகு / சண்டு விளக்கம்](`https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141`)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — சருகு / சண்டு விளக்கம்](https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141)
 
 ---
 
@@ -47,7 +47,7 @@
 
 **விளக்கம்:** இயல் 1-க்கான நேரடி விடைப் பக்கங்களில் சொல் “எம் + தமிழ் + நா” எனப் பிரிக்கப்பட்டுள்ளது.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — இதே விடை](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 ---
 
@@ -63,7 +63,7 @@
 
 **விளக்கம்:** “பாடல்” என்பது தொழிற்பெயர்; “கேட்டவர்” செயலைச் செய்தவரைக் குறிக்கும் வினையாலணையும் பெயர். TVA இலக்கண reference இந்த வேறுபாட்டை விளக்குகிறது.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — இதே விடை](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TVA — தொழிற்பெயர் / வினையாலணையும் பெயர்](`https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356`)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — தொழிற்பெயர் / வினையாலணையும் பெயர்](https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356)
 
 ---
 
@@ -79,7 +79,7 @@
 
 **விளக்கம்:** இயல் 1-க்கான இரண்டு நேரடி விடைப் பக்கங்களிலும் “மணி வகை” எனக் குறிப்பிடப்பட்டுள்ளது.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — இதே விடை](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 ---
 
