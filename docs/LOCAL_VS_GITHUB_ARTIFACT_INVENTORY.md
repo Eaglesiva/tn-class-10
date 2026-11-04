@@ -33,6 +33,7 @@ The temporary central tracker is stored on `Eaglesiva/tn-class-10`, branch `scer
 
 - [Master Edition Tracker](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/SCERT_MASTER_EDITION_TRACKER.md)
 - [Master Edition Index CSV — 165 records, Classes 1–12](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/SCERT_MASTER_EDITION_INDEX.csv)
+- [Final Master Audit Status — Harmonized Metrics & Layer 4 Diff Register](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/FINAL_MASTER_AUDIT_STATUS.md)
 - [Class 11 reconciliation complete (Archived)](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/NEXT_AUDIT_CLASS_11_TA.md)
 
 The Master CSV has separate `github_audit_branch` and `github_edition_branch` fields. These must remain distinct when a report is stored on one branch and official split pages are on another.

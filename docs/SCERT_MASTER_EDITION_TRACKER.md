@@ -11,6 +11,7 @@ This repository document is the shared navigation and normalized index. Per-clas
 ## 1. Shared files
 
 - [Master Edition Index CSV — 165 in-scope records, Classes 1–12](./SCERT_MASTER_EDITION_INDEX.csv)
+- [Final Master Audit Status — Harmonized Metrics & Layer 4 Diff Register](./FINAL_MASTER_AUDIT_STATUS.md)
 - [Local vs GitHub Artifact Inventory](./LOCAL_VS_GITHUB_ARTIFACT_INVENTORY.md)
 - [Class 9 audit instructions (completed/archive)](./NEXT_AUDIT_CLASS_09_TA.md)
 - [Class 10 audit summary](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_audit_summary.md)
@@ -95,7 +96,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
   - [`d83a1539`](https://github.com/Eaglesiva/tn-class-09/commit/d83a15398bb81641bad539628be1c3db29f9d5ef): Summary clarification.
 - All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint). Full word-level diff across 2,504 pages is pending.
 
-### Class 10 (8 records — 2,496 pages)
+### Class 10 (8 records — 2,624 pages)
 - **Status**: 1 Master Match / 2 GitHub Newer / 1 Imprint Matched / 4 Stored Updates (1,432p)
 - **Audit Branch**: [`scert/class-10/audit-2026-27`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27)
 - **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in `editions/2026-27-scert-official/`)
@@ -152,7 +153,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **8** | 28 | 8 | 0 | Audit complete (`scert/class-08/audit-2026-27`) |
 | **9** | 28 | 8 | 0 | Imprint & page count matched (2,504p); full text diff pending |
 | **10** | 32 | 8 | 1,432 | 1 Master Match / 2 GitHub Newer / 1 Match / 4 Stored Updates (1,432p) |
-| **11** | 73 (groups) | 136 (nested) | 32 | 7,832 | 4 Match / 4 GitHub Newer / 23 Stored Updates / 1 API Mapping Unresolved (7,832p) |
+| **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Match (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) [Total: 10,288p] |
 | **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Same Version (9,872p) / 2 Stored Updates (648p) |
 | **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV** |
 
