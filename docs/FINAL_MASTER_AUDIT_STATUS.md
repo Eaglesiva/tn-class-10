@@ -31,10 +31,11 @@
 4. **Confirmed GitHub Is Newer Books (4 Books — 1,152 Pages)**:
    * Confirmed exclusively for **Class 11** (Tamil 176p, Maths TM Vol 1 320p, Maths TM Vol 2 288p, Maths EM Vol 1 368p = 1,152p).
 
-5. **Layer 4 Full Content Diff Pending (41 Books — 12,600 Pages)**:
+5. **Layer 4 Full Content Diff Progress (1 Verified Equivalent / 40 Books Remaining — 12,376 Pages)**:
    * Matching page count and Page 2 imprint (Layers 2 & 3) does **not** prove word-for-word textual equivalence.
-   * Full textual/visual diff against legacy GitHub `main` editions remains `FULL_DIFF_PENDING` for:
-     * **Class 9**: 8 books (2,504 pages)
+   * **Pilot Completed**: Class 9 English (224p) verified 100% word-for-word exact text match in commit `a2c6840f` on `Eaglesiva/tn-class-09`.
+   * Full textual diff against legacy GitHub `main` editions remains `FULL_DIFF_PENDING` for 40 books (12,376 pages):
+     * **Class 9**: 7 books (2,280 pages)
      * **Class 10**: 1 book — English (224 pages)
      * **Class 12**: 32 books (9,872 pages)
 
@@ -100,7 +101,7 @@
    * Verify 1,432 pages in Science TM/EM and Social TM/EM stored in canonical `editions/2026-27-scert-official/` against main text for Layer 4 diff.
 
 4. **Priority 4: Layer 4 Content Diff Validation**
-   * Perform systematic textual comparison for the 41 books where imprint and page counts match but content diff remains pending (Class 9: 8 books; Class 10: 1 book; Class 12: 32 books).
+   * Perform systematic textual comparison for the 40 books where imprint and page counts match but content diff remains pending (Class 9: 7 books / 2,280p; Class 10: 1 book / 224p; Class 12: 32 books / 9,872p).
 
 5. **Priority 5: Mapping Corrections**
    * Class 11 Chemistry EM Vol-1: Maintain `API_MAPPING_UNRESOLVED` (preserve 304 pages).

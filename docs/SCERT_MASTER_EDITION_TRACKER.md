@@ -1,6 +1,6 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 41 books)  
+**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 40 books / 12,376p; 1 book verified / 224p)  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
 **Class 9–12 API snapshot date:** 2026-11-05  
@@ -153,7 +153,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **6** | 49 | 15 | 0 | Audit complete (`scert/class-06/audit-2026-27`) |
 | **7** | 49 | 15 | 0 | Audit complete (`scert/class-07/audit-2026-27`) |
 | **8** | 28 | 8 | 0 | Audit complete (`scert/class-08/audit-2026-27`) |
-| **9** | 28 | 8 | 0 | Imprint & page count matched (2,504p); full text diff pending |
+| **9** | 28 | 8 | 0 | 1 Verified Equivalent (224p) / 7 Books Pending Diff (2,280p) |
 | **10** | 32 | 8 | 1,432 | 1 Master Match / 2 Manual Review / 1 Match / 4 Stored Updates (1,432p) |
 | **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Match (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) [Total: 10,288p] |
 | **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Same Version (9,872p) / 2 Stored Updates (648p) |
