@@ -21,6 +21,7 @@
 | S8 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [தொழிற்பெயர் — பெயர்ச்சொல் வகைகள்](https://www.tamilvu.org/en/node/1542) | தொழிற்பெயர், விகுதி பெற்ற தொழிற்பெயர், முதனிலை/முதனிலை திரிந்த வகைகளுக்கான இலக்கண விதி |
 | S9 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [தொழிற்பெயரும் வினையாலணையும் பெயரும்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138) | தொழிற்பெயர் மற்றும் வினையாலணையும் பெயரின் வேறுபாடு |
 | S10 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [ஐம்பெருங்காப்பியங்கள்](https://www.tamilvu.org/courses/new_courses/level05/sem01/html/lev510900092.htm) | ஐம்பெருங்காப்பியங்களின் பெயர் மற்றும் அணிகலன் தொடர்பு |
+| S11 | 10ஆம் வகுப்பு தமிழ் பாடநூல் PDF mirror | [10th Tamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf) | சருகு = காய்ந்த இலை; சண்டு = காய்ந்த தாளும் தோகையும் என்ற சொல்வளப் பகுதி |
 
 ---
 
@@ -139,9 +140,9 @@
 
 **சரியான விடை:** ஈ) சருகும் சண்டும்.
 
-**காரண விளக்கம்:** சருகு என்பது காய்ந்த இலை; சண்டு என்பது காய்ந்த தோகை/புல்தாள் பகுதியைக் குறிக்கும். இந்த இரண்டு சொற்களே கேள்வியில் உள்ள இரு உலர்ந்த தாவரப் பகுதிகளுக்கும் பொருந்துகின்றன.
+**காரண விளக்கம்:** பாடநூல் சொல்வளப் பகுதியில் “சருகு” என்பது காய்ந்த இலை என்றும், “சண்டு” என்பது காய்ந்த தாளும் தோகையும் என்றும் விளக்கப்படுகிறது. எனவே இரண்டையும் இணைத்த விடை D.
 
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
+**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S11 — பாடநூல் PDF mirror](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
 
 ### MCQ3. ‘எந்தமிழ்நா’ என்பதைப் பிரித்தால் எவ்வாறு வரும்?
 
