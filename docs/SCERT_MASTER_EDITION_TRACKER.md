@@ -101,8 +101,8 @@ Class 2, 3 and 4 reports therefore do not need to be generated again. The source
 |---:|---:|---|---|---|
 | 9 | 8 | `Eaglesiva/tn-class-09`, branch `scert/class-09/audit-2026-27`; summary, manifest and API snapshot are committed | The per-class report states 8/8 matched (2,504 pages). The central CSV preserves that reported result but flags `REPORTED_MATCH_EVIDENCE_PACKAGE_PENDING`, because the underlying per-page comparison output, official master hashes and page-2 image proof were not attached to the checked remote docs. | Upload or regenerate the comparison evidence package before treating the result as independently reproducible. No redownload/re-split is indicated by the current report. |
 | 10 | 8 | Existing audit CSVs and blueprints on `main`; Class10 audit branch `scert/class-10/audit-2026-27`; update branch `scert/class-10/official-version-updates`; pilot branch `feature/scert-edition-pilot` | Tamil has an exact master SHA-256 match (248 pages). English and Maths TM/EM remain manual review because source verdict says `PENDING_CONTENT_AND_EDITION_REVIEW` despite a conflicting standardized label. Science/Social TM/EM have four official split editions (1,432 pages) on the update branch; manifest/file sequence counts match, but split validation and all-page comparison against main are not yet attached. | Reconcile the seven remaining books with official masters and attach comparison/validation evidence. Keep all work off production main. |
-| 11 | Not yet added | `scert/class-11/official-version-updates` contains the four-batch official edition ingestion | The earlier batch report states 24 updated books / 7,832 split pages. This is an ingestion record, not yet a complete official catalog reconciliation. | Next audit: compare every live official API State Board record to the stored editions and previous main editions; no duplicate download unless evidence requires it. |
-| 12 | Not yet added | `scert/class-12/official-version-updates` exists; earlier report states two updated books / 648 pages | Edition update branch exists; full official catalog reconciliation is pending. | Reconcile live official API records and every stored edition. |
+| 11 | Not yet added | `scert/class-11/official-version-updates` contains `class11_verification_report.md` and Batch 1–4 reports; 24 edition/page sets are stored | The older verification report describes 32 items: 4 GitHub-newer, 4 same-version and 24 version-different. Batch 1–4 page files total 7,832. This is prior audit evidence, not yet a current live-API-linked central manifest. | Next audit: refresh official API; reconcile all 32 items to exact volume/medium paths and stored editions. Reuse existing 7,832 files; no duplicate download unless evidence requires it. |
+| 12 | Not yet added | `scert/class-12/official-version-updates` contains `class12_verification_report.md` and `class_12_cloud_edition_update_report.md`; two official split editions are stored | The older verification report describes 34 books: 32 same-version and 2 version-different. The two update page sets (Chemistry EM Vol-1 and Physics EM Vol-1) total 648 pages. | Reconcile all 34 reported items to a fresh official API snapshot and the exact stored editions; verify whether the 2 new splits are fully validated and whether they match/replace main. |
 
 ### Class 9 source files
 
@@ -127,6 +127,21 @@ Class 2, 3 and 4 reports therefore do not need to be generated again. The source
 - Class 10 Tamil is a stronger exception: the stored official master SHA-256/MD5 matches the local master hashes, and the feature branch stores the 248-page official 2024 Revised Edition. Keep it; no re-download needed.
 - The old 184-page / 7-unit Tamil 2025 candidate remains `UNMAPPED_CANDIDATE`; no official API record/master hash was found for it in the checked sources. Do not replace the 248-page official copy on this basis.
 - The old Class 10 source CSV has an internal contradiction on seven rows: `verdict=PENDING_CONTENT_AND_EDITION_REVIEW` while `standardized_status=VERIFIED_CONTENT_EQUIVALENT`. The central index follows the explicit pending verdict and does not accept the contradictory standardized label as proof.
+
+### Class 11 source files
+
+- [Class 11 verification report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class11_verification_report.md)
+- [Class 11 Batch 1 report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_1_report.md)
+- [Class 11 Batch 2 report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_2_report.md)
+- [Class 11 Batch 3 report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_3_report.md)
+- [Class 11 Batch 4 report](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/official-version-updates/docs/class_11_batch_4_report.md)
+- [Next Class 11 audit instructions](./NEXT_AUDIT_CLASS_11_TA.md)
+
+### Class 12 source files
+
+- [Class 12 verification report](https://github.com/Eaglesiva/tn-class-12/blob/scert/class-12/official-version-updates/docs/class12_verification_report.md)
+- [Class 12 cloud edition update report](https://github.com/Eaglesiva/tn-class-12/blob/scert/class-12/official-version-updates/docs/class_12_cloud_edition_update_report.md)
+
 
 ### Central CSV structure note
 
@@ -167,6 +182,6 @@ The Master CSV now has a separate `github_edition_branch` column in addition to 
 - Classes 1–8: source audits and manifests already exist; avoid duplicate audits.
 - Class 9: catalog report and 8 records are committed; attach the detailed comparison evidence package before independently certifying the 8/8 result.
 - Class 10: the 8-record audit manifest is committed; finish the seven pending/partial comparisons without touching production main.
-- Class 11: next class-wise catalog reconciliation. Reuse its existing 2026–27 edition branch and compare it to the live API; do not redownload existing editions without evidence.
-- Class 12: reconcile its existing update branch after Class 11.
+- Class 11: next class-wise catalog reconciliation using [the prepared instructions](./NEXT_AUDIT_CLASS_11_TA.md). Reuse its existing 24 update-branch page sets and four batch reports; do not redownload existing editions without evidence.
+- Class 12: reconcile its existing 32 same-version / 2 different-version report and 648-page update branch after Class 11.
 - Only after Classes 1–12 are reconciled, decide which books are genuinely missing/older/mis-mapped and which official or alternate retrieval source should be investigated.
