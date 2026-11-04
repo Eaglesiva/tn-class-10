@@ -97,15 +97,15 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint). Full word-level diff across 2,504 pages is pending.
 
 ### Class 10 (8 records — 2,624 pages)
-- **Status**: 1 Master Match / 2 GitHub Newer / 1 Imprint Matched / 4 Stored Updates (1,432p)
+- **Status**: 1 Exact Master SHA Match (248p) / 2 Manual Review (720p) / 1 Imprint Matched (224p) / 4 Stored Updates (1,432p)
 - **Audit Branch**: [`scert/class-10/audit-2026-27`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27)
-- **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in `editions/2026-27-scert-official/`)
-- **Evidence Commit**: [`9cb11f78`](https://github.com/Eaglesiva/tn-class-10/commit/9cb11f780128b4b6054445b67447256b06364079): Evidence package (`class10_results.json`, `imprint_diff.txt`, `verify_class10.py`).
-- Breakdown:
+- **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in unit folders; restructuring to canonical `editions/` pending)
+- **Evidence Commit**: [`9cb11f78`](https://github.com/Eaglesiva/tn-class-10/commit/9cb11f780128b4b6054445b67447256b06364079)
+- **Breakdown**:
   - **Tamil (248p)**: `EXACT_MASTER_SHA256_MATCH`
-  - **Maths TM (368p) & EM (352p)**: `GITHUB_IS_NEWER` (GitHub main has 2025 Revised Edition; official has 2024 reprint)
+  - **Maths TM (368p) & EM (352p)**: `MANUAL_REVIEW_REQUIRED` (Pending final official master page count and edition comparison; excluded from confirmed newer)
   - **English (224p)**: `IMPRINT_AND_PAGE_COUNT_MATCHED; CONTENT_DIFF_PENDING`
-  - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages split, sequentially validated, and stored on update branch)
+  - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages; formal split_validation.json pending)
 
 ### Class 11 (32 records — 10,288 pages)
 - **Status**: 4 Same Version (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 API Mapping Unresolved (304p)
