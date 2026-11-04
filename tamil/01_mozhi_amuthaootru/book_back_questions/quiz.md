@@ -31,7 +31,7 @@
 
 **விளக்கம்:** சருகு என்பது காய்ந்த இலை; சண்டு என்பது காய்ந்த புல்தாள் என தமிழ் இணையக் கல்விக்கழகத்தின் சொற்பொருள் reference விளக்குகிறது.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — சருகு / சண்டு விளக்கம்](https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 ---
 
