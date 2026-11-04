@@ -1,6 +1,6 @@
 # SCERT Audit Artifacts — Local vs GitHub Inventory
 
-**Checked:** 2026-11-05  
+**Checked:** 2026-11-05 (updated after Class 9 and Class 10 commits)  
 **Scope:** GitHub repositories/branches and local artifact names explicitly shown in the Antigravity run transcript shared in this conversation. This is not a full filesystem scan of the Antigravity Windows workspace.
 
 ## 1. Already on GitHub — shared evidence exists
@@ -19,6 +19,12 @@
 | Class 11 updated editions | [Class 11 official-version-updates branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates) | Edition folders/workflow are present. No consolidated report was found in a docs folder on the checked branch. |
 | Class 12 updated editions | [Class 12 official-version-updates branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) | Update branch exists; full official-catalog reconciliation remains pending. |
 
+
+| Class 9 audit | [Class 9 audit branch](https://github.com/Eaglesiva/tn-class-09/tree/scert/class-09/audit-2026-27) | Summary, 28-row manifest and official API snapshot are committed. The run's comparison output/log files were not present in the checked docs directory; the summary's 8/8 page-match claim is retained as reported, but independent reproduction evidence is still pending. |
+| Class 10 audit summary and manifest | [Class 10 audit branch](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27/docs) | Added during this audit: 8-record manifest, audit summary and normalized source catalog extract. |
+| Class 10 edition updates | [Class 10 update branch](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) | Four 2026–27 official editions are stored (Science TM/EM, Social Science TM/EM), totaling 1,432 page files. Manifests/page lists/Git tree sequence counts agree. No separate `split_validation.json` or all-pages main comparison report was found. |
+| Class 10 Tamil pilot | [Class 10 pilot branch](https://github.com/Eaglesiva/tn-class-10/tree/feature/scert-edition-pilot/tamil/editions/2026-27-scert-official) | Contains 248-page official Tamil edition metadata and SHA-256/MD5 that match the local master hashes. |
+
 ## 2. Local artifact names from the run transcript
 
 | Local artifact name | Remote status | Action |
@@ -31,6 +37,10 @@
 | dispatch_and_monitor_batch3.py and dispatch_and_monitor_batch4.py | Local creation shown in transcript; exact files were not found in the checked Class 11 branch root or scripts directory. | Review and upload if useful; remove secrets and machine-specific paths first. |
 | emis3_scert_books.json and official_api_scert_books_raw | Names appear in local transcript; exact filenames not confirmed in checked repository roots. Class 1–8 already have class-specific official API snapshots on GitHub with the same reported raw snapshot SHA-256. | Compare local SHA-256 before uploading; avoid unnecessary duplicate snapshots. |
 | class_08_audit_summary.md | Already exists on Class 8 audit branch. | No upload needed. |
+
+
+| `verify_class9.py` and `class9_results.json` | Their creation/inspection is shown in the Antigravity run transcript; the exact files were not found in the Class 9 audit branch `docs` directory (which contains only summary, manifest and API snapshot). | These are supporting audit artifacts; upload them (plus page-2 images and comparison detail) after removing machine-specific paths/secrets, or regenerate a clean portable report in the Class 9 branch. |
+| Class 10 local update/edition source | The remote update branch contains `scripts/cloud_runner_c10_update.py`, workflow `scert_class10_cloud_update.yml`, edition manifests and page PDFs. | These files are already remote; do not re-upload. Add the missing split structural validation and main-vs-official page comparison evidence as new audit artifacts. |
 
 ## 3. Visibility limitation
 
