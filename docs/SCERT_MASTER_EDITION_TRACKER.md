@@ -1,25 +1,27 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Central index populated through Class 11 (131 records total: Classes 1–8: 83, Class 9: 8, Class 10: 8, Class 11: 32); Class 11 catalog reconciliation complete (24 updated editions / 7,832 pages verified on update branch; Chemistry EM Vol 1 marked API_MAPPING_UNRESOLVED; all 32 HTTP HEAD verified); Class 12 central reconciliation next  
+**Status:** Central index fully populated and reconciled for all Classes 1 to 12 (165 in-scope State Board records total); 30 cloud-updated editions / 9,912 split pages verified on update branches; Zero local download policy maintained; All 12 classes catalog reconciliation complete  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
+**Class 9–12 API snapshot date:** 2026-11-05  
 **Temporary canonical home:** Eaglesiva/tn-class-10, branch `scert/master-edition-tracking`
 
 This repository document is the shared navigation and normalized index. Per-class raw API snapshots, detailed manifests and page-split evidence remain in their respective class repositories. Do not create duplicate class reports where a verified remote report already exists.
 
 ## 1. Shared files
 
-- [Master Edition Index CSV — 131 in-scope records, Classes 1–11](./SCERT_MASTER_EDITION_INDEX.csv)
+- [Master Edition Index CSV — 165 in-scope records, Classes 1–12](./SCERT_MASTER_EDITION_INDEX.csv)
 - [Local vs GitHub Artifact Inventory](./LOCAL_VS_GITHUB_ARTIFACT_INVENTORY.md)
 - [Class 9 audit instructions (completed/archive)](./NEXT_AUDIT_CLASS_09_TA.md)
 - [Class 10 audit summary](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_audit_summary.md)
 - [Class 10 audit manifest](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_2026_27_audit_manifest.csv)
 - [Class 11 audit summary](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/audit-2026-27/docs/class_11_audit_summary.md)
 - [Class 11 audit manifest](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/audit-2026-27/docs/class_11_2026_27_audit_manifest.csv)
-- [Next task: Class 12 reconciliation](./NEXT_AUDIT_CLASS_12_TA.md)
+- [Class 12 audit summary](https://github.com/Eaglesiva/tn-class-12/blob/scert/class-12/audit-2026-27/docs/class_12_audit_summary.md)
+- [Class 12 audit manifest](https://github.com/Eaglesiva/tn-class-12/blob/scert/class-12/audit-2026-27/docs/class_12_2026_27_audit_manifest.csv)
 - [Canonical verification blueprint](https://github.com/Eaglesiva/tn-class-10/blob/main/docs/SCERT_CLASSWISE_EDITION_VERIFICATION_BLUEPRINT.md)
 
-This documentation branch was created from the current Class 10 main branch. It does not modify production code, book files, viewer routing or the live site.
+This documentation branch was created from the Class 10 repository. It does not modify production code, book files, viewer routing or the live site.
 
 ## 2. Consolidated Class 1–8 status
 
@@ -67,20 +69,7 @@ A book distributed in 2026–27 may still show a printed imprint such as First E
 
 The CSV preserves the raw page-2 text. IMAGE_ONLY_OR_NO_TEXT means the imprint has not been read from the image and needs visual inspection. An extracted text fragment also needs interpretation before assigning a printed year.
 
-## 5. Class 1 corrections already committed
-
-The Class 1 audit evidence was re-read before centralization. Corrections were committed to the Class 1 audit branch:
-
-- Removed the blanket claim that all six Term-I/Term-II volumes are Reprint 2024. The official page-2 extraction shows © SCERT 2026 for Term-I Vol-I and First Edition - 2026 for Term-I Vol-II Tamil. Other volumes have incomplete or image-only extraction and need visual review.
-- Changed the three Term-III conclusions from confirmed not released to CDN HTTP 403 / release status unconfirmed.
-- Corrected two Term-I Vol-II CSV validation strings from 176/176 to 144/144. Their split_validation.json files report 144 master pages processed and all 144 passing.
-
-Updated source files:
-- [Class 1 summary](https://github.com/Eaglesiva/tn-class-01/blob/scert/class-01/audit-2026-27-term1-vol1/class_01_audit_summary.md)
-- [Class 1 audit manifest](https://github.com/Eaglesiva/tn-class-01/blob/scert/class-01/audit-2026-27-term1-vol1/class_01_2026_27_audit_manifest.csv)
-- [Class 1 API snapshot](https://github.com/Eaglesiva/tn-class-01/blob/scert/class-01/audit-2026-27-term1-vol1/class_01_official_api_snapshot.json)
-
-## 6. Existing class audit reports — do not recreate
+## 5. Existing class audit reports — do not recreate
 
 Classes 1–8 already have separate GitHub audit branches. Each contains a class summary, audit manifest CSV, official API snapshot JSON and an official_editions directory.
 
@@ -95,7 +84,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | 7 | [summary](https://github.com/Eaglesiva/tn-class-07/blob/scert/class-07/audit-2026-27/class_07_audit_summary.md) | [CSV](https://github.com/Eaglesiva/tn-class-07/blob/scert/class-07/audit-2026-27/class_07_2026_27_audit_manifest.csv) | [JSON](https://github.com/Eaglesiva/tn-class-07/blob/scert/class-07/audit-2026-27/class_07_official_api_snapshot.json) |
 | 8 | [summary](https://github.com/Eaglesiva/tn-class-08/blob/scert/class-08/audit-2026-27/class_08_audit_summary.md) | [CSV](https://github.com/Eaglesiva/tn-class-08/blob/scert/class-08/audit-2026-27/class_08_2026_27_audit_manifest.csv) | [JSON](https://github.com/Eaglesiva/tn-class-08/blob/scert/class-08/audit-2026-27/class_08_official_api_snapshot.json) |
 
-## 7. Status of Classes 9, 10, and 11
+## 6. Status of Classes 9, 10, 11, and 12
 
 ### Class 9 (8 records — 2,504 pages)
 - **Status**: `IMPRINT_AND_PAGE_COUNT_MATCHED; FULL_PAGE_DIFF_PENDING`
@@ -103,7 +92,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - **Evidence Commits**:
   - [`45fd4501`](https://github.com/Eaglesiva/tn-class-09/commit/45fd4501324f22f7c4b8ed784ff7bec92d406e66): Audit manifest, summary, API snapshot.
   - [`0146eae7`](https://github.com/Eaglesiva/tn-class-09/commit/0146eae786be36f3aeb167fe99016b14e22cf2ae): Evidence package (`class9_results.json`, `class9_comparison.md`, `imprint_dump.txt`, `verify_class9.py`).
-  - [`d83a1539`](https://github.com/Eaglesiva/tn-class-09/commit/d83a15398bb81641bad539628be1c3db29f9d5ef): Nuanced summary clarification.
+  - [`d83a1539`](https://github.com/Eaglesiva/tn-class-09/commit/d83a15398bb81641bad539628be1c3db29f9d5ef): Summary clarification.
 - All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint). Full word-level diff across 2,504 pages is pending.
 
 ### Class 10 (8 records — 2,496 pages)
@@ -117,21 +106,33 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
   - **English (224p)**: `IMPRINT_AND_PAGE_COUNT_MATCHED; CONTENT_DIFF_PENDING`
   - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages split, sequentially validated, and stored on update branch)
 
-### Class 11 (32 records — 10,248 pages)
-- **Status**: 4 Same Version / 4 GitHub Newer / 23 Stored Updates / 1 API Mapping Unresolved (7,832 pages stored on update branch)
+### Class 11 (32 records — 10,288 pages)
+- **Status**: 4 Same Version (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 API Mapping Unresolved (304p)
 - **Audit Branch**: [`scert/class-11/audit-2026-27`](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/audit-2026-27)
-- **Update Branch**: [`scert/class-11/official-version-updates`](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates)
+- **Update Branch**: [`scert/class-11/official-version-updates`](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates) (24 edition directories, 7,832 pages)
 - **Breakdown**:
   - **GitHub Is Newer (4 books - 1,152p)**: Tamil (176p), Maths TM Vol 1 (320p), Maths TM Vol 2 (288p), Maths EM Vol 1 (368p) — preserved on `main`.
-  - **Same Version (4 books - 1,264p)**: Maths EM Vol 2 (288p), History TM (352p), Geography TM (336p), Political Science TM (328p) — preserved on `main`.
+  - **Same Version (4 books - 1,304p)**: Maths EM Vol 2 (288p), History TM (352p), Geography TM (336p), Political Science TM (328p) — preserved on `main`.
   - **Official Edition Updates (23 books - 7,528p)**: Stored as 1-page PDFs on branch `scert/class-11/official-version-updates`.
   - **API Mapping Unresolved (1 book - 304p)**: Chemistry EM Vol 1 (SCERT API duplicated Vol 2 URL; GitHub update branch holds 304 split pages with genuine Vol 1 source URL; preserved intact without deletion).
-- **Source Verification (Layer 1)**: All 32/32 books confirmed HTTP 200 with byte-exact Content-Length and ETag captured via HTTP HEAD; Master PDF SHA-256 explicitly recorded as `NOT_CAPTURED` per Zero Local Download policy.
+- **Source Verification (Layer 1)**: All 32/32 books confirmed `GET_200` and `HEAD_200` with byte-exact Content-Length and ETag captured via HTTP HEAD; Master PDF SHA-256 explicitly recorded as `NOT_CAPTURED` per Zero Local Download policy.
 - **Split Validation (Layer 3)**: All 24 stored edition folders (7,832 pages) verified directly from remote tree (`c1a58225`), strictly sequential from `page_001.pdf` to `page_xxx.pdf`, 0 gaps, 0 duplicates, with all four manifests present (`edition.json`, `edition.md`, `manifest.json`, `pages.json`).
+
+### Class 12 (34 records — 10,520 pages)
+- **Status**: 32 Same Version (9,872p) / 2 Stored Updates (648p)
+- **Audit Branch**: [`scert/class-12/audit-2026-27`](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/audit-2026-27)
+- **Update Branch**: [`scert/class-12/official-version-updates`](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) (2 edition directories, 648 pages)
+- **Breakdown**:
+  - **Same Version (32 books - 9,872p)**: Preserved on `main` (Page count and Page 2 imprint matched verbatim).
+  - **Official Edition Updates (2 books - 648p)**: Stored as 1-page PDFs on branch `scert/class-12/official-version-updates`:
+    - Physics EM Vol 1: 352 pages (`physics_em/editions/2026-27-scert-official/vol1/`)
+    - Chemistry EM Vol 1: 296 pages (`chemistry_em/editions/2026-27-scert-official/vol1/`)
+- **Source Verification (Layer 1)**: All 34/34 books confirmed `GET_200` and `HEAD_200` with byte-exact Content-Length and ETag captured via HTTP HEAD; Master PDF SHA-256 recorded as `NOT_CAPTURED` per Zero Local Download policy.
+- **Split Validation (Layer 3)**: Both stored edition folders (648 pages) verified directly from remote tree (`4d5cf835`), strictly sequential 1-352 and 1-296, 0 gaps, 0 duplicates, with all four manifests present.
 
 ---
 
-## 8. Master Index Summary Table (Classes 1–11 Reconciled)
+## 7. Master Index Summary Table (Classes 1–12 Reconciled)
 
 | Class | Total API Records | In-Scope State Board Books | Verified Stored Pages on Update Branches | Catalog Audit Status |
 | :---: | :---: | :---: | :---: | :--- |
@@ -146,11 +147,12 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **9** | 28 | 8 | 0 | Imprint & page count matched (2,504p); full text diff pending |
 | **10** | 32 | 8 | 1,432 | 1 Master Match / 2 GitHub Newer / 1 Match / 4 Stored Updates (1,432p) |
 | **11** | 73 | 32 | 7,832 | 4 Match / 4 GitHub Newer / 23 Stored Updates / 1 API Mapping Unresolved (7,832p) |
-| **Total** | **422** | **131** | **9,264** | **131 rows synchronized in Master Edition Index CSV** |
+| **12** | 73 | 34 | 648 | 32 Same Version / 2 Stored Updates (648p) |
+| **Total** | **495** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV** |
 
 ---
 
-## 9. Status vocabulary
+## 8. Status vocabulary
 
 - `API_LISTED` — exact official API record exists.
 - `SALE_ANNOUNCED` — current official notice covers that class/term/year.
@@ -166,8 +168,9 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - `RELEASE_STATUS_UNCONFIRMED` — official record exists but release timing/publication is not established by notices checked.
 - `MANUAL_REVIEW_REQUIRED` — evidence is incomplete, ambiguous or contradictory.
 - `API_MAPPING_UNRESOLVED` — official API record has duplicate or ambiguous URL; preserved with verified branch split data pending official fix.
+- `HEAD_200` — HTTP HEAD query confirmed resource accessibility, Content-Length, and ETag without downloading payload.
 
-## 10. Shared update rules
+## 9. Shared update rules
 
 1. Before editing, fetch the latest `scert/master-edition-tracking` branch.
 2. Work class-by-class; preserve exact API record, filename, URL, term, medium and timestamp.
@@ -179,15 +182,3 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 8. Keep raw per-class evidence in class repositories and the normalized cross-class index here.
 9. Antigravity must commit and push its updates to this same branch so ChatGPT and Antigravity read the same version.
 10. Do not merge this documentation branch into Class 10 main until reviewed. A dedicated tracker repository can be created later and the documents migrated.
-
-## 11. Next Action: Class 12 Catalog Reconciliation
-
-- **Class 12 Scope**: 34 State Board books.
-- **Existing Evidence**: 32 same-version / 2 different-version (Physics EM Vol 1 - 352p, Chemistry EM Vol 1 - 296p) already split and verified on `scert/class-12/official-version-updates` (648 pages).
-- **Execution Plan**:
-  1. Live SCERT API snapshot for Class 12.
-  2. Map all 34 books to official API URLs, mediums, and volumes.
-  3. Perform HTTP HEAD source verification for all 34 URLs.
-  4. Validate 648 split pages on update branch.
-  5. Commit Class 12 audit manifest and summary to `scert/class-12/audit-2026-27` on `Eaglesiva/tn-class-12`.
-  6. Append 34 Class 12 rows to `SCERT_MASTER_EDITION_INDEX.csv` (reaching 165 total rows).

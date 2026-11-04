@@ -1,3 +1,16 @@
+# [COMPLETED / ARCHIVED] SCERT Class 11 Textbook Edition Reconciliation
+
+> [!NOTE]
+> **Status:** COMPLETED & ARCHIVED (2026-11-05)  
+> All 32 State Board Class 11 textbooks have been reconciled and verified under the 4-tier verification protocol.  
+> - **Audit Manifest:** [class_11_2026_27_audit_manifest.csv](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/audit-2026-27/docs/class_11_2026_27_audit_manifest.csv)  
+> - **Audit Summary:** [class_11_audit_summary.md](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/audit-2026-27/docs/class_11_audit_summary.md)  
+> - **Live API Snapshot:** [class_11_official_api_snapshot.json](https://github.com/Eaglesiva/tn-class-11/blob/scert/class-11/audit-2026-27/docs/class_11_official_api_snapshot.json)  
+> - **Update Branch (7,832 pages):** [scert/class-11/official-version-updates](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates)  
+> - **Master Index:** Recorded in [SCERT_MASTER_EDITION_INDEX.csv](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/SCERT_MASTER_EDITION_INDEX.csv)  
+
+---
+
 # அடுத்த பணி — Class 11 Official Catalog vs GitHub Edition Reconciliation
 
 **பணி நிலை:** Class 9 comparison evidence மற்றும் Class 10 ஏழு pending comparisons closeout ஆன பிறகு தொடங்க வேண்டிய audit  

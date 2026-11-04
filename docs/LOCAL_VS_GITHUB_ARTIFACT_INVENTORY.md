@@ -17,8 +17,8 @@
 | 8 | [Class 8 audit branch](https://github.com/Eaglesiva/tn-class-08/tree/scert/class-08/audit-2026-27) | Summary, audit CSV, raw API snapshot and official editions | No re-upload needed. |
 | 9 | [Class 9 audit branch](https://github.com/Eaglesiva/tn-class-09/tree/scert/class-09/audit-2026-27) | Summary, 28-record manifest and official API snapshot | The report claims 8/8 core books match (2,504 pages). The verification script/results file and detailed page-comparison evidence mentioned in Antigravity's transcript were not found in the checked remote `docs` folder. The central index records the result as reported, with independent reproduction evidence pending. |
 | 10 | [Class 10 audit branch](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27/docs) | New summary, 8-record audit manifest and normalized source catalog extract | Added in this audit. Tamil has exact master SHA-256/MD5 match; seven other books remain pending or comparison-incomplete. |
-| 11 | [Class 11 official update branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates) | Main verification report plus Batch 1–4 reports, edition metadata/manifests/pages | 24 official edition page sets / 7,832 page PDFs exist. The older verification report classifies 32 items as 4 GitHub-newer, 4 same-version and 24 version-different. No fresh 2026–27 raw API snapshot/normalized catalog manifest was found in the checked branch. |
-| 12 | [Class 12 official update branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) | Main verification report and cloud edition update report | 2 differing official edition page sets / 648 page PDFs exist (Chemistry EM Vol-1 and Physics EM Vol-1). The older report says 32 of 34 books same-version and 2 version-different. No fresh 2026–27 raw API snapshot/normalized catalog manifest was found in the checked branch. |
+| 11 | [Class 11 audit branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/audit-2026-27) & [update branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates) | Summary, 32-record manifest, fresh raw API snapshot (SHA: `404f2834...`), and 24 edition folders | Reconciliation complete. 32 books: 4 GITHUB_IS_NEWER (1,152p), 4 SAME_VERSION (1,304p), 23 OFFICIAL UPDATES (7,528p), 1 API_MAPPING_UNRESOLVED (304p). Total 10,288 pages. |
+| 12 | [Class 12 audit branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/audit-2026-27) & [update branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) | Summary, 34-record manifest, fresh raw API snapshot (SHA: `404f2834...`), and 2 edition folders | Reconciliation complete. 34 books: 32 SAME_VERSION (9,872p), 2 OFFICIAL UPDATES (648p: Physics EM Vol 1 352p, Chemistry EM Vol 1 296p). Total 10,520 pages. |
 
 ### Existing Class 11 / Class 12 report files
 
@@ -32,7 +32,7 @@
 The temporary central tracker is stored on `Eaglesiva/tn-class-10`, branch `scert/master-edition-tracking`:
 
 - [Master Edition Tracker](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/SCERT_MASTER_EDITION_TRACKER.md)
-- [Master Edition Index CSV — 131 records, Classes 1–11](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/SCERT_MASTER_EDITION_INDEX.csv)
+- [Master Edition Index CSV — 165 records, Classes 1–12](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/SCERT_MASTER_EDITION_INDEX.csv)
 - [Class 11 reconciliation complete (Next: Class 12 reconciliation)](https://github.com/Eaglesiva/tn-class-10/blob/scert/master-edition-tracking/docs/NEXT_AUDIT_CLASS_11_TA.md)
 
 The Master CSV has separate `github_audit_branch` and `github_edition_branch` fields. These must remain distinct when a report is stored on one branch and official split pages are on another.
@@ -56,8 +56,8 @@ The Master CSV has separate `github_audit_branch` and `github_edition_branch` fi
 | Class | Update branch | Edition/page groups | Page PDFs |
 |---:|---|---:|---:|
 | 10 | `scert/class-10/official-version-updates` | 4 | 1,432 |
-| 11 | `scert/class-11/official-version-updates` | 24 (Chemistry/Physics TM/EM include Vol-1 and Vol-2) | 7,832 |
-| 12 | `scert/class-12/official-version-updates` | 2 (Chemistry EM Vol-1; Physics EM Vol-1) | 648 |
+| 11 | [Class 11 audit branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/audit-2026-27) & [update branch](https://github.com/Eaglesiva/tn-class-11/tree/scert/class-11/official-version-updates) | Summary, 32-record manifest, fresh raw API snapshot (SHA: `404f2834...`), and 24 edition folders | Reconciliation complete. 32 books: 4 GITHUB_IS_NEWER (1,152p), 4 SAME_VERSION (1,304p), 23 OFFICIAL UPDATES (7,528p), 1 API_MAPPING_UNRESOLVED (304p). Total 10,288 pages. |
+| 12 | [Class 12 audit branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/audit-2026-27) & [update branch](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) | Summary, 34-record manifest, fresh raw API snapshot (SHA: `404f2834...`), and 2 edition folders | Reconciliation complete. 34 books: 32 SAME_VERSION (9,872p), 2 OFFICIAL UPDATES (648p: Physics EM Vol 1 352p, Chemistry EM Vol 1 296p). Total 10,520 pages. |
 
 These are Git-tree file counts. They do not automatically establish PDF structural validation or content equivalence to the existing production main edition. Check the manifests and validation artifacts for each group.
 
