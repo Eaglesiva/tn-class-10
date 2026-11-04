@@ -42,7 +42,33 @@
 | `verify_class9.py` and `class9_results.json` | Their creation/inspection is shown in the Antigravity run transcript; the exact files were not found in the Class 9 audit branch `docs` directory (which contains only summary, manifest and API snapshot). | These are supporting audit artifacts; upload them (plus page-2 images and comparison detail) after removing machine-specific paths/secrets, or regenerate a clean portable report in the Class 9 branch. |
 | Class 10 local update/edition source | The remote update branch contains `scripts/cloud_runner_c10_update.py`, workflow `scert_class10_cloud_update.yml`, edition manifests and page PDFs. | These files are already remote; do not re-upload. Add the missing split structural validation and main-vs-official page comparison evidence as new audit artifacts. |
 
-## 3. Visibility limitation
+## 3. Class 9 and Class 10 artifact reconciliation
+
+### Class 9
+
+- Remote branch: [`Eaglesiva/tn-class-09` / `scert/class-09/audit-2026-27`](https://github.com/Eaglesiva/tn-class-09/tree/scert/class-09/audit-2026-27)
+- Present remote files: `docs/class_09_audit_summary.md`, `docs/class_09_2026_27_audit_manifest.csv`, `docs/class_09_official_api_snapshot.json`.
+- The summary/manifest report eight core books (2,504 pages) as 100% identical to GitHub main. The transcript mentions `verify_class9.py` and `class9_results.json`; these exact files were not found in the checked remote docs folder. The central CSV therefore preserves the reported outcome but flags that the supporting comparison package is not yet independently reproducible from the remote evidence.
+- Do not re-download the eight Class 9 books simply to recreate the audit. First upload or regenerate the omitted comparison evidence, page-2 visual evidence and master checksum records if available.
+
+### Class 10
+
+- Audit branch: [`scert/class-10/audit-2026-27`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27/docs). Present: `class_10_audit_summary.md`, `class_10_2026_27_audit_manifest.csv`, `class_10_source_catalog_extract.json`.
+- Official edition update branch: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates). Four new edition page sets (Science TM/EM, Social Science TM/EM) total 1,432 page files. Their manifests, page lists and Git tree counts agree; no separate `split_validation.json` or main-vs-official all-pages comparison file was found.
+- Tamil's 248-page official master SHA-256/MD5 match local master hashes in `feature/scert-edition-pilot`. No need to re-download or replace it.
+- Seven other Class 10 core titles remain pending/manual review until their source-level contradictory labels are resolved and actual official-vs-main content comparison is documented.
+- The prior Class 10 audit CSV is contradictory for seven books: `verdict=PENDING_CONTENT_AND_EDITION_REVIEW` while `standardized_status=VERIFIED_CONTENT_EQUIVALENT`. The new central Class10 audit manifest does not accept the latter as proof.
+
+## 4. Class 11 and Class 12 edition inventory found remotely
+
+| Class | Update branch | Edition/page sets visible in Git tree | Page PDFs |
+|---:|---|---:|---:|
+| 11 | `scert/class-11/official-version-updates` | 24 (Chemistry and Physics TM/EM each have Vol-1/Vol-2) | 7,832 |
+| 12 | `scert/class-12/official-version-updates` | 2 (Chemistry EM Vol-1; Physics EM Vol-1) | 648 |
+
+These counts are Git-tree observations, not proof that each PDF is content-equivalent to the live current official API or to any existing `main` copy. The next audits should refresh the official API and compare the stored manifests/page inventories before deciding whether to download anything.
+
+## 5. Visibility limitation
 
 The full Antigravity local working directory, untracked files, files whose contents were not pasted, and unsaved changes are not visible from this GitHub check. This inventory is evidence-bounded, not a complete local disk scan.
 
@@ -55,7 +81,7 @@ To complete the local-vs-GitHub reconciliation, Antigravity should generate a lo
 
 Save that inventory to this shared branch, compare every local path with the corresponding GitHub branch, and upload only useful reproducible files. Never upload temporary master PDFs, credentials, tokens, .env files, cache folders or machine-specific secrets.
 
-## 4. Shared working-copy protocol
+## 6. Shared working-copy protocol
 
 1. The shared source of truth is the GitHub branch scert/master-edition-tracking.
 2. Before editing locally, Antigravity must fetch and fast-forward from that branch.
