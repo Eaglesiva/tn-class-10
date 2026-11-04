@@ -12,13 +12,13 @@
 
 | Source ID | Source / வகை | நேரடி பக்கம் | பக்கத்தில் கண்டது | Edition / காலக்குறிப்பு |
 |---|---|---|---|---|
-| S1 | BrainKart — non-government educational answer page | [இயல் 1 — கேள்விகள் மற்றும் பதில்கள்](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) | 5 MCQ, குறு/சிறு/நெடு வினாக்களுக்கு நேரடி விடைகள் | 21-07-2022 அன்று வெளியிடப்பட்டது; பக்கத்தில் textbook edition குறிப்பிடப்படவில்லை |
-| S2 | GreenTamil — non-government educational blog | [இயல் 1 — Book Back Q&A](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) | 5 MCQ, குறு/சிறு/நெடு வினாக்களுக்கு விடைகள் | 19-06-2021; பழைய பக்கம், edition குறிப்பிடப்படவில்லை |
-| S3 | TamilVithai — ஆசிரியர்/கல்வி reference site | [இயல் 1 — Slow Learner Guide](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`) | 5 MCQ மற்றும் பல துணைவினாக்களுக்கு பதில் குறிப்புகள் | 12-06-2022; பக்க உரையில் 2022–23 எனக் குறிப்பிடுகிறது |
-| S4 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official educational reference | [மூவகை மொழி / வேங்கை — PDF பக்கம் 128](`https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128`) | தனிமொழி, தொடர்மொழி, பொதுமொழி; வேங்கை எடுத்துக்காட்டு | PDF-இன் சொந்தப் பாடப்பொருள்; Class 10 2026–27 answer key என்று கருதவில்லை |
-| S5 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official educational reference | [ஐம்பெருங்காப்பியங்கள் — பாடப்பக்கம்](`https://www.tamilvu.org/ta/courses-degree-p202-p2023-html-p2023119-29099`) | ஐம்பெருங்காப்பியங்களின் முழுப் பட்டியல் | நேரடி பாடப்பக்கம் |
-| S6 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official grammar reference | [தொழிற்பெயர் மற்றும் வினையாலணையும் பெயர்](`https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356`) | இரண்டு இலக்கணப் பெயர்களின் வரையறை மற்றும் வேறுபாடு | பக்கத்தில் புதுப்பிக்கப்பட்ட தேதி: 02-09-2016 |
-| S7 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official reference | [சருகு / சண்டு விளக்கம்](`https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141`) | சருகு, சண்டு சொற்களின் பொருள் | பக்கம் நேரடியாகப் பதிலளிக்கிறது; தனி Class 10 answer key அல்ல |
+| S1 | BrainKart — non-government educational answer page | [இயல் 1 — கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11807/) | 5 MCQ, குறு/சிறு/நெடு வினாக்களுக்கு நேரடி விடைகள் | 21-07-2022 அன்று வெளியிடப்பட்டது; பக்கத்தில் textbook edition குறிப்பிடப்படவில்லை |
+| S2 | GreenTamil — non-government educational blog | [இயல் 1 — Book Back Q&A](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) | 5 MCQ, குறு/சிறு/நெடு வினாக்களுக்கு விடைகள் | 19-06-2021; பழைய பக்கம், edition குறிப்பிடப்படவில்லை |
+| S3 | TamilVithai — ஆசிரியர்/கல்வி reference site | [இயல் 1 — Slow Learner Guide](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html) | 5 MCQ மற்றும் பல துணைவினாக்களுக்கு பதில் குறிப்புகள் | 12-06-2022; பக்க உரையில் 2022–23 எனக் குறிப்பிடுகிறது |
+| S4 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official educational reference | [மூவகை மொழி / வேங்கை — PDF பக்கம் 128](https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128) | தனிமொழி, தொடர்மொழி, பொதுமொழி; வேங்கை எடுத்துக்காட்டு | PDF-இன் சொந்தப் பாடப்பொருள்; Class 10 2026–27 answer key என்று கருதவில்லை |
+| S5 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official educational reference | [ஐம்பெருங்காப்பியங்கள் — பாடப்பக்கம்](https://www.tamilvu.org/ta/courses-degree-p202-p2023-html-p2023119-29099) | ஐம்பெருங்காப்பியங்களின் முழுப் பட்டியல் | நேரடி பாடப்பக்கம் |
+| S6 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official grammar reference | [தொழிற்பெயர் மற்றும் வினையாலணையும் பெயர்](https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356) | இரண்டு இலக்கணப் பெயர்களின் வரையறை மற்றும் வேறுபாடு | பக்கத்தில் புதுப்பிக்கப்பட்ட தேதி: 02-09-2016 |
+| S7 | தமிழ் இணையக் கல்விக்கழகம் (TVA) — official reference | [சருகு / சண்டு விளக்கம்](https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141) | சருகு, சண்டு சொற்களின் பொருள் | பக்கம் நேரடியாகப் பதிலளிக்கிறது; தனி Class 10 answer key அல்ல |
 
 **Source limitation:** S1–S3 பழைய தேதியுடைய பக்கங்கள். இவை ஒரு குறிப்பிட்ட விடை உண்மையில் அந்தப் பக்கத்தில் இருப்பதை நிரூபிக்கின்றன; ஆனால் அந்தப் பக்கம் 2026–27 பதிப்புக்காக புதுப்பிக்கப்பட்டது என்பதை நிரூபிக்கவில்லை. எனவே edition match தனியாகச் சரிபார்க்கப்பட வேண்டும்.
 
@@ -45,7 +45,7 @@
 - **S2 GreenTamil:** அதே விடை அ) என்று தருகிறது.
 - **S3 TamilVithai:** அதே விடை அ) என்று பட்டியலிடுகிறது.
 
-**Source links:** [BrainKart — MCQ 1](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — MCQ 1](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TamilVithai — MCQ 1](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`)
+**Source links:** [BrainKart — MCQ 1](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — MCQ 1](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
 
 **Status:** `ANSWER_FOUND` — மூன்று கல்வி reference பக்கங்களிலும் ஒரே விடை.  
 **Question-text note:** `questions.md`-ல் ஆசிரியர் பெயர் “தமிழகனார்” என்று உள்ளது; S1–S3-ல் “தமிழழகனார்” என்று உள்ளது. மேலும் option B-யின் சொல் வடிவிலும் சிறிய வேறுபாடு உள்ளது. Original PDF-ஐ வைத்து எழுத்து வடிவம் உறுதிசெய்யப்படும்வரை `questions.md` மாற்றப்படவில்லை.  
@@ -58,7 +58,7 @@
 - **S2 GreenTamil:** option ஈ) “சருகும் சண்டும்” என விடை தருகிறது.
 - **S7 TVA:** சருகு = காய்ந்த இலை; சண்டு = காய்ந்த புல்தாள் எனச் சொற்பொருள் விளக்கம் தருகிறது.
 
-**Source links:** [BrainKart — MCQ 2](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — MCQ 2](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TVA — சருகு/சண்டு](`https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141`)
+**Source links:** [BrainKart — MCQ 2](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 2](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — சருகு/சண்டு](https://www.tamilvu.org/slet/lA110/lA110pd1.jsp?bookid=254&pno=141)
 
 **Status:** `ANSWER_FOUND` — பதிலும் சொற்பொருள் விளக்கமும் கிடைத்தன.  
 **Question-text note:** Markdown-ல் அடிக்கோடு formatting சேமிக்கப்படவில்லை; அசல் PDF-ல் அடிக்கோடிடப்பட்ட பகுதியைத் தனியாகச் சரிபார்க்க வேண்டும்.  
@@ -70,7 +70,7 @@
 - **S1 BrainKart:** “எம் + தமிழ் + நா”.
 - **S2 GreenTamil:** option இ) “எம் + தமிழ் + நா”.
 
-**Source links:** [BrainKart — MCQ 3](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — MCQ 3](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source links:** [BrainKart — MCQ 3](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 3](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 **Status:** `ANSWER_FOUND` — இரண்டு பக்கங்களிலும் ஒரே விடை.  
 **Question-text note:** பழைய `quiz.md`-ல் “எண்தமிழ்நா” என்று இருந்தது; அது `questions.md`-ல் உள்ள “எந்தமிழ்நா” வடிவத்துடன் ஒத்திசைக்கப்பட வேண்டும்.  
@@ -83,7 +83,7 @@
 - **S2 GreenTamil:** option ஈ) “பாடல்; கேட்டவர்”.
 - **S6 TVA:** தொழிற்பெயர் செயலைக் குறிக்கும் பெயர் என்றும், வினையாலணையும் பெயர் செயலைச் செய்தவரையோ பொருளையோ குறிக்கும் என்றும் விளக்குகிறது.
 
-**Source links:** [BrainKart — MCQ 4](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — MCQ 4](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TVA — இலக்கண விளக்கம்](`https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356`)
+**Source links:** [BrainKart — MCQ 4](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 4](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — இலக்கண விளக்கம்](https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356)
 
 **Status:** `ANSWER_FOUND` — இரண்டு நேரடி விடை பக்கங்களும், அதிகாரப்பூர்வ இலக்கண விளக்கமும் பொருந்துகின்றன.  
 **Final Answer:** NOT_CREATED_YET.
@@ -94,7 +94,7 @@
 - **S1 BrainKart:** option ஆ) “மணிவகை”.
 - **S2 GreenTamil:** option ஆ) “மணி வகை”.
 
-**Source links:** [BrainKart — MCQ 5](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — MCQ 5](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source links:** [BrainKart — MCQ 5](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — MCQ 5](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 **Status:** `ANSWER_FOUND` — இரண்டு பக்கங்களிலும் ஒரே விடை.  
 **Final Answer:** NOT_CREATED_YET.
@@ -108,7 +108,7 @@
 - **S2 GreenTamil:** அதே விளக்கத்துடன் அந்தச் சொல் தனிமொழிக்கும் தொடர்மொழிக்கும் பொதுவாக அமைவதாகக் கூறுகிறது.
 - **S4 TVA:** பக்கம் 128-ல் பொதுமொழியின் வரையறையையும் “வேங்கை” எடுத்துக்காட்டையும் தருகிறது.
 
-**Source links:** [BrainKart — குறுவினா 1](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — குறுவினா 1](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TVA — PDF பக்கம் 128](`https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128`)
+**Source links:** [BrainKart — குறுவினா 1](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — குறுவினா 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — PDF பக்கம் 128](https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128)
 
 **Status:** `ANSWER_FOUND` — நேரடி விடை + அதிகாரப்பூர்வ இலக்கணக் கருத்து கிடைத்தன.  
 **Final Answer:** NOT_CREATED_YET.
@@ -120,7 +120,7 @@
 - **S2 GreenTamil:** அதே மூன்று பெயர்கள்.
 - **S5 TVA:** ஐம்பெருங்காப்பியங்களின் முழுப் பட்டியலைத் தருகிறது: சிலப்பதிகாரம், சிந்தாமணி, மணிமேகலை, வளையாபதி, குண்டலகேசி. கேள்வியில் ஏற்கெனவே இடம்பெற்றுள்ள சிலப்பதிகாரம்/மணிமேகலையை நீக்கினால் மீதமுள்ள மூன்று பெயர்களுடன் பொருந்துகிறது.
 
-**Source links:** [BrainKart — குறுவினா 2](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — குறுவினா 2](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TVA — ஐம்பெருங்காப்பியங்கள்](`https://www.tamilvu.org/ta/courses-degree-p202-p2023-html-p2023119-29099`)
+**Source links:** [BrainKart — குறுவினா 2](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — குறுவினா 2](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TVA — ஐம்பெருங்காப்பியங்கள்](https://www.tamilvu.org/ta/courses-degree-p202-p2023-html-p2023119-29099)
 
 **Status:** `ANSWER_FOUND` — இரண்டு நேரடி விடை பக்கங்களும், TVA-வின் பட்டியலும் பொருந்துகின்றன.  
 **Final Answer:** NOT_CREATED_YET.
@@ -134,7 +134,7 @@
 - **S2 GreenTamil:** அன்னைமொழி, பழமையான நறுங்கனி, பாண்டியன் மகள், திருக்குறளின் பெருமை, சங்க இலக்கியங்கள்/காப்பியங்கள் ஆகியவற்றை விரிவாகக் குறிப்பிடுகிறது.
 - **S3 TamilVithai:** தமிழன்னைப் பற்றிய காரணங்களைப் பட்டியலிடுகிறது.
 
-**Source links:** [BrainKart — சிறுவினா 1](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — சிறுவினா 1](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TamilVithai — சிறுவினா 1](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`)
+**Source links:** [BrainKart — சிறுவினா 1](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — சிறுவினா 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — சிறுவினா 1](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
 
 **Status:** `ANSWER_FOUND` — பல source references கிடைத்தன; இறுதி wording ஒப்பீட்டுக்குப் பிறகு உருவாக்கப்பட வேண்டும்.  
 **Final Answer:** NOT_CREATED_YET.
@@ -146,7 +146,7 @@
 - **S2 GreenTamil:** நெல் நாற்று, தென்னம்பிள்ளை, கத்தரி நாற்று, மாங்கன்று, வாழைக்கன்று என ஐந்து எடுத்துக்காட்டுகள் தருகிறது.
 - **S3 TamilVithai:** பனைவடலி, மாங்கன்று, சோளப் பைங்கூழ், புளியங்கன்று, தென்னம்பிள்ளை என ஐந்து எடுத்துக்காட்டுகள் தருகிறது.
 
-**Source links:** [BrainKart — சிறுவினா 2](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — சிறுவினா 2](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TamilVithai — சிறுவினா 2](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`)
+**Source links:** [BrainKart — சிறுவினா 2](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — சிறுவினா 2](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — சிறுவினா 2](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
 
 **Status:** `ANSWER_FOUND` — S2 மற்றும் S3 இரண்டிலும் ஐந்து எடுத்துக்காட்டுகள் உள்ளன. எடுத்துக்காட்டுகள் ஒன்றுக்கொன்று மாறுபடுகின்றன; இரண்டையும் reference-ஆக வைத்திருக்கிறோம்.  
 **Final Answer:** NOT_CREATED_YET.
@@ -157,7 +157,7 @@
 - **S1 BrainKart / S2 GreenTamil / S3 TamilVithai:** இவற்றின் விடை பக்கங்களில் கேள்வி வடிவம் “அறிந்தது, அறியாதது, புரிந்தது, புரியாதது, தெரிந்தது, தெரியாதது, பிறந்தது, பிறவாதது” என்று உள்ளது. அங்கு தரப்படும் தொழிற்பெயர் வடிவங்கள்: அறிதல், அறியாமை, புரிதல், புரியாமை, தெரிதல், தெரியாமை, பிறத்தல், பிறவாமை.
 - **Issue:** `questions.md`-ல் உள்ள வினைச்சொல் வடிவங்கள் (“அறிந்து, அறியாது…”), மூன்று answer pages-ல் உள்ள வடிவங்களுடன் (“அறிந்தது, அறியாதது…”) ஒன்றல்ல. எனவே அதே விடையை இக்கேள்விக்கான உறுதியான விடை என்று மாற்றிப் பயன்படுத்தவில்லை.
 
-**Source links:** [BrainKart — சிறுவினா 3](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — சிறுவினா 3](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TamilVithai — சிறுவினா 3](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`) · [TVA — தொழிற்பெயர் விளக்கம்](`https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356`)
+**Source links:** [BrainKart — சிறுவினா 3](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — சிறுவினா 3](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — சிறுவினா 3](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html) · [TVA — தொழிற்பெயர் விளக்கம்](https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356)
 
 **Status:** `SOURCE_QUESTION_TEXT_MISMATCH` — அசல் PDF-ல் உள்ள வினா உரையை ஒப்பிட்டு உறுதிசெய்ய வேண்டும்.  
 **Final Answer:** NOT_CREATED_YET.
@@ -169,7 +169,7 @@
 - **S2 GreenTamil:** அதே நான்கு ஒப்புமைகளையும் விளக்குகிறது.
 - **S3 TamilVithai:** தமிழ்-கடல் ஒப்புமைகளை அட்டவணையாகக் கொடுக்கிறது.
 
-**Source links:** [BrainKart — சிறுவினா 4](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — சிறுவினா 4](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`) · [TamilVithai — சிறுவினா 4](`https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html`)
+**Source links:** [BrainKart — சிறுவினா 4](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — சிறுவினா 4](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — சிறுவினா 4](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
 
 **Status:** `ANSWER_FOUND` — பல source references கிடைத்தன. சொல்/பொருள் வேறுபாடுகள் Final Comparison-ல் பார்க்கப்பட வேண்டும்.  
 **Final Answer:** NOT_CREATED_YET.
@@ -182,7 +182,7 @@
 - **S1 BrainKart:** இரு பாடல்களிலும் வரும் தமிழ்த்தாயின் உருவகங்கள், தமிழின் தொன்மை, தமிழ்நாட்டின் சிறப்பு, இலக்கிய வளம் ஆகியவற்றை ஒப்பிட்டு மாதிரி உரை வழங்குகிறது.
 - **S2 GreenTamil:** இதே தலைப்பில் விரிவான மேடைப்பேச்சு மாதிரி வழங்குகிறது.
 
-**Source links:** [BrainKart — நெடுவினா 1](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — நெடுவினா 1](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source links:** [BrainKart — நெடுவினா 1](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — நெடுவினா 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 **Status:** `ANSWER_FOUND` — நேரடி மாதிரி விடைகள் உள்ளன.  
 **Final Answer:** NOT_CREATED_YET.
@@ -193,7 +193,7 @@
 - **S1 BrainKart:** தமிழின் சொல்வளம், ஒரு பொருட் பல சொற்கள், சொல்லாக்கத்தின் கல்வி/அறிவியல்/உயர்கல்விப் பயன்பாடு, தமிழின் தனித்தன்மை பாதுகாப்பு போன்ற குறிப்புகள் தருகிறது.
 - **S2 GreenTamil:** இதே பேச்சுக் குறிப்புகளுக்கான விடைத் தொகுப்பை வழங்குகிறது.
 
-**Source links:** [BrainKart — நெடுவினா 2](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — நெடுவினா 2](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source links:** [BrainKart — நெடுவினா 2](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — நெடுவினா 2](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 **Status:** `ANSWER_FOUND` — நேரடி reference பதில்கள் உள்ளன.  
 **Final Answer:** NOT_CREATED_YET.
@@ -204,7 +204,7 @@
 - **S1 BrainKart:** குமரன் மற்றும் யாழினி என்ற பாத்திரங்களுடன் உரையாடல் மாதிரி தொடங்கி வழங்குகிறது.
 - **S2 GreenTamil:** இதே சூழலுக்கான உரையாடல் மாதிரி வழங்குகிறது.
 
-**Source links:** [BrainKart — நெடுவினா 3](`https://www.brainkart.in/article/Questions-and-Answers_11807/`) · [GreenTamil — நெடுவினா 3](`https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html`)
+**Source links:** [BrainKart — நெடுவினா 3](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — நெடுவினா 3](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
 **Status:** `ANSWER_FOUND` — நேரடி உரையாடல் மாதிரிகள் உள்ளன.  
 **Final Answer:** NOT_CREATED_YET.
