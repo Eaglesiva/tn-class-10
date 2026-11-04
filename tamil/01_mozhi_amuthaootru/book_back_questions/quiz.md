@@ -15,7 +15,7 @@
 
 **விளக்கம்:** கடலுக்குப் பெருமளவு வணிகக் கப்பல்கள்; தமிழுக்கு ஐம்பெரும் காப்பியங்கள் என்ற இரட்டுற மொழிதல் என நேரடி answer pages விளக்குகின்றன.
 
-**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [TamilVithai — இதே வினா](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
+**Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [பாடநூல் PDF mirror](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf) · [TamilVithai — இதே வினா](https://www.tamilvithai.com/2022/06/10th-tamil-unit-1-slow-learner-guide.html)
 
 ---
 
@@ -29,7 +29,7 @@
 
 **சரியான விடை:** ஈ) சருகும் சண்டும்
 
-**விளக்கம்:** சருகு என்பது காய்ந்த இலை; சண்டு என்பது காய்ந்த புல்தாள் என தமிழ் இணையக் கல்விக்கழகத்தின் சொற்பொருள் reference விளக்குகிறது.
+**விளக்கம்:** பாடநூல் சொல்வளப் பகுதியில் சருகு = காய்ந்த இலை; சண்டு = காய்ந்த தாளும் தோகையும் எனக் கொடுக்கப்பட்டுள்ளது.
 
 **Source:** [BrainKart — இதே வினா மற்றும் விடை](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [GreenTamil — இதே விடை](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
 
