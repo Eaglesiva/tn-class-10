@@ -1,6 +1,6 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Interim central register; Classes 1–8 consolidated, Classes 9–12 pending reconciliation  
+**Status:** Central register updated through Class 10; Classes 1–10 consolidated, Classes 11–12 pending reconciliation  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
 **Temporary canonical home:** Eaglesiva/tn-class-10, branch scert/master-edition-tracking
@@ -9,9 +9,12 @@ This repository document is the shared navigation and normalized index. Per-clas
 
 ## 1. Shared files
 
-- [Master Edition Index CSV — 83 in-scope records, Classes 1–8](./SCERT_MASTER_EDITION_INDEX.csv)
+- [Master Edition Index CSV — 99 in-scope records, Classes 1–10](./SCERT_MASTER_EDITION_INDEX.csv)
 - [Local vs GitHub Artifact Inventory](./LOCAL_VS_GITHUB_ARTIFACT_INVENTORY.md)
-- [Next task: Class 9 audit instructions](./NEXT_AUDIT_CLASS_09_TA.md)
+- [Class 9 audit instructions (completed/archive)](./NEXT_AUDIT_CLASS_09_TA.md)
+- [Class 10 audit summary](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_audit_summary.md)
+- [Class 10 audit manifest](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_2026_27_audit_manifest.csv)
+- [Next task: Class 11 reconciliation](./NEXT_AUDIT_CLASS_11_TA.md)
 - [Canonical verification blueprint](https://github.com/Eaglesiva/tn-class-10/blob/main/docs/SCERT_CLASSWISE_EDITION_VERIFICATION_BLUEPRINT.md)
 
 This documentation branch was created from the current Class 10 main branch. It does not modify production code, book files, viewer routing or the live site.
@@ -92,14 +95,43 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 
 Class 2, 3 and 4 reports therefore do not need to be generated again. The source manifests and summaries have been amended to qualify HTTP 403 interpretations.
 
-## 7. Classes 9–12: remaining consolidation
+## 7. Classes 9–12: consolidation status and remaining work
 
-| Class | GitHub evidence located | Central tracker action |
-|---:|---|---|
-| 9 | No SCERT audit branch found in branch search; class repository exists. | Next audit. Create a class-09 audit branch, refresh official API records, compare with existing GitHub content and write evidence report. |
-| 10 | Existing docs on main include MASTER_EDITION_AUDIT_REPORT.md, OFFICIAL_API_VS_LOCAL_PDF_AUDIT.md, API/local CSVs and the canonical blueprint. An official-version-updates branch also exists. | Reconcile these pilot/audit records with the live official API and actual stored editions. |
-| 11 | scert/class-11/official-version-updates contains four-batch edition ingestion. Previous report records 24 updated books and 7,832 split pages. | Reconcile all official API records against stored 2026–27 and older/newer editions. Ingestion alone is not a full catalog audit. |
-| 12 | scert/class-12/official-version-updates exists; previous summary recorded two updated books and 648 pages. | Reconcile the live official API and every stored edition with the current catalog. |
+| Class | Central-index records | Audit evidence located | Current result | Remaining work |
+|---:|---:|---|---|---|
+| 9 | 8 | `Eaglesiva/tn-class-09`, branch `scert/class-09/audit-2026-27`; summary, manifest and API snapshot are committed | The per-class report states 8/8 matched (2,504 pages). The central CSV preserves that reported result but flags `REPORTED_MATCH_EVIDENCE_PACKAGE_PENDING`, because the underlying per-page comparison output, official master hashes and page-2 image proof were not attached to the checked remote docs. | Upload or regenerate the comparison evidence package before treating the result as independently reproducible. No redownload/re-split is indicated by the current report. |
+| 10 | 8 | Existing audit CSVs and blueprints on `main`; Class10 audit branch `scert/class-10/audit-2026-27`; update branch `scert/class-10/official-version-updates`; pilot branch `feature/scert-edition-pilot` | Tamil has an exact master SHA-256 match (248 pages). English and Maths TM/EM remain manual review because source verdict says `PENDING_CONTENT_AND_EDITION_REVIEW` despite a conflicting standardized label. Science/Social TM/EM have four official split editions (1,432 pages) on the update branch; manifest/file sequence counts match, but split validation and all-page comparison against main are not yet attached. | Reconcile the seven remaining books with official masters and attach comparison/validation evidence. Keep all work off production main. |
+| 11 | Not yet added | `scert/class-11/official-version-updates` contains the four-batch official edition ingestion | The earlier batch report states 24 updated books / 7,832 split pages. This is an ingestion record, not yet a complete official catalog reconciliation. | Next audit: compare every live official API State Board record to the stored editions and previous main editions; no duplicate download unless evidence requires it. |
+| 12 | Not yet added | `scert/class-12/official-version-updates` exists; earlier report states two updated books / 648 pages | Edition update branch exists; full official catalog reconciliation is pending. | Reconcile live official API records and every stored edition. |
+
+### Class 9 source files
+
+- [Class 9 summary](https://github.com/Eaglesiva/tn-class-09/blob/scert/class-09/audit-2026-27/docs/class_09_audit_summary.md)
+- [Class 9 manifest](https://github.com/Eaglesiva/tn-class-09/blob/scert/class-09/audit-2026-27/docs/class_09_2026_27_audit_manifest.csv)
+- [Class 9 official API snapshot](https://github.com/Eaglesiva/tn-class-09/blob/scert/class-09/audit-2026-27/docs/class_09_official_api_snapshot.json)
+
+### Class 10 source files
+
+- [Class 10 audit summary](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_audit_summary.md)
+- [Class 10 audit manifest](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_2026_27_audit_manifest.csv)
+- [Class 10 normalized source catalog extract](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_source_catalog_extract.json)
+- [Class 10 official-version update branch](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates)
+- [Class 10 Tamil pilot edition metadata](https://github.com/Eaglesiva/tn-class-10/blob/feature/scert-edition-pilot/tamil/editions/2026-27-scert-official/edition.md)
+
+### Class 10 reconciliation details
+
+- `main` has eight ordered `pages.json` inventories and matching Git tree page PDF counts: **2,624 existing page PDFs**.
+- The separate update branch has four 2026–27 official editions: Science TM/EM and Social Science TM/EM. Their edition manifests contain **1,432 entries**, their `pages.json` files contain the same counts, and the GitHub tree contains continuous page files 1..N.
+- Those counts prove that the split files exist in sequence; they do **not** prove that every split PDF opens, renders and contains exactly one page, because no `split_validation.json` was found.
+- They also do not prove that the newly split files are content-equivalent to the old `main` page sets. That comparison is still pending.
+- Class 10 Tamil is a stronger exception: the stored official master SHA-256/MD5 matches the local master hashes, and the feature branch stores the 248-page official 2024 Revised Edition. Keep it; no re-download needed.
+- The old 184-page / 7-unit Tamil 2025 candidate remains `UNMAPPED_CANDIDATE`; no official API record/master hash was found for it in the checked sources. Do not replace the 248-page official copy on this basis.
+- The old Class 10 source CSV has an internal contradiction on seven rows: `verdict=PENDING_CONTENT_AND_EDITION_REVIEW` while `standardized_status=VERIFIED_CONTENT_EQUIVALENT`. The central index follows the explicit pending verdict and does not accept the contradictory standardized label as proof.
+
+### Central CSV structure note
+
+The Master CSV now has a separate `github_edition_branch` column in addition to `github_audit_branch`. This is necessary because the audit manifest may be stored on one branch while the actual edition pages are stored on another branch (for example, Class 10's four Science/Social editions).
+
 
 ## 8. Status vocabulary
 
@@ -132,8 +164,9 @@ Class 2, 3 and 4 reports therefore do not need to be generated again. The source
 
 ## 10. Immediate sequence
 
-- Classes 1–8: reports already exist and are linked above; avoid duplicate audits.
-- Class 9: next catalog-vs-GitHub audit; no permanent edition ingestion yet.
-- Class 10: reconcile existing Class 10 audit/pilot docs against the same schema.
-- Classes 11–12: reconcile existing update branches against the live official catalog.
-- Only after the 1–12 index is complete, decide which books are truly missing/old/mis-mapped and where an official source or alternate retrieval route is needed.
+- Classes 1–8: source audits and manifests already exist; avoid duplicate audits.
+- Class 9: catalog report and 8 records are committed; attach the detailed comparison evidence package before independently certifying the 8/8 result.
+- Class 10: the 8-record audit manifest is committed; finish the seven pending/partial comparisons without touching production main.
+- Class 11: next class-wise catalog reconciliation. Reuse its existing 2026–27 edition branch and compare it to the live API; do not redownload existing editions without evidence.
+- Class 12: reconcile its existing update branch after Class 11.
+- Only after Classes 1–12 are reconciled, decide which books are genuinely missing/older/mis-mapped and which official or alternate retrieval source should be investigated.
