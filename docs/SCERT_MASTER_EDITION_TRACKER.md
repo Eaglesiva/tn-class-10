@@ -1,6 +1,6 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 39 books / 12,104p; 2 books verified / 496p)  
+**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 38 books / 11,760p; 3 books verified / 840p)  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
 **Class 9–12 API snapshot date:** 2026-11-05  
