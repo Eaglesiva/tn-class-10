@@ -370,9 +370,9 @@
 
 ## Source QA — Iyal 9
 - Objective source answers remain in the first part of this file.
-- Non-objective items are traceable by exact section/question number to questions.md; answer tiers remain placeholders.
-- Q&A and language exercise URLs are direct chapter-specific answer pages, not generic indexes.
-- Any missing answer or source wording mismatch must remain flagged; no answer is inferred.
+- Every non-objective record now reproduces the exact original question text from questions.md; each record has all three empty placeholders and a direct unit/section source link.
+- Q&A and language exercise URLs are direct chapter-specific answer pages, not generic indexes. Per-question answer-line checks are still in progress; known wording mismatches and missing sources are flagged in the relevant record.
+- Any missing answer or source wording mismatch remains flagged; no answer is inferred.
 
 ---
 ## கூடுதல் Objective வினாக்கள் — Quiz-க்கு தயாரிக்க வேண்டியவை
