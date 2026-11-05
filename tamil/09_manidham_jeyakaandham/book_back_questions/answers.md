@@ -48,297 +48,325 @@
 
 ## Non-objective Book Back — Answer Source Collection
 
-அசல் வினா உரை/வரிசை questions.md-இல் பாதுகாக்கப்பட்டுள்ளன. கீழுள்ள Section / Q ID-கள் அதே கோப்பிலுள்ள வினாவைக் குறிக்கின்றன; இங்கு மாணவர் விடைகள் உருவாக்கப்படவில்லை.
+> கீழே உள்ள ஒவ்வொரு பதிவிலும் அசல் கேள்வி உரை `questions.md`-இலிருந்து மாற்றமின்றி எடுத்துக் கொள்ளப்பட்டுள்ளது. Non-objective விடைகள் எழுதப்படவில்லை. மூன்று placeholders மட்டும் வைக்கப்பட்டுள்ளன. ஒவ்வொரு பதிவுக்கும் பொருத்தமான நேரடி இயல்/இலக்கணப் பக்கம் இணைக்கப்பட்டுள்ளது. கேள்வி-வாரியான exact match மற்றும் answer-line verification தனியாகக் குறிக்கப்பட்டுள்ளது.
 
-### II. குறுவினா
+### II. குறுவினா — II. குறுவினா — பதிவு 1
 
-#### II. குறுவினா — 1
-**Question reference:** questions.md → II. குறுவினா → வினா 1.
+1. தீவக அணியின் வகைகள் யாவை?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 2
-**Question reference:** questions.md → II. குறுவினா → வினா 2.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 2
+
+2. நான் எழுதுவதற்கு ஒரு தூண்டுதலும் அதற்குரிய காரணமும் உண்டு – இத்தொடரை இரு தொடர்களாக்குக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 3
-**Question reference:** questions.md → II. குறுவினா → வினா 3.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 3
+
+3. "காய்மணி யாகு முன்னர்க் காய்ந்தெனக் காய்ந்தேன்" – உவமை உணர்த்தும் கருத்து யாது?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 4
-**Question reference:** questions.md → II. குறுவினா → வினா 4.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 4
+
+4. அன்பும் அறனும் உடைத்தாயின் இல்வாழ்க்கை பண்பும் பயனும் அது – இக்குறளில் பயின்று வந்துள்ள அணியின் இலக்கணம் யாது?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 5
-**Question reference:** questions.md → II. குறுவினா → வினா 5.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 5
+
+5. 'வாழ்வில் தலைக்கனம்', 'தலைக்கனமே வாழ்வு' என்று நாகூர் ரூமி யாருடைய வாழ்வைக் குறித்துக் கூறுகிறார்?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### III. சிறுவினா
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### III. சிறுவினா — 1
-**Question reference:** questions.md → III. சிறுவினா → வினா 1.
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 6
+
+1. "சித்தாளின் மனச்சுமைகள் செங்கற்கள் அறியாது" – இடஞ்சுட்டிப் பொருள் தருக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### III. சிறுவினா — 2
-**Question reference:** questions.md → III. சிறுவினா → வினா 2.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 7
+
+2. ஜெயகாந்தன் தம் கதைமாந்தர்களின் சிறந்த கூறுகளைக் குறிப்பிடத் தவறுவதில்லை என்று அசோகமித்திரன் கூறுகிறார். இக்கூற்றை மெய்ப்பிக்கும் செயல் ஒன்றைத் 'தர்க்கத்திற்கு அப்பால்' கதை மாந்தர் வாயிலாக விளக்குக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### III. சிறுவினா — 3
-**Question reference:** questions.md → III. சிறுவினா → வினா 3.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 8
+
+3. எவையெல்லாம் அறியேன் என்று கருணையன் கூறுகிறார்?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### III. சிறுவினா — 4
-**Question reference:** questions.md → III. சிறுவினா → வினா 4.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 9
+
+4. கவிஞர் தாம் கூற விரும்பும் கருத்திற்கு ஏற்றவாறு தற்குறிப்பேற்ற அணி அமைவதை எடுத்துக்காட்டுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### IV. நெடுவினா
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### IV. நெடுவினா — 1
-**Question reference:** questions.md → IV. நெடுவினா → வினா 1.
+---
+
+### IV. நெடுவினா — IV. நெடுவினா — பதிவு 10
+
+1. கருணையனின் தாய் மறைவுக்கு, வீரமாமுனிவர் பூக்கள் போன்ற உவமைகளாலும் உருவக மலர்களாலும் நிகழ்த்திய கவிதாஞ்சலியை விவரிக்க.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### IV. நெடுவினா — 2
-**Question reference:** questions.md → IV. நெடுவினா → வினா 2.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### IV. நெடுவினா — IV. நெடுவினா — பதிவு 11
+
+2. ஜெயகாந்தன் நினைவுச் சிறப்பிதழை, வார இதழ் ஒன்று வெளியிட இருக்கிறது. அதற்கான ஒரு சுவரொட்டியை வடிவமைத்து அளிக்க.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### IV. நெடுவினா — 3
-**Question reference:** questions.md → IV. நெடுவினா → வினா 3.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### IV. நெடுவினா — IV. நெடுவினா — பதிவு 12
+
+3. 'அழகிரிசாமியின் 'ஒருவன் இருக்கிறான்' சிறுகதையில் மனிதத்தை வெளிப்படுத்தும் கதை மாந்தர் குறித்து எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### V. மொழியை ஆள்வோம்
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### V. மொழியை ஆள்வோம் — 1
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 1.
+---
+
+### V. மொழியை ஆள்வோம் — மொழிபெயர்க்க. — பதிவு 13
+
+1. Education is what remains after one has forgotten what one has learned in School. – Albert Einstein
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 2
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 2.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — மொழிபெயர்க்க. — பதிவு 14
+
+2. Tomorrow is often the busiest day of the week. – Spanish Proverb
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 3
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 3.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — மொழிபெயர்க்க. — பதிவு 15
+
+3. It is during our darkest moments that we must focus to see the light. – Aristotle
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 4
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 4.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — மொழிபெயர்க்க. — பதிவு 16
+
+4. Success is not final, failure is not fatal. It is the courage to continue that counts. – Winston Churchill.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 5
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 5.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — உவமையைப் பயன்படுத்திச் சொற்றொடர் உருவாக்குக. — பதிவு 17
+
+1. தாமரை இலை நீர்போல
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 6
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 6.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — உவமையைப் பயன்படுத்திச் சொற்றொடர் உருவாக்குக. — பதிவு 18
+
+2. மழைமுகம் காணாப் பயிர்போல
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 7
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 7.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — உவமையைப் பயன்படுத்திச் சொற்றொடர் உருவாக்குக. — பதிவு 19
+
+3. கண்ணினைக் காக்கும் இமை போல
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### V. மொழியை ஆள்வோம் — 8
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 8.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — உவமையைப் பயன்படுத்திச் சொற்றொடர் உருவாக்குக. — பதிவு 20
+
+4. சிலை மேல் எழுத்து போல
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### VI. மொழியோடு விளையாடு
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### VI. மொழியோடு விளையாடு — 1
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 1.
+---
+
+### V. மொழியை ஆள்வோம் — பொருத்தமான நிறுத்தக் குறியிடுக. — பதிவு 21
+
+சேரர்களின் பட்டப் பெயர்களில் கொல்லி வெற்பன் மலையமான் போன்றவை குறிப்பிடத்தக்கவை கொல்லி மலையை வென்றவன் கொல்லி வெற்பன் எனவும் பிற மலைப்பகுதிகளை வென்றவர்கள் மலையமான் எனவும் பெயர் சூட்டிக்கொண்டனர் இதற்குச் சங்க இலக்கியத்தில் சான்றுகள் உள்ளன.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 2
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 2.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — வாழ்த்துரை எழுதுக. — பதிவு 22
+
+உங்கள் பள்ளியில் நடைபெறும் நாட்டுநலப்பணித்திட்ட முகாமின் தொடக்க விழாவில் மாணவர்களுக்கு வாழ்த்துரை வழங்க உரை ஒன்றை உருவாக்கித் தருக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 3
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 3.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — நன்றியுரை எழுதுக. — பதிவு 23
+
+பள்ளி வளாகத்தில் நடைபெற்ற 'மரம் நடுவிழாவுக்கு' வந்திருந்த சிறப்பு விருந்தினருக்கும் பெற்றோருக்கும் பள்ளியின் 'பசுமைப் பாதுகாப்புப் படை' சார்பாக நன்றியுரை எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 4
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 4.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — பாடலில் இடம்பெற்றுள்ள தமிழ்ப் புலவர்களின் பெயர்களைக் கண்டறிந்து எழுதுக. — பதிவு 24
+
+ம்பனும் கண்டேத்தும் உமறுப் புலவரை எந்தக்
+கொம்பனும் பணியும் அறம்பாடுஞ் ஜவாது ஆசுகவியை
+காசிம்புலவரை, குணங்குடியாரை சேகனாப் புலவரை
+செய்குதம்பிப் பாவலரைச் சீர்தமிழ் மறக்காதன்றோ
+
+---
+
+> **பாடநூல் தகவல் குறிப்பு:** 236-237-238 ஆம் பக்கங்களில் உள்ள "விண்ணப்பப் படிவத்தை நிரப்புக" (சேர்க்கை விண்ணப்ப மாதிரி) என்பது ஒரு படிவ மாதிரி பயிற்சியே தவிர எழுத்து வடிவ வினா அல்ல என்பதால் இதில் சேர்க்கப்படவில்லை.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 5
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 5.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+**Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### VI. மொழியோடு விளையாடு — 6
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 6.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 7
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 7.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 8
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 8.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 9
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 9.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 10
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 10.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 11
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 11.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 12
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 12.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 13
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 13.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 14
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 14.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 15
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 15.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 16
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 16.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 17
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 17.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 18
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 18.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 19
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 19.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
-
-#### VI. மொழியோடு விளையாடு — 20
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 20.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 9 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
 ## Source QA — Iyal 9
 - Objective source answers remain in the first part of this file.
