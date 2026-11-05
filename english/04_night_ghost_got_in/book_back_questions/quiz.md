@@ -587,3 +587,37 @@ According to the Book Back table, what is the plural form of “deer”?
 **Explanation (extractor-written from cited source):** “Deer” has the same form in the singular and plural in the Book Back table.
 
 **Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 35 — Prose D: Singular and Plural Forms
+According to the Book Back table, what is the plural form of “loaf”?
+
+- a) loafs
+- b) loaves
+- c) loafes
+- d) loafs
+
+**Correct answer:** b) loaves
+
+**Explanation (extractor-written from cited source):** “Loaf” changes to “loaves” in the plural.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 36 — Prose D: Singular and Plural Forms
+According to the Book Back table, what is the plural form of “hero”?
+
+- a) heros
+- b) heroes
+- c) heroies
+- d) hero
+
+**Correct answer:** b) heroes
+
+**Explanation (extractor-written from cited source):** The Book Back table gives “heroes” as the plural of “hero”.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
