@@ -229,6 +229,15 @@ Official Textbook Source தான் Edition / Term சரிபார்ப்
 
 ---
 
+### F. Class 10 Tamil — 2026–27 Publisher Guide availability check (05-11-2026)
+
+| Publisher | Direct listing | சரிபார்க்கப்பட்ட தகவல் | நிலை |
+|---|---|---|---|
+| **SURA Publications** | [SURA'S 10th Standard Tamil Urainool Guide — 2026–27](https://www.surabooks.com/Books/307923/www.surabooks.com) | 2026–27 Low Priced Edition / Tamil guide listing | `GUIDE_PRODUCT_PAGE_ONLY` — listing மட்டும்; இலவச PDF அல்லது இந்த இயலின் answer pages உறுதிப்படுத்தப்படவில்லை |
+| **DON Publications** | [DON 10th Tamil Guide — 2026–27 listing](https://routemybook.com/publisher_details/Don-Publications-27?autshort=pop) | New Syllabus 2026–27 Tamil guide product listing | `RETAILER_PRODUCT_PAGE_ONLY` — விற்பனை விவரம் மட்டும்; இலவச PDF அல்லது answer page உறுதிப்படுத்தப்படவில்லை |
+
+**Guide PDF முடிவு:** SURA / DON Guide பெயர் மற்றும் 2026–27 listing கண்டறியப்பட்டுள்ளன. இந்தப் பணி செய்யப்பட்ட நாளில் அவற்றின் முழு இலவச PDF மற்றும் Iyal 1-க்கான குறிப்பிட்ட PDF page-ஐ திறந்து verify செய்ய முடியவில்லை. எனவே இவற்றை தற்போதைக்கு answer source என்று எண்ணக்கூடாது. பின்னர் உண்மையான PDF கிடைத்தால் PDF page number உடன் மட்டுமே source record-ஆக உயர்த்தலாம்.
+
 ## 7. Source Quality, Popularity மற்றும் Reliability மதிப்பீடு
 
 ஒரு Website பிரபலமானது என்பதால் அதிலுள்ள எல்லா Answers-யும் சரியானவை என்று கருதக்கூடாது.
