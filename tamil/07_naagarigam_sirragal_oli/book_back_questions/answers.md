@@ -44,3 +44,134 @@
 - `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
 - பல OCR/எழுத்துரு வேறுபாடுகள் source wording உடன் தனியாகக் குறிக்கப்பட்டுள்ளன.
 - `questions.md` மாற்றப்படவில்லை.
+
+
+---
+
+## Non-objective Book Back — Answer Source Collection
+
+அசல் வினா உரை மற்றும் வரிசை questions.md-இல் பாதுகாக்கப்பட்டுள்ளன. கீழே உள்ள Section / Q ID-கள் அந்தக் கோப்பிலுள்ள அதே வினாவைக் குறிக்கின்றன; எந்த விடையும் இங்கு சொந்தமாக எழுதப்படவில்லை.
+
+### II. குறுவினா
+
+#### II. குறுவினா — 1
+**Question reference:** questions.md → II. குறுவினா → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### II. குறுவினா — 2
+**Question reference:** questions.md → II. குறுவினா → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### II. குறுவினா — 3
+**Question reference:** questions.md → II. குறுவினா → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### II. குறுவினா — 4
+**Question reference:** questions.md → II. குறுவினா → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### II. குறுவினா — 5
+**Question reference:** questions.md → II. குறுவினா → வினா 5.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### III. சிறுவினா
+
+#### III. சிறுவினா — 1
+**Question reference:** questions.md → III. சிறுவினா → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### III. சிறுவினா — 2
+**Question reference:** questions.md → III. சிறுவினா → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### III. சிறுவினா — 3
+**Question reference:** questions.md → III. சிறுவினா → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### III. சிறுவினா — 4
+**Question reference:** questions.md → III. சிறுவினா → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### III. சிறுவினா — 5
+**Question reference:** questions.md → III. சிறுவினா → வினா 5.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### IV. நெடுவினா
+
+#### IV. நெடுவினா — 1
+**Question reference:** questions.md → IV. நெடுவினா → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### IV. நெடுவினா — 2
+**Question reference:** questions.md → IV. நெடுவினா → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### IV. நெடுவினா — 3
+**Question reference:** questions.md → IV. நெடுவினா → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### IV. நெடுவினா — 4
+**Question reference:** questions.md → IV. நெடுவினா → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### V. மொழியை ஆள்வோம்
+**Question reference:** questions.md → V. மொழியை ஆள்வோம் → உரைநடை/செயல்பாட்டு வினா.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11860/) — section-level answer reference; item-wise exact-match verification status must be checked against the page content.
+
+### VI. மொழியோடு விளையாடு
+**Question reference:** questions.md → VI. மொழியோடு விளையாடு → உரைநடை/செயல்பாட்டு வினா.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 7 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11860/) — section-level answer reference; item-wise exact-match verification status must be checked against the page content.
+
+## Source QA — Iyal 7
+- Objective answer/source records remain in the first part of this file.
+- Non-objective questions are linked by section and question number to questions.md; three answer tiers remain placeholders.
+- Q&A and language-exercise source pages are direct unit-specific pages, not generic subject indexes.
+- A wording difference or a missing answer must remain marked as a variant / not found; no answer is inferred from a merely related passage.
