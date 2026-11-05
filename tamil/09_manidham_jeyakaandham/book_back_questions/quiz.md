@@ -85,3 +85,8 @@
 
 ## Source / Extraction QA
 - Q1-ல் அடிக்கோடு Markdown extraction-ல் தெரியாததால், அதே பாடல் வரியின் பாடநூல் “சொல்லும் பொருள்” பகுதியை வைத்து “கிளை, துளை” உறுதிப்படுத்தப்பட்டது.
+
+
+## Additional direct source
+[BrainKart — இயல் 9 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11876/)
+[BrainKart — இயல் 9 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/)
