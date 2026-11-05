@@ -79,3 +79,7 @@
 ## Source / Conflict QA
 - Q4 (“பெரிய மீசை”) — பண்புத்தொகை / அன்மொழித்தொகை என ஆதாரங்கள் முரண்படுகின்றன; அதனால் இவ்வினா இந்த verified quiz-ல் சேர்க்கப்படவில்லை.
 - Original question wording and option sequence were preserved for included questions.
+
+
+## Additional direct source
+[BrainKart — இயல் 2 முழு Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11815/)
