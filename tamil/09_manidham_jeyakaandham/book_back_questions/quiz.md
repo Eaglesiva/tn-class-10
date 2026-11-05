@@ -274,9 +274,9 @@ __________ என்பது புறத்திணைகளுள் ஒன�
 
 **சரியான விடை:** அ) கைக்கிளை
 
-**காரண விளக்கம்:** கைக்கிளை என்பது புறத்திணை வகைகளுள் ஒன்றாகப் பாடநூல்/விடை ஆதாரத்தில் தரப்படுகிறது.
+**காரண விளக்கம்:** புறப்பொருள் வெண்பாமாலை மரபில் புறத்திணை வகைகள் பன்னிரண்டாக விரிவுபடுத்தப்பட்டபோது கைக்கிளையும் சேர்க்கப்படுகிறது; தொல்காப்பியத்தின் அடிப்படை ஏழு புறத்திணைகளில் இது இல்லை.
 
-**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/) · [VISTAS Tamil grammar material](https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf)
 
 
 ---
