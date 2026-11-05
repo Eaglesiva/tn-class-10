@@ -50,6 +50,10 @@
 | S24 | KalviBot — Unit 1.1 | [10th Tamil Unit 1 Section 1.1 Solutions](https://docs.kalvibot.in/2020/12/10th-tamil-unit-1-section-11-solutions.html) | LONG1 தொடர்புடைய source |
 | S25 | NammaKalvi — பழைய Slow Learners Material | [10th Tamil Study Material PDF](https://www.nammakalvi.com/uploads/3/0/7/5/30750087/namma_kalvi_10th_tamil_slow_learners_study_material_216363.pdf) | பழைய 2019–20 material; edition warning உடன் மட்டும் பயன்படுத்தவும் |
 
+| S26 | TamilVithai — Karpavai Kattrapin | [10th Tamil Unit 1 — Karpavai Kattrapin](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) | முன்பு கண்ட source candidate; தற்போதைய direct recheck CAPTCHA/access block — `ACCESS_BLOCKED; NOT_COUNTED_AS_CURRENTLY_VERIFIED` |
+| S27 | Nibunan — 10ஆம் வகுப்பு இயல் 1 | [முதல் பருவம் — இயல் 1 — எழுத்து, சொல்](https://nibunan.in/clear-tnpsc-tamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/10-%E0%AE%86%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF-%E0%AE%85%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D/) | முன்பு திறந்தபோது MCQ2–5 reference கிடைத்தது; தற்போதைய direct recheck access block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED` |
+| S28 | A2Z TNPSC — 10th Standard | [10th Standard Tamil](https://www.a2ztnpsc.in/2024/07/10th-std-1.html) | MCQ1 தொடர்பான search preview மட்டும்; direct page 502 — `SEARCH_PREVIEW_ONLY; NOT_VERIFIED` |
+
 ---
 
 ## I. கற்பவை கற்றபின்...
@@ -173,6 +177,8 @@
 **💡 காரண விளக்கம்:** `REASON_NOT_REQUIRED` — இது குறிப்பிட்ட இலக்கண விதியைச் சோதிக்கும் வினா அல்ல; கருத்துப் பொருள் சார்ந்த வினா.
 
 ### MCQ2. 'காய்ந்த இலையும் காய்ந்த தோகையும்' நிலத்துக்கு நல்ல உரங்கள். இத்தொடரில் அடிக்கோடிட்ட பகுதி குறிப்பிடுவது -
+
+- S27 — [Nibunan, இயல் 1](`https://nibunan.in/clear-tnpsc-tamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/10-%E0%AE%86%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF-%E0%AE%85%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D/`) — முன்பு திறந்தபோது இந்த MCQ தொடர்பான answer reference இருந்தது; தற்போதைய மறுதிறப்பு access block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
    அ) இலையும் சருகும் ஆ) தோகையும் சண்டும்
    இ) தாளும் ஓலையும் ஈ) சருகும் சண்டும்
 
@@ -185,6 +191,8 @@
 **💡 காரண விளக்கம்:** `REASON_NOT_REQUIRED` — இது சொல்/பயிர் சார்ந்த பொருள் வினா; இந்த ஆய்வில் இதற்குப் பொருந்தும் தனி இலக்கண விதி தேவையில்லை.
 
 ### MCQ3. எந்தமிழ்நா என்பதைப் பிரித்தால் இவ்வாறு வரும் -
+
+- S27 — [Nibunan, இயல் 1](`https://nibunan.in/clear-tnpsc-tamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/10-%E0%AE%86%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF-%E0%AE%85%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D/`) — முன்பு திறந்தபோது இந்த MCQ தொடர்பான answer reference இருந்தது; தற்போதைய மறுதிறப்பு access block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
    அ) எந் + தமிழ் + நா
    ஆ) எந்த + தமிழ் + நா
    இ) எம் + தமிழ் + நா
@@ -199,6 +207,8 @@
 **காரண விளக்க Source:** S14 — [தமிழ் இணையக் கல்விக்கழகம்: மகர ஈற்றுப் புணர்ச்சி விதிகள்](https://www.tamilvu.org/ta/courses-degree-c021-c0214-html-c0214221-16222).
 
 ### MCQ4. 'கேட்டவர் மகிழப் பாடிய பாடல் இது' - தொடரில் இடம்பெற்றுள்ள தொழிற்பெயரும் வினையாலணையும் பெயரும் முறையே -
+
+- S27 — [Nibunan, இயல் 1](`https://nibunan.in/clear-tnpsc-tamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/10-%E0%AE%86%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF-%E0%AE%85%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D/`) — முன்பு திறந்தபோது இந்த MCQ தொடர்பான answer reference இருந்தது; தற்போதைய மறுதிறப்பு access block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
    அ) பாடிய; கேட்டவர் ஆ) பாடல்; பாடிய
    இ) கேட்டவர்; பாடிய ஈ) பாடல்; கேட்டவர்
 
@@ -215,6 +225,8 @@
 **காரண விளக்க Source:** S15 — [தமிழ் இணையக் கல்விக்கழகம்: தொழிற்பெயரும் வினையாலணையும் பெயரும்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138).
 
 ### MCQ5. வேர்க்கடலை, மிளகாய் விதை, மாங்கொட்டை ஆகியவற்றைக் குறிக்கும் பயிர்வகை -
+
+- S27 — [Nibunan, இயல் 1](`https://nibunan.in/clear-tnpsc-tamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%A9%E0%AE%BE-%E0%AE%B5%E0%AE%BF%E0%AE%9F%E0%AF%88%E0%AE%95%E0%AE%B3%E0%AF%8D/10-%E0%AE%86%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%95%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%B0%E0%AF%81%E0%AE%B5%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-%E0%AE%92%E0%AE%A9%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF-%E0%AE%85%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AF%82%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81-%E0%AE%8E%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D/`) — முன்பு திறந்தபோது இந்த MCQ தொடர்பான answer reference இருந்தது; தற்போதைய மறுதிறப்பு access block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
    அ) குலை வகை ஆ) மணி வகை
    இ) கொழுந்து வகை ஈ) இலை வகை
 
