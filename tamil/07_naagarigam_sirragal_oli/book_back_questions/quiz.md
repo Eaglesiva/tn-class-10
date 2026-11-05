@@ -87,3 +87,71 @@
 - `questions.md`-இல் “அகவைரிசை”, “அசைன்”, “மேமப்பட்ட”, “செலவம்”, “பணப்பட்ட”, “அசைர்கள்”, “கமப்பராமாயணம்” என உள்ள எழுத்துருக்கள் source pages-இல் திருத்தப்பட்ட வடிவில் உள்ளன. அவை இங்கு மாற்றப்படாமல் அப்படியே வைக்கப்பட்டு, source register-ல் wording variants எனக் குறிக்கப்பட்டுள்ளன.
 
 [BrainKart — இயல் 7 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11860/)
+
+
+---
+
+### வினா 6
+மிரியல் என்பதன் அகராதிப் பொருள் எது?
+
+- அ) மிளகு
+- ஆ) சீரகம்
+- இ) கடுகு
+- ஈ) மஞ்சள்
+
+**சரியான விடை:** அ) மிளகு
+
+**காரண விளக்கம்:** மிரியல் என்பது மிளகைக் குறிக்கும் பழந்தமிழ்ச் சொல்.
+
+**விடை ஆதாரம்:** [SaraNextGen — இயல் 7.6](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions) · [KalviVithaigal — இயல் 7](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+
+
+---
+
+### வினா 7
+வருத்தனை என்பதன் பொருள்களில் ஒன்று எது?
+
+- அ) பிழைப்பு / தொழில்
+- ஆ) மலை / காடு
+- இ) மலர் / இலை
+- ஈ) கல் / மண்
+
+**சரியான விடை:** அ) பிழைப்பு / தொழில்
+
+**காரண விளக்கம்:** வருத்தனை என்பதற்கு பிழைப்பு, தொழில், பெருகுதல் உள்ளிட்ட பொருள்கள் தரப்பட்டுள்ளன.
+
+**விடை ஆதாரம்:** [SaraNextGen — இயல் 7.6](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions) · [KalviVithaigal — இயல் 7](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+
+
+---
+
+### வினா 8
+அதசி என்பதன் அகராதிப் பொருள் எது?
+
+- அ) சணல்
+- ஆ) பருத்தி
+- இ) பட்டு
+- ஈ) கம்பளி
+
+**சரியான விடை:** அ) சணல்
+
+**காரண விளக்கம்:** அதசி என்பது சணல் செடியைக் குறிக்கும்.
+
+**விடை ஆதாரம்:** [SaraNextGen — இயல் 7.6](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions) · [KalviVithaigal — இயல் 7](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+
+
+---
+
+### வினா 9
+துரிஞ்சில் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?
+
+- அ) வௌவால் வகை
+- ஆ) கழுகு வகை
+- இ) நீர்ப்பறவை வகை
+- ஈ) ஊர்வன வகை
+
+**சரியான விடை:** அ) வௌவால் வகை
+
+**காரண விளக்கம்:** துரிஞ்சில் என்பதற்கு வௌவால் வகை என்ற பொருளை source தருகிறது; சீக்கரி மரம் என்ற மற்றொரு பொருளும் குறிப்பிடப்படுகிறது.
+
+**விடை ஆதாரம்:** [SaraNextGen — இயல் 7.6](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions) · [KalviVithaigal — இயல் 7](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
