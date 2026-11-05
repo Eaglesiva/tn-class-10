@@ -25,6 +25,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html)
 - **விளக்க ஆதாரம்:** [Padavelai — பரிபாடல் பாடல் மற்றும் சொல்லும் பொருளும்](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u4_q3`
 
 ### Q4 — வழுவமைதி வகைகள்
 - **S1 — BrainKart — இயல் 4:** இ) பால் வழுவமைதி, திணை வழுவமைதி — [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
@@ -34,6 +35,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u4_q4`
 
 ### Q5 — பாரத ஸ்டேட் வங்கியின் உரையாடு மென்பொருள்
 - **S1 — BrainKart — இயல் 4:** ஈ) இலா — [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
@@ -42,6 +44,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.sbicard.com/en/personal/digital-platform-updates.page)
 - **விளக்க ஆதாரம்:** [SBI Card — ILA chatbot feature updates](https://www.sbicard.com/en/personal/digital-platform-updates.page)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u4_q5`
 
 ## QC
 - 5 Book Back MCQ-களில் 4 உறுதிப்படுத்தப்பட்ட வினாக்கள் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
