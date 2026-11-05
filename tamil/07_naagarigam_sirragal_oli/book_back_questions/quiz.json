@@ -103,5 +103,81 @@
     "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
     "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT",
     "sourceWordingVariant": "option text 'கமப்பராமாயணம்' appears as 'கம்பராமாயணம்' in references"
+  },
+  {
+    "id": "10_tam_u7_q6",
+    "question": "மிரியல் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "மிளகு",
+      "சீரகம்",
+      "கடுகு",
+      "மஞ்சள்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மிரியல் என்பது மிளகைக் குறிக்கும் பழந்தமிழ்ச் சொல்.",
+    "sourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "sourceName": "SaraNextGen — இயல் 7.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u7_q7",
+    "question": "வருத்தனை என்பதன் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "பிழைப்பு / தொழில்",
+      "மலை / காடு",
+      "மலர் / இலை",
+      "கல் / மண்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வருத்தனை என்பதற்கு பிழைப்பு, தொழில், பெருகுதல் உள்ளிட்ட பொருள்கள் தரப்பட்டுள்ளன.",
+    "sourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "sourceName": "SaraNextGen — இயல் 7.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u7_q8",
+    "question": "அதசி என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "சணல்",
+      "பருத்தி",
+      "பட்டு",
+      "கம்பளி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அதசி என்பது சணல் செடியைக் குறிக்கும்.",
+    "sourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "sourceName": "SaraNextGen — இயல் 7.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u7_q9",
+    "question": "துரிஞ்சில் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "வௌவால் வகை",
+      "கழுகு வகை",
+      "நீர்ப்பறவை வகை",
+      "ஊர்வன வகை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "துரிஞ்சில் என்பதற்கு வௌவால் வகை என்ற பொருளை source தருகிறது; சீக்கரி மரம் என்ற மற்றொரு பொருளும் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "sourceName": "SaraNextGen — இயல் 7.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
