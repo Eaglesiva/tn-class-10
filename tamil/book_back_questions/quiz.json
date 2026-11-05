@@ -56,9 +56,10 @@
     "sourceName": "BrainKart — இயல் 1 நேரடி விடைப் பக்கம்",
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
-      "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11807/",
+      "https://mytamil.in/pdf/em/10/xslch2023.pdf"
     ],
-    "verificationStatus": "ANSWER_FOUND",
+    "verificationStatus": "ANSWER_FOUND_OFFICIAL_SCHOOL_EDUCATION_GUIDE",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/"
   },
   {
@@ -77,9 +78,10 @@
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
       "https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356",
-      "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11807/",
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf"
     ],
-    "verificationStatus": "ANSWER_FOUND",
+    "verificationStatus": "ANSWER_FOUND_TEXTBOOK_QUESTION_AND_GRAMMAR_REFERENCE",
     "explanationSourceUrl": "https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356"
   },
   {
@@ -92,15 +94,17 @@
       "இலை வகை"
     ],
     "correctOptionIndex": 1,
-    "explanation": "இயல் 1 நேரடி விடைப் பக்கங்களில் சரியான வகை 'மணி வகை' எனக் கொடுக்கப்பட்டுள்ளது.",
+    "explanation": "சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை கற்றல் கையேடு (2022–23) விடையை “மணி வகை” எனக் குறிக்கிறது. ஆனால் SCERT பாடநூலின் சொல்வள அட்டவணையில் கடலை/விதை/கொட்டை எடுத்துக்காட்டுகள் “குலை வகை” தலைப்பின் கீழ் காணப்படுகின்றன; எனவே அதிகாரப்பூர்வ விடைக்குறிப்பு–பாடநூல் வகைப்பாடு முரண்பாடு உள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/",
     "sourceName": "BrainKart — இயல் 1 நேரடி விடைப் பக்கம்",
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
-      "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11807/",
+      "https://mytamil.in/pdf/em/10/xslch2023.pdf",
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf"
     ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+    "verificationStatus": "OFFICIAL_GUIDE_KEY_WITH_TEXTBOOK_CLASSIFICATION_CONFLICT",
+    "explanationSourceUrl": "https://mytamil.in/pdf/em/10/xslch2023.pdf"
   },
   {
     "id": "10_tam_u2_q1",
@@ -123,26 +127,6 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
-    "id": "10_tam_u2_vii1",
-    "question": "“மலர் உண்டு; பெயரும் உண்டு” — இத்தொடர்களை ஒரே தொடராக்குக.",
-    "options": [
-      "மலருக்குப் பெயர் உண்டு",
-      "மலரும் பெயரும் உண்டு",
-      "பெயருக்கு மலர் உண்டு",
-      "மலர் பெயரை உடையது அல்ல"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "இரு தொடர்களின் கருத்தையும் ஒரே தொடரில் இணைத்தால் “மலருக்குப் பெயர் உண்டு” என அமைகிறது.",
-    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
-    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
-    "additionalSourceUrls": [
-      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
-      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
-  },
-  {
     "id": "10_tam_u2_q2",
     "question": "செய்தி 1 - ஒவ்வோர் ஆண்டும் ஜூன் 15ஐ உலக் காற்று நாளாக் கொண்டாடி வருகிறோம்.\nசெய்தி 2 - காற்றாலை மின் உற்பத்தியில் இந்தியாவில் தமிழகம் இரண்டாமிடம் என்பது எனக்குப் பெருமையே.\nசெய்தி 3 - காற்றின் ஆற்றலைப் பயன்படுத்திக் கடல்கடந்து வணிகம்செய்து அதில் வெற்றி கண்டவர்கள் தமிழர்கள்!",
     "options": [
@@ -152,36 +136,17 @@
       "செய்தி 1, 3 ஆகியன சரி"
     ],
     "correctOptionIndex": 3,
-    "explanation": "திறந்த விடை ஆதாரம் செய்தி 1 மற்றும் செய்தி 3-ஐச் சரி எனக் குறிக்கிறது. செய்தி 2-ஐ மறுக்கும் தனிப்பட்ட புள்ளிவிவர விளக்கம் அந்த ஆதாரத்தில் இல்லை; எனவே கூடுதல் புள்ளிவிவரக் கூற்று சேர்க்கப்படவில்லை.",
+    "explanation": "பாடநூலில் உலகக் காற்றாலை மின் உற்பத்தியில் இந்தியா ஐந்தாம் இடம் என்றும், இந்தியாவில் தமிழகம் முதலிடம் என்றும் கூறப்பட்டுள்ளது. ஆகவே தமிழகம் இரண்டாமிடம் எனும் செய்தி 2 தவறு; செய்தி 1 மற்றும் 3 சரி.",
     "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/",
     "sourceName": "VirkozKalvi — இயல் 2, கேட்கிறதா என்குரல்",
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/2_30.html",
-      "https://www.brainkart.in/article/Questions-and-Answers_11815/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11815/",
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf",
+      "https://mytamil.in/pdf/em/10/xslch2023.pdf"
     ],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/",
-    "verificationStatus": "ANSWER_FOUND_WITH_EXPLANATION_LIMIT"
-  },
-  {
-    "id": "10_tam_u2_vii2",
-    "question": "“அரும்பாகி மொட்டாகிப் பூவாகி…” என்பதை ஒத்து அமைந்துள்ள தொடரைக் கண்டறிக.",
-    "options": [
-      "மூங்கில் பூவில் காய் தோன்றிக் கனியாகி அதிலிருந்து ஒருவகை அரிசி தோன்றும்.",
-      "அகவிதழ் முதலிய உறுப்புகள் இருந்து அவை புறத்தே காட்சிப்படாமல் உள்ளேயே பொதிந்திருக்கும் மலர்கள்.",
-      "பூ உண்டு; ஆனால் கண்ணிற்குக் காட்சி தராமல் காண்பதற்கு அரியனவாய் இருக்கும் மலர்கள்.",
-      "மலர் உண்டு; பெயரும் உண்டு; ஆனால் இதுதான் அது என்று உறுதியாக அறிய இயலாத மலர்கள்."
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "“அரும்பு–மொட்டு–பூ” என்ற வளர்ச்சி வரிசைக்கு ஒத்தபடி, மூங்கில் பூவிலிருந்து காய் தோன்றி கனியாகி அரிசி உருவாகும் படிநிலைத் தொடரை பாடநூல் உரை தருகிறது.",
-    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/",
-    "sourceName": "CBSETamil — இயல் 2.5",
-    "additionalSourceUrls": [
-      "https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html",
-      "https://www.kalvikavi.com/2025/06/10th-tamil-unit-2-book-back-answers.html",
-      "https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/"
-    ],
-    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/",
-    "verificationStatus": "ANSWER_FOUND_WITH_SOURCE_VARIANT"
+    "explanationSourceUrl": "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf",
+    "verificationStatus": "ANSWER_FOUND_TEXTBOOK_FACT_AND_SCHOOL_EDUCATION_GUIDE"
   },
   {
     "id": "10_tam_u2_q3",
@@ -202,26 +167,6 @@
     ],
     "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-3/",
     "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_tam_u2_vii4",
-    "question": "“அரிய மலர்” — “அரிய” என்பதற்கான இலக்கணக் குறிப்பு எது?",
-    "options": [
-      "குறிப்புப் பெயரெச்சம்",
-      "வினையெச்சம்",
-      "தொழிற்பெயர்",
-      "வினையாலணையும் பெயர்"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "TN Board Solutions மற்றும் SaraNextGen ஆகிய ஆதாரங்கள் “அரிய” என்பதை குறிப்புப் பெயரெச்சம் என வகைப்படுத்துகின்றன; ஒரு source பொதுவாகப் பெயரெச்சம் எனக் குறிப்பிடுவதால் அந்த வேறுபாடு கவனத்தில் கொள்ளப்பட்டுள்ளது.",
-    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
-    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
-    "additionalSourceUrls": [
-      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
-      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
-    ],
-    "verificationStatus": "ANSWER_FOUND_WITH_SOURCE_VARIANT",
-    "explanationSourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
   },
   {
     "id": "10_tam_u2_q5",
@@ -263,6 +208,46 @@
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11815/"
   },
   {
+    "id": "10_tam_u2_vii1",
+    "question": "“மலர் உண்டு; பெயரும் உண்டு” — இத்தொடர்களை ஒரே தொடராக்குக.",
+    "options": [
+      "மலருக்குப் பெயர் உண்டு",
+      "மலரும் பெயரும் உண்டு",
+      "பெயருக்கு மலர் உண்டு",
+      "மலர் பெயரை உடையது அல்ல"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இரு தொடர்களின் கருத்தையும் ஒரே தொடரில் இணைத்தால் “மலருக்குப் பெயர் உண்டு” என அமைகிறது.",
+    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
+    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
+      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
+  },
+  {
+    "id": "10_tam_u2_vii4",
+    "question": "“அரிய மலர்” — “அரிய” என்பதற்கான இலக்கணக் குறிப்பு எது?",
+    "options": [
+      "குறிப்புப் பெயரெச்சம்",
+      "வினையெச்சம்",
+      "தொழிற்பெயர்",
+      "வினையாலணையும் பெயர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "TN Board Solutions மற்றும் SaraNextGen ஆகிய ஆதாரங்கள் “அரிய” என்பதை குறிப்புப் பெயரெச்சம் என வகைப்படுத்துகின்றன; ஒரு source பொதுவாகப் பெயரெச்சம் எனக் குறிப்பிடுவதால் அந்த வேறுபாடு கவனத்தில் கொள்ளப்பட்டுள்ளது.",
+    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
+    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
+      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND_WITH_SOURCE_VARIANT",
+    "explanationSourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
+  },
+  {
     "id": "10_tam_u2_vii5",
     "question": "கீழே உள்ள தொடரில் பொருளுக்குப் பொருந்தாத மயங்கொலி எழுத்துகளைச் சரிசெய்த சரியான வரிசை எது? “கரடிகள் மறத்தின் மீதேறி அவற்றைப் பரித்து உண்ணும். பாதிரிப் பூகுடிநீருக்குத் தன் மனத்தை ஏற்றும்.”",
     "options": [
@@ -281,6 +266,27 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
+  },
+  {
+    "id": "10_tam_u2_vii2",
+    "question": "“அரும்பாகி மொட்டாகிப் பூவாகி…” என்பதை ஒத்து அமைந்துள்ள தொடரைக் கண்டறிக.",
+    "options": [
+      "மூங்கில் பூவில் காய் தோன்றிக் கனியாகி அதிலிருந்து ஒருவகை அரிசி தோன்றும்.",
+      "அகவிதழ் முதலிய உறுப்புகள் இருந்து அவை புறத்தே காட்சிப்படாமல் உள்ளேயே பொதிந்திருக்கும் மலர்கள்.",
+      "பூ உண்டு; ஆனால் கண்ணிற்குக் காட்சி தராமல் காண்பதற்கு அரியனவாய் இருக்கும் மலர்கள்.",
+      "மலர் உண்டு; பெயரும் உண்டு; ஆனால் இதுதான் அது என்று உறுதியாக அறிய இயலாத மலர்கள்."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“அரும்பு–மொட்டு–பூ” என்ற வளர்ச்சி வரிசைக்கு ஒத்தபடி, மூங்கில் பூவிலிருந்து காய் தோன்றி கனியாகி அரிசி உருவாகும் படிநிலைத் தொடரை பாடநூல் உரை தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/",
+    "sourceName": "CBSETamil — இயல் 2.5",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html",
+      "https://www.kalvikavi.com/2025/06/10th-tamil-unit-2-book-back-answers.html",
+      "https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/",
+    "verificationStatus": "ANSWER_FOUND_WITH_SOURCE_VARIANT"
   },
   {
     "id": "10_tam_u3_q1",
