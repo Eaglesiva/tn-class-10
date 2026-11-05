@@ -520,3 +520,87 @@
 
 #### X. சொல் இணைப்புகளுக்கான காரணம்
 - ஒவ்வொரு ஆங்கிலச் சொல்லுக்கும் பாடநூல் கவிதையில் தரப்பட்டுள்ள இணையான தமிழ்ச் சொல் நேரடியாகப் பொருந்துகிறது; சொல்-பொருள் இணைப்பை மாற்றாமல் பயன்படுத்த வேண்டும்.
+
+
+### Objective additions — தொழிற்பெயர் பயன்பாடு மற்றும் அகராதி
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** புதையல் / புதைத்தல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — TamilVithai — இயல் 5:** புதையல் / புதைத்தல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நிலத்துக்கு அடியில் கிடைப்பது புதையல்; பொருள்களை மண்ணுக்குள் இடும் செயல் புதைத்தல்.
+- **Quiz ID:** `10_tam_u5_q7`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** சுடுதல் / சுட்டல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — TamilVithai — இயல் 5:** சுடுதல் / சுட்டல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காட்டு விலங்குகளைச் சுடுதல் தடை; செய்த தவறுகளைச் சுட்டிக்காட்டுதல் திருந்த உதவுகிறது.
+- **Quiz ID:** `10_tam_u5_q8`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** தொடுதல் / தொடுத்தல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — TamilVithai — இயல் 5:** தொடுதல் / தொடுத்தல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காற்றின் மெல்லிய தொடுதல் பூக்களை அசைக்கிறது; கைகளின் நேர்த்தியான தொடுத்தல் பூக்களை மாலையாக்குகிறது.
+- **Quiz ID:** `10_tam_u5_q9`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** காட்சி / காணுதல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — TamilVithai — இயல் 5:** காட்சி / காணுதல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பசுமையான காட்சி கண்ணுக்கு நல்லது; அதைக் காணுதல் பார்வைக்கு இன்பம் தருகிறது.
+- **Quiz ID:** `10_tam_u5_q10`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** நடித்தல் / நடிப்பு — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — TamilVithai — இயல் 5:** நடித்தல் / நடிப்பு — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பொதுவாழ்வில் நடித்தல் கூடாது; நடிப்பில் அவரை மிஞ்ச ஆள் இல்லை.
+- **Quiz ID:** `10_tam_u5_q11`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** திருமணம் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — VirkozKalvi — இயல் 5.5:** திருமணம் — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+- **S3 — TamilVithai — இயல் 5:** திருமணம் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **S4 — Padavelai — இயல் 5.5:** திருமணம் — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.
+- **Quiz ID:** `10_tam_u5_q12`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** காலடிக்குறி — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — VirkozKalvi — இயல் 5.5:** காலடிக்குறி — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+- **S3 — TamilVithai — இயல் 5:** காலடிக்குறி — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **S4 — Padavelai — இயல் 5.5:** காலடிக்குறி — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.
+- **Quiz ID:** `10_tam_u5_q13`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** அகர வரிசையில் பொருள் தரும் நூல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — VirkozKalvi — இயல் 5.5:** அகர வரிசையில் பொருள் தரும் நூல் — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+- **S3 — TamilVithai — இயல் 5:** அகர வரிசையில் பொருள் தரும் நூல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **S4 — Padavelai — இயல் 5.5:** அகர வரிசையில் பொருள் தரும் நூல் — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.
+- **Quiz ID:** `10_tam_u5_q14`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** மழை / நீர்த்துளி — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — VirkozKalvi — இயல் 5.5:** மழை / நீர்த்துளி — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+- **S3 — TamilVithai — இயல் 5:** மழை / நீர்த்துளி — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **S4 — Padavelai — இயல் 5.5:** மழை / நீர்த்துளி — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.
+- **Quiz ID:** `10_tam_u5_q15`
+- **நிலை:** ANSWER_FOUND
+
+#### undefined
+- **S1 — BrainKart — இயல் 5 மொழி அறிவு:** மயக்கம் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+- **S2 — VirkozKalvi — இயல் 5.5:** மயக்கம் — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+- **S3 — TamilVithai — இயல் 5:** மயக்கம் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+- **S4 — Padavelai — இயல் 5.5:** மயக்கம் — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; இங்கு source-களில் பொதுவாகக் காணப்படும் பொருள் மயக்கம்.
+- **Quiz ID:** `10_tam_u5_q16`
+- **நிலை:** ANSWER_FOUND
+
