@@ -277,3 +277,20 @@
 - Non-objective questions are linked by section and question number to questions.md; three answer tiers remain placeholders.
 - Q&A and language-exercise source pages are direct unit-specific pages, not generic subject indexes.
 - A wording difference or a missing answer must remain marked as a variant / not found; no answer is inferred from a merely related passage.
+
+---
+## கூடுதல் Objective வினாக்கள் — Quiz-க்கு தயாரிக்க வேண்டியவை
+
+### XII. மொழியோடு விளையாடு — சொற்பெட்டியில் இருந்து நிரப்புக
+
+| வினா | சரியான சொற்கள் |
+|---|---|
+| 1. மனிதருக்கு மரம் தருவது | மரவீடு |
+| 2. மலரிதழ் / வண்டினம் | அவிழும் / கவிழும் |
+| 3. மேகம் / மனங்கள் | தங்கும் / தயங்கும் |
+| 4. வாழ்க்கையில் மீண்டும் வெல்வோர் / முயற்சி மேற்கொள்வோர் | தோற்பவர் / பார்ப்பவர் |
+| 5. கவிஞருக்குக் கைதட்டல் / அவையோரின் ஆர்வம் | விருது / விருந்து |
+
+- **விடை ஆதாரம்:** [StudentsGuide360 — 10th Tamil Unit 5 Question and Answers (இயல் 6: நிலா முற்றம்)](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — “பொருத்தமானவற்றைச் சொற்பெட்டியில் கண்டு எழுதுக” பகுதி.
+- **சரிபார்ப்பு:** ANSWER_FOUND; questions.md-இல் உள்ள சொற்பெட்டி மற்றும் ஐந்து வினாக்களும் source page-ல் பொருந்துகின்றன.
+- **Quiz நிலை:** ஐந்து நிரப்புக வினாக்களும் தற்போதைய Quiz-ல் சேர்க்கப்படவில்லை; நான்கு தேர்வுகளுடன் மாற்ற வேண்டியவை.
