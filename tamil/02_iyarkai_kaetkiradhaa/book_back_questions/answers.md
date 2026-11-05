@@ -113,6 +113,7 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “உனக்குப்” என்ற தொடக்க ஒலி மீளவும், அடிகளில் எதுகை ஒலியமைப்பும் காணப்படுவதால் மோனை, எதுகை நயங்கள் பொருந்துகின்றன.  
 **விளக்க ஆதாரம்:** S11 — [தமிழ் இணையக் கல்விக்கழகம் — எதுகை, மோனை](https://www.tamilvu.org/ta/courses-degree-d031-d0312-html-d0312662-20396).  
 **விளக்க நிலை:** `EXTRACTOR_WRITTEN_BASED_ON_CITED_GRAMMAR_SOURCE`.
+- **Quiz ID:** `10_tam_u2_q1`
 
 ### III-2. செய்தி 1 - ஒவ்வோர் ஆண்டும் ஜூன் 15ஐ உலக் காற்று நாளாக் கொண்டாடி வருகிறோம்.
 செய்தி 2 - காற்றாலை மின் உற்பத்தியில் இந்தியாவில் தமிழகம் இரண்டாமிடம் என்பது எனக்குப் பெருமையே.
@@ -128,6 +129,7 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** இந்தக் கேள்விக்கான திறந்த விடை ஆதாரங்கள் செய்தி 1 மற்றும் 3-ஐச் சரி எனக் குறிக்கின்றன. செய்தி 2-ஐத் தவறு எனக் காட்டும் தனிப்பட்ட புள்ளிவிவர விளக்கம் கிடைக்கவில்லை; கூடுதல் புள்ளிவிவரக் கூற்று சேர்க்கப்படவில்லை.  
 **விளக்க ஆதாரம்:** S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/).  
 **விளக்க நிலை:** `ANSWER_SOURCE_CONFIRMS_OPTION; SEPARATE_STATISTICAL_REASON_NOT_FOUND`.
+- **Quiz ID:** `10_tam_u2_q2`
 
 ### III-3. "பாடுஇமிழப் பனிக்கடல் பருகி" என்னும் முல்லைப்பாட்டு அடி உணர்த்தும் அறிவியல் செய்தி யாது?
 
@@ -140,6 +142,7 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கடல்நீர் ஆவியாகி மேகமாகி மழையாகப் பொழியும் இயற்கை நிகழ்வை இவ்வடி சுட்டுகிறது.  
 **விளக்க ஆதாரம்:** S1 — [BrainKart, முல்லைப்பாட்டு விளக்கம்](https://www.brainkart.in/article/Questions-and-Answers_11815/).  
 **விளக்க நிலை:** `EXTRACTOR_WRITTEN_BASED_ON_CITED_TEXTBOOK_EXPLANATION`.
+- **Quiz ID:** `10_tam_u2_q3`
 
 ### III-4. பெரிய மீசை சிரித்தார் - வண்ணச் சொல்லுக்கான தொகையின் வகை எது?
 
@@ -173,6 +176,7 @@
 **விளக்க நிலை:** `EXTRACTOR_WRITTEN_BASED_ON_CITED_REFERENCE`.
 
 ---
+- **Quiz ID:** `10_tam_u2_q5`
 
 ## E. IV. குறுவினா
 
@@ -245,6 +249,7 @@
 **Quiz தகுதி:** ஒரு குறுவினா/சொற்பொருள் வினா; பின்னர் Quiz eligibility review-இல் பார்க்க வேண்டும்.
 
 ---
+- **Quiz ID:** `10_tam_u2_iv5`
 
 ## F. V. சிறுவினா
 
@@ -396,6 +401,7 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “மலர் உண்டு; பெயரும் உண்டு” என்ற இரு தொடர்களின் கருத்து “மலருக்குப் பெயர் உண்டு” என ஒரே தொடரில் சுருக்கப்படுகிறது.  
 **விளக்க ஆதாரம்:** S5 — [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/).  
 **நிலை:** `ANSWER_FOUND`.
+- **Quiz ID:** `10_tam_u2_vii1`
 
 ### VII-2. அரும்பாகி மொட்டாகிப் பூவாகி…. என்பதை ஒத்து அமைந்துள்ள தொடரைக் கண்டறிக.
 
@@ -411,6 +417,7 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கேள்வியில் உள்ள “அரும்பாகி–மொட்டாகி–பூவாகி” என்ற வளர்ச்சி வரிசைக்கு, பாடநூல் பத்தியில் உள்ள “காய் தோன்றி–கனியாகி–அரிசி தோன்றும்” என்ற தொடரே தற்போதைய பதிப்பு ஆதாரங்களுடன் பொருந்துகிறது.
 **விளக்க ஆதாரம்:** [CBSETamil — இயல் 2.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/) · [KalviTips — இயல் 2](https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html).
 **நிலை:** `ANSWER_FOUND_WITH_SOURCE_VARIANT` — பழைய Guide-களின் வேறுபட்ட விடை மறைக்கப்படவில்லை.
+- **Quiz ID:** `10_tam_u2_vii2`
 
 ### VII-3. நீங்கள் அறிந்த இரு பூக்களின் பெயர்களையும் பயன்களையும் எழுதுக.
 
@@ -438,6 +445,7 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “அரிய” என்பது மலரின் பண்பைக் குறிப்பதால் குறிப்புப் பெயரெச்சம் என S5/S6 வகைப்படுத்துகின்றன; S7 பொதுவாகப் பெயரெச்சம் எனக் குறிக்கிறது. இந்த வேறுபாடு source-களில் அப்படியே பதிவு செய்யப்பட்டுள்ளது.  
 **விளக்க ஆதாரம்:** S5 — [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/) · S6 — [SaraNextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15901).  
 **நிலை:** `SOURCE_VARIANT_REVIEW`.
+- **Quiz ID:** `10_tam_u2_vii4`
 
 ### VII-5. தொடரில் பொருந்தாப் பொருள்தரும் மயங்கொலி எழுத்துகளைத் திருத்துக.
 
@@ -451,6 +459,7 @@
 **நிலை:** `ANSWER_FOUND`.
 
 ---
+- **Quiz ID:** `10_tam_u2_vii5`
 
 ## I. VIII. வாழ்த்துமடல் எழுதுக.
 
