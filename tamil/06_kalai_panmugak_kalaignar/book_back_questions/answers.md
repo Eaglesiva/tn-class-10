@@ -538,3 +538,38 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 - **விடை ஆதாரம்:** [StudentsGuide360 — 10th Tamil Unit 5 Question and Answers (இயல் 6: நிலா முற்றம்)](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — “பொருத்தமானவற்றைச் சொற்பெட்டியில் கண்டு எழுதுக” பகுதி.
 - **சரிபார்ப்பு:** ANSWER_FOUND; questions.md-இல் உள்ள சொற்பெட்டி மற்றும் ஐந்து வினாக்களும் source page-ல் பொருந்துகின்றன.
 - **Quiz நிலை:** ஐந்து நிரப்புக வினாக்களும் தற்போதைய Quiz-ல் சேர்க்கப்படவில்லை; நான்கு தேர்வுகளுடன் மாற்ற வேண்டியவை.
+
+
+### Objective word-bank quiz records — மொழியோடு விளையாடு
+
+#### 1. விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….
+- **Source answer:** மரம் வீடு / மரவீடு
+- **காரண விளக்கம்:** பறவைகளுக்கு மரம் வாழிடமாகவும், மனிதர்களுக்கு மரம் வீடாகவும் பயன்படுகிறது.
+- **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q6`
+
+#### 2. காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….
+- **Source answer:** அவிழும் / தங்கும்
+- **காரண விளக்கம்:** காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; வண்டுகள் பூக்களில் தங்குகின்றன.
+- **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q7`
+
+#### 3. வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
+- **Source answer:** தோற்பவர் / பார்ப்பவர்
+- **காரண விளக்கம்:** தோல்வியடைந்தவர் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதுபவர் முயற்சி மேற்கொள்வர்.
+- **விடை ஆதாரம்:** [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q8`
+
+#### 4. கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
+- **Source answer:** விருது / விருந்து
+- **காரண விளக்கம்:** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் விருந்தாகவும் உருவகிக்கப்படுகிறது.
+- **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q9`
+
+#### தீர்க்கப்படாத வினா — மலை முகட்டில் மேகம் …
+- **நிலை:** CONFLICT_REVIEW_REQUIRED — BrainKart-ல் “தங்கும்” என்றும் VirkozKalvi / CBSETamil-ல் “கவிழும்” என்றும் விடை வேறுபடுகிறது. தீர்வு கிடைக்கும் வரை Quiz-ல் சேர்க்கப்படவில்லை.
+- **ஆதாரங்கள்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
