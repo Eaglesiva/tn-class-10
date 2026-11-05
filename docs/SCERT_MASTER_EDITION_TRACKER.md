@@ -92,7 +92,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - **Production Main Tip Commit**: [`d6fc546d`](https://github.com/Eaglesiva/tn-class-09/commit/d6fc546d58aab5f520c5cfbebddb2a829ce86bae) (Mathematics EM, Science TM, Science EM, Social Science TM, Social Science EM)
 - **Audit Branch**: [`scert/class-09/audit-2026-27`](https://github.com/Eaglesiva/tn-class-09/tree/scert/class-09/audit-2026-27)
 - **Breakdown**:
-  - **Refreshed on Main (5 books - 1,664p)**: Maths EM (328p), Science TM (336p), Science EM (328p), Social Science TM (344p), Social Science EM (328p) refreshed in-place from 2026–27 masters.
+  - **Refreshed on Main (5 books - 1,664p)**: Maths EM (328p), Science TM (336p), Science EM (328p), Social Science TM (344p), Social Science EM (328p) refreshed in-place from 2026–27 masters across 125 contiguous subdirectories.
   - **Layer 4 Pilot Verified (3 books - 840p)**: English (224p, commit `a2c6840f`), Tamil (272p, commit `6b28a78d`), Maths TM (344p, commit `86f68c34`) verified text-equivalent.
 
 ### Class 10 (8 records — 2,624 pages)
@@ -101,7 +101,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - **Audit Branch**: [`scert/class-10/audit-2026-27`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27)
 - **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in unit folders)
 - **Breakdown**:
-  - **English (224p)**: `OFFICIAL_SOURCE_REFRESHED` (Refreshed in-place on production `main`).
+  - **English (224p)**: `OFFICIAL_SOURCE_REFRESHED` (Refreshed in-place on production `main` across 22 contiguous subdirectories).
   - **Tamil (248p)**: `EXACT_MASTER_SHA256_MATCH` (Bit-for-bit SHA-256 match on `main`).
   - **Maths TM (368p) & EM (352p)**: `MANUAL_REVIEW_REQUIRED` (720 split pages; pending manual inspection).
   - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages stored on update branch).
@@ -129,7 +129,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
   - Chemistry TM (672p): Vol-I = 328p, Vol-II = 344p
   - Chemistry EM (624p): Vol-I = 296p (update branch), Vol-II = 328p (main)
 - **Breakdown**:
-  - **Refreshed on Main (32 books - 9,872p)**: All 32 books in-place refreshed and serving live on `main`.
+  - **Refreshed on Main (32 books - 9,872p)**: All 32 books in-place refreshed and serving live on `main` across 445 contiguous subdirectories.
   - **Official Edition Updates (2 books - 648p)**: Stored as 1-page PDFs on branch `scert/class-12/official-version-updates`:
     - Physics EM Vol 1: 352 pages (`physics_em/editions/2026-27-scert-official/vol1/`)
     - Chemistry EM Vol 1: 296 pages (`chemistry_em/editions/2026-27-scert-official/vol1/`)
@@ -154,7 +154,7 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **10** | 32 | 8 | 1,432 | 1 Refreshed on Main (224p) / 1 SHA Match (248p) / 2 Manual Review (720p) / 4 Stored Updates (1,432p) |
 | **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Same (1,304p) / 4 Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) |
 | **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Refreshed on Main (9,872p) / 2 Stored Updates (648p) |
-| **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV (32,976 official / 33,592 split pages)** |
+| **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV (32,976 known official master pages across 122 measured books / 33,592 split pages; 43 books unmeasured)** |
 
 ---
 

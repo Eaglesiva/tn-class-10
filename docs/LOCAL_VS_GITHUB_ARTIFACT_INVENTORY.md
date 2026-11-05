@@ -14,7 +14,7 @@ All 38 pending textbooks were refreshed directly from current 2026–27 SCERT Cl
 | **9** | **5** | **1,664** | [`d6fc546d`](https://github.com/Eaglesiva/tn-class-09/commit/d6fc546d58aab5f520c5cfbebddb2a829ce86bae) | [`class_09_all_refreshed_evidence.json`](./refresh_evidence/class_09_all_refreshed_evidence.json)<br>Individual JSONs: `maths_em`, `science_tm`, `science_em`, `social_science_tm`, `social_science_em` |
 | **10** | **1** | **224** | [`22f176e2`](https://github.com/Eaglesiva/tn-class-10/commit/22f176e29b3e92be4ff6a110ac8285a1ce371765) | [`class_10_english_refresh_evidence.json`](./refresh_evidence/class_10_english_refresh_evidence.json) |
 | **12** | **32** | **9,872** | [`c15e34ad`](https://github.com/Eaglesiva/tn-class-12/commit/c15e34ad9ca2f53ccd020b2625995d2c20aaf952) | [`class_12_all_refreshed_evidence.json`](./refresh_evidence/class_12_all_refreshed_evidence.json) |
-| **Total** | **38** | **11,760** | — | **Full Contiguity Evidence**: [`scert_38_toc_contiguity_audit.json`](./refresh_evidence/scert_38_toc_contiguity_audit.json) |
+| **Total** | **38** | **11,760** | — | **Full Contiguity Evidence**: [`scert_38_toc_contiguity_audit.json`](./refresh_evidence/scert_38_toc_contiguity_audit.json) (592 directories across 38 books: Class 9: 125, Class 10: 22, Class 12: 445) |
 
 ### Detailed 38-Book Production Refreshed Register
 
@@ -66,10 +66,10 @@ All 38 pending textbooks were refreshed directly from current 2026–27 SCERT Cl
 | File Name | Purpose | Records / Scope | Last Reconciled Commit |
 | :--- | :--- | :---: | :--- |
 | [`SCERT_MASTER_EDITION_INDEX.csv`](./SCERT_MASTER_EDITION_INDEX.csv) | Authoritative cross-class master catalog index | 165 books (Classes 1–12) | All 38 refreshed records matched with runner JSONs |
-| [`FINAL_MASTER_AUDIT_STATUS.md`](./FINAL_MASTER_AUDIT_STATUS.md) | Mutually exclusive primary status accounting & TOC audit | 165 books (32,976 official pages) | Exact +616 page reconciliation documented |
+| [`FINAL_MASTER_AUDIT_STATUS.md`](./FINAL_MASTER_AUDIT_STATUS.md) | Mutually exclusive primary status accounting & TOC audit | 165 books (32,976 known official pages) | Exact +616 page reconciliation documented; 43 books unmeasured |
 | [`SCERT_MASTER_EDITION_TRACKER.md`](./SCERT_MASTER_EDITION_TRACKER.md) | Comprehensive cross-class navigation tracker | Classes 1–12 summary | 42 GET-200 / 41 GET-403 harmonized |
 | [`LOCAL_VS_GITHUB_ARTIFACT_INVENTORY.md`](./LOCAL_VS_GITHUB_ARTIFACT_INVENTORY.md) | Complete artifact & branch inventory register | Classes 1–12 cross-repo | Synchronized with 38-book refresh commits |
-| [`scert_38_toc_contiguity_audit.json`](./refresh_evidence/scert_38_toc_contiguity_audit.json) | Granular TOC directory-by-directory contiguity proof | 38 books / 478+ directories | 38/38 strictly contiguous (p.1 to end) |
+| [`scert_38_toc_contiguity_audit.json`](./refresh_evidence/scert_38_toc_contiguity_audit.json) | Granular TOC directory-by-directory contiguity proof | 38 books / 592 directories | 38/38 strictly contiguous (p.1 to end; Class 9: 125, Class 10: 22, Class 12: 445) |
 | [`scert_38_refresh_targets.json`](./scert_38_refresh_targets.json) | Machine input targets for runner refresh | 38 books specification | Verified against SCERT API URLs |
 
 ---
