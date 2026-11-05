@@ -47,7 +47,7 @@
 
 ## Non-objective Book Back — Answer Source Collection
 
-> கீழே உள்ள ஒவ்வொரு பதிவிலும் அசல் கேள்வி உரை `questions.md`-இலிருந்து மாற்றமின்றி எடுத்துக் கொள்ளப்பட்டுள்ளது. Non-objective விடைகள் எழுதப்படவில்லை. மூன்று placeholders மட்டும் வைக்கப்பட்டுள்ளன. ஒவ்வொரு பதிவுக்கும் பொருத்தமான நேரடி இயல்/இலக்கணப் பக்கம் இணைக்கப்பட்டுள்ளது. கேள்வி-வாரியான exact match மற்றும் answer-line verification தனியாகக் குறிக்கப்பட்டுள்ளது.
+> ஒவ்வொரு பதிவிலும் questions.md-இன் அசல் வினா உரை மாற்றமின்றி உள்ளது. விடைகள் எழுதப்படவில்லை; மூன்று placeholders மற்றும் நேரடி ஆதார இணைப்பு மட்டும்.
 
 ### II. குறுவினா — II. குறுவினா — பதிவு 1
 
@@ -60,8 +60,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** WORDING_VARIANT — questions.md-ல் “கொளவோர் கொளக / உளவாய்”; BrainKart-ல் “கொள்வோர் கொள்க / உள்வாய்”. செய்யுள் சொல் வடிவம் வேறுபடுகிறது; அசல் questions.md உரை மாற்றப்படவில்லை.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -73,8 +73,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -86,8 +86,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -99,8 +99,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -112,8 +112,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -125,8 +125,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -138,8 +138,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -152,8 +152,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -165,8 +165,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -178,8 +178,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -201,8 +201,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -216,8 +216,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -235,8 +235,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -248,8 +248,8 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -261,8 +261,8 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -281,8 +281,8 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -294,8 +294,8 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -312,8 +312,8 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
@@ -325,12 +325,66 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
 
-### VI. மொழியோடு விளையாடு — செயல்திட்டம் — பதிவு 20
+### VI. மொழியோடு விளையாடு — சொற்களைப் பிரித்துப் பார்த்துப் பொருள் தருக. — பதிவு 20
+
+1. கானடை
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — சொற்களைப் பிரித்துப் பார்த்துப் பொருள் தருக. — பதிவு 21
+
+2. வருந்தாமரை
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — சொற்களைப் பிரித்துப் பார்த்துப் பொருள் தருக. — பதிவு 22
+
+3. பிண்ணாக்கு
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — சொற்களைப் பிரித்துப் பார்த்துப் பொருள் தருக. — பதிவு 23
+
+4. பலகையொலி
+
+எ.கா. கானடை என்பதை, கான் அடை - காட்டைச் சேர், கான் நடை - காட்டுக்கு நடத்தல், கால் நடை - காலால் நடத்தல் இவ்வாறு மூன்று வகையாகப் பிரித்துப் பொருள் கூறலாம்.
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — செயல்திட்டம் — பதிவு 24
 
 ஔவையாரின் ஆத்திசூடி, பாரதியாரின் ஆத்திசூடி ஆகிய இரண்டின் முதல் பத்துத் தொடர்களை ஒப்பிட்டு, நாள்தோறும் ஒரு தொடர் என்னும் அடிப்படையில் கருத்துகளைக் காலை வழிபாட்டு நிகழ்வில் வழங்குக.
 
@@ -338,8 +392,8 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 
 ## Source QA — Iyal 8
