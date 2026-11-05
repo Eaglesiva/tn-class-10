@@ -59,7 +59,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -72,7 +72,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -85,7 +85,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -98,7 +98,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -111,7 +111,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -124,7 +124,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -137,7 +137,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -150,7 +150,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -163,7 +163,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -176,7 +176,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -189,7 +189,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -202,7 +202,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -215,7 +215,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -228,7 +228,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -241,7 +241,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -254,7 +254,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -267,7 +267,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -280,7 +280,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -293,7 +293,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -306,7 +306,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -319,7 +319,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -332,7 +332,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -345,7 +345,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 ---
 
@@ -365,7 +365,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 9 — அன்பின் மொழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
 
 
 ## Source QA — Iyal 9
