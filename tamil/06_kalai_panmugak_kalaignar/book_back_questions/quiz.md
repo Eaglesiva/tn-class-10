@@ -86,3 +86,5 @@
 ## Source / Extraction QA
 - பழைய `quiz.md`-இல் இருந்த, `questions.md`-இல் இல்லாத “செயப்பாட்டு வினை” மற்றும் “கரகாட்டம்” வினாக்கள் நீக்கப்பட்டன.
 - கேள்வி 3-ன் option வரிசை அசல் `questions.md`-க்கு ஒத்திசைக்கப்பட்டது.
+
+[BrainKart — இயல் 6 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
