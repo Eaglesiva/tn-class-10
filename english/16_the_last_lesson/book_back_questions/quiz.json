@@ -1,0 +1,580 @@
+[
+  {
+    "id": "10_eng_u6_q1",
+    "question": "The quality of dal _______ not good. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The head noun “quality” is singular, so it takes “is”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q2",
+    "question": "The horse carriage _______ at the door. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The singular subject “carriage” takes “is”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q3",
+    "question": "My friend and teacher _______ come. (has / have)",
+    "options": [
+      "has",
+      "have",
+      "had",
+      "having"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“My friend and teacher” refers to one person; the source gives “has come”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q4",
+    "question": "_______ your father and mother at home? (Is / Are)",
+    "options": [
+      "Is",
+      "Are",
+      "Was",
+      "Were"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Two separate subjects joined by “and” take the plural verb “are”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q5",
+    "question": "Honour and glory _______ his reward. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“Honour and glory” expresses one combined idea/reward, so the source uses “is”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q6",
+    "question": "The ship with its crew _______ sailing good. (was / were)",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "is"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The verb agrees with the singular subject “ship”, not “crew”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q7",
+    "question": "Gulliver’s Travels _______ an excellent story. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A book title is treated as singular, so “is” is used.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q8",
+    "question": "Neither food nor water _______ found here. (was / were)",
+    "options": [
+      "was",
+      "were",
+      "are",
+      "have"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "With neither…nor, the verb agrees with the nearer singular subject “water”: “was”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q9",
+    "question": "Mathematics _______ a branch of study. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“Mathematics” is singular in meaning here, so it takes “is”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q10",
+    "question": "Fifteen minutes _______ allowed to read the question paper. (is / are)",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "A period of time considered as one whole takes a singular verb: “is”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q11",
+    "question": "_______ the flute, Krishna returned it. (played / having played)",
+    "options": [
+      "played",
+      "having played",
+      "playing",
+      "has played"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Having played” is the perfect participle, showing the first action was completed before returning the flute.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q12",
+    "question": "We wish she continues _______ healthy. (being / be)",
+    "options": [
+      "being",
+      "be",
+      "been",
+      "to be"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The verb “continues” is followed by a gerund here: “being”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q13",
+    "question": "The doctor advised him against _______ in the sun. (wander / wandering)",
+    "options": [
+      "wander",
+      "wandering",
+      "to wander",
+      "wandered"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The preposition “against” is followed by a gerund: “wandering”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q14",
+    "question": "I like _______ rasam. (drinking / drink)",
+    "options": [
+      "drinking",
+      "drink",
+      "drank",
+      "to drinking"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The source answer uses the gerund “drinking” after “like”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q15",
+    "question": "_______ the scissors I returned it to her. (using / having used)",
+    "options": [
+      "using",
+      "having used",
+      "use",
+      "used"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Having used” shows the use of the scissors was completed before returning them.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q16",
+    "question": "I had desired to eat a cake. / I had desired to have eaten cake.",
+    "options": [
+      "Sentence A",
+      "Sentence B",
+      "Both sentences",
+      "Neither sentence"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The direct answer key selects “I had desired to eat a cake.”",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q17",
+    "question": "My son is fond of music. / My son is fond to music.",
+    "options": [
+      "Sentence A",
+      "Sentence B",
+      "Both sentences",
+      "Neither sentence"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The correct expression is “fond of music”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q18",
+    "question": "Sreena avoids eating fruits. / Sreena avoids to eat fruits.",
+    "options": [
+      "Sentence A",
+      "Sentence B",
+      "Both sentences",
+      "Neither sentence"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The verb “avoid” is followed by a gerund: “eating”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q19",
+    "question": "Bravery is not to pick a quarrel. / Bravery is not picking a quarrel.",
+    "options": [
+      "Sentence A",
+      "Sentence B",
+      "Both sentences",
+      "Neither sentence"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The source identifies “Bravery is not picking a quarrel” as the correct sentence.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "sourceName": "VirkozKalvi — The Last Lesson",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-last-lesson/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q20",
+    "question": "This poem is about the (1) _______ of all men.",
+    "options": [
+      "brotherhood",
+      "language",
+      "human earth",
+      "same land"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The poem is about the brotherhood of all men.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q21",
+    "question": "The subject of the poem is the (2) _______ race.",
+    "options": [
+      "same eyes",
+      "unity of human",
+      "dreams and aspirations",
+      "breathing body"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The phrase is “unity of human race”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q22",
+    "question": "We walk on the (3) _______ and we will be buried under it.",
+    "options": [
+      "same land",
+      "human earth",
+      "our hands",
+      "language"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The supplied phrase is “same land”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q23",
+    "question": "We may wear different uniforms like (4) _______.",
+    "options": [
+      "language",
+      "same eyes",
+      "brotherhood",
+      "unnatural"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase in the source is “language”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q24",
+    "question": "The opposing side will also have the same (5) _______ like ours.",
+    "options": [
+      "breathing body",
+      "same land",
+      "our hands",
+      "dreams and aspirations"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase is “breathing body”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q25",
+    "question": "We as humans do the same labour with (6) _______.",
+    "options": [
+      "our hands",
+      "same eyes",
+      "same land",
+      "language"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase is “our hands”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q26",
+    "question": "We look at the world with the (7) _______.",
+    "options": [
+      "same eyes",
+      "breathing body",
+      "human earth",
+      "brotherhood"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase is “same eyes”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q27",
+    "question": "It is the (8) _______ we impair.",
+    "options": [
+      "human earth",
+      "same land",
+      "language",
+      "breathing body"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase is “human earth”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q28",
+    "question": "We all share the same (9) _______.",
+    "options": [
+      "dreams and aspirations",
+      "brotherhood",
+      "our hands",
+      "same eyes"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase is “dreams and aspirations”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q29",
+    "question": "We shouldn’t have wars as it is (10) _______ to fight against us.",
+    "options": [
+      "unnatural",
+      "brotherhood",
+      "language",
+      "same land"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The final word in the source summary is “unnatural”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "sourceName": "VirkozKalvi — No Men Are Foreign",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-no-men-are-foreign/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q30",
+    "question": "“I want you to go across the dike and take these cakes to your friend, the blind man.”",
+    "options": [
+      "Peter’s mother",
+      "Peter",
+      "the blind man",
+      "the man going to work"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Peter’s mother gives him the cakes to take to his blind friend.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "sourceName": "VirkozKalvi — The Little Hero of Holland",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q31",
+    "question": "“I am glad they are so strong.”",
+    "options": [
+      "Peter",
+      "Peter’s mother",
+      "Peter’s father",
+      "the blind man"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Peter says this about the dikes.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "sourceName": "VirkozKalvi — The Little Hero of Holland",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q32",
+    "question": "“Holland shall not be drowned while I am here.”",
+    "options": [
+      "Peter",
+      "the Governor",
+      "the blind man",
+      "Peter’s father"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Peter says this while holding the hole in the dike.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "sourceName": "VirkozKalvi — The Little Hero of Holland",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q33",
+    "question": "“What’s the matter?” he called. “Are you hurt?”",
+    "options": [
+      "the blind man",
+      "the man going to work",
+      "Peter’s father",
+      "Peter"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "A man going to work finds Peter and calls out to him.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "sourceName": "VirkozKalvi — The Little Hero of Holland",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u6_q34",
+    "question": "“Tell them to come quickly!”",
+    "options": [
+      "Peter",
+      "Peter’s mother",
+      "the Governor",
+      "the blind man"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Peter calls for people to come and help.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "sourceName": "VirkozKalvi — The Little Hero of Holland",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-little-hero-of-holland/",
+    "verificationStatus": "ANSWER_FOUND"
+  }
+]
