@@ -6,36 +6,48 @@
 ### Q1 — சின்னமனூர்ச் செப்பேடு
 - **S1 — BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்:** அ) சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது — [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **S2 — Nibunan — இயல் 5:** அ) சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது — [Nibunan — இயல் 5](https://nibunan.in/clear-tnpsc-tamil/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு மகாபாரதம் தமிழாக்கம் செய்யப்பட்டதும் சங்கம் நிறுவப்பட்டதும் குறித்த செய்தியைச் சொல்வதால் சங்க கால மொழிபெயர்ப்பு மரபை உணர்த்துகிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **மூல உரை QA:** `questions.md`-இல் “மாபாதை தமிழப்படுத்தும்” என உள்ளது; பொருந்தும் விடை ஆதாரங்களில் “மாபாரதம் தமிழ்ப்படுத்தும்” என உள்ளது. இது WORDING_VARIANT / OCR-பிழை சந்தேகமாகப் பதிவு செய்யப்படுகிறது; `questions.md` திருத்தப்படவில்லை.
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
 
 ### Q2 — “அருந்துணை” பிரிப்பு
 - **S1 — BrainKart — இயல் 5:** அ) அருமை + துணை — [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **S2 — Nibunan — இயல் 5:** அ) அருமை + துணை — [Nibunan — இயல் 5](https://nibunan.in/clear-tnpsc-tamil/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “அருந்துணை” என்ற சொல்லின் பிரிப்பு “அருமை + துணை” என விடை ஆதாரங்களில் தரப்பட்டுள்ளது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q3 — வினா மற்றும் விடை வகைகள்
 - **S1 — BrainKart — இயல் 5:** இ) அறியா வினா, சுட்டு விடை — [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **S2 — VirkozKalvi — இயல் 5, வினா-விடை வகைகள்:** இ) அறியா வினா, சுட்டு விடை — [VirkozKalvi — இயல் 5, வினா-விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தனக்குத் தெரியாத பேருந்து நிற்கும் இடத்தை அறியக் கேட்பதால் அது அறியா வினா; “அதோ, அங்கே” என்று இடத்தைச் சுட்டிக் கூறுவதால் அது சுட்டு விடை.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 5, வினா-விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q4 — “அருளைப் பெருக்கி அறிவைத் திருத்தி”
 - **S1 — BrainKart — இயல் 5:** இ) கல்வி — [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **S2 — Nibunan — இயல் 5:** இ) கல்வி — [Nibunan — இயல் 5](https://nibunan.in/clear-tnpsc-tamil/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அருள் மற்றும் அறிவை வளர்த்து, அறியாமையை நீக்கி தெளிவைத் தருவது கல்வியின் பயனாக இவ்வடிகளில் கூறப்படுகிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q5 — இடைக்காடனார்
 - **S1 — BrainKart — இயல் 5:** ஈ) மன்னன், இறைவன் — [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **S2 — YouTube lesson reference — திருவிளையாடற்புராணம்:** ஈ) மன்னன், இறைவன் — [YouTube lesson reference — திருவிளையாடற்புராணம்](https://www.youtube.com/watch?v=QOLU-HT0ZYs)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** இடைக்காடனாரின் பாடலை மன்னன் இகழ்ந்தான்; புலவரிடம் அன்பு கொண்டு அவருக்கு ஆதரவாக இருந்தவர் இறைவன் எனப் பாடப்பகுதி விளக்குகிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q6 — புதிர்ப்பாடல்: “தார்போன்ற நிறமுண்டு”
 - **S1 — TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி:** காகம் — [TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **S2 — Malar Mahendran — இயல் 5 மொழியை ஆள்வோம்:** காகம் — [Malar Mahendran — இயல் 5 மொழியை ஆள்வோம்](https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கருமையான நிறம், கூட்டமாக அமர்ந்து ஒலித்தல், கூடு கட்டுதல், வருகையை முன்கூட்டியே குரலால் அறிவித்தல் ஆகிய குறிப்புகள் காகத்திற்குப் பொருந்துகின்றன.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/)
 - **நிலை:** ANSWER_FOUND
 
 ## QC
