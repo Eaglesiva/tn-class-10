@@ -18,6 +18,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
 - **விளக்க ஆதாரம்:** அதே பாடவிடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q2`
 
 ### Q3 — மலர்கள் தரையில் நழுவும்
 - **S1 — BrainKart — இயல் 6:** ஆ) தளரப் பிணைத்தால் — [BrainKart — இயல் 6](https://www.brainkart.in/article/Questions-and-Answers_11850/)
@@ -27,6 +28,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — பூத்தொடுத்தல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q3`
 
 ### Q4 — தூக்குமேடை நாடகப் பாராட்டு
 - **S1 — Kalvikavi — இயல் 6 Book Back:** ஆ) கலைஞர் என்ற சிறப்புப்பெயர் எப்போது வழங்கப்பட்டது? — [Kalvikavi — இயல் 6 Book Back](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
@@ -35,6 +37,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
 - **விளக்க ஆதாரம்:** அதே வினா-விடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q4`
 
 ### Q5 — கோசல நாட்டில் கொடை இல்லாதது
 - **S1 — BrainKart — இயல் 6:** ஈ) அங்கு வறுமை இல்லாததால் — [BrainKart — இயல் 6](https://www.brainkart.in/article/Questions-and-Answers_11850/)
@@ -44,6 +47,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — கம்பராமாயணம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u6_q5`
 
 ## QC
 - `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
