@@ -6,6 +6,8 @@
 ### Q1 — “உனதருளே பார்ப்பன் அடியேனே”
 - **S1 — BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்:** ஆ) இறைவனிடம் குலசேகராழ்வார் — [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **S2 — Students Guide 360 — Unit 4.2:** ஆ) இறைவனிடம் குலசேகராழ்வார் — [Students Guide 360 — Unit 4.2](https://www.studentsguide360.com/10th-tamil-guide-unit-4-2/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பெருமாள் திருமொழியில் குலசேகராழ்வார் திருவித்துவக்கோட்டில் எழுந்தருளியுள்ள இறைவனை நோக்கிப் பாடுகிறார்.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.studentsguide360.com/10th-tamil-guide-unit-4-2/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q2 — செயற்கை நுண்ணறிவு தலைப்பும் குறிப்புகளும்
@@ -19,6 +21,8 @@
 - **S1 — BrainKart — இயல் 4:** ஈ) வானத்தையும் பேரொலியையும் — [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **S2 — Padavelai — பரிபாடல்:** ஈ) வானத்தையும் பேரொலியையும் — [Padavelai — பரிபாடல்](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html)
 - **S3 — Samacheer Kalvi:** ஈ) வானத்தையும் பேரொலியையும் — [Samacheer Kalvi](https://samacheer-kalvi.com/samacheer-kalvi-10th-tamil-guide-chapter-4-3/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** இத்தொடரில் “விசும்பு” வானத்தையும் “இசை” பேரொலியையும் குறிக்கிறது எனப் பாடப்பகுதி விடை ஆதாரங்கள் தருகின்றன.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html)
 - **விளக்க ஆதாரம்:** [Padavelai — பரிபாடல் பாடல் மற்றும் சொல்லும் பொருளும்](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html)
 - **நிலை:** ANSWER_FOUND
 
@@ -26,12 +30,16 @@
 - **S1 — BrainKart — இயல் 4:** இ) பால் வழுவமைதி, திணை வழுவமைதி — [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **S2 — Students Guide 360 — Unit 4.5:** இ) பால் வழுவமைதி, திணை வழுவமைதி — [Students Guide 360 — Unit 4.5](https://www.studentsguide360.com/10th-tamil-guide-unit-4-5/)
 - **S3 — GreenTamil — இயல் 4 திறன் அறிவோம்:** இ) பால் வழுவமைதி, திணை வழுவமைதி — [GreenTamil — இயல் 4 திறன் அறிவோம்](https://www.greentamil.in/2021/11/4-10th-tamil-eyal-4-thiran-arivom.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** ஆண் தெய்வத்தை “அம்மா” என அழைப்பது பால் வழுவமைதி; அஃறிணையான பூனையை “வருகிறார்” என உயர்திணை மரியாதையுடன் குறிப்பிடுவது திணை வழுவமைதி.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q5 — பாரத ஸ்டேட் வங்கியின் உரையாடு மென்பொருள்
 - **S1 — BrainKart — இயல் 4:** ஈ) இலா — [BrainKart — இயல் 4](https://www.brainkart.in/article/Questions-and-Answers_11832/)
 - **S2 — Students Guide 360 — Unit 4.1:** ஈ) இலா — [Students Guide 360 — Unit 4.1](https://www.studentsguide360.com/10th-tamil-guide-unit-4-1/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “இலா” (ILA) என்பது SBI Card-ன் உரையாடு மென்பொருள் / chatbot என அதிகாரப்பூர்வ SBI Card தளமும் பாடவிடை ஆதாரங்களும் உறுதிப்படுத்துகின்றன.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.sbicard.com/en/personal/digital-platform-updates.page)
 - **விளக்க ஆதாரம்:** [SBI Card — ILA chatbot feature updates](https://www.sbicard.com/en/personal/digital-platform-updates.page)
 - **நிலை:** ANSWER_FOUND
 
