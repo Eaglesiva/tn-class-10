@@ -60,7 +60,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -73,7 +73,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -86,7 +86,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -99,7 +99,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -112,7 +112,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -125,7 +125,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -138,7 +138,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -152,7 +152,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -165,7 +165,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -178,7 +178,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -201,7 +201,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
@@ -216,7 +216,7 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
 **QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
 
 ---
