@@ -71,3 +71,6 @@
 ## Source / Conflict QA
 - Q2 — BrainKart / Students Guide 360: அ) தலைப்புக்குப் பொருத்தமான குறிப்புகள்; GreenTamil: இ) தலைப்புக்குத் தொடர்பில்லாத குறிப்புகள். முரண்பாடு காரணமாக வினா Quiz-ல் சேர்க்கப்படவில்லை.
 - `questions.md`-இல் உள்ள “பாதைஸ்டேட்” என்ற மூல எழுத்துரு மாற்றப்படவில்லை.
+
+
+<!-- Iyal 4 quiz additions prepared in working session. -->
