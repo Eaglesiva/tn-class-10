@@ -156,3 +156,57 @@ Source Reference சேகரிப்பும் ஒப்பீடும் �
 ## 10. ஒரு வரி நினைவூட்டல்
 
 **முதலில் கேள்வி வாரியாக Source விடைகளைத் தனித்தனியாகச் சேகரி → ஒரு மதிப்பெண் கேள்விகளுக்கு மட்டும் காரண விளக்க ஆதாரத்தைத் தேடு → Source வேறுபாடுகளைப் பதிவு செய் → பின்னர் மட்டுமே ஒப்பிட்டு நமது மூன்று இறுதி விடை வடிவங்களையும் உருவாக்கு.**
+
+
+---
+
+## 11. Latest User-authoritative operating rule (05-11-2026) — Extract sources only
+
+**This section overrides any conflicting wording earlier in this file.** In particular, any earlier instruction that says ChatGPT should generate or fill the three student-facing answer tiers is superseded.
+
+### 11.1 GitHub is temporary common workspace, not the student website
+GitHub is used so multiple tools/operators (including Antigravity and ChatGPT) can share the same working files. It is not the user's student-facing website. Do not deploy, publish, merge to `main`, or change web routing. The user will handle cleanup/deletion after collecting the material; do not delete it on the user's behalf.
+
+### 11.2 Extractor's scope
+Read the existing `questions.md`; retain every question's exact wording, order and numbering. Search for the same question on relevant educational sites. Open each direct answer page and record its URL and source-specific answer separately. Do not rely on a search snippet or homepage as proof that the answer exists. Do not create the student's final answer from general knowledge.
+
+### 11.3 One-mark / one-word / objective questions
+For this category only, record:
+- **சரியான விடை / சரியான தெரிவு** — option code and answer text.
+- **💡 காரண விளக்கம்** — concise 1–2 lines, grounded in a source / lesson. If independently written because no source explanation exists, label it as the extractor's note.
+- **Sources** — direct URL and separate source-specific answer record.
+
+Do not add the three tiers to objective questions.
+
+### 11.4 Non-objective questions — placeholders only
+For குறுவினா, சிறுவினா, நெடுவினா and other non-objective questions, create the headings below but leave them empty / `TO_BE_PREPARED_LATER`:
+
+1. 🔑 **விடைக்குறிப்பு:** Later this means only very short scoring keywords / phrases, not sentences or an explanation.
+2. 📝 **சாதாரண விடை:** Later this means the ordinary student exam-writing style and length appropriate to the question / mark allocation, using source examples such as BrainKart as reference. The extractor must not compose it.
+3. 📖 **விரிவான விடை:** Later this may contain only a few additional useful points (around 2–3) where the question calls for it. The extractor must not compose it.
+
+Do not compare sources and turn them into these three tiers. That is the user's separate later stage.
+
+### 11.5 Source answer blocks
+After the empty tier placeholders, create separate source blocks:
+- Source name.
+- Direct answer page URL.
+- Page title/date/edition, when shown.
+- Exact-question match status.
+- Source answer / permitted short extract.
+
+Never merge S1 and S2. Never insert your own explanation between question records. Add a short QC Note only for important mismatches, conflicts, inaccessible pages or missing answer sections.
+
+### 11.6 No-go rules
+- No assistant-authored key points, ordinary answers or detailed answers.
+- No "காரண விளக்கம்" for குறுவினா / சிறுவினா / நெடுவினா / open-ended writing tasks.
+- No paraphrase represented as verbatim.
+- No guesses or unsupported completion where a source has no answer.
+- No changes to `questions.md`, quiz files, textbook PDFs or site code as part of answer extraction.
+- No deploy, merge or public website changes.
+
+### 11.7 Copyright-aware source handling
+Keep any quotation faithful, but do not reproduce long copyrighted guide answers verbatim. For long material, provide the direct page URL and a short identifying extract within applicable quotation limits; clearly distinguish that from a full source transcription. Never bypass the limit by splitting a long answer into fragments.
+
+### 11.8 Completion rule
+Every question must end with a source record or an explicit `ANSWER_NOT_FOUND` / `SOURCE_UNAVAILABLE` status, plus conflict/mismatch notes where needed. The three non-objective answer tiers remain blank until the user's separate preparation stage.
