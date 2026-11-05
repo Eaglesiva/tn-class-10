@@ -61,7 +61,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 7 — விதைநெல் கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**QC:** SPELLING_VARIANT — questions.md-ல் “இவவணிகர்கள்”; BrainKart-ல் “இவ்வணிகர்கள்”. பொருள் மாறவில்லை; அசல் questions.md உரை மாற்றப்படவில்லை.
 
 ---
 
