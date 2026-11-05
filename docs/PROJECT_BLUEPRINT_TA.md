@@ -1326,3 +1326,138 @@ Tasks:
 - **Class 10 Tamil:** retain the 248-page / 9-Iyal Local PDF and the existing extracted question work as the current official-portal-matching base. Perform question-level QA, but do not rebuild from the third-party 184-page copy.
 - **Other Classes:** do not assume they match because their imprint says 2024 / 2025, and do not assume they are old because the imprint says 2018 / 2019 / 2022. Wait for the complete official API ↔ local PDF manifest.
 - **Old work preservation:** no destructive deletion; mismatches should be stored as separate versions after the report identifies them.
+
+
+---
+
+## 23. User-authoritative correction — Answer Extraction Only; 3-Tier Preparation Is a Separate Stage (05-11-2026)
+
+This section records the user's correction to the earlier workflow. **It supersedes any earlier instruction in this document that asks ChatGPT / the extractor to write, synthesize, compare into, or complete student-facing 3-tier answers.** Where an older section conflicts with this section, follow Section 23.
+
+### 23.1 GitHub's role in this project
+
+- GitHub is a **temporary shared working space** so ChatGPT, Antigravity and other tools/operators can read and exchange the same working files.
+- GitHub is **not** the user's student-facing website and must not be described as the user's website.
+- The user will collect/copy the extracted material and handle cleanup/deletion after the extraction work is complete.
+- Do not deploy, publish, merge into `main`, change Cloudflare/site routing, or treat this working branch as the final public answer website.
+- Keep work on a separate content/research branch. Do not delete the repository or working files; the user handles the later cleanup.
+
+### 23.2 ChatGPT / extractor's only job
+
+The extractor's job is limited to:
+
+1. Read the existing `questions.md` and preserve its exact question wording, order, numbering, and question type.
+2. Search relevant education websites / guide sources for the answer to each exact question.
+3. Open the **direct answer page** and check that the answer actually appears there. A home page, index, search snippet, or unrelated chapter page is not a verified answer.
+4. Record the source name, direct page URL, visible title/date/edition when available, and the source's answer or a clearly labelled short source extract.
+5. Keep each source's answer separate. Never merge different websites' answers into one answer.
+6. Mark missing, conflicting, mismatched or inaccessible sources honestly.
+
+**Do not act as a teacher, answer writer, editor, or student-answer author in this stage.** Do not create a new final answer from general knowledge. Do not paraphrase a source answer and present it as that source's words.
+
+### 23.3 Exact distinction between one-mark questions and all other questions
+
+#### A. One-mark / one-word / objective questions (including MCQs)
+
+For these questions only, record:
+
+- **சரியான விடை / சரியான தெரிவு:** exact answer or option code + answer text.
+- **💡 காரண விளக்கம்:** a short explanation, normally 1–2 lines, only for this one-mark/objective category.
+- **Sources:** direct answer-page links and separate source answer records.
+
+Use a reason supplied by a relevant source when available. If a short reason must be independently written because the sources provide none, label it explicitly as an extractor-written note; do not claim that it came from a website. Do not invent a reason unsupported by the lesson / a reliable source.
+
+Do **not** create the three student-answer tiers for one-mark objective questions.
+
+#### B. குறுவினா / சிறுவினா / நெடுவினா / other non-objective questions
+
+For every such question, create **only empty placeholders** for the user's later workflow:
+
+- 🔑 **விடைக்குறிப்பு (Key Points):** placeholder only. In the later preparation stage this means a very short marking-key / scoring-key list: only the essential words or phrases that would earn the mark. It is not a paragraph or a mini-answer.
+- 📝 **சாதாரண விடை (Ordinary / Model Answer):** placeholder only. In the later preparation stage this means the ordinary student exam-writing format, following the relevant question's mark allocation and the natural answer pattern used by trusted guide sources (for example, a concise answer of the length appropriate to that question). The extractor must not write it now.
+- 📖 **விரிவான விடை (Detailed Answer):** placeholder only. In the later preparation stage this may add roughly two or three useful, source-supported points beyond the ordinary answer, only where the question warrants it. The extractor must not write it now.
+
+The extractor must leave all three fields blank / marked `TO_BE_PREPARED_LATER`. **Do not fill, compare, synthesize, rewrite, or polish any of these three tiers.** The user will have Antigravity / another workflow compare the source material and prepare them later.
+
+### 23.4 Source records must remain separate from the three placeholders
+
+For each non-objective question, place source research **after** the three empty placeholders, using a separate block for each source:
+
+- Source name and publisher/site.
+- Direct answer-page URL.
+- Page title / date / edition / syllabus context, if available.
+- Whether the source question matches the exact question in `questions.md`.
+- Source answer record / permitted short extract.
+- Source-specific note only when a material wording difference, missing sub-question, or conflict exists.
+
+Keep Source 1, Source 2, Source 3, etc. separate. If one source gives a paragraph and another gives bullets, record that difference; do not combine them. A source must not be listed as supporting an answer when the specific answer is absent from the opened page.
+
+### 23.5 Required compact output layout
+
+**One-mark / objective:**
+
+```markdown
+### [Question ID]. [Original question]
+
+**சரியான விடை:** [Option / answer]
+
+**💡 காரண விளக்கம்:** [Only a concise, supported reason]
+
+**Sources**
+- **S1 — [Source]:** [Direct URL] — [Source answer / short extract]
+- **S2 — [Source]:** [Direct URL] — [Source answer / short extract]
+```
+
+**Non-objective question:**
+
+```markdown
+### [Question ID]. [Original question]
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+#### 🔗 Source Extraction
+**S1 — [Source name]**
+- Direct URL:
+- Question match:
+- Source answer / permitted extract:
+
+**S2 — [Source name]**
+- Direct URL:
+- Question match:
+- Source answer / permitted extract:
+```
+
+Do not insert the extractor's conversational explanation between questions. Add a short **QC Note** only when an important issue must not be missed, for example a source's question wording differs from `questions.md`, the source gives contradictory answers, or a page could not be opened. Keep such notes outside the source answer.
+
+### 23.6 Strictly prohibited in the extraction stage
+
+- No assistant-written ordinary answer.
+- No assistant-written detailed answer.
+- No assistant-written key points / scoring keywords.
+- No rephrasing of a website answer and labelling it as verbatim.
+- No reasoning for 2-mark, 4-mark, 5-mark, 8-mark, short-answer or essay questions.
+- No extra lesson explanation, teaching notes, introductions, conclusions, or filler.
+- No selecting one conflicting answer without recording the conflict and the evidence.
+- No filling gaps from memory, general knowledge, or guesswork.
+- No editing the original `questions.md` to make it match an older answer website.
+
+### 23.7 Source fidelity and copyright boundary
+
+Preserve source wording faithfully in the material actually quoted. Do not falsely label a summary as a verbatim copy. Long third-party guide answers may be copyrighted: where a full verbatim reproduction is not permitted, retain the direct source link and a short identifying extract (within applicable quotation limits), then state that the full answer is available at the source page. The extractor must not evade this limit by copying the full answer in fragments.
+
+### 23.8 Completion and handoff
+
+The extraction stage is complete when every original question has:
+- the appropriate one-mark format or the three empty non-objective placeholders;
+- one or more actually checked direct source records, or an explicit `ANSWER_NOT_FOUND` / `SOURCE_UNAVAILABLE` status;
+- clear `CONFLICT`, `QUESTION_MISMATCH`, or `REVIEW_REQUIRED` notes where needed;
+- no assistant-created student answer tier.
+
+Only after this extraction handoff does the user arrange the separate comparison / 3-tier preparation workflow. The user will handle removal of temporary GitHub working material after collecting what is needed.
