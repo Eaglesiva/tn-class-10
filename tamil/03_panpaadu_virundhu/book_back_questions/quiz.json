@@ -20,6 +20,26 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
+    "id": "10_tam_u3_q2",
+    "question": "\"சிலம்பு அடைந்திருந்த பாக்கம் எய்தி\" என்னும் அடியில் பாக்கம் என்பது-",
+    "options": [
+      "புத்தூர்",
+      "மூதூர்",
+      "பேரூர்",
+      "சிற்றூர்"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23) இந்த வினாவிற்கு “சிற்றூர்” என விடை குறிக்கிறது. அச்சுப் பாடநூலில் இதே நான்கு தெரிவுகள் உள்ளன; questions.md வரிசையில் “சிற்றூர்” என்பது தெரிவு ஈ.",
+    "sourceUrl": "https://mytamil.in/pdf/em/10/xslch2023.pdf",
+    "sourceName": "பள்ளிக்கல்வித்துறை — சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலர், 10ஆம் வகுப்பு கற்றல் கையேடு",
+    "additionalSourceUrls": [
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf",
+      "https://www.padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf"
+    ],
+    "verificationStatus": "ANSWER_FOUND_OFFICIAL_SCHOOL_EDUCATION_GUIDE",
+    "explanationSourceUrl": "https://mytamil.in/pdf/em/10/xslch2023.pdf"
+  },
+  {
     "id": "10_tam_u3_q3",
     "question": "அறிஞருக்கு நூல், அறிஞதைு நூல் ஆகிய சொற்றொடர்களில் பொருளை வேறுபடுத்தக் காரணமாக அமைவது –",
     "options": [

@@ -1,7 +1,7 @@
 # 10-ஆம் வகுப்பு தமிழ் — இயல் 3: கூட்டாஞ்சோறு
 ## Verified Book Back Objective Quiz
 
-> Source of question wording and option order: `questions.md` (read-only). Four source-verified MCQs are included. Q2 is withheld because references conflict.
+> Source of question wording and option order: `questions.md` (read-only). All 5 Book Back MCQs are included. Q2 is confirmed by the school education department learning guide.
 
 ### வினா 1
 பின்வருவனவற்றுள் முறையான தொடர் -
@@ -16,6 +16,22 @@
 **காரண விளக்கம்:** சொற்கள் பொருள் மற்றும் இலக்கண ஒழுங்குடன் அமைந்துள்ள சரியான தொடர் இதுவாகும்.
 
 **விடை ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/) · [GreenTamil — இயல் 3 திறன் அறிவோம்](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html) · [BrainKart — இயல் 3 முழு Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11824/)
+
+---
+
+### வினா 2
+"சிலம்பு அடைந்திருந்த பாக்கம் எய்தி" என்னும் அடியில் பாக்கம் என்பது-
+
+- அ) புத்தூர்
+- ஆ) மூதூர்
+- இ) பேரூர்
+- ஈ) சிற்றூர்
+
+**சரியான விடை:** ஈ) சிற்றூர்
+
+**காரண விளக்கம்:** சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23) இந்த வினாவிற்கு “சிற்றூர்” என்று நேரடியாக விடை குறிக்கிறது.
+
+**விடை ஆதாரம்:** [பள்ளிக்கல்வித்துறை கற்றல் கையேடு — பக்கம் 9](https://mytamil.in/pdf/em/10/xslch2023.pdf) · [தமிழ்நாடு அரசு / SCERT பாடநூல் PDF mirror — வினா மற்றும் தெரிவுகள்](https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf)
 
 ---
 

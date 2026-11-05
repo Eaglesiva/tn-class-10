@@ -198,6 +198,7 @@
 
 **Source-ல் காணப்பட்ட விடைகள்:**
 - S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — **இ) எம் + தமிழ் + நா**.
+- S31 — [பள்ளிக்கல்வித்துறை, சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலர் — 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23)](https://mytamil.in/pdf/em/10/xslch2023.pdf) — **இ) எம் + தமிழ் + நா** (பக்கம் 9).
 - S16 — [OMTEX Classes — தொடர்புடைய தேர்வுத் தாள்](https://www.omtexclasses.com/2025/07/tamil-question-papers-10th-standard-1st_63.html) — **எம் + தமிழ் + நா** எனத் தருகிறது; அதே சொல்லைப் பயன்படுத்திய வேறு தேர்வுத் தாள் — `SAME_ITEM_DIFFERENT_TEST`.
 - S11 — [KalviWorld Official — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) — **என் + தமிழ் + நா** எனத் தருகிறது; இது `questions.md`-இல் உள்ள எந்த option-க்கும் துல்லியமாகப் பொருந்தவில்லை — `OPTION_TEXT_VARIANT; CONFLICT`.
 
@@ -219,6 +220,7 @@
 - S11 — [KalviWorld Official — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) — **இ) கேட்டவர்; பாடிய** எனக் குறிக்கிறது — `CONFLICT`.
 - S17 — [Kalvi Vula](https://kalvivula.blogspot.com/2021/08/10_22.html) — **ஈ) பாடல்; கேட்டவர்** எனக் காட்டும் answer reference.
 - S18 — [SaraNextGen, Lesson 1.5](https://www.saranextgen.com/homeworkhelp/index.php?id=15896) — **ஈ) பாடல்; கேட்டவர்** எனக் காட்டும் answer reference.
+- S31 — [தமிழ்நாடு அரசு / SCERT 10ஆம் வகுப்பு பாடநூல் PDF mirror](https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf) — அசல் கேள்வி மற்றும் தெரிவுகள் (அச்சுப் பக்கம் 19); தொழிற்பெயர், வினையாலணையும் பெயர் வரிசைக்கான reference.
 
 **💡 காரண விளக்கம் (இலக்கண வகை ஆதாரத்துடன்; extractor எழுதிய சுருக்கம்):** `பாடல்` என்பது பாடும் செயலைக் குறிக்கும் தொழிற்பெயர்; `கேட்டவர்` என்பது கேட்ட செயலைச் செய்தவரைக் குறிக்கும் வினையாலணையும் பெயர். ஆகவே கேள்வியில் கேட்ட வரிசை `பாடல்; கேட்டவர்`. இது இலக்கண வகைகளை விளக்கும் extractor குறிப்பு.  
 **காரண விளக்க Source:** S15 — [தமிழ் இணையக் கல்விக்கழகம்: தொழிற்பெயரும் வினையாலணையும் பெயரும்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138).
@@ -235,9 +237,11 @@
 - S9 — [TextBookPDF, Lesson 1.2](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-2/) — **ஆ) மணிவகை**.
 - S10 — [TamilSangamam, இயல் 1 / பாடம் 1.2](https://www.tamilsangamam.in/2022/07/10-1.html) — **ஆ) மணிவகை**.
 - S11 — [KalviWorld Official — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) — **இ) கொழுந்து வகை** எனக் குறிக்கிறது — `CONFLICT`.
+- S31 — [பள்ளிக்கல்வித்துறை, சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலர் — 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23)](https://mytamil.in/pdf/em/10/xslch2023.pdf) — **ஆ) மணி வகை** என நேரடியாக விடைக்குறிப்பு தருகிறது (பக்கம் 6) — `OFFICIAL_DISTRICT_LEARNING_GUIDE_KEY`.
 
-**💡 காரண விளக்கம் (பாடநூல் வகைப்பாடு):** பாடநூலின் “மணிவகை” பகுதியில் வேர்க்கடலை “கடலை” வகையாகவும், மிளகாய் “விதை” வகையாகவும், மா “கொட்டை” வகையாகவும் பட்டியலிடப்பட்டுள்ளன. ஆகவே இவை மணிவகையைச் சேர்ந்தவை.
-**காரண விளக்க Source:** S30 — [10th Tamil Textbook — மணிவகைச் சொற்கள்](https://anyflip.com/xexml/bdim/basic) — மணிவகை வகைப்பாட்டுப் பட்டியல்; mirror source.
+**💡 அதிகாரப்பூர்வக் கற்றல் கையேடு:** சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை கற்றல் கையேடு (2022–23) இந்த வினாவிற்கு **ஆ) மணி வகை** என விடை குறிக்கிறது.
+**முக்கிய QC குறிப்பு:** SCERT பாடநூலின் “தமிழ்ச்சொல் வளம்” அட்டவணையில் `கடலை: வேர்க்கடலை`, `விதை: மிளகாய்`, `கொட்டை: மா` ஆகிய எடுத்துக்காட்டுகள் “குலை வகை” தலைப்பின் கீழ் வருகின்றன (அச்சுப் பக்கம் 6). எனவே அதிகாரப்பூர்வக் கற்றல் கையேட்டின் விடைக்குறிப்பு (`மணி வகை`) மற்றும் பாடநூல் வகைப்பாட்டு எடுத்துக்காட்டுகள் (`குலை வகை`) இடையே முரண்பாடு உள்ளது; இதனை 100% தீர்ந்ததாகக் குறிக்கவில்லை.
+**ஆதாரங்கள்:** [பள்ளிக்கல்வித்துறை கற்றல் கையேடு, பக்கம் 6](https://mytamil.in/pdf/em/10/xslch2023.pdf) · [தமிழ்நாடு அரசு / SCERT 10ஆம் வகுப்பு பாடநூல் PDF mirror, பக்கம் 6](https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf).
 
 ---
 - **Quiz ID:** `10_tam_u1_q5`
@@ -388,7 +392,7 @@
 | MCQ1 | `RESOLVED` | தற்போதைய கேள்வி wording-உடன் பொருந்தும் BrainKart மற்றும் பாடநூல் விளக்க ஆதாரம் option அ-ஐ ஆதரிக்கின்றன; பழைய GreenTamil மாற்றுப் பதிவு கேள்வி/ஆசிரியர் பெயர் wording-ல் வேறுபட்டது. |
 | MCQ3 | `RESOLVED` | BrainKart-ன் நேரடி விடையும் தமிழ் இணையக் கல்விக்கழகத்தின் மகர ஈற்றுப் புணர்ச்சி விதியும் option இ — `எம் + தமிழ் + நா` என்பதை ஆதரிக்கின்றன; KalviWorld-ன் `என்` வடிவம் options-ல் இல்லாத wording variant. |
 | MCQ4 | `RESOLVED` | BrainKart, TNBoardSolutions, FreeTNBooks உள்ளிட்ட நேரடி விடை ஆதாரங்களும் தமிழ் இணையக் கல்விக்கழக இலக்கண விளக்கமும் option ஈ — `பாடல்; கேட்டவர்` என்பதை ஆதரிக்கின்றன. |
-| MCQ5 | `RESOLVED` | BrainKart, TextBookPDF, TamilSangamam மற்றும் பாடநூல் மணிவகை விளக்கம் option ஆ — `மணி வகை` என்பதை ஆதரிக்கின்றன; KalviWorld-ன் option இ பதில் தனித்த முரண்பட்ட பதிவு. |
+| MCQ5 | `OFFICIAL_KEY_VS_TEXTBOOK_CLASSIFICATION_CONFLICT` | மாவட்ட பள்ளிக்கல்வித்துறை கற்றல் கையேடு option ஆ — `மணி வகை` என்கிறது; SCERT பாடநூலில் `கடலை / விதை / கொட்டை` எடுத்துக்காட்டுகள் `குலை வகை` தலைப்பின் கீழ் உள்ளன. இறுதி அதிகாரப்பூர்வத் தெளிவு தேவை. |
 | SQ1 | `QUESTION_MISMATCH` | FreeTNBooks-ல் வேறு சொல் (`பலகை`); மற்ற direct sources `வேங்கை` வினாவை உள்ளடக்குகின்றன. |
 | SHORT3 | `WORDING_VARIANT` | `அறிந்து...` vs source-களில் `அறிந்தது...`. |
 | SHORT4 | `WORDING_VARIANT` | `தமிழகனார்` vs BrainKart-ல் `தமிழழகனார்`. |

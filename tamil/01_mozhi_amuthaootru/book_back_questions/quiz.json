@@ -56,9 +56,10 @@
     "sourceName": "BrainKart — இயல் 1 நேரடி விடைப் பக்கம்",
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
-      "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11807/",
+      "https://mytamil.in/pdf/em/10/xslch2023.pdf"
     ],
-    "verificationStatus": "ANSWER_FOUND",
+    "verificationStatus": "ANSWER_FOUND_OFFICIAL_SCHOOL_EDUCATION_GUIDE",
     "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/"
   },
   {
@@ -77,9 +78,10 @@
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
       "https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356",
-      "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11807/",
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf"
     ],
-    "verificationStatus": "ANSWER_FOUND",
+    "verificationStatus": "ANSWER_FOUND_TEXTBOOK_QUESTION_AND_GRAMMAR_REFERENCE",
     "explanationSourceUrl": "https://www.tamilvu.org/ta/courses-diploma-20052010-bkup-c021-c0212-html-c02124l5-62356"
   },
   {
@@ -92,14 +94,16 @@
       "இலை வகை"
     ],
     "correctOptionIndex": 1,
-    "explanation": "இயல் 1 நேரடி விடைப் பக்கங்களில் சரியான வகை 'மணி வகை' எனக் கொடுக்கப்பட்டுள்ளது.",
+    "explanation": "சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை கற்றல் கையேடு (2022–23) விடையை “மணி வகை” எனக் குறிக்கிறது. ஆனால் SCERT பாடநூலின் சொல்வள அட்டவணையில் கடலை/விதை/கொட்டை எடுத்துக்காட்டுகள் “குலை வகை” தலைப்பின் கீழ் காணப்படுகின்றன; எனவே அதிகாரப்பூர்வ விடைக்குறிப்பு–பாடநூல் வகைப்பாடு முரண்பாடு உள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/",
     "sourceName": "BrainKart — இயல் 1 நேரடி விடைப் பக்கம்",
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
-      "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11807/",
+      "https://mytamil.in/pdf/em/10/xslch2023.pdf",
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf"
     ],
-    "verificationStatus": "ANSWER_FOUND",
-    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/"
+    "verificationStatus": "OFFICIAL_GUIDE_KEY_WITH_TEXTBOOK_CLASSIFICATION_CONFLICT",
+    "explanationSourceUrl": "https://mytamil.in/pdf/em/10/xslch2023.pdf"
   }
 ]

@@ -119,7 +119,9 @@
 - S14 — [VirkozKalvi, கேட்கிறதா என் குரல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/) — ஈ) செய்தி 1, 3 ஆகியன சரி — `ANSWER_REFERENCE`.
 - S4 — [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/) — இதே கேள்வியின் 2025 பாடப்பதிப்பு wording-ல் ஈ) செய்தி 1, 3 — `WORDING_VARIANT`.
 
-**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** இந்தக் கேள்விக்கான திறந்த விடை ஆதாரங்கள் செய்தி 1 மற்றும் 3-ஐச் சரி எனக் குறிக்கின்றன. செய்தி 2-ஐத் தவறு எனக் காட்டும் தனிப்பட்ட புள்ளிவிவர விளக்கம் கிடைக்கவில்லை; கூடுதல் புள்ளிவிவரக் கூற்று சேர்க்கப்படவில்லை.  
+**💡 பாடநூல் அடிப்படையிலான காரணம்:** இயல் 2 “காற்றே வா” பாடப்பகுதியில், உலகக் காற்றாலை மின் உற்பத்தியில் இந்தியா ஐந்தாம் இடம் என்றும், இந்தியாவில் தமிழகம் முதலிடம் வகிக்கிறது என்றும் தரப்பட்டுள்ளது (அச்சுப் பக்கம் 28). எனவே கேள்வியின் செய்தி 2-ல் உள்ள “தமிழகம் இரண்டாமிடம்” என்பது தவறு; செய்தி 1 மற்றும் செய்தி 3 சரி. சரியான விடை **ஈ) செய்தி 1, 3 ஆகியன சரி**.
+**அதிகாரப்பூர்வப் பாடநூல் ஆதாரம்:** [தமிழ்நாடு அரசு / SCERT 10ஆம் வகுப்பு தமிழ் பாடநூல் PDF mirror, பக்கம் 28](https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf).
+**பள்ளிக்கல்வித்துறை விடைக்குறிப்பு:** [சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலர் — 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23), பக்கம் 7](https://mytamil.in/pdf/em/10/xslch2023.pdf) — ஈ) செய்தி 1, 3.  
 **விளக்க ஆதாரம்:** S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/).  
 **விளக்க நிலை:** `ANSWER_SOURCE_CONFIRMS_OPTION; SEPARATE_STATISTICAL_REASON_NOT_FOUND`.
 - **Quiz ID:** `10_tam_u2_q2`

@@ -29,15 +29,17 @@
       "செய்தி 1, 3 ஆகியன சரி"
     ],
     "correctOptionIndex": 3,
-    "explanation": "திறந்த விடை ஆதாரம் செய்தி 1 மற்றும் செய்தி 3-ஐச் சரி எனக் குறிக்கிறது. செய்தி 2-ஐ மறுக்கும் தனிப்பட்ட புள்ளிவிவர விளக்கம் அந்த ஆதாரத்தில் இல்லை; எனவே கூடுதல் புள்ளிவிவரக் கூற்று சேர்க்கப்படவில்லை.",
+    "explanation": "பாடநூலில் உலகக் காற்றாலை மின் உற்பத்தியில் இந்தியா ஐந்தாம் இடம் என்றும், இந்தியாவில் தமிழகம் முதலிடம் என்றும் கூறப்பட்டுள்ளது. ஆகவே தமிழகம் இரண்டாமிடம் எனும் செய்தி 2 தவறு; செய்தி 1 மற்றும் 3 சரி.",
     "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/",
     "sourceName": "VirkozKalvi — இயல் 2, கேட்கிறதா என்குரல்",
     "additionalSourceUrls": [
       "https://www.greentamil.in/2021/06/2_30.html",
-      "https://www.brainkart.in/article/Questions-and-Answers_11815/"
+      "https://www.brainkart.in/article/Questions-and-Answers_11815/",
+      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf",
+      "https://mytamil.in/pdf/em/10/xslch2023.pdf"
     ],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/",
-    "verificationStatus": "ANSWER_FOUND_WITH_EXPLANATION_LIMIT"
+    "explanationSourceUrl": "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf",
+    "verificationStatus": "ANSWER_FOUND_TEXTBOOK_FACT_AND_SCHOOL_EDUCATION_GUIDE"
   },
   {
     "id": "10_tam_u2_q3",

@@ -15,11 +15,13 @@
 - **Quiz ID:** `10_tam_u3_q1`
 
 ### Q2 — “சிலம்பு அடைந்திருந்த பாக்கம் எய்தி”
-- **நிலை:** CONFLICT_REVIEW_REQUIRED — Quiz-ல் சேர்க்கப்படவில்லை.
-- **முரண்படும் விடைகள்:**
-  - பேரூர் — [VirkozKalvi, மலைபடுகடாம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-3/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-3-3/)
-  - சிற்றூர் — [GreenTamil](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html) · [Podhigai Guide PDF](https://padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf)
-- **முடிவு:** ஆதாரங்கள் முரண்படுவதால் எந்த விடையும் தேர்ந்தெடுக்கப்படவில்லை.
+- **சரியான விடை:** ஈ) சிற்றூர்.
+- **அதிகாரப்பூர்வப் பள்ளிக்கல்வித்துறை ஆதாரம்:** [சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலர் — 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23), பக்கம் 9](https://mytamil.in/pdf/em/10/xslch2023.pdf) — “விடை: ஈ) சிற்றூர்” என்று நேரடியாகக் குறிக்கிறது.
+- **பாடநூல் வினா ஆதாரம்:** [தமிழ்நாடு அரசு / SCERT 10ஆம் வகுப்பு பாடநூல் PDF mirror](https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf) — கேள்வி மற்றும் நான்கு தெரிவுகளை உறுதிப்படுத்துகிறது (அச்சுப் பக்கம் 65).
+- **கூடுதல் ஒப்பீட்டு ஆதாரம்:** [பொதிகை தமிழ் உரை — பத்தாம் வகுப்பு, பக்கம் 86](https://www.padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf) — அச்சுப் பதிப்பின் option label மாறினாலும், விடைச் சொல்லான “சிற்றூர்” என்பதை உறுதிப்படுத்துகிறது.
+- **காரணம்:** “பாக்கம்” என்பதற்கான பாடநூல் பொருள் சிற்றூர். questions.md-இன் தற்போதைய தேர்வு வரிசையில் “சிற்றூர்” என்பது தெரிவு ஈ.
+- **நிலை:** ANSWER_FOUND_OFFICIAL_SCHOOL_EDUCATION_GUIDE.
+- **Quiz ID:** 10_tam_u3_q2.
 
 ### Q3 — “அறிஞருக்கு நூல், அறிஞதைு நூல்”
 - **S1 — VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்:** அ) வேற்றுமை உருபு — [VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/)
@@ -48,8 +50,8 @@
 - **Quiz ID:** `10_tam_u3_q5`
 
 ## QC
-- Book Back-ல் உள்ள 5 MCQ-களில் 4 உறுதிப்படுத்தப்பட்ட வினாக்கள் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
-- Q2 ஆதார முரண்பாடு காரணமாக Quiz-ல் நிறுத்தப்பட்டுள்ளது.
+- Book Back-ல் உள்ள 5 MCQ-களும் நான்கு தேர்வுகளுடன் Quiz-ல் உள்ளன.
+- Q2-க்கு பள்ளிக்கல்வித்துறை கற்றல் கையேட்டின் விடை மற்றும் questions.md option வரிசை ஒப்பிட்டு option ஈ) சிற்றூர் உறுதிசெய்யப்பட்டது.
 - `questions.md` மாற்றப்படவில்லை.
 
 ---
