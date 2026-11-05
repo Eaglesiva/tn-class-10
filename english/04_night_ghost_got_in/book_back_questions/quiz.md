@@ -621,3 +621,71 @@ According to the Book Back table, what is the plural form of “hero”?
 **Explanation (extractor-written from cited source):** The Book Back table gives “heroes” as the plural of “hero”.
 
 **Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 37 — Prose L1: Prepositional phrase meanings
+What is the meaning of “due to”?
+
+- a) as a substitute for
+- b) because of
+- c) added to
+- d) with the exception of
+
+**Correct answer:** b) because of
+
+**Explanation (extractor-written from cited source):** “Due to” expresses cause or reason; it means “because of”.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 38 — Prose L1: Prepositional phrase meanings
+What is the meaning of “except for”?
+
+- a) referring to
+- b) in the interest of
+- c) with the exception of
+- d) irrespective of
+
+**Correct answer:** c) with the exception of
+
+**Explanation (extractor-written from cited source):** “Except for” means “with the exception of”.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 39 — Prose L1: Prepositional phrase meanings
+What is the meaning of “with reference to”?
+
+- a) referring to
+- b) added to
+- c) disregarding the difficulty
+- d) as a substitute for
+
+**Correct answer:** a) referring to
+
+**Explanation (extractor-written from cited source):** “With reference to” means “referring to” a subject.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 40 — Prose L1: Prepositional phrase meanings
+What is the meaning of “in spite of”?
+
+- a) because of
+- b) disregarding the difficulty
+- c) in the interest of
+- d) with the exception of
+
+**Correct answer:** b) disregarding the difficulty
+
+**Explanation (extractor-written from cited source):** “In spite of” indicates that an action happens despite a difficulty or obstacle.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
