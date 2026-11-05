@@ -352,12 +352,10 @@
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u4_q12`
 
-#### 3. செல்வன். இளவேலன் இந்தச் சிறுவயதிலேயே விளையாட்டுத்துறையில் சாதனை புரிந்திருக்கிறார்.
-- **Source answer:** திணை வழுவமைதி
-- **காரண விளக்கம்:** ஒரு தனி ஆளைக் குறிக்கும் பெயருடன் மரியாதை உயர்திணைப் பன்மை வினைமுற்று பயன்படுத்தப்பட்டுள்ளது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/) · [Padavelai — இயல் 4.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html)
-- **நிலை:** ANSWER_FOUND
-- **Quiz ID:** `10_tam_u4_q13`
+#### செல்வன் இளவேலன் — source conflict
+- **Source answers:** CBSETamil — திணை வழுவமைதி; Thamizhpozhil / SaranaxtGen — பால் வழுவமைதி.
+- **நிலை:** CONFLICT_REVIEW_REQUIRED — வேறுபாடு தீர்க்கப்படாததால் Quiz-ல் சேர்க்கப்படவில்லை.
+- **ஆதாரங்கள்:** [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-4.html) · [SaranextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15912)
 
 #### சேர்க்கப்படாத வினா
 “சிறிய வயதில் இந்த மரத்தில்தான் ஊஞ்சல் கட்டி விளையாடுவோம்.” — மரபு வழுவமைதி / கால வழுவமைதி என ஆதாரங்கள் வேறுபடுவதால் Quiz-ல் சேர்க்கப்படவில்லை.
