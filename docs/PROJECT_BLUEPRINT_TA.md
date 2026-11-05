@@ -58,7 +58,7 @@ GitHub இந்தப் பணிக்கான Common Working Space. அட�
 | **questions.md** | ஏற்கெனவே Extract செய்த Original Book Back Questions; PDF-உடன் Cross-check |
 | **quiz.md** | மாணவர்களுக்கான வாசிக்க எளிய Quiz |
 | **quiz.json** | Quiz-க்கான Structured Data; quiz.md-க்கு ஒத்த Data |
-| **answers.md** | எல்லா Book Back Questions-க்குமான Source-wise Answer References |
+| **answers.md** | One-mark / Objective வினாக்களின் சரியான விடை + ஆதாரம்; மற்ற வினாக்களுக்கு ஏற்கெனவே உள்ள blank placeholders மற்றும் source links மட்டும் |
 
 Project-level Blueprint மற்றும் Source Research Report மட்டும் Repository Root-ல் தனி docs/ Documentation Folder-ல் இருக்கும். இந்த ஆவணம் அந்த Project-level Document ஆகும்.
 
@@ -308,13 +308,15 @@ Official Textbook Source தான் Edition / Term சரிபார்ப்
 
 GitHub இந்தத் திட்டத்தின் Final Student Website அல்ல. Final Answer Content பின்னர் தனியாக உருவாக்கப்படும்.
 
-### 10.2 Reference vs Final Answer
+### 10.2 Current Answer / Quiz Scope
 
-| Stage | உள்ளடக்கம் | நோக்கம் |
+| பகுதி | தற்போதைய நடைமுறை | நோக்கம் |
 |---|---|---|
-| Research / Reference Stage | பல Website / PDF-களில் கிடைத்த Answer References, Source Links, Page Numbers, Differences | ஒப்பீடு மற்றும் ஆய்வு |
-| Final Answer Stage | பல Reference-களின் தகவலை ஒப்பிட்டு நம்முடைய சொந்த wording-ல் உருவாக்கப்படும் Answer | நம்முடைய சொந்த கல்வி உள்ளடக்கம் |
-| Student-facing Website | இறுதியில் உருவாக்கப்பட்ட சொந்த Answer Guide / Quiz | மாணவர் பயன்பாடு |
+| One-mark / Objective | ஒரு நேரடி Answer Source + Textbook context மூலம் விடையைச் சரிபார்த்து answers.md மற்றும் Quiz-ல் பதிவு | நம்பகமான நான்கு-option Quiz உருவாக்குதல் |
+| குறு / சிறு / நெடு விடைகள் | ஏற்கெனவே உள்ள Source Links மற்றும் காலி placeholders மட்டும்; விடை எழுதவோ கூடுதல் Source தேடவோ வேண்டாம் | பயனர் பின்னர் தனியாகப் பயன்படுத்தும் Reference |
+| Student-facing Quiz | சரிபார்க்கப்பட்ட Objective / One-mark வினாக்கள் மட்டும் | மாணவர் பயன்பாட்டுக்கான Quiz |
+
+பெரிய விடைகளுக்கான சொந்த Answer Guide அல்லது பல Reference-களை ஒப்பிட்டு Final Answer உருவாக்குவது தற்போதைய workflow-இன் scope அல்ல. பயனர் தனியாகக் கேட்டால் மட்டுமே அது புதிய பணியாகத் தொடங்கப்படும்.
 
 ### 10.3 Public Repository-யின் உண்மையான வரம்பு
 
@@ -492,16 +494,17 @@ Class 10 Tamil-க்கு இந்த edition gate முடிந்தத�
 
 ## 17. புதிய Chat / AI-க்கு உடனடி அடுத்த செயல் — 05-11-2026
 
-1. Class 10 Tamil workflow-ஐ முடித்த reference state-ஆக எடுத்துக்கொள்ளவும்: 9 இயல்கள், 134 Quiz JSON records, Unit ↔ Master order / ID / options / correct-index QA செய்யப்பட்டுள்ளன.
-2. அடுத்த Subject **English**. முதலில் English book / medium / edition / chapter structure-ஐ verify செய்யவும்; Tamil edition decision-ஐ English-க்கு பயன்படுத்த வேண்டாம்.
-3. English Chapter-ன் questions.md மற்றும் PDF-ஐ ஒப்பிட்டு One-mark / One-word / Objective வினாக்களை மட்டும் தேர்வு செய்யவும்.
-4. அந்த வினாக்களுக்கான சரியான விடைகளை Direct Answer Source + textbook context மூலம் சரிபார்த்து Quiz உருவாக்கவும்.
-5. English short / long answer கேள்விகளுக்கு existing source links மற்றும் blank placeholders-ஐ மட்டும் வைத்திருக்கவும்; விரிவான விடைகளை எழுத வேண்டாம்.
-6. Unit quiz.md / quiz.json மற்றும் subject Master Quiz-ஐ sync செய்து QA செய்யவும்.
+1. Class 10 Tamil workflow முடிந்த reference state: 9 இயல்கள், 134 Quiz JSON records; Unit ↔ Master order / ID / options / correct-index QA செய்யப்பட்டுள்ளன.
+2. அடுத்த Subject **English**. English book / medium / edition / chapter structure-ஐ தனியாக verify செய்யவும்; Tamil edition decision-ஐ English-க்கு பயன்படுத்த வேண்டாம்.
+3. தற்போதைய GitHub tree audit: English-ல் 21 lesson folders உள்ளன; questions.md இருக்கும் பாடங்கள் 6 (Lessons 1, 7, 10, 13, 16, 19). answers.md மற்றும் quiz.md Lesson 1-ல் மட்டும் உள்ளன; English Lesson 1 quiz.json இல்லை. இவை தற்போதைய repository inventory facts; மீதமுள்ள பாடங்களில் Book Back questions இல்லை என்று இதிலிருந்து முடிவு செய்யக்கூடாது.
+4. முதலில் English Lesson 1-ன் questions.md / quiz.md / answers.md-ஐ PDF-உடன் audit செய்து, தேவையான missing files / quiz.json-ஐ மட்டும் உருவாக்கவும். பிறகு மீதமுள்ள lesson folders-ஐ inventory செய்து ஒவ்வொன்றாகத் தொடரவும்.
+5. One-mark / One-word / Objective வினாக்களின் சரியான விடைகளை Direct Answer Source + textbook context மூலம் சரிபார்த்து, தகுதியானவற்றை நான்கு-option Quiz-ஆக மாற்றவும்.
+6. English short / long answer கேள்விகளுக்கு existing source links மற்றும் blank placeholders-ஐ மட்டும் வைத்திருக்கவும்; விரிவான விடைகளை எழுதவோ புதிய source links தேடவோ வேண்டாம்.
+7. Unit quiz.md / quiz.json மற்றும் English subject Master Quiz-ஐ sync செய்து count / IDs / duplicates / option index QA செய்யவும்.
 
 **Current stop condition:** English book edition / question match உறுதியாகவில்லை என்றால், அந்த uncertainty-ஐ பதிவு செய்து; current edition என்று கூறாமல், source-supported பகுதிகளுக்கு மட்டும் பணியைத் தொடரவும்.
 
-## 18. User Clarification + Cloudflare / Current-Book Verification Update (03-11-2026)
+## 18. Historical User Clarification + Cloudflare / Current-Book Verification Evidence (03-11-2026)
 
 ### 18.1 User's authoritative rule for textbook version
 
@@ -565,7 +568,9 @@ For each supplied book, verify whether it matches the currently used student cop
 - [Padasalai Class 10 2026–27 textbook page](https://www.padasalai.net/2026/05/Tamilnadu-Class-10-Text-Books-PDF-Download-2026-2027.html) separately lists 2026–27 Class 10 Tamil Medium and English Medium textbooks for Tamil, English, Maths, Science and Social Science. This is an index / distribution source, not the Government publisher itself.
 - [CBSE Tamil Class 10 textbook comparison page](https://cbsetamil.com/ncert-tamil-book-for-class-10-pdf/) labels the 2025 Class 10 Tamil book as 184 pages and the 2024 book as 248 pages, and describes the 2025 book as current for 2026–27. This is a secondary comparison source; use the printed book / official distribution evidence as the authority.
 
-### 18.4 Provisional finding — do not use repo Tamil PDF as the current book yet
+### 18.4 Historical provisional finding — SUPERSEDED by Section 22
+
+> **HISTORICAL NOTE — DO NOT FOLLOW AS CURRENT INSTRUCTION:** The warnings and stop instructions below were provisional. Section 22 later records the Official SCERT API exact-file match for the 248-page / 9-Iyal PDF and supersedes this subsection.
 
 There is a **strong structural mismatch**:
 - Repo Tamil: 248 pages and 9 lesson folders.
