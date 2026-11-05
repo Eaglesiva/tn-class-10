@@ -10,6 +10,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u3_q1`
 
 ### Q2 — “சிலம்பு அடைந்திருந்த பாக்கம் எய்தி”
 - **நிலை:** CONFLICT_REVIEW_REQUIRED — Quiz-ல் சேர்க்கப்படவில்லை.
@@ -25,6 +26,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u3_q3`
 
 ### Q4 — காசிக்காண்டம்
 - **S1 — VirkozKalvi — இயல் 3, காசிக்காண்டம்:** இ) காசி நகரத்தின் பெருமையைப் பாடும் நூல் — [VirkozKalvi — இயல் 3, காசிக்காண்டம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/)
@@ -32,6 +34,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/)
 - **விளக்க ஆதாரம்:** அதே பாடப்பகுதி விடை மற்றும் நூல் குறிப்பு.
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u3_q4`
 
 ### Q5 — இன்மையிலும் விருந்து
 - **S1 — VirkozKalvi — இயல் 3, விருந்து போற்றுதும்:** ஆ) இன்மையிலும் விருந்து — [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
@@ -40,6 +43,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u3_q5`
 
 ## QC
 - Book Back-ல் உள்ள 5 MCQ-களில் 4 உறுதிப்படுத்தப்பட்ட வினாக்கள் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
