@@ -451,3 +451,71 @@ What is the figure of speech in “Complaining Street”, “City of Never-Are-S
 - The preposition item containing “As a result of of his hard work” has a duplicated “of” in the source; it is not included in the Quiz because the printed sentence needs direct textbook image verification.
 - The embedded plural-form and Zigzag data tables are not converted because their source content is image-based and not legible in the extracted page text.
 - Non-objective comprehension and paragraph questions remain out of the Quiz.
+
+
+---
+
+### Question 27 — Prose D: Singular and Plural Forms
+What is the plural form of “chair”?
+
+- a) chairs
+- b) chaires
+- c) chair
+- d) chairies
+
+**Correct answer:** a) chairs
+
+**Explanation (extractor-written from cited source):** For the regular noun “chair”, add -s to form the plural “chairs”.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 28 — Prose D: Singular and Plural Forms
+What is the plural form of “box”?
+
+- a) boxs
+- b) boxes
+- c) boxies
+- d) boxen
+
+**Correct answer:** b) boxes
+
+**Explanation (extractor-written from cited source):** Nouns ending in -x usually take -es in the plural: box → boxes.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 29 — Prose D: Singular and Plural Forms
+What is the plural form of “eskimo”?
+
+- a) eskimoes
+- b) eskimos
+- c) eskimo
+- d) eskimes
+
+**Correct answer:** b) eskimos
+
+**Explanation (extractor-written from cited source):** The Book Back table gives “eskimos” as the plural form of “eskimo”.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 30 — Prose D: Singular and Plural Forms
+What is the plural form of “lady”?
+
+- a) ladys
+- b) ladies
+- c) lady's
+- d) ladyes
+
+**Correct answer:** b) ladies
+
+**Explanation (extractor-written from cited source):** For a consonant + y ending, change y to -ies: lady → ladies.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
