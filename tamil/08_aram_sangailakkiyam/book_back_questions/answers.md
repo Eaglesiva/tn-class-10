@@ -41,3 +41,145 @@
 - `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
 - Q3-ன் அசல் வினா “பாராட்டப்படுவோர் யாவர்?” என்பதற்கேற்ப answer options அமைக்கப்பட்டுள்ளன; பழைய Quiz-ல் இருந்த பாடியவர்கள் பற்றிய மாற்று வினா நீக்கப்பட்டது.
 - `questions.md` மாற்றப்படவில்லை.
+
+
+---
+
+## Non-objective Book Back — Answer Source Collection
+
+அசல் வினா உரை/வரிசை questions.md-இல் பாதுகாக்கப்பட்டுள்ளன. கீழுள்ள Section / Q ID-கள் அதே கோப்பிலுள்ள வினாவைக் குறிக்கின்றன; இங்கு மாணவர் விடைகள் உருவாக்கப்படவில்லை.
+
+### II. குறுவினா
+
+#### II. குறுவினா — 1
+**Question reference:** questions.md → II. குறுவினா → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### II. குறுவினா — 2
+**Question reference:** questions.md → II. குறுவினா → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### II. குறுவினா — 3
+**Question reference:** questions.md → II. குறுவினா → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### II. குறுவினா — 4
+**Question reference:** questions.md → II. குறுவினா → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### II. குறுவினா — 5
+**Question reference:** questions.md → II. குறுவினா → வினா 5.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+### III. சிறுவினா
+
+#### III. சிறுவினா — 1
+**Question reference:** questions.md → III. சிறுவினா → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### III. சிறுவினா — 2
+**Question reference:** questions.md → III. சிறுவினா → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### III. சிறுவினா — 3
+**Question reference:** questions.md → III. சிறுவினா → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### III. சிறுவினா — 4
+**Question reference:** questions.md → III. சிறுவினா → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+### IV. நெடுவினா
+
+#### IV. நெடுவினா — 1
+**Question reference:** questions.md → IV. நெடுவினா → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### IV. நெடுவினா — 2
+**Question reference:** questions.md → IV. நெடுவினா → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### IV. நெடுவினா — 3
+**Question reference:** questions.md → IV. நெடுவினா → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+### V. மொழியை ஆள்வோம்
+
+#### V. மொழியை ஆள்வோம் — 1
+**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+### VI. மொழியோடு விளையாடு
+
+#### VI. மொழியோடு விளையாடு — 1
+**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### VI. மொழியோடு விளையாடு — 2
+**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### VI. மொழியோடு விளையாடு — 3
+**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+#### VI. மொழியோடு விளையாடு — 4
+**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+## Source QA — Iyal 8
+- Objective source answers remain in the first part of this file.
+- Non-objective items are traceable by exact section/question number to questions.md; answer tiers remain placeholders.
+- Q&A and language exercise URLs are direct chapter-specific answer pages, not generic indexes.
+- Any missing answer or source wording mismatch must remain flagged; no answer is inferred.
