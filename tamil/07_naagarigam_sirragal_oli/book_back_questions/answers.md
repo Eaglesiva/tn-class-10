@@ -1,0 +1,46 @@
+# 10-ஆம் வகுப்பு தமிழ் — இயல் 7: விதைநெல்
+## Book Back Objective Answer & Source Register
+
+> Scope: `questions.md`-இல் உள்ள I. திறன் அறிவோம் / பலவுள் தெரிக பகுதி மட்டும். கேள்வி உரை மற்றும் option வரிசை மாற்றப்படவில்லை.
+
+### Q1 — அகரவரிசை
+- **சரியான விடை:** இ) உழவு, ஏர், மண், மாடு
+- **காரண விளக்கம்:** தமிழ் அகரவரிசையில் “உ” தொடங்கும் உழவு, “ஏ” தொடங்கும் ஏர் ஆகியவை முதலில் வருகின்றன; “ம” வரிசையில் மண், மாடு என அமைகின்றன.
+- **விடை ஆதாரம்:** [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/) · [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+- **மூல உரை QA:** `questions.md`-இல் “அகவைரிசை” என உள்ளது; ஆதாரங்களில் “அகரவரிசை” என உள்ளது. OCR/எழுத்துப் பிழை சந்தேகம் பதிவு செய்யப்பட்டுள்ளது; மூலக் கோப்பு மாற்றப்படவில்லை.
+
+### Q2 — மாலவன் / வேலவன் குன்றங்கள்
+- **சரியான விடை:** அ) திருப்பதியும் திருத்தணியும்
+- **காரண விளக்கம்:** மாலவன் திருமாலைக் குறிக்கும்; மாலவன் குன்றம் திருப்பதியையும், வேலவன் முருகனைக் குறிக்கும்; வேலவன் குன்றம் திருத்தணியையும் குறிக்கிறது.
+- **விடை ஆதாரம்:** [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/) · [VirkozKalvi — இயல் 7, விதைநெல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-7-1/)
+- **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 7, விதைநெல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-7-1/)
+- **நிலை:** ANSWER_FOUND
+
+### Q3 — மெய்க்கீர்த்தித் தொடர்
+- **சரியான விடை:** ஈ) நெறியோடு நின்று காவல் காப்பவர்
+- **காரண விளக்கம்:** மக்களுக்குத் தந்தை, தாய், மகன் என இருந்த அரசன் அவர்களைப் பாதுகாத்து நெறியுடன் ஆட்சி செய்தவன் என மெய்க்கீர்த்தி உணர்த்துகிறது.
+- **விடை ஆதாரம்:** [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/) · [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **மூல உரை QA:** `questions.md`-இல் “அசைன்”, “மேமப்பட்ட”, “செலவம்”, “பணப்பட்ட” என உள்ள எழுத்துருக்கள் source pages-இல் “அரசன்”, “மேம்பட்ட”, “செல்வம்”, “பண்பட்ட” என உள்ளன. மூலக் கேள்வி மாற்றப்படாமல், OCR/wording variants பதிவு செய்யப்பட்டுள்ளன.
+- **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+
+### Q4 — தும்பைப் பூவைச் சூடிப் போர்
+- **சரியான விடை:** இ) வலிமையை நிலைநாட்டல்
+- **காரண விளக்கம்:** தும்பைத்திணைப் போர் இரு அரசர்களும் தமது வலிமையை நிலைநாட்டுவதற்காக மேற்கொள்ளும் போராக விளக்கப்படுகிறது.
+- **விடை ஆதாரம்:** [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/) · [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **விளக்க ஆதாரம்:** அதே புறத்திணை விடை ஆதாரங்கள்.
+- **மூல உரை QA:** `questions.md`-இல் “அசைர்கள்” என உள்ளது; ஆதாரங்களில் “அரசர்கள்” என உள்ளது. OCR/எழுத்துப் பிழை சந்தேகம் பதிவு செய்யப்பட்டுள்ளது.
+- **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+
+### Q5 — தமிழினத்தை ஒன்றுபடுத்தும் இலக்கியம்
+- **சரியான விடை:** ஈ) சிலப்பதிகாரம்
+- **காரண விளக்கம்:** சேர, சோழ, பாண்டியர் என மூவேந்தர் தொடர்பையும் தமிழர் பண்பாட்டு ஒற்றுமையையும் இணைக்கும் இலக்கியமாக ம.பொ.சி. சிலப்பதிகாரத்தைக் கருதியதாக ஆதாரங்கள் தருகின்றன.
+- **விடை ஆதாரம்:** [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/) · [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html) · [CBSETamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
+- **விளக்க ஆதாரம்:** [CBSETamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
+- **மூல உரை QA:** `questions.md`-இல் option-இல் “கமப்பராமாயணம்” என உள்ளது; source pages-இல் “கம்பராமாயணம்” என உள்ளது. மூல option மாற்றப்படவில்லை.
+- **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+
+## QC
+- `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
+- பல OCR/எழுத்துரு வேறுபாடுகள் source wording உடன் தனியாகக் குறிக்கப்பட்டுள்ளன.
+- `questions.md` மாற்றப்படவில்லை.
