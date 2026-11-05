@@ -331,7 +331,37 @@
 
 ### Quiz conversion — மொழியோடு விளையாடு
 
-இயல் 4-இல் சொற்பெட்டி நிரப்புக ஐந்து வினாக்களுக்கும் நேரடி விடை ஆதாரம் பதிவு செய்யப்பட்டுள்ளது. அவை `quiz.md` / `quiz.json`-ல் நான்கு தேர்வுகளுடன் சேர்க்கப்படுகின்றன.
+#### Q6 — நூலின் பயன் படித்தல் எனில், கல்வியின் பயன். ... ...
+- **S1 — CBSETamil:** கற்றல் — [இயல் 4.5 மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நூலைப் படிப்பது அதன் பயன்; கல்வியின் அடிப்படைப் பயன் கற்றல்.
+- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **Quiz ID:** `10_tam_u4_q6`
+
+#### Q7 — விதைக்குத் தேவை எரு எனில், கதைக்குத் தேவை …… 
+- **S1 — CBSETamil:** கரு — [இயல் 4.5 மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** விதை வளர எரு தேவைப்படுவது போல, கதையின் மையக் கருத்து கரு.
+- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **Quiz ID:** `10_tam_u4_q7`
+
+#### Q8 — கல் சிலை ஆகுமெனில், நெல். ... ... . ஆகும்.
+- **S1 — CBSETamil:** சோறு — [இயல் 4.5 மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நெல்லை அரிசியாக்கிச் சமைத்த உணவு சோறு ஆகிறது.
+- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **Quiz ID:** `10_tam_u4_q8`
+
+#### Q9 — குரலில் இருந்து பேச்சு எனில், விரலில் இருந்து. ... ... .
+- **S1 — CBSETamil:** எழுத்து — [இயல் 4.5 மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** குரல் பேச்சை வெளிப்படுத்துவது போல, விரல்/கை இயக்கம் எழுத்தை உருவாக்குகிறது.
+- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-guide-chapter-4-5/)
+- **Quiz ID:** `10_tam_u4_q9`
+
+#### Q10 — மீன் இருப்பது நீரில்; தேன் இருப்பது. ... ... .
+- **S1 — CBSETamil:** பூவில் — [இயல் 4.5 மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தேன் மலர்களிலிருந்து கிடைப்பதால் பூவில் என்பது பொருந்துகிறது.
+- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
+- **Quiz ID:** `10_tam_u4_q10`
+
+இந்த ஐந்து Book Back நிரப்புக வினாக்களும் source-ல் நேரடியாகக் காணப்பட்ட விடைகளுடன் நான்கு தேர்வுகளாக `quiz.md` / `quiz.json`-ல் சேர்க்கப்பட்டுள்ளன.
 
 
 ### V-1 இலக்கண வகை அடையாளம் — Quiz additions
