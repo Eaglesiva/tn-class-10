@@ -4,8 +4,8 @@
 > Scope: `questions.md`-இல் உள்ள I. திறன் அறிவோம் / பலவுள் தெரிக பகுதி மட்டும். கேள்வி உரை மற்றும் option வரிசை பாதுகாக்கப்பட்டுள்ளன.
 
 ### Q1 — தேம்பாவணி பாடலடிச் சொற்பொருள்
-- **சரியான விடை:** அ) கிளை, துளை
-- **காரண விளக்கம்:** பாடப்பகுதி சொல்லும் பொருளில் “கொம்பு” = கிளை; “புழை” = துளை எனக் கொடுக்கப்பட்டுள்ளது.
+- **சரியான விடை:** இ) காடு, வாட
+- **காரண விளக்கம்:** பாடல் வரியில் வரும் “கான்” = காடு; “தேம்ப” = வாட எனப் பாடநூல் சொல்லும் பொருள் பகுதியில் தரப்பட்டுள்ளது.
 - **விடை ஆதாரம்:** [CBSETamil Textbook PDF — தேம்பாவணி, பாடல் 2401](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf) · [AnyFlip — 10th Tamil textbook pages 201–248](https://anyflip.com/xexml/bdim/basic/201-248) · [TamilVithai — இயல் 9 புதிய வினா](https://www.tamilvithai.com/2023/07/10th-tamil-text-book-2-question-change.html)
 - **விளக்க ஆதாரம்:** [CBSETamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
 - **நிலை:** ANSWER_FOUND
