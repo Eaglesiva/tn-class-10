@@ -58,7 +58,6 @@
 
 **Source links:**
 - [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — வழுவமைதி சார்ந்த விளக்கங்கள் — RELATED_GRAMMAR_SOURCE.
-- [BrainKart — இயல் 4 இலக்கணப் பகுதி](https://www.brainkart.in/article/Grammar--Pothu_11831/) — direct grammar source candidate; page availability/wording must be checked before treating as exact answer — ACCESS_NOT_VERIFIED.
 
 ### V-2. அடைப்புக் குறிக்குள் உள்ளவாறு மாற்றுக.
 அ) தந்தை, "மகனே! நாளை உன்னுடைய தோழன் அழகனை அழைத்து வா?" என்று சொன்னார். (ஆண்பாற்பெயர்களைப் பெண்பால் ஆக மாற்றித் தொடரை எழுதுக.)  
