@@ -540,7 +540,7 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 ### Objective word-bank quiz records — மொழியோடு விளையாடு
 
 #### Q6 — விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….
-- **S1 — BrainKart:** மரம் வீடு / மரவீடு — [இயல் 6 மொழி அறிவு]( https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/ )
+- **S1 — BrainKart:** மரம் வீடு / மரவீடு — [இயல் 6 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
 - **S2 — StudentsGuide360:** மரம் வீடு / மரவீடு — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பறவைகளுக்கு மரம் வாழிடமாகவும், மரம் மனிதர்களுக்கு வீடு கட்டத் தேவையான பொருளாகவும் பயன்படுகிறது.
 - **Quiz ID:** `10_tam_u6_q6`
@@ -564,7 +564,7 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 
 #### Q9 — வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
 - **S1 — StudentsGuide360:** தோற்பவர் / பார்ப்பவர் — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
-- ****WORDING_VARIANT:** BrainKart-ல் பழைய வினா வடிவம் “வாழ்க்கையில் தோற்பவை மீண்டும் வெல்லும்; இதைத் தத்துவமாய்த் தோற்பாவை கூத்து சொல்லும்” என உள்ளது; அது இங்கு உள்ள கேள்வியுடன் ஒன்றல்ல — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
+- **WORDING_VARIANT:**** BrainKart-ல் பழைய வினா வடிவம் “வாழ்க்கையில் தோற்பவை மீண்டும் வெல்லும்; இதைத் தத்துவமாய்த் தோற்பாவை கூத்து சொல்லும்” என உள்ளது; அது இங்கு உள்ள கேள்வியுடன் ஒன்றல்ல — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தோல்வியடைந்தவரும் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதி முயற்சி மேற்கொள்ள வேண்டும் என்பதே வினாவின் பொருத்தமான சொல் இணை.
 - **Quiz ID:** `10_tam_u6_q9`
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
@@ -575,3 +575,40 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் அவருக்கு விருந்தாகவும் உருவகிக்கப்படுகிறது.
 - **Quiz ID:** `10_tam_u6_q10`
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+
+
+### Dictionary lookup — ஒரு சொல் / பொருள் வினாக்கள்
+
+#### Q11 — தால் என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** நாக்கு — [இயல் 6.6 அகராதியில் காண்க](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **S2 — BrainKart:** நாக்கு — [இயல் 6 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நாக்கு என்பது தால் என்பதற்கான அகராதிப் பொருள்.
+- **Quiz ID:** `10_tam_u6_q11`
+- **நிலை:** ANSWER_FOUND
+
+#### Q12 — உழுவை என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** புலி; ஒருவகை மீன்; தும்பிலி — [இயல் 6.6 அகராதியில் காண்க](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** உழுவை என்ற சொல்லுக்கு அகராதி ஆதாரத்தில் புலி, ஒருவகை மீன், தும்பிலி ஆகிய பொருள்கள் தரப்பட்டுள்ளன.
+- **Quiz ID:** `10_tam_u6_q12`
+- **நிலை:** ANSWER_FOUND
+
+#### Q13 — அகவுதல் என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** அழைத்தல்; ஆடல்; கூத்தாடல் — [இயல் 6.6 அகராதியில் காண்க](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **S2 — StudentsGuide360:** அழைத்தல்; ஆடல்; கூத்தாடல் — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அகவுதல் என்பதற்கு அழைத்தல், ஆடல், கூத்தாடல் ஆகிய பொருள்கள் தரப்பட்டுள்ளன.
+- **Quiz ID:** `10_tam_u6_q13`
+- **நிலை:** ANSWER_FOUND
+
+#### Q14 — ஏந்தெழில் என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** மிக்க அழகு; மிக்க வனப்பு — [இயல் 6.6 அகராதியில் காண்க](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** ஏந்தெழில் என்பது மிகுந்த அழகையும் வனப்பையும் குறிக்கும்.
+- **Quiz ID:** `10_tam_u6_q14`
+- **நிலை:** ANSWER_FOUND
+
+#### Q15 — அணிமை என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** சமீபம்; அருகு; நுட்பம்; நுண்மை — [இயல் 6.6 அகராதியில் காண்க](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **S2 — StudentsGuide360:** சமீபம்; அருகு; நுட்பம்; நுண்மை — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அணிமை என்ற சொல்லுக்கு அருகாமை மற்றும் நுண்மை சார்ந்த பொருள்கள் தரப்பட்டுள்ளன.
+- **Quiz ID:** `10_tam_u6_q15`
+- **நிலை:** ANSWER_FOUND
+
