@@ -1,6 +1,6 @@
 # SCERT Master Edition Tracker — 2026–27
 
-**Status:** Catalog Reconciliation in progress (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 30 cloud-updated editions / 9,912 split pages on update branches; Layer 4 diff pending for 38 books / 11,760p; 3 books verified / 840p)  
+**Status:** Catalog Reconciliation & Direct Official Master Refresh Completed for all 38 Pending Books (165 in-scope State Board records tracked; 124 accessible / 41 CDN 403s: 16 officially released Term-II recovery pending, 25 Term-III unconfirmed; 38 books / 11,760 pages refreshed directly from official source on production main; 30 cloud-updated editions / 9,912 split pages on update branches)  
 **Last consolidated:** 2026-11-05 (Asia/Kolkata)  
 **Class 1–8 API snapshot date:** 2026-11-04  
 **Class 9–12 API snapshot date:** 2026-11-05  
@@ -11,7 +11,7 @@ This repository document is the shared navigation and normalized index. Per-clas
 ## 1. Shared files
 
 - [Master Edition Index CSV — 165 in-scope records, Classes 1–12](./SCERT_MASTER_EDITION_INDEX.csv)
-- [Final Master Audit Status — Harmonized Metrics & Layer 4 Diff Register](./FINAL_MASTER_AUDIT_STATUS.md)
+- [Final Master Audit Status — Harmonized Metrics & Official Refresh Register](./FINAL_MASTER_AUDIT_STATUS.md)
 - [Local vs GitHub Artifact Inventory](./LOCAL_VS_GITHUB_ARTIFACT_INVENTORY.md)
 - [Class 9 audit instructions (completed/archive)](./NEXT_AUDIT_CLASS_09_TA.md)
 - [Class 10 audit summary](https://github.com/Eaglesiva/tn-class-10/blob/scert/class-10/audit-2026-27/docs/class_10_audit_summary.md)
