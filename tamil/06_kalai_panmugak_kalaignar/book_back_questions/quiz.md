@@ -138,7 +138,7 @@
 
 **காரண விளக்கம்:** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் விருந்தாகவும் உருவகிக்கப்படுகிறது.
 
-**விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
+**விடை ஆதாரம்:** [StudentsGuide360 — இயல் 6.6](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — கேள்வி உரையுடன் நேரடி பொருத்தம் · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
 
 
 > குறிப்பு: சொற்பெட்டிப் பயிற்சியில் உள்ள இரண்டு வினாக்கள் (மலரிதழ்/வண்டினம்; மலை முகட்டில் மேகம்) source conflict காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
