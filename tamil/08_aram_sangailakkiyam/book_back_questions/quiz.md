@@ -90,3 +90,71 @@
 ## Additional direct source
 [BrainKart — இயல் 8 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11867/)
 [BrainKart — இயல் 8 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/)
+
+
+---
+
+### வினா 6
+ஆசுகவி என்பதன் அகராதிப் பொருள் எது?
+
+- அ) கொடுத்த பொருளை உடனே பாடும் பாட்டு; அப்பாடலைப் பாடும் புலவன்
+- ஆ) இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு
+- இ) சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி
+- ஈ) விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்
+
+**சரியான விடை:** அ) கொடுத்த பொருளை உடனே பாடும் பாட்டு; அப்பாடலைப் பாடும் புலவன்
+
+**காரண விளக்கம்:** ஆசுகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 8.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/) · [SaraNextGen — இயல் 8.5](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions) · [FreeTNBooks — இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+
+
+---
+
+### வினா 7
+மதுரகவி என்பதன் அகராதிப் பொருள் எது?
+
+- அ) இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு
+- ஆ) கொடுத்த பொருளை உடனே பாடும் பாட்டு
+- இ) சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி
+- ஈ) விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்
+
+**சரியான விடை:** அ) இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு
+
+**காரண விளக்கம்:** மதுரகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 8.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/) · [SaraNextGen — இயல் 8.5](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions) · [FreeTNBooks — இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+
+
+---
+
+### வினா 8
+சித்திரகவி என்பதன் அகராதிப் பொருள் எது?
+
+- அ) சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி; 21 நயங்களில் கவிதை இயற்றுபவர்
+- ஆ) கொடுத்த பொருளை உடனே பாடும் பாட்டு
+- இ) இனிமை பெருகப் பாடும் கவி
+- ஈ) விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்
+
+**சரியான விடை:** அ) சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி; 21 நயங்களில் கவிதை இயற்றுபவர்
+
+**காரண விளக்கம்:** சித்திரகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 8.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/) · [SaraNextGen — இயல் 8.5](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions) · [FreeTNBooks — இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+
+
+---
+
+### வினா 9
+வித்தாரகவி என்பதன் அகராதிப் பொருள் எது?
+
+- அ) விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்
+- ஆ) கொடுத்த பொருளை உடனே பாடும் பாட்டு
+- இ) இனிமை பெருகப் பாடும் கவி
+- ஈ) சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி
+
+**சரியான விடை:** அ) விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்
+
+**காரண விளக்கம்:** வித்தாரகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 8.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/) · [SaraNextGen — இயல் 8.5](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions) · [FreeTNBooks — இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
