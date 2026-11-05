@@ -41,3 +41,254 @@
 - 5 Book Back MCQ-களில் 4 உறுதிப்படுத்தப்பட்ட வினாக்கள் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
 - Q2 ஆதார முரண்பாடு காரணமாக Quiz-ல் நிறுத்தப்பட்டுள்ளது.
 - `questions.md` மாற்றப்படவில்லை.
+
+---
+
+## V. இலக்கணம் — வழு, வழாநிலை, வழுவமைதி (பக்கம் 102–104)
+
+### V-1. கீழ்க்காணும் தொடர்களில் வழுவமைதி வகைகளை இனங்கண்டு எழுதுக.
+அ) அமைச்சர் நாளை விழாவிற்கு வருகிறார்.  
+ஆ) "இந்தக் கண்ணன் ஒன்றைச் செய்தான் என்றால் அதை அனைவரும் ஏற்பர்" என்று கூறினான்.  
+இ) சிறிய வயதில் இந்த மரத்தில்தான் ஊஞ்சல் கட்டி விளையாடுவோம்.  
+ஈ) செல்வன். இளவேலன் இந்தச் சிறுவயதிலேயே விளையாட்டுத்துறையில் சாதனை புரிந்திருக்கிறார்.
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — வழுவமைதி சார்ந்த விளக்கங்கள் — RELATED_GRAMMAR_SOURCE.
+- [BrainKart — இயல் 4 இலக்கணப் பகுதி](https://www.brainkart.in/article/Grammar--Pothu_11831/) — direct grammar source candidate; page availability/wording must be checked before treating as exact answer — ACCESS_NOT_VERIFIED.
+
+### V-2. அடைப்புக் குறிக்குள் உள்ளவாறு மாற்றுக.
+அ) தந்தை, "மகனே! நாளை உன்னுடைய தோழன் அழகனை அழைத்து வா?" என்று சொன்னார். (ஆண்பாற்பெயர்களைப் பெண்பால் ஆக மாற்றித் தொடரை எழுதுக.)  
+ஆ) அக்கா நேற்று வீட்டுக்கு வந்தாள். அக்கா புறப்படும்போது அம்மா வழியனுப்பியது. (வழுவை வழாநிலையாக மாற்றுக.)  
+இ) "இதோ முடித்துவிடுவேன்" என்று செயலை முடிக்கும்முன்பே கூறினார். (வழாநிலையை வழுவமைதியாக மாற்றுக.)  
+ஈ) அவன் உன்னிடமும் என்னிடமும் செய்தியை இன்னும் கூறவில்லை. (படர்க்கையை முன்னிலையாக, முன்னிலையைத் தன்மையாக, தன்மையைப் படர்க்கையாக மாற்றுக.)
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — வழு/வழாநிலை/வழுவமைதி மாற்றப் பயிற்சி — RELATED_SOURCE.
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — இயல் இறுதிப் பயிற்சிகள்; V-2 exact answer not located — RELATED_SOURCE.
+
+### V-3. "சீசர் எப்போதும் என் சொல் கேட்பான். புதியவர்களைப் பார்த்துக் குரைப்பானே தவிர கடிக்க மாட்டான்" என்று இளமாறன் தன்னுடைய வளர்ப்பு நாயைப் பற்றிப் பெருமையாகக் கூறினார் - இதில் உள்ள திணை வழுவமைதிகளைத் திருத்தி எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — ஒத்த திணை வழுவமைதி திருத்தப் பயிற்சி; source wording வேறுபடுகிறது — WORDING_VARIANT.
+
+---
+
+## VII. குறுவினா (பக்கம் 103)
+
+### VII-1. வருங்காலத்தில் தேவையெனக் கருதுகின்ற செயற்கை நுண்ணறிவு பொதிந்த இரண்டு அறிவியல் கண்டுபிடிப்புகளைக் குறிப்பிடுக. எ.கா. செயற்கை நுண்ணறிவால் இயங்கும் போக்குவரத்து ஊர்திகள்.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — இதே குறுவினாவிற்கான எடுத்துக்காட்டுகள் — EXACT_MATCH.
+
+### VII-2. வருகின்ற கோடை விடுமுறையில் காற்றாலை மின் உற்பத்தியை நேரில் காண்பதற்கு ஆரளவாய்மொழிக்குச் செல்கிறேன் – இத்தொடர் கால வழுவமைதிக்கு எடுத்துக்காட்டாக அமைவது எவ்வாறு?
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — இதே கால வழுவமைதி வினா — EXACT_MATCH.
+
+### VII-3. மருத்துவத்தில் மருந்துடன் அன்பும் நம்பிக்கையும் ஆற்றும் பாங்கினை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — பெருமாள் திருமொழி தொடர்பான குறுவினா — EXACT_MATCH.
+
+### VII-4. உயிர்கள் உருவாகி வளர ஏற்ற சூழல் பூமியில் எவை எவையெனப் பரிபாடல்வழி அறிந்தவற்றைக் குறிப்பிடுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — பரிபாடல் வழி உயிர்வாழ்வுச் சூழல் வினா — EXACT_MATCH.
+
+---
+
+## VIII. சிறுவினா (பக்கம் 104)
+
+### VIII-1. "மாளாத காதல் நோயாளன் போல்" என்னும் தொடரிலுள்ள உவமை சுட்டும் செய்தியை விளக்குக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — இதே சிறுவினா; பதில் பகுதியில் நீண்ட உரை உள்ளது — EXACT_MATCH.
+
+### VIII-2. இன்றைய அறிவியல் கண்டுபிடிப்புகள் மனிதனை மேம்படுத்துகின்றனவா என்பது குறித்த சிந்தனைகளை முன்வைத்து எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — இதே சிறுவினாவிற்கான பதில் — EXACT_MATCH.
+
+### VIII-3. மனிதர்களின் மூளையைப் போன்றது, செயற்கை நுண்ணறிவு கொண்ட கணினியின் மென்பொருள். மனிதனைப் போலவே பேச, எழுத, சிந்திக்க இத்தொழில்நுட்பம் மேம்படுத்தப்படுகிறது. இதனால் மனிதகுலத்துக்கு ஏற்படுகிற நன்மைகளைப் பற்றி அறிவியல் இதழ் ஒன்றுக்கு 'எதிர்கால தொழில்நுட்பம்' என்ற தலைப்பில் எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — எதிர்காலத் தொழில்நுட்பம் கட்டுரை — EXACT_MATCH.
+
+### VIII-4. நேற்றிரவு பெய்த மழை எல்லாம் தொட்டியை நிறைத்திருந்தது... இப்பத்தியிலுள்ள வழுவமைதிகளைப் பட்டியலிட்டு எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — ஒத்த பசு/கன்று பத்தி மற்றும் வழுவமைதி வகைகள்; கேள்வி wording மாறுபடுகிறது — WORDING_VARIANT.
+
+---
+
+## IX. நெடுவினா (பக்கம் 104)
+
+### IX-1. ஒரு குழந்தையைத் தூக்கவும் கீழே விழுந்த ஒரு தேனீர்க் கோப்பையை எடுக்கவும் மென்பொருள் அக்கறைகொள்ளுமா? வெறும் வணிகத்துடன் நின்றுவிடுமா? இக்கருத்துகளை ஒட்டிச் 'செயற்கை நுண்ணறிவின் எதிர்கால வெளிப்பாடுகள்' பற்றி ஒரு கட்டுரை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — செயற்கை நுண்ணறிவின் எதிர்கால வெளிப்பாடுகள் — EXACT_MATCH.
+
+### IX-2. நம் முன்னோர் அறிவியல் கருத்துகளை இயற்கையுடன் இணைத்துக் கூறுவதாகத் தொடங்குகின்ற பின்வரும் சொற்பொழிவைத் தொடர்ந்து நிறைவு செய்க.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — பரிபாடல், விண்மீன் பாதை, புவி உருவாக்கம் தொடர்பான சொற்பொழிவு — EXACT_MATCH.
+
+### IX-3. "அறிவியலாளர் ஸ்டீபன் ஹாக்கிங்குடன் விண்வெளிப் பயணம்" என்னும் தலைப்பில் கற்பனைக் கதை ஒன்று எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) — ஸ்டீபன் ஹாக்கிங் விண்வெளிப் பயணக் கற்பனைக் கதை — EXACT_MATCH.
+
+---
+
+## X. மொழியை ஆள்வோம் (பக்கம் 105)
+
+### X-1. படித்துச் சுவைக்க — டெபோரா பர்னாந்து கவிதை.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:** கேள்வி/பாட உரை மட்டும்; தனி விடை வினா இல்லை — ANSWER_NOT_APPLICABLE.
+
+### X-2. கொடுக்கப்பட்ட ஆங்கில உரையாடலைத் தமிழில் மொழிபெயர்க்க.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — உரையாடலின் தமிழ் மொழிபெயர்ப்பு — EXACT_MATCH.
+
+### X-3. வல்லின ஒற்றை இட்டும் நீக்கியும் எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — காகம்/பறவைகள் பத்திக்கான திருத்திய வடிவம் — EXACT_MATCH.
+
+---
+
+## XI. மொழியோடு விளையாடு (பக்கம் 106)
+
+### XI-1. கொடுக்கப்பட்டுள்ள இருசொற்களைப் பயன்படுத்தி ஒரு தொடர் அமைக்க.
+அ) இயற்கை - செயற்கை ஆ) கொடு - கோடு இ) கொள் - கோள் ஈ) சிறு - சீறு உ) தான் - தாம் ஊ) விதி – வீதி
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — ஆறு சொல்-இணைகளுக்கான தொடர்கள் — EXACT_MATCH.
+
+### XI-2. புவி உருவாக்கம் பற்றிய பத்தியைப் படித்துப் பதில் தருக.
+1. பத்தியில் உள்ள அடுக்குத்தொடர்களை எடுத்து எழுதுக.  
+2. புவி ஏன் வெள்ளத்தில் மூழ்கியது?  
+3. பெய்த மழை - இத்தொடரை வினைத்தொகையாக மாற்றுக.  
+4. இப்பத்தி உணர்த்தும் அறிவியல் கொள்கை யாது?  
+5. உயிர்கள் வாழ்வதற்கு ஏற்ற சூழலாக நீவிர் கருதுவன யாவை?
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — புவி உருவாக்கப் பத்தி மற்றும் ஐந்து விடைகள் — EXACT_MATCH.
+
+### XI-3. 'விண்வெளியும் கற்பனா சாவ்லாவும்' என்ற தலைப்பில் கட்டுரை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — கற்பனா சாவ்லா கட்டுரை — QUESTION_VARIANT (questions.md title differs: “விண்வெளியும் கற்பனா சாலையும்”).
+
+### XI-4. பாரதியார் பாடலின் நயம் பாராட்டுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — திரண்ட கருத்து, மோனை, எதுகை, அணிநயம் — EXACT_MATCH.
+
+### XI-5. தொடரைப் படித்து விடையைக் கண்டறிக. (சோறு, கற்றல், கரு, பூவில், எழுத்து)
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — ஐந்து தொடர்க் கேள்விகளுக்கான விடைகள் — EXACT_MATCH.
+
+---
+
+## XII. செயல்திட்டம் (பக்கம் 107)
+
+### XII-1. செயற்கை நுண்ணறிவைப் பயன்படுத்தும் வணிக நிறுவனங்கள் மற்றும் ரோபோக்களை உருவாக்கும் நிறுவனங்கள் பற்றிப் படங்களுடன் குறிப்பு எழுதிவருக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source status:** ANSWER_NOT_FOUND — திறந்து சரிபார்க்கப்பட்ட direct answer page-ல் இந்தச் செயல்திட்டத்திற்கான நிறுவனப் பட்டியல்/குறிப்பு கிடைக்கவில்லை. Prompt மட்டும் இருப்பதை answer source எனக் காட்டவில்லை.
+
+---
+
+## XIII. நிற்க அதற்குத் தக (பக்கம் 108)
+
+### XIII-1. தொலைக்காட்சி, திறன்பேசி, காணொலி விளையாட்டுகள், சமூக ஊடகங்களில் மூழ்கியிருப்பவர்களை நடைமுறை உலகில் செயல்பட வைக்க நீங்கள் செய்யும் முயற்சிகளைப் பட்டியலிடுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 4 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11833/) — நடைமுறை உலகில் ஈடுபடுத்தும் நான்கு முயற்சிகள் — EXACT_MATCH.
+
+---
+
+## Source / Edition QA
+- இயல் 4 Book Back தொகுப்பில் இலக்கணம், திறன் அறிவோம் MCQ, குறு/சிறு/நெடு வினா, மொழியை ஆள்வோம், மொழியோடு விளையாடு, செயல்திட்டம், நிற்க அதற்குத் தக ஆகியவை உள்ளன.
+- BrainKart இயல் 4 Q&A page 11832-ல் objective, குறு, சிறு, நெடு வினாக்கள் உள்ளன; மொழி அறிவு page 11833-ல் மொழிபெயர்ப்பு, வல்லினம், பத்தி, கட்டுரை, நயம் பாராட்டு, மொழியோடு விளையாடு, நிற்க அதற்குத் தக ஆகியவற்றுக்கான பதில்கள் உள்ளன.
+- V-3 மற்றும் VIII-4-ல் source wording வேறுபாடு இருப்பதால் exact match எனக் காட்டப்படவில்லை.
+- XI-3 தலைப்பில் questions.md மற்றும் BrainKart இடையே “கற்பனா சாலையும்” / “கல்பனா சாவ்லாவும்” என்ற wording difference உள்ளது.
+- XII செயல்திட்டத்திற்கான விடை source கண்டறியப்படவில்லை.
