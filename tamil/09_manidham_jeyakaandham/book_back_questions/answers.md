@@ -572,3 +572,35 @@
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q21`
 
+
+
+### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 5
+
+#### 1. கீழிருந்து மேல் 9 — முப்பால் பகுப்பு கொண்ட நூல்களுள் ஒன்று (6)
+- **Source answer:** திருக்குறள்
+- **காரண விளக்கம்:** அறம், பொருள், இன்பம் என முப்பாலாகப் பகுக்கப்பட்ட நூல் திருக்குறள்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q22`
+
+#### 2. கீழிருந்து மேல் 13 — மன்னனது உண்மையான புகழை எடுத்துக் கூறுவது (7)
+- **Source answer:** மெய்க்கீர்த்தி
+- **காரண விளக்கம்:** அரசனின் உண்மையான புகழையும் சிறப்புகளையும் எடுத்துரைப்பது மெய்க்கீர்த்தி.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q23`
+
+#### 3. கீழிருந்து மேல் 17 — 96 வகைச் சிற்றிலக்கிய வகைகளுள் ஒன்று (7)
+- **Source answer:** பிள்ளைத்தமிழ்
+- **காரண விளக்கம்:** பிள்ளைத்தமிழ் என்பது 96 வகைச் சிற்றிலக்கியங்களுள் ஒன்றாகும்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q24`
+
+#### 4. கீழிருந்து மேல் 18 — செய்தவம் – இலக்கணக்குறிப்பு (5)
+- **Source answer:** வினைத்தொகை
+- **காரண விளக்கம்:** “செய்தவம்” என்பது காலம் வெளிப்படாத வினைத்தொகை அமைப்பாகும்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q25`
+
