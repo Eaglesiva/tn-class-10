@@ -42,3 +42,196 @@
 - 5 Book Back MCQ-களும் source-wise விடைகளுடன் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
 - Q1-ல் கேள்வி உரை மற்றும் இணைய ஆதார உரைக்கு OCR/wording வேறுபாடு இருப்பது தனியாகக் குறிக்கப்பட்டுள்ளது.
 - `questions.md` மாற்றப்படவில்லை.
+
+
+---
+
+## Non-objective Book Back — Answer Source Collection
+
+அசல் வினா உரை மற்றும் வரிசை questions.md-இல் பாதுகாக்கப்பட்டுள்ளன. கீழே உள்ள Section / Q ID-கள் அந்தக் கோப்பிலுள்ள அதே வினாவைக் குறிக்கின்றன; எந்த விடையும் இங்கு சொந்தமாக எழுதப்படவில்லை.
+
+### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130)
+
+#### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் — 1
+**Question reference:** questions.md → V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் — 2
+**Question reference:** questions.md → V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### VII. குறுவினா (பக்கம் 131-132)
+
+#### VII. குறுவினா — 1
+**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### VII. குறுவினா — 2
+**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### VII. குறுவினா — 3
+**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### VII. குறுவினா — 4
+**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### VIII. சிறுவினா (பக்கம் 132)
+
+#### VIII. சிறுவினா — 1
+**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### VIII. சிறுவினா — 2
+**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### VIII. சிறுவினா — 3
+**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### VIII. சிறுவினா — 4
+**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### IX. நெடுவினா (பக்கம் 132)
+
+#### IX. நெடுவினா — 1
+**Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### IX. நெடுவினா — 2
+**Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### IX. நெடுவினா — 3
+**Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### X. மொழியை ஆள்வோம் (பக்கம் 133)
+
+#### X. மொழியை ஆள்வோம் — 1
+**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### X. மொழியை ஆள்வோம் — 2
+**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### X. மொழியை ஆள்வோம் — 3
+**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### X. மொழியை ஆள்வோம் — 4
+**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### XI. மதிப்புரை எழுதுக (பக்கம் 134)
+**Question reference:** questions.md → XI. மதிப்புரை எழுதுக (பக்கம் 134) → உரைநடை/செயல்பாட்டு வினா.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — section-level answer reference; item-wise exact-match verification status must be checked against the page content.
+
+### XII. மொழியோடு விளையாடு (பக்கம் 135)
+
+#### XII. மொழியோடு விளையாடு — 1
+**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 1.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### XII. மொழியோடு விளையாடு — 2
+**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 2.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### XII. மொழியோடு விளையாடு — 3
+**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 3.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### XII. மொழியோடு விளையாடு — 4
+**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 4.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+#### XII. மொழியோடு விளையாடு — 5
+**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 5.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+
+### XIII. நிற்க அதற்குத் தக (பக்கம் 136)
+**Question reference:** questions.md → XIII. நிற்க அதற்குத் தக (பக்கம் 136) → உரைநடை/செயல்பாட்டு வினா.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — section-level answer reference; item-wise exact-match verification status must be checked against the page content.
+
+## Source QA — Iyal 5
+- Objective answer/source records remain in the first part of this file.
+- Non-objective questions are linked by section and question number to questions.md; three answer tiers remain placeholders.
+- Q&A and language-exercise source pages are direct unit-specific pages, not generic subject indexes.
+- A wording difference or a missing answer must remain marked as a variant / not found; no answer is inferred from a merely related passage.
