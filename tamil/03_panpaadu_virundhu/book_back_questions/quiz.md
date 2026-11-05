@@ -15,7 +15,7 @@
 
 **காரண விளக்கம்:** சொற்கள் பொருள் மற்றும் இலக்கண ஒழுங்குடன் அமைந்துள்ள சரியான தொடர் இதுவாகும்.
 
-**விடை ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/) · [GreenTamil — இயல் 3 திறன் அறிவோம்](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html)
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/) · [GreenTamil — இயல் 3 திறன் அறிவோம்](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html) · [BrainKart — இயல் 3 முழு Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11824/)
 
 ---
 
@@ -47,7 +47,7 @@
 
 **காரண விளக்கம்:** காசி நகரத்தின் பெருமைகளை எடுத்துரைக்கும் நூலாகக் காசிக்காண்டம் குறிப்பிடப்படுகிறது.
 
-**விடை ஆதாரம்:** [VirkozKalvi — இயல் 3, காசிக்காண்டம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/)
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 3, காசிக்காண்டம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/) · [BrainKart — இயல் 3 முழு Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11824/)
 
 ---
 
