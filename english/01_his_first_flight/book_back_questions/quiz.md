@@ -1,7 +1,7 @@
 # Standard 10 English — Unit 1: His First Flight
 ## Verified Book Back Objective Quiz
 
-> Source of the questions: `questions.md` (read-only). Six original four-option questions from The Tempest retain their option order. Objective speaker-identification, modal, rhyme and phrase-completion tasks are converted to four options. All answers are tied to direct unit answer pages.
+> Source of the questions: `questions.md` (read-only). The quiz includes the six original four-option questions from The Tempest, objective speaker-identification, selected single-answer modal items, rhyme and phrase-completion tasks, five Prose D word-form transformations, and the source-confirmed cells from the Prose C Parts of Speech chart. All entries carry an explanation and direct answer source. The two Prose C chart cells with conflicting source forms are excluded and recorded separately in `answers.md`.
 
 
 ---
