@@ -565,7 +565,7 @@
 - **S3 — TamilVithai — இயல் 5:** திருமணம் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **S4 — Padavelai — இயல் 5.5:** திருமணம் — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.
-- **Quiz ID:** `10_tam_u5_q12`
+- **Quiz ID:** `10_tam_u5_q23`
 - **நிலை:** ANSWER_FOUND
 
 #### undefined
@@ -574,7 +574,7 @@
 - **S3 — TamilVithai — இயல் 5:** காலடிக்குறி — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **S4 — Padavelai — இயல் 5.5:** காலடிக்குறி — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.
-- **Quiz ID:** `10_tam_u5_q13`
+- **Quiz ID:** `10_tam_u5_q24`
 - **நிலை:** ANSWER_FOUND
 
 #### undefined
@@ -583,7 +583,7 @@
 - **S3 — TamilVithai — இயல் 5:** அகர வரிசையில் பொருள் தரும் நூல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **S4 — Padavelai — இயல் 5.5:** அகர வரிசையில் பொருள் தரும் நூல் — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.
-- **Quiz ID:** `10_tam_u5_q14`
+- **Quiz ID:** `10_tam_u5_q25`
 - **நிலை:** ANSWER_FOUND
 
 #### undefined
@@ -592,7 +592,7 @@
 - **S3 — TamilVithai — இயல் 5:** மழை / நீர்த்துளி — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **S4 — Padavelai — இயல் 5.5:** மழை / நீர்த்துளி — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.
-- **Quiz ID:** `10_tam_u5_q15`
+- **Quiz ID:** `10_tam_u5_q26`
 - **நிலை:** ANSWER_FOUND
 
 #### undefined
@@ -601,6 +601,6 @@
 - **S3 — TamilVithai — இயல் 5:** மயக்கம் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **S4 — Padavelai — இயல் 5.5:** மயக்கம் — [Padavelai — இயல் 5.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; இங்கு source-களில் பொதுவாகக் காணப்படும் பொருள் மயக்கம்.
-- **Quiz ID:** `10_tam_u5_q16`
+- **Quiz ID:** `10_tam_u5_q27`
 - **நிலை:** ANSWER_FOUND
 
