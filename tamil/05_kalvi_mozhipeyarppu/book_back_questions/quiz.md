@@ -85,3 +85,5 @@
 
 ## Source / Wording QA
 - Q1-ல் `questions.md` “மாபாதை தமிழப்படுத்தும்” என உள்ளது; ஆதாரப் பக்கங்களில் “மாபாரதம் தமிழ்ப்படுத்தும்” என உள்ளது. மூலக் கேள்வி மாற்றப்படாமல், wording variant பதிவு செய்யப்பட்டுள்ளது.
+
+[BrainKart — இயல் 5 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
