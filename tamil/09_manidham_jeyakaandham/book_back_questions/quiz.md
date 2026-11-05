@@ -274,9 +274,9 @@ __________ என்பது புறத்திணைகளுள் ஒன�
 
 **சரியான விடை:** அ) கைக்கிளை
 
-**காரண விளக்கம்:** புறப்பொருள் வெண்பாமாலை மரபில் புறத்திணை வகைகள் பன்னிரண்டாக விரிவுபடுத்தப்பட்டபோது கைக்கிளையும் சேர்க்கப்படுகிறது; தொல்காப்பியத்தின் அடிப்படை ஏழு புறத்திணைகளில் இது இல்லை.
+**காரண விளக்கம்:** குறுக்கெழுத்துப் போட்டிக்கான நேரடி விடை ஆதாரங்கள் இந்த இடைவெளிக்குக் “கைக்கிளை” எனத் தருகின்றன.
 
-**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/) · [VISTAS Tamil grammar material](https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf)
+**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/) · [BrainKart — இயல் 9 மொழியோடு விளையாடு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/)
 
 
 ---
