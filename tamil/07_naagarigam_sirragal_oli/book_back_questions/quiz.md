@@ -85,3 +85,5 @@
 
 ## Source / Wording QA
 - `questions.md`-இல் “அகவைரிசை”, “அசைன்”, “மேமப்பட்ட”, “செலவம்”, “பணப்பட்ட”, “அசைர்கள்”, “கமப்பராமாயணம்” என உள்ள எழுத்துருக்கள் source pages-இல் திருத்தப்பட்ட வடிவில் உள்ளன. அவை இங்கு மாற்றப்படாமல் அப்படியே வைக்கப்பட்டு, source register-ல் wording variants எனக் குறிக்கப்பட்டுள்ளன.
+
+[BrainKart — இயல் 7 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11860/)
