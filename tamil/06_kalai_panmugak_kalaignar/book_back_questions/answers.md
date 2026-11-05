@@ -544,32 +544,28 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 
 #### 1. விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….
 - **Source answer:** மரம் வீடு / மரவீடு
-- **காரண விளக்கம்:** பறவைகளுக்கு மரம் வாழிடமாகவும், மனிதர்களுக்கு மரம் வீடாகவும் பயன்படுகிறது.
 - **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u6_q6`
 
 #### 2. காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….
-- **Source answer:** அவிழும் / தங்கும்
-- **காரண விளக்கம்:** காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; வண்டுகள் பூக்களில் தங்குகின்றன.
-- **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
-- **நிலை:** ANSWER_FOUND
-- **Quiz ID:** `10_tam_u6_q7`
+- **BrainKart source answer:** அவிழும் / கவிழும் — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
+- **VirkozKalvi / CBSETamil source answer:** அவிழும் / தங்கும் — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **நிலை:** CONFLICT_REVIEW_REQUIRED — source வேறுபாடு காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
 
-#### 3. வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
+#### 3. மலை முகட்டில் மேகம் ………. – அதைப் பார்க்கும் மனங்கள் செல்லத் ……….
+- **BrainKart / Thamizhpozhil source answer:** தங்கும் / தயங்கும் — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-slow-learners-study_12.html)
+- **VirkozKalvi / CBSETamil source answer:** கவிழும் / தயங்கும் — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **நிலை:** CONFLICT_REVIEW_REQUIRED — source வேறுபாடு காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
+
+#### 4. வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
 - **Source answer:** தோற்பவர் / பார்ப்பவர்
-- **காரண விளக்கம்:** தோல்வியடைந்தவர் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதுபவர் முயற்சி மேற்கொள்வர்.
-- **விடை ஆதாரம்:** [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
-- **நிலை:** ANSWER_FOUND
+- **விடை ஆதாரம்:** [Thamizhpozhil — 2025–2026 மெல்லக் கற்போர் விடைகள்](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-slow-learners-study_12.html)
+- **நிலை:** ANSWER_FOUND — questions.md-இன் சொல் வடிவத்துடன் பொருந்துகிறது.
 - **Quiz ID:** `10_tam_u6_q8`
 
-#### 4. கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
+#### 5. கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
 - **Source answer:** விருது / விருந்து
-- **காரண விளக்கம்:** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் விருந்தாகவும் உருவகிக்கப்படுகிறது.
-- **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
+- **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u6_q9`
-
-#### தீர்க்கப்படாத வினா — மலை முகட்டில் மேகம் …
-- **நிலை:** CONFLICT_REVIEW_REQUIRED — BrainKart-ல் “தங்கும்” என்றும் VirkozKalvi / CBSETamil-ல் “கவிழும்” என்றும் விடை வேறுபடுகிறது. தீர்வு கிடைக்கும் வரை Quiz-ல் சேர்க்கப்படவில்லை.
-- **ஆதாரங்கள்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
