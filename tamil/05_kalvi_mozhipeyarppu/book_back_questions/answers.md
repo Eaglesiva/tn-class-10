@@ -524,42 +524,42 @@
 
 ### Objective additions — தொழிற்பெயர் பயன்பாடு மற்றும் அகராதி
 
-#### undefined
+#### நிலத்துக்கு அடியில் கிடைக்கும் ______ யாவும் அரசுக்கே சொந்தம்; நெகிழிப் பொருள்களை மண்ணுக்கு அடியில் _____ — புதையல் / புதைத்தல்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** புதையல் / புதைத்தல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — TamilVithai — இயல் 5:** புதையல் / புதைத்தல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நிலத்துக்கு அடியில் கிடைப்பது புதையல்; பொருள்களை மண்ணுக்குள் இடும் செயல் புதைத்தல்.
 - **Quiz ID:** `10_tam_u5_q7`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### காட்டு விலங்குகளைச் ______ தடை செய்யப்பட்டுள்ளது; செய்த தவறுகளைச் ______ — சுடுதல் / சுட்டல்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** சுடுதல் / சுட்டல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — TamilVithai — இயல் 5:** சுடுதல் / சுட்டல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காட்டு விலங்குகளைச் சுடுதல் தடை; செய்த தவறுகளைச் சுட்டிக்காட்டுதல் திருந்த உதவுகிறது.
 - **Quiz ID:** `10_tam_u5_q8`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### காற்றின் மெல்லிய ______ பூக்களைத் தலையாட்டவைக்கிறது; கைகளின் நேர்த்தியான ______ — தொடுதல் / தொடுத்தல்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** தொடுதல் / தொடுத்தல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — TamilVithai — இயல் 5:** தொடுதல் / தொடுத்தல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காற்றின் மெல்லிய தொடுதல் பூக்களை அசைக்கிறது; கைகளின் நேர்த்தியான தொடுத்தல் பூக்களை மாலையாக்குகிறது.
 - **Quiz ID:** `10_tam_u5_q9`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### பசுமையான _______ஐக் ________ கண்ணுக்கு நல்லது — காட்சி / காணுதல்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** காட்சி / காணுதல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — TamilVithai — இயல் 5:** காட்சி / காணுதல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பசுமையான காட்சி கண்ணுக்கு நல்லது; அதைக் காணுதல் பார்வைக்கு இன்பம் தருகிறது.
 - **Quiz ID:** `10_tam_u5_q10`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### பொதுவாழ்வில் ____ கூடாது; ____இல் அவரை மிஞ்ச ஆள் கிடையாது — நடித்தல் / நடிப்பு
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** நடித்தல் / நடிப்பு — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — TamilVithai — இயல் 5:** நடித்தல் / நடிப்பு — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பொதுவாழ்வில் நடித்தல் கூடாது; நடிப்பில் அவரை மிஞ்ச ஆள் இல்லை.
 - **Quiz ID:** `10_tam_u5_q11`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### மன்றல் — திருமணம்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** திருமணம் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — VirkozKalvi — இயல் 5.5:** திருமணம் — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **S3 — TamilVithai — இயல் 5:** திருமணம் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
@@ -568,7 +568,7 @@
 - **Quiz ID:** `10_tam_u5_q23`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### அடிச்சுவடு — காலடிக்குறி
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** காலடிக்குறி — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — VirkozKalvi — இயல் 5.5:** காலடிக்குறி — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **S3 — TamilVithai — இயல் 5:** காலடிக்குறி — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
@@ -577,7 +577,7 @@
 - **Quiz ID:** `10_tam_u5_q24`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### அகராதி — அகர வரிசையில் பொருள் தரும் நூல்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** அகர வரிசையில் பொருள் தரும் நூல் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — VirkozKalvi — இயல் 5.5:** அகர வரிசையில் பொருள் தரும் நூல் — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **S3 — TamilVithai — இயல் 5:** அகர வரிசையில் பொருள் தரும் நூல் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
@@ -586,7 +586,7 @@
 - **Quiz ID:** `10_tam_u5_q25`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### தூவல் — மழை / நீர்த்துளி
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** மழை / நீர்த்துளி — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — VirkozKalvi — இயல் 5.5:** மழை / நீர்த்துளி — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **S3 — TamilVithai — இயல் 5:** மழை / நீர்த்துளி — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
@@ -595,7 +595,7 @@
 - **Quiz ID:** `10_tam_u5_q26`
 - **நிலை:** ANSWER_FOUND
 
-#### undefined
+#### மருள் — மயக்கம்
 - **S1 — BrainKart — இயல் 5 மொழி அறிவு:** மயக்கம் — [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
 - **S2 — VirkozKalvi — இயல் 5.5:** மயக்கம் — [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **S3 — TamilVithai — இயல் 5:** மயக்கம் — [TamilVithai — இயல் 5](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
