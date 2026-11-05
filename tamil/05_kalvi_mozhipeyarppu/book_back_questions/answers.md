@@ -60,8 +60,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 5 இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [VirkozKalvi — இயல் 5.5 வினா/விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — அதே பயிற்சியின் கேள்வி மற்றும் விடை. [BrainKart — இயல் 5 இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வகைப்பாட்டு இலக்கண விளக்கம்.
+**QC:** ANSWER_FOUND — VirkozKalvi-யில் அதே கற்பவை கற்றபின் வினா மற்றும் விடை நேரடியாக உள்ளது; BrainKart பக்கம் வினா/விடை வகைகளின் இலக்கண விதியை உறுதிப்படுத்துகிறது.
 
 ---
 
@@ -79,8 +79,8 @@
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
-**Source:** [BrainKart — இயல் 5 இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**Source:** [VirkozKalvi — இயல் 5.5 வினா/விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — அதே பயிற்சியின் கேள்வி மற்றும் விடை. [BrainKart — இயல் 5 இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வகைப்பாட்டு இலக்கண விளக்கம்.
+**QC:** ANSWER_FOUND — VirkozKalvi-யில் அதே கற்பவை கற்றபின் வினா மற்றும் விடை நேரடியாக உள்ளது; BrainKart பக்கம் வினா/விடை வகைகளின் இலக்கண விதியை உறுதிப்படுத்துகிறது.
 
 ---
 
