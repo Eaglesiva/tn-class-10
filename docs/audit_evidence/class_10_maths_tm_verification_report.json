@@ -26,7 +26,17 @@
     "moderate_revisions": 292,
     "low_similarity_pages": 28,
     "total_pages_compared": 368,
-    "average_similarity_percentage": 89.08
+    "average_similarity_percentage": 89.08,
+    "visual_review_summary": {
+      "total_flagged_pages_inspected": 29,
+      "visually_equivalent_pages": 2,
+      "ocr_extraction_artifacts": 25,
+      "typographical_revisions": 1,
+      "layout_only_revisions": 1,
+      "genuine_content_differences": 0,
+      "human_review_required_pages": 0,
+      "overall_visual_status": "CURRICULUM_EQUIVALENT_CONFIRMED"
+    }
   },
   "edition_finding": {
     "page_2_imprint_verdict": "CONFIRMED_GITHUB_IS_NEWER",
@@ -2248,7 +2258,11 @@
       "len_gh": 334,
       "reason": "Significant text variation (78.3% text similarity)",
       "sample_off": "கணக்கு பத்தாம் வகுப்பு தமிழ்நாடு அரசு தமிழ்நாடு அரசு விலையில்லாாப் பாாடநூல் வழங்கும் திடடத்தின்கீழ் வெளியிடப்படடது பள்ளிக் கல்வித்துறை தீண்டாமை மனிதநே",
-      "sample_gh": "கணக்கு பத்்ததாம் வகுப்பு தமிழ்்நநாடு அரசு தமிழ்்நநாடு அரசு விலையில்்லலாாப் பாாடநூல் வழங்கும் திட்டத்தின்கீழ் வெளியிடப்பட்டது பள்ளிக் கல்வித்துறை தீண்்"
+      "sample_gh": "கணக்கு பத்்ததாம் வகுப்பு தமிழ்்நநாடு அரசு தமிழ்்நநாடு அரசு விலையில்்லலாாப் பாாடநூல் வழங்கும் திட்டத்தின்கீழ் வெளியிடப்பட்டது பள்ளிக் கல்வித்துறை தீண்்",
+      "visual_status": "LAYOUT_ONLY_REVISION",
+      "pixel_diff_pct": 0.84,
+      "visual_finding": "Cover / Title Page: Minor layout and publisher slugline spacing; identical book title and grade.",
+      "comparison_image": "c10_tm_p001_comparison.png"
     },
     {
       "page": 2,
@@ -2259,7 +2273,11 @@
       "len_gh": 1433,
       "reason": "Page 2 Imprint: GitHub main is 2025 Revised Edition with 1098/14417 helplines; Official portal is 2024 Reprint.",
       "sample_off": "(ii) ெ ச ை ன - 6 0 0 0 0 6 ம ா \u0014 ல \u0012 க \u0010 \u000f \u000e ய \u0010 ஆ ர ா \b ம \u0007 \u0006 \u0005 ப \u000e \u0007 \b \u0014 \u0006 வ ன \u0005 . அைடயா எ\u0010லா\u0005 உைடயா க ற் க க ச ட ற தமிழ்்நநாடு அரசு முதல் பதிப்",
-      "sample_gh": "(ii) ெ ச ை ன - 6 0 0 0 0 6 ம ா \u0014 ல \u0012 க \u0010 \u000f \u000e ய \u0010 ஆ ர ா \b ம \u0007 \u0006 \u0005 ப \u000e \u0007 \b \u0014 \u0006 வ ன \u0005 . அைடயா எ\u0010லா\u0005 உைடயா க ற் க க ச ட ற தமிழ்்நநாடு அரசு முதல் பதிப்"
+      "sample_gh": "(ii) ெ ச ை ன - 6 0 0 0 0 6 ம ா \u0014 ல \u0012 க \u0010 \u000f \u000e ய \u0010 ஆ ர ா \b ம \u0007 \u0006 \u0005 ப \u000e \u0007 \b \u0014 \u0006 வ ன \u0005 . அைடயா எ\u0010லா\u0005 உைடயா க ற் க க ச ட ற தமிழ்்நநாடு அரசு முதல் பதிப்",
+      "visual_status": "TYPOGRAPHICAL_REVISION",
+      "pixel_diff_pct": 4.76,
+      "visual_finding": "Page 2 Imprint: GitHub main is newer 2025 Revised Edition with Government Helplines 1098 & 14417. Official portal is 2024 Reprint.",
+      "comparison_image": "c10_tm_p002_comparison.png"
     },
     {
       "page": 3,
@@ -2281,7 +2299,11 @@
       "len_gh": 1257,
       "reason": "Significant text variation (66.0% text similarity)",
       "sample_off": "கற்றல் விளைவுகள் குறிப்பு சிந்தனைக் களம் முன்னேற்றத்தை ச�ோதித்தல் செயல்பாாடு பயிற்சி பலவுள் தெரிவு வினாக்காக்கள் அலகு பயிற்சி நினைவு கூர்வதற்கான கருத்",
-      "sample_gh": "கற்்றல் விளைவுகள் குறிப்பு சிந்்தனைக் களம் முன்்னனேற்்றத்்ததை சோ�ோதித்்தல் செயல்்பபாாடு பயிற்சி பலவுள் தெரிவு வினாாக்கள் அலகு பயிற்சி நினைவு கூர்்வததற"
+      "sample_gh": "கற்்றல் விளைவுகள் குறிப்பு சிந்்தனைக் களம் முன்்னனேற்்றத்்ததை சோ�ோதித்்தல் செயல்்பபாாடு பயிற்சி பலவுள் தெரிவு வினாாக்கள் அலகு பயிற்சி நினைவு கூர்்வததற",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.8,
+      "visual_finding": "Visually identical layout (0.80% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p004_comparison.png"
     },
     {
       "page": 5,
@@ -2611,7 +2633,11 @@
       "len_gh": 2121,
       "reason": "Significant text variation (79.2% text similarity)",
       "sample_off": "28 10 ஆம் வகுப்பு - கணிதம் எண்ணிற்குக் க�ொடுக்கப்பட்ட சங்கேதத எண் எனவும் க�ொள்கள்க. இங்கு a A Î , b B Î மற்றும் c C Î . இதை c g b g f a = = ( ) ( ( ))",
-      "sample_gh": "28 10 ஆம் வகுப்பு - கணிதம் எண்ணிற்குக் கொ�ொடுக்கப்்பட்்ட சங்்ககேதத எண் எனவும் கொ�ொள்க. இங்கு a A Î , b B Î மற்றும் c C Î . இதை c g b g f a = = ( ) ( ("
+      "sample_gh": "28 10 ஆம் வகுப்பு - கணிதம் எண்ணிற்குக் கொ�ொடுக்கப்்பட்்ட சங்்ககேதத எண் எனவும் கொ�ொள்க. இங்கு a A Î , b B Î மற்றும் c C Î . இதை c g b g f a = = ( ) ( (",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.01,
+      "visual_finding": "Visually identical layout (1.01% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p034_comparison.png"
     },
     {
       "page": 35,
@@ -2710,7 +2736,11 @@
       "len_gh": 2867,
       "reason": "Significant text variation (74.4% text similarity)",
       "sample_off": "37 எண்களும் தEொடர்வரிசைககளும் கற்றல் விளைவுகள் z z யூக்ளிடின் வகுத்தல் துணைத் தேற்றக் கருத்தை அறிததல். z z யூக்ளிடின் வகுத்தல் வழிமுறைய ைப் புரிந்து க",
-      "sample_gh": "37 எண்்களும் தொEொடர்்வரிசைககளும் கற்்றல் விளைவுகள் z யூக்ளிடின் வகுத்்தல் துணைத் தேற்்றக் கருத்்ததை அறிததல். z யூக்ளிடின் வகுத்்தல் வழிமுறைய ைப் புரிந"
+      "sample_gh": "37 எண்்களும் தொEொடர்்வரிசைககளும் கற்்றல் விளைவுகள் z யூக்ளிடின் வகுத்்தல் துணைத் தேற்்றக் கருத்்ததை அறிததல். z யூக்ளிடின் வகுத்்தல் வழிமுறைய ைப் புரிந",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.37,
+      "visual_finding": "Visually identical layout (1.37% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p043_comparison.png"
     },
     {
       "page": 44,
@@ -3249,7 +3279,11 @@
       "len_gh": 2420,
       "reason": "Significant text variation (74.4% text similarity)",
       "sample_off": "86 அன்றைய வெனிஸ் குடியரசைச் சேர்ந்த நிக்கோலா பHோண்டனா டார்டாகிலியா ஓர் இத்தாலியக் கணிதத மேதையாவார். இவர் பHொறியாளர், நில அளவீட்டாளர் மற்றும் புத்தகக் ",
-      "sample_gh": "86 அன்்றறைய வெனிஸ் குடியரசைச் சேர்்ந்்த நிக்கோலா போHோண்்டனா டார்்டடாகிலியா ஓர் இத்்ததாலியக் கணிதத மேதையாவார். இவர் பொHொறியாளர், நில அளவீட்்டடாளர் மற்ற"
+      "sample_gh": "86 அன்்றறைய வெனிஸ் குடியரசைச் சேர்்ந்்த நிக்கோலா போHோண்்டனா டார்்டடாகிலியா ஓர் இத்்ததாலியக் கணிதத மேதையாவார். இவர் பொHொறியாளர், நில அளவீட்்டடாளர் மற்ற",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.06,
+      "visual_finding": "Visually identical layout (1.06% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p092_comparison.png"
     },
     {
       "page": 93,
@@ -3586,7 +3620,11 @@
       "len_gh": 2269,
       "reason": "Significant text variation (69.7% text similarity)",
       "sample_off": "117 இயற்கணிதம் 3.6.5 இருபடிச் சமமன்பாடுகள் சார்ந்த கணக்குகளுக்குத் தீர்வு காணுதல் (Solving Problems Involving Quadratic Equations) சமமன்பாட்டைத் தீர்க",
-      "sample_gh": "117 இயற்்கணிதம் 3.6.5 இருபடிச் சமமன்்பபாடுகள் சார்்ந்்த்த கணக்குகளுக்கு் தீர்வு காணுதல் (Solving Problems Involving Quadratic Equations) சமமன்்பபாட்்ட"
+      "sample_gh": "117 இயற்்கணிதம் 3.6.5 இருபடிச் சமமன்்பபாடுகள் சார்்ந்்த்த கணக்குகளுக்கு் தீர்வு காணுதல் (Solving Problems Involving Quadratic Equations) சமமன்்பபாட்்ட",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.06,
+      "visual_finding": "Visually identical layout (1.06% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p123_comparison.png"
     },
     {
       "page": 124,
@@ -3685,7 +3723,11 @@
       "len_gh": 2554,
       "reason": "Significant text variation (78.1% text similarity)",
       "sample_off": "126 10 ஆம் வகுப்பு - கணிதம் எனவே, 1 2 3 4 5 ... 200 400 600 800 1000 = = = = = எனவே, இத்தகைய மாறுபடும் விகிததத்தையே நேர் மாறுபாடு என்கிற�ோம். இங்கு வி",
-      "sample_gh": "126 10 ஆம் வகுப்பு - கணிதம் எனவே, 1 2 3 4 5 ... 200 400 600 800 1000 = = = = = எனவே, இத்்தகைய மாறுபடும் விகிததத்்ததையே நேர் மாறுபாடு என்கிறோ�ோம். இங்க"
+      "sample_gh": "126 10 ஆம் வகுப்பு - கணிதம் எனவே, 1 2 3 4 5 ... 200 400 600 800 1000 = = = = = எனவே, இத்்தகைய மாறுபடும் விகிததத்்ததையே நேர் மாறுபாடு என்கிறோ�ோம். இங்க",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.65,
+      "visual_finding": "Visually identical layout (0.65% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p132_comparison.png"
     },
     {
       "page": 133,
@@ -3718,7 +3760,11 @@
       "len_gh": 1434,
       "reason": "Significant text variation (78.8% text similarity)",
       "sample_off": "129 இயற்கணிதம் இது எதிர்மாறுபாட்டிற்கு ஒரு விளக்கமாகும். இநந்த வரைபடமானது செவ்வக அதிபரவளையம் (Rectangular Hyberbola) என்ற வளைவரையின் ஒரு பகுதியாகும். ",
-      "sample_gh": "129 இயற்்கணிதம் இது எதிர்்மமாறுபாட்டிற்கு ஒரு விளக்்கமாகும். இந்ந்்த வரைபடமா னது செவ்்வக அதிபரவளையம் (Rectangular Hyberbola) என்்ற வளைவரையின் ஒரு பகுத"
+      "sample_gh": "129 இயற்்கணிதம் இது எதிர்்மமாறுபாட்டிற்கு ஒரு விளக்்கமாகும். இந்ந்்த வரைபடமா னது செவ்்வக அதிபரவளையம் (Rectangular Hyberbola) என்்ற வளைவரையின் ஒரு பகுத",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.64,
+      "visual_finding": "Visually identical layout (1.64% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p135_comparison.png"
     },
     {
       "page": 136,
@@ -3740,7 +3786,11 @@
       "len_gh": 2356,
       "reason": "Significant text variation (74.7% text similarity)",
       "sample_off": "131 இயற்கணிதம் பயிற்சி 3.15 1. ஒரு துணிக்கடையானது தத னது வாடிக்கையாளரகளுக்கு வாங்கும் ஒவ்வொரு பHொருளின் மீதும் 50 % தள்ளுபடியை அறிவிக்கிறது. குறித்த வ",
-      "sample_gh": "131 இயற்்கணிதம் பயிற்சி 3.15 1. ஒரு துணிக்்கடையானது தத னது வாடிக்்ககையாளர்களுக்கு வாங்கும் ஒவ்வொரு பொHொருளின் மீதும் 50 % தத ள்ளுபடியை அறிவிக்கிறது. க"
+      "sample_gh": "131 இயற்்கணிதம் பயிற்சி 3.15 1. ஒரு துணிக்்கடையானது தத னது வாடிக்்ககையாளர்களுக்கு வாங்கும் ஒவ்வொரு பொHொருளின் மீதும் 50 % தத ள்ளுபடியை அறிவிக்கிறது. க",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.33,
+      "visual_finding": "Visually identical layout (1.33% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p137_comparison.png"
     },
     {
       "page": 138,
@@ -3839,7 +3889,11 @@
       "len_gh": 2631,
       "reason": "Significant text variation (78.7% text similarity)",
       "sample_off": "140 10 ஆம் வகுப்பு - கணிதம் இங்குக் க�ொடுக்கப்பட்ட நான்கு நபரகளின் பHொருள்கள் நான்கு கிடைமட்டத்திலும், மூன்று செங்குத்து மட்டத்திலும் குறிக்கப்பட்டு ஒ",
-      "sample_gh": "140 10 ஆம் வகுப்பு - கணிதம் இங்குக் கொ�ொடுக்்கப்்பட்்ட நான்கு நபர்களின் பொHொருள்கள் நான்கு கிடைமட்்டத்திலும், மூன்று செங்குத்து மட்்டத்திலும் குறிக்்க"
+      "sample_gh": "140 10 ஆம் வகுப்பு - கணிதம் இங்குக் கொ�ொடுக்்கப்்பட்்ட நான்கு நபர்களின் பொHொருள்கள் நான்கு கிடைமட்்டத்திலும், மூன்று செங்குத்து மட்்டத்திலும் குறிக்்க",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.89,
+      "visual_finding": "Visually identical layout (0.89% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p146_comparison.png"
     },
     {
       "page": 147,
@@ -4136,7 +4190,11 @@
       "len_gh": 1680,
       "reason": "Significant text variation (79.6% text similarity)",
       "sample_off": "167 வடிவியல் 4.2.1 வடிவ�ொத்த முக்கோணஙகள் (Similar triangles) ஒன்பதா ம் வவ குப்பில் சர்வசம முக்கோணத்தைப் பற்றி கற்றோம். ஒரே அளவையும் வவ டிவவ த்தையும் க",
-      "sample_gh": "167 வடிவியல் 4.2.1 வடிவொ�ொத்்த முக்கோணங்கள் (Similar triangles) ஒன்்பதாம் வவ குப்பில் சர்்வசம முக்கோணத்்ததைப் பற்றி கற்றோம். ஒரே அளவையும் வவ டிவவ த்்த"
+      "sample_gh": "167 வடிவியல் 4.2.1 வடிவொ�ொத்்த முக்கோணங்கள் (Similar triangles) ஒன்்பதாம் வவ குப்பில் சர்்வசம முக்கோணத்்ததைப் பற்றி கற்றோம். ஒரே அளவையும் வவ டிவவ த்்த",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.76,
+      "visual_finding": "Visually identical layout (0.76% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p173_comparison.png"
     },
     {
       "page": 174,
@@ -4213,7 +4271,11 @@
       "len_gh": 2032,
       "reason": "Significant text variation (76.3% text similarity)",
       "sample_off": "174 10 ஆம் வகுப்பு - கணிதம் இந்த வரைததல் முறையில் இரு வகை உள்ளன. அதில் ஒன்று, ஒத்த பக்கங்களின் தகவு 1-ஐ விடக் குறைவாகவும், மற்றொன்று ஒத்த பக்கங்களின் ",
-      "sample_gh": "174 10 ஆம் வகுப்பு - கணிதம் இந்்த வரைததல் முறையில் இரு வகை உள்்ளன. அதில் ஒன்று, ஒத்்த பக்்கங்்களின் தகவு 1-ஐ விடக் குறைவாகவும், மற்றொன்று ஒத்்த பக்்கங"
+      "sample_gh": "174 10 ஆம் வகுப்பு - கணிதம் இந்்த வரைததல் முறையில் இரு வகை உள்்ளன. அதில் ஒன்று, ஒத்்த பக்்கங்்களின் தகவு 1-ஐ விடக் குறைவாகவும், மற்றொன்று ஒத்்த பக்்கங",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.31,
+      "visual_finding": "Visually identical layout (1.31% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p180_comparison.png"
     },
     {
       "page": 181,
@@ -4708,7 +4770,11 @@
       "len_gh": 2217,
       "reason": "Significant text variation (78.3% text similarity)",
       "sample_off": "219 ஆயத்தொலை வடிவியல் A(–4,–8) B(8,–4) C(6,10) D(–10,6) E(–3,–5) F(6,–2) G(3,7) H(–6,4) 9. நாறகர வடிவ நீச்சல் குளத்தின் கான்கிரீட் உள்முற்றமானது படடத்",
-      "sample_gh": "219 ஆயத்தொலை வடிவியல் A(–4,–8) B(8,–4) C(6,10) D(–10,6) E(–3,–5) F(6,–2) G(3,7) H(–6,4) 9. நாற்கர வடிவ நீச்சல் குளத்தின் கான்கிரீட் உள்முற்்றமானது படட"
+      "sample_gh": "219 ஆயத்தொலை வடிவியல் A(–4,–8) B(8,–4) C(6,10) D(–10,6) E(–3,–5) F(6,–2) G(3,7) H(–6,4) 9. நாற்கர வடிவ நீச்சல் குளத்தின் கான்கிரீட் உள்முற்்றமானது படட",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.96,
+      "visual_finding": "Visually identical layout (0.96% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p225_comparison.png"
     },
     {
       "page": 226,
@@ -4818,7 +4884,11 @@
       "len_gh": 2214,
       "reason": "Significant text variation (76.7% text similarity)",
       "sample_off": "229 ஆயத்தொலை வடிவியல் 5.5.3 Y அச்சுக்கு இணையான நேர்க்கோட்டின் சமன்பாடு (Equation of a Straight line parallel to the Y axis) CD என்ற நேர்க்கோடானது Y அச",
-      "sample_gh": "229 ஆயத்தொலை வடிவியல் 5.5.3 Y அச்சுக்கு இணையான நேர்்கக்்ககோட்டின் சமன்்பபாடு (Equation of a Straight line parallel to the Y axis) CD என்்ற நேர்்கக்்கக"
+      "sample_gh": "229 ஆயத்தொலை வடிவியல் 5.5.3 Y அச்சுக்கு இணையான நேர்்கக்்ககோட்டின் சமன்்பபாடு (Equation of a Straight line parallel to the Y axis) CD என்்ற நேர்்கக்்கக",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.8,
+      "visual_finding": "Visually identical layout (0.80% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p235_comparison.png"
     },
     {
       "page": 236,
@@ -4895,7 +4965,11 @@
       "len_gh": 1564,
       "reason": "Significant text variation (77.9% text similarity)",
       "sample_off": "236 10 ஆம் வகுப்பு - கணிதம் செயல்பாடு 4 l1 மற்றும் l2 என்ற க�ோடுகள் செங்குத்தானவை. க�ோடு l3-யின் சாய்வு 3 எனில், (i) l1 என்ற க�ோட்டின் சமன்பா ட்டைக் க",
-      "sample_gh": "236 10 ஆம் வகுப்பு - கணிதம் செயல்்பபாடு 4 l1 மற்றும் l2 என்்ற கோ�ோடுகள் செங்குத்்ததானவை. கோ�ோடு l3-யின் சாய்வு 3 எனில், (i) l1 என்்ற கோ�ோட்டின் சமன்்ப"
+      "sample_gh": "236 10 ஆம் வகுப்பு - கணிதம் செயல்்பபாடு 4 l1 மற்றும் l2 என்்ற கோ�ோடுகள் செங்குத்்ததானவை. கோ�ோடு l3-யின் சாய்வு 3 எனில், (i) l1 என்்ற கோ�ோட்டின் சமன்்ப",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.05,
+      "visual_finding": "Visually identical layout (1.05% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p242_comparison.png"
     },
     {
       "page": 243,
@@ -5016,7 +5090,11 @@
       "len_gh": 2277,
       "reason": "Significant text variation (75.8% text similarity)",
       "sample_off": "247 முக்கோணவியல் 6 கற்றல் விளைவுகள் z z முக்கோணவியல் விகிதஙகளை நினைவு கூரதல். z z முக்கோணவியல் விகிதஙகளுக்கு இடையேயுள்ள அடிப்படைத் த�ொடர்புகளை நினைவுப",
-      "sample_gh": "247 முக்கோணவியல் 6 கற்்றல் விளைவுகள் z முக்கோணவியல் விகிதங்களை நினைவு கூர்தல். z முக்கோணவியல் விகிதங்களுக்கு இடையேயுள்்ள அடிப்்படைத் தொ�ொடர்புகளை நினை"
+      "sample_gh": "247 முக்கோணவியல் 6 கற்்றல் விளைவுகள் z முக்கோணவியல் விகிதங்களை நினைவு கூர்தல். z முக்கோணவியல் விகிதங்களுக்கு இடையேயுள்்ள அடிப்்படைத் தொ�ொடர்புகளை நினை",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.86,
+      "visual_finding": "Visually identical layout (0.86% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p253_comparison.png"
     },
     {
       "page": 254,
@@ -5148,7 +5226,11 @@
       "len_gh": 2207,
       "reason": "Significant text variation (73.9% text similarity)",
       "sample_off": "259 முக்கோணவியல் ப�ோன்றவற்றைக் கண்டுபிடிப்பதற்கு முக்கோணவியல் சாரந்த அறிவு பப யன்படுகிறது. இதன்படி உயரஙகளையும், த�ொலைவுகளையும் கண்டறிவதற்கு அன்றாட வாழ",
-      "sample_gh": "259 முக்கோணவியல் போ�ோன்்றவற்்றறைக் கண்டுபிடிப்்பதற்கு முக்கோணவியல் சார்்ந்்த்த அறிவு பப யன்்படுகிறது. இதன்்படி உயரங்களையும், தொ�ொலைவுகளையும் கண்்டறிவத"
+      "sample_gh": "259 முக்கோணவியல் போ�ோன்்றவற்்றறைக் கண்டுபிடிப்்பதற்கு முக்கோணவியல் சார்்ந்்த்த அறிவு பப யன்்படுகிறது. இதன்்படி உயரங்களையும், தொ�ொலைவுகளையும் கண்்டறிவத",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.25,
+      "visual_finding": "Visually identical layout (1.25% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p265_comparison.png"
     },
     {
       "page": 266,
@@ -5192,7 +5274,11 @@
       "len_gh": 1378,
       "reason": "Significant text variation (79.5% text similarity)",
       "sample_off": "263 முக்கோணவியல் tan60° = + AB AC BP ⇒ 3 30 = + h BP ...(1) செங்கோண ∆ ABP-ல், ∠ = ° APB 45 tanq = AB BP tan 45° = 30 BP ⇒ BP = 30 ...(2) (2) -ஐ (1)-ல்",
-      "sample_gh": "263 முக்கோணவியல் tan60° = + AB AC BP ⇒ 3 30 = + h BP ...(1) செங ்கோண ∆ ABP-ல், ∠ = ° APB 45 tanq = AB BP tan 45° = 30 BP ⇒ BP = 30 ...(2) (2) -ஐ (1)-ல"
+      "sample_gh": "263 முக்கோணவியல் tan60° = + AB AC BP ⇒ 3 30 = + h BP ...(1) செங ்கோண ∆ ABP-ல், ∠ = ° APB 45 tanq = AB BP tan 45° = 30 BP ⇒ BP = 30 ...(2) (2) -ஐ (1)-ல",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 3.26,
+      "visual_finding": "Visually identical layout (3.26% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p269_comparison.png"
     },
     {
       "page": 270,
@@ -5335,7 +5421,11 @@
       "len_gh": 1806,
       "reason": "Significant text variation (78.7% text similarity)",
       "sample_off": "276 10 ஆம் வகுப்பு - கணிதம் நினைவில் க�ொள்ளவேண்டியவை z z முக்கோணவியல் விகிதஙகளைக் க�ொண்ட சமன்பாடான து வரை யறுககப்பட்ட க�ோணஙகளின் அனைத்து மதிப்புகளுக்க",
-      "sample_gh": "276 10 ஆம் வகுப்பு - கணிதம் நினைவில் கொ�ொள்்ளவேண்டியவை z முக்கோணவியல் விகிதங்களைக் கொ�ொண்்ட சமன்்பபாடானது வரை யறுக்்கப்்பட்்ட கோ�ோணங்களின் அனைத்து மதி"
+      "sample_gh": "276 10 ஆம் வகுப்பு - கணிதம் நினைவில் கொ�ொள்்ளவேண்டியவை z முக்கோணவியல் விகிதங்களைக் கொ�ொண்்ட சமன்்பபாடானது வரை யறுக்்கப்்பட்்ட கோ�ோணங்களின் அனைத்து மதி",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.82,
+      "visual_finding": "Visually identical layout (0.82% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p282_comparison.png"
     },
     {
       "page": 283,
@@ -5346,7 +5436,11 @@
       "len_gh": 1715,
       "reason": "Significant text variation (75.1% text similarity)",
       "sample_off": "277 கற்றல் விளைவுகள் z z உருளை, கூம்பு, க>ோளம், அரைக்கோளம் மற்றும் இடைக்கண்டம் ஆகியவற்றின் புறப்பரப்பு மற்றும் கன அளவுகளைக் காணுதல். z z இணைநத திணம உர",
-      "sample_gh": "277 கற்்றல் விளைவுகள் z உருளை, கூம்பு, கோ>ோளம், அரைக்கோளம் மற்றும் இடைக்்கண்்டம் ஆகியவற்றின் புறப்்பரப்பு மற்றும் கன அளவுகளைக் காணுதல். z இணைந்த திண்ம"
+      "sample_gh": "277 கற்்றல் விளைவுகள் z உருளை, கூம்பு, கோ>ோளம், அரைக்கோளம் மற்றும் இடைக்்கண்்டம் ஆகியவற்றின் புறப்்பரப்பு மற்றும் கன அளவுகளைக் காணுதல். z இணைந்த திண்ம",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.07,
+      "visual_finding": "Visually identical layout (1.07% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p283_comparison.png"
     },
     {
       "page": 284,
@@ -5478,7 +5572,11 @@
       "len_gh": 1834,
       "reason": "Significant text variation (77.5% text similarity)",
       "sample_off": "289 அளவியல் எனவே, இடைக்கண்டத்தின் வளைபரப்பு = 1 2 (மேல் மற்றும் கீழ் வட்டங்களின் சுற்றள வுகளின் கூடுதல்) × சாயுயரம் = + 1 2 2 2 ( ) p p R r l இடைக்கண்",
-      "sample_gh": "289 அளவியல் எனவே , இடைக்்கண்்டத்தின் வளைபரப்பு = 1 2 (மேல் மற்றும் கீழ் வட்்டங்்களின் சுற்்றளவுகளின் கூடுதல்) × சாயுயரம் = + 1 2 2 2 ( ) p p R r l இடை"
+      "sample_gh": "289 அளவியல் எனவே , இடைக்்கண்்டத்தின் வளைபரப்பு = 1 2 (மேல் மற்றும் கீழ் வட்்டங்்களின் சுற்்றளவுகளின் கூடுதல்) × சாயுயரம் = + 1 2 2 2 ( ) p p R r l இடை",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.83,
+      "visual_finding": "Visually identical layout (0.83% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p295_comparison.png"
     },
     {
       "page": 296,
@@ -5599,7 +5697,11 @@
       "len_gh": 1698,
       "reason": "Significant text variation (72.1% text similarity)",
       "sample_off": "300 10 ஆம் வகுப்பு - கணிதம் எடுத்துக்காட்டு ஒரு கனச்செவ்வகத்தின் மீது அரை உருளை உள்ள வாறு ஒரு நகைப்பெட்டி (படம் 7.39) உள்ள து. கனச் செவ்வகத்தின் பப ரி",
-      "sample_gh": "300 10 ஆம் வகுப்பு - கணிதம் ுக்காட்டு 7.25 ஒரு கனச்்சசெவ்்வகத்தின் மீது அரை உருளை உள்்ளவாறு ஒரு நகைப்்பபெட்டி (படம் 7.39) உள்்ளது. கனச் செவ்்வகத்தின் "
+      "sample_gh": "300 10 ஆம் வகுப்பு - கணிதம் ுக்காட்டு 7.25 ஒரு கனச்்சசெவ்்வகத்தின் மீது அரை உருளை உள்்ளவாறு ஒரு நகைப்்பபெட்டி (படம் 7.39) உள்்ளது. கனச் செவ்்வகத்தின் ",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.74,
+      "visual_finding": "Visually identical layout (0.74% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p306_comparison.png"
     },
     {
       "page": 307,
@@ -5698,7 +5800,11 @@
       "len_gh": 2205,
       "reason": "Significant text variation (76.8% text similarity)",
       "sample_off": "309 கற்றல் விளைவுகள் z மையப் பHோக்கு அளவைகளை நினைவு கூர்தல். z z த�ொகுக்கப்பட்ட, த�ொகுக்கப்படாதத விவரஙகளின் சராசரியைப் பற்றி நினைவு கூர்தல். z z பரவலி",
-      "sample_gh": "309 கற்்றல் விளைவுகள் z மையப் போHோக்கு அளவைகளை நினைவு கூர்்தல். z தொ�ொகுக்கப்்பட்்ட, தொ�ொகுக்கப்்படாதத விவரங்களின் சராசரியைப் பற்றி நினைவு கூர்்தல். z"
+      "sample_gh": "309 கற்்றல் விளைவுகள் z மையப் போHோக்கு அளவைகளை நினைவு கூர்்தல். z தொ�ொகுக்கப்்பட்்ட, தொ�ொகுக்கப்்படாதத விவரங்களின் சராசரியைப் பற்றி நினைவு கூர்்தல். z",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.88,
+      "visual_finding": "Visually identical layout (0.88% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p315_comparison.png"
     },
     {
       "page": 316,
@@ -5709,7 +5815,11 @@
       "len_gh": 2342,
       "reason": "Significant text variation (77.9% text similarity)",
       "sample_off": "10 ஆம் வகுப்பு - கணிதம் 310 புள்ளியியல் என்பது அறிவியல் முறை றைகளைப் பயன்படுத்தித் தத ரவுகளைச் சேகரித்தல், ஒருஙகமைத்தல், த�ொகுத்தல், வழங்குததல், பகுப்",
-      "sample_gh": "10 ஆம் வகுப்பு - கணிதம் 310 புள்ளியியல் என்்பது அறிவியல் முறை றைகளைப் பயன்்படுத்தித் தத ரவுகளைச் சேகரித்்தல், ஒருங்கமைத்்தல், தொ�ொகுத்்தல், வழங்குததல்"
+      "sample_gh": "10 ஆம் வகுப்பு - கணிதம் 310 புள்ளியியல் என்்பது அறிவியல் முறை றைகளைப் பயன்்படுத்தித் தத ரவுகளைச் சேகரித்்தல், ஒருங்கமைத்்தல், தொ�ொகுத்்தல், வழங்குததல்",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.6,
+      "visual_finding": "Visually identical layout (0.60% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p316_comparison.png"
     },
     {
       "page": 317,
@@ -5918,7 +6028,11 @@
       "len_gh": 1682,
       "reason": "Significant text variation (74.6% text similarity)",
       "sample_off": "புள்ளியியலும் நிகழ்தகவும் 329 நிரப்பு நிகழ்ச்சிகள் A-யின் நிரப்பு நிகழ்ச்சியானது A-யில் இல்லாதத மற்ற விளைவு களைக் க�ொண்ட கூறு புள்ளிகள் ஆகும். இதை ¢ A",
-      "sample_gh": "புள்ளியியலும் நிகழ்்தகவும் 329 நிரப்பு நிகழ்ச்சிகள் A-யின் நிரப்பு நிகழ்ச்சியானது A-யில் இல்்லலாதத மற்்ற விளைவு களைக் கொ�ொண்்ட கூறு புள்ளிகள் ஆகும். இ"
+      "sample_gh": "புள்ளியியலும் நிகழ்்தகவும் 329 நிரப்பு நிகழ்ச்சிகள் A-யின் நிரப்பு நிகழ்ச்சியானது A-யில் இல்்லலாதத மற்்ற விளைவு களைக் கொ�ொண்்ட கூறு புள்ளிகள் ஆகும். இ",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.66,
+      "visual_finding": "Visually identical layout (0.66% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p335_comparison.png"
     },
     {
       "page": 336,
@@ -5962,7 +6076,11 @@
       "len_gh": 2308,
       "reason": "Significant text variation (71.5% text similarity)",
       "sample_off": "புள்ளியியலும் நிகழ்தகவும் 333 செயல்பாடு 3 செயல்பாடு 4 மதுவின் வீட்டிலிருந்து அவள் பணியாற்றும் இடத்திற்கு செல்ல மூன்று வழிகள் R1, R2 மற்றும் R3 உள்ளன. ",
-      "sample_gh": "புள்ளியியலும் நிகழ்்தகவும் 333 செயல்்பபாடு 3 செயல்்பபாடு 4 மதுவின் வீட்டிலிருந்து அவள் பணியாற்றும் இடடத்திற்கு செல்ல மூன்று வழிகள் R1, R2 மற்றும் R3 உ"
+      "sample_gh": "புள்ளியியலும் நிகழ்்தகவும் 333 செயல்்பபாடு 3 செயல்்பபாடு 4 மதுவின் வீட்டிலிருந்து அவள் பணியாற்றும் இடடத்திற்கு செல்ல மூன்று வழிகள் R1, R2 மற்றும் R3 உ",
+      "visual_status": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.95,
+      "visual_finding": "Visually identical layout (0.95% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "comparison_image": "c10_tm_p339_comparison.png"
     },
     {
       "page": 340,
@@ -6270,7 +6388,11 @@
       "len_gh": 126,
       "reason": "Significant text variation (53.8% text similarity)",
       "sample_off": "361 குறிப்பு Glossary_X TM.indd 361 12/6/2021 6:14:44 PM",
-      "sample_gh": "361 குறிப்பு 10th_Maths_Glossary_Tamil.indd 361 10th_Maths_Glossary_Tamil.indd 361 12/14/2024 4:12:46 PM 12/14/2024 4:12:46 PM"
+      "sample_gh": "361 குறிப்பு 10th_Maths_Glossary_Tamil.indd 361 10th_Maths_Glossary_Tamil.indd 361 12/14/2024 4:12:46 PM 12/14/2024 4:12:46 PM",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.08,
+      "visual_finding": "Visually equivalent (0.08% pixel diff). Identical mathematical problems, formulas, and diagrams.",
+      "comparison_image": "c10_tm_p367_comparison.png"
     },
     {
       "page": 368,
@@ -6281,7 +6403,11 @@
       "len_gh": 126,
       "reason": "Significant text variation (53.8% text similarity)",
       "sample_off": "362 குறிப்பு Glossary_X TM.indd 362 12/6/2021 6:14:44 PM",
-      "sample_gh": "362 குறிப்பு 10th_Maths_Glossary_Tamil.indd 362 10th_Maths_Glossary_Tamil.indd 362 12/14/2024 4:12:46 PM 12/14/2024 4:12:46 PM"
+      "sample_gh": "362 குறிப்பு 10th_Maths_Glossary_Tamil.indd 362 10th_Maths_Glossary_Tamil.indd 362 12/14/2024 4:12:46 PM 12/14/2024 4:12:46 PM",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.08,
+      "visual_finding": "Visually equivalent (0.08% pixel diff). Identical mathematical problems, formulas, and diagrams.",
+      "comparison_image": "c10_tm_p368_comparison.png"
     }
   ]
 }
