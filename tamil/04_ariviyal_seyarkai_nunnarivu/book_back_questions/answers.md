@@ -377,12 +377,16 @@
 #### 1. அமைச்சர் நாளை விழாவிற்கு வருகிறார்.
 - **S1 — CBSETamil — இயல் 4.5:** கால வழுவமைதி — [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
 - **S2 — Padavelai — இயல் 4.5:** கால வழுவமைதி — [Padavelai — இயல் 4.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited grammar rule):** நாளை என்பது எதிர்கால நேரத்தைக் குறிக்கிறது. ஆனால் “வருகிறார்” என்ற நிகழ்கால வினைமுற்று பயன்படுத்தப்பட்டுள்ளது; வருகை உறுதி என்ற கருத்தால் இது கால வழுவமைதியாக ஏற்கப்படுகிறது.
+- **காரண விளக்க Source:** [BrainKart — வழுவமைதி இலக்கண விளக்கம்](https://www.brainkart.in/article/Grammar--Podhu_11831/) · [TNBoardSolutions — கால வழுவமைதி](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-4-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u4_q11`
 
 #### 2. “இந்தக் கண்ணன் ஒன்றைச் செய்தான் என்றால் அதை அனைவரும் ஏற்பர்” என்று கூறினான்.
 - **S1 — CBSETamil — இயல் 4.5:** இட வழுவமைதி — [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
 - **S2 — Padavelai — இயல் 4.5:** இட வழுவமைதி — [Padavelai — இயல் 4.5](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited grammar rule):** பேசுபவர் தன்னையே “இந்தக் கண்ணன்” என்று பெயரிட்டு, தன்மை இடத்துக்குப் பதிலாகப் படர்க்கை இடத்தில் குறிப்பிடுகிறார். எனவே இது இட வழுவமைதி.
+- **காரண விளக்க Source:** [BrainKart — இட வழுவமைதி விதி](https://www.brainkart.in/article/Grammar--Podhu_11831/) · [TNBoardSolutions — இயல் 4.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-4-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u4_q12`
 
