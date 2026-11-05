@@ -444,3 +444,35 @@
 18. மெய்க்கீர்த்தி — மன்னனின் உண்மையான புகழை எடுத்துரைக்கும் பதிவு.
 19. பிள்ளைத்தமிழ் — 96 வகைச் சிற்றிலக்கியங்களில் ஒன்று.
 20. வினைத்தொகை — “செய்தவம்” என்பதன் இலக்கணக்குறிப்பு.
+
+
+### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 1
+
+#### 1. இடமிருந்து வலம் 1 — சிறுபொழுதின் வகைகளுள் ஒன்று (2)
+- **Source answer:** காலை
+- **காரண விளக்கம்:** ஒரு நாளின் சிறுபொழுதுகளில் காலை ஒன்றாகும்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q6`
+
+#### 2. இடமிருந்து வலம் 2 — நேர் நேர் – வாய்பாடு (2)
+- **Source answer:** தேமா
+- **காரண விளக்கம்:** யாப்பிலக்கணத்தில் இரண்டு நேர் அசைகள் சேர்வது தேமா வாய்பாடு.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q7`
+
+#### 3. இடமிருந்து வலம் 11 — எட்டுத்தொகை நூல்களுள் ஒன்று (5)
+- **Source answer:** கலித்தொகை
+- **காரண விளக்கம்:** கலித்தொகை எட்டுத்தொகை நூல்களில் ஒன்றாகும்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q8`
+
+#### 4. இடமிருந்து வலம் 14 — மக்களே போல்வர் __________ (4)
+- **Source answer:** கயவர்
+- **காரண விளக்கம்:** திருக்குறளில் “மக்களே போல்வர் கயவர்” என்ற தொடர் இடம்பெறுகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q9`
+
