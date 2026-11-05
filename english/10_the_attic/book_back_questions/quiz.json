@@ -1,0 +1,818 @@
+[
+  {
+    "id": "10_eng_u4_q1",
+    "question": "Siva visited the hair stylist to have a clean _______.",
+    "options": [
+      "haircut",
+      "dry cleaning",
+      "alarm clock",
+      "traffic jam"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The direct answer page gives “haircut”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q2",
+    "question": "Tharani had given the sarees for _______.",
+    "options": [
+      "income tax",
+      "dry cleaning",
+      "wallpaper",
+      "waiting room"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The direct answer page gives “dry cleaning”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q3",
+    "question": "The _______ effect is a natural process that warms the earth’s surface.",
+    "options": [
+      "traffic jam",
+      "alarm clock",
+      "greenhouse",
+      "haircut"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The compound expression is “greenhouse effect”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q4",
+    "question": "Never wait for an _______ to wake you up.",
+    "options": [
+      "alarm clock",
+      "income tax",
+      "waiting room",
+      "input"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The direct answer page gives “alarm clock”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q5",
+    "question": "The children were late to school as there was a _______.",
+    "options": [
+      "wallpaper",
+      "traffic jam",
+      "dry cleaning",
+      "ouhouse"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The direct answer page gives “traffic jam”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q6",
+    "question": "Call me _______ you need money. (so that, in order that, in case)",
+    "options": [
+      "so that",
+      "in order that",
+      "in case",
+      "unless"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The direct unit answer gives “in case”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q7",
+    "question": "I forgot _______ I had to meet the Principal. (whether, that, if)",
+    "options": [
+      "whether",
+      "that",
+      "if",
+      "though"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The direct unit answer gives “that”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q8",
+    "question": "_______ he is ninety years old, he is in the pink of health. (when, since, though)",
+    "options": [
+      "when",
+      "since",
+      "though",
+      "because"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The concessive connector is “though”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q9",
+    "question": "It is raining. Take an umbrella _______ you will get drenched. (or else, and, but)",
+    "options": [
+      "or else",
+      "and",
+      "but",
+      "although"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“Or else” introduces the consequence of not taking an umbrella.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q10",
+    "question": "They faced many hardships _______ they are always cheerful. (although, nevertheless, otherwise)",
+    "options": [
+      "although",
+      "nevertheless",
+      "otherwise",
+      "because"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The direct answer gives “nevertheless”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q11",
+    "question": "Both the minister _______ the officers visited the affected areas.",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "than"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The correlative pair is “both … and”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q12",
+    "question": "Jaya teaches not only English _______ Science.",
+    "options": [
+      "or",
+      "but also",
+      "and",
+      "than"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The correlative pair is “not only … but also”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q13",
+    "question": "Either Raghu _______ Bala will have to buy vegetables from the market.",
+    "options": [
+      "and",
+      "nor",
+      "or",
+      "but"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The correlative pair is “either … or”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q14",
+    "question": "No sooner did I enter the house _______ it started drizzling.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "while"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The correlative pattern is “no sooner … than”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q15",
+    "question": "_______ he was honest, he was punished. (though / but)",
+    "options": [
+      "though",
+      "but",
+      "because",
+      "unless"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“Though” introduces a concessive clause.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q16",
+    "question": "Walk carefully _______ you will fall down. (unless / otherwise)",
+    "options": [
+      "unless",
+      "otherwise",
+      "although",
+      "despite"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Otherwise” means if you do not walk carefully.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q17",
+    "question": "My mother called me _______ I was playing football. (or / while)",
+    "options": [
+      "or",
+      "while",
+      "but",
+      "although"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“While” connects the simultaneous actions.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q18",
+    "question": "My salary is low _______ I find the work interesting. (nevertheless / similarly)",
+    "options": [
+      "nevertheless",
+      "similarly",
+      "therefore",
+      "because"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“Nevertheless” expresses contrast.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q19",
+    "question": "The passengers rushed to board the bus _______ it arrived. (as soon as / as long as)",
+    "options": [
+      "as soon as",
+      "as long as",
+      "unless",
+      "although"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“As soon as” expresses an event happening immediately after another.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "sourceName": "VirkozKalvi — The Attic",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-attic/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q20",
+    "question": "In this narrative poem, the poet conveys a message through a story of (1) _______.",
+    "options": [
+      "an ant and a cricket",
+      "a crow and a fox",
+      "a lion and a mouse",
+      "a hare and a tortoise"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The poem tells the story of an ant and a cricket.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q21",
+    "question": "The ant spends all its summer saving (2) _______.",
+    "options": [
+      "saving for future",
+      "the pleasant nature",
+      "human beings",
+      "a warm place"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The ant saves for the future.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q22",
+    "question": "The cricket (3) _______ happily in the summer.",
+    "options": [
+      "sings and dances",
+      "never borrows or lends",
+      "works hard",
+      "stays in its cupboard"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The cricket sings and dances in summer.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q23",
+    "question": "He (4) _______ anything for the winter.",
+    "options": [
+      "doesn’t save",
+      "saves for future",
+      "sings and dances",
+      "borrows grains"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The cricket does not save for winter.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q24",
+    "question": "When winter comes, he is worried that his (5) _______ is empty.",
+    "options": [
+      "kitchen cupboard",
+      "warm place",
+      "ant hill",
+      "granary"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The phrase in the summary is “kitchen cupboard”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q25",
+    "question": "He seeks the help of the ant to have (6) _______ and a warm place to stay.",
+    "options": [
+      "some grains",
+      "a crown",
+      "a song",
+      "a twig"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The cricket asks the ant for some grains.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q26",
+    "question": "He seeks the help of the ant to have some grains and a (7) _______ to stay.",
+    "options": [
+      "warm place",
+      "kitchen cupboard",
+      "winter song",
+      "sunny field"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The summary states “a warm place to stay”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q27",
+    "question": "The ant made it clear that ants (8) _______.",
+    "options": [
+      "never borrow or lend",
+      "sing and dance",
+      "save nothing",
+      "sleep all summer"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The ant says ants never borrow or lend.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q28",
+    "question": "The cricket answered that it had sung day and night enjoying (9) _______.",
+    "options": [
+      "the pleasant nature",
+      "saving for future",
+      "human beings",
+      "a warm place"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The summary uses “the pleasant nature”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q29",
+    "question": "The poet affirms that this is not (10) _______.",
+    "options": [
+      "just a fable",
+      "a true history",
+      "a song",
+      "a proverb"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The summary phrase is “just a fable”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q30",
+    "question": "The poem’s message is applicable to (11) _______ also.",
+    "options": [
+      "human beings",
+      "only insects",
+      "birds",
+      "trees"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The concluding phrase is “human beings”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q31",
+    "question": "Pick out the rhyming words in the lines “He wished only to borrow; He’d repay it tomorrow;”.",
+    "options": [
+      "borrow – tomorrow",
+      "borrow – cricket",
+      "wished – tomorrow",
+      "repay – ant"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The two line-ending words rhyme: borrow and tomorrow.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q32",
+    "question": "Mention the rhyme scheme in “My heart was so light / that I sang day and night, / For all nature looked gay. / ‘You sang, Sir, you say’?”",
+    "options": [
+      "aabb",
+      "aabbb",
+      "abab",
+      "ababa"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The source identifies the rhyme scheme as a a b b b.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "sourceName": "VirkozKalvi — The Ant and the Cricket",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-ant-and-the-cricket/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q33",
+    "question": "Choose the correct order of the eight events in the story.",
+    "options": [
+      "4, 2, 8, 6, 1, 7, 5, 3",
+      "2, 4, 6, 8, 1, 5, 7, 3",
+      "4, 8, 2, 6, 7, 1, 5, 3",
+      "1, 2, 4, 6, 8, 5, 7, 3"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The direct answer page gives the sequence: proclamation, farmer’s decision, twigs dropped, advice, decision to return, hiding mother, rope of ashes, law abolished.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q34",
+    "question": "Shining was governed by a _______ leader.",
+    "options": [
+      "strict",
+      "kind",
+      "cruel",
+      "diplomatic"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The story describes the governor as cruel.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q35",
+    "question": "The _______ was the principal food for the poor.",
+    "options": [
+      "wheat",
+      "brown rice",
+      "unwhitened rice",
+      "millet"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The direct answer page states unwhitened rice.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q36",
+    "question": "The road was crossed and re-crossed by many paths made by the _______.",
+    "options": [
+      "hunters and woodcutters",
+      "robbers and thieves",
+      "vendors and tradesmen",
+      "wildlife photographers and trekkers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The story says hunters and woodcutters made the paths.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q37",
+    "question": "Gathering _______ he made a soft cushion and tenderly lifted his old mother onto it.",
+    "options": [
+      "dry leaves",
+      "fallen pine",
+      "broken twigs",
+      "flowers"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The direct answer page gives fallen pine.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q38",
+    "question": "The governor demanded that his subjects should present him with a _______.",
+    "options": [
+      "basket of fruits",
+      "rope of ashes",
+      "flesh of animals",
+      "bag of silverwares"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The governor demanded a rope of ashes.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q39",
+    "question": "He gave orders for the aged to be put to death.",
+    "options": [
+      "the Governor",
+      "the farmer",
+      "the aged mother",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The despotic leader / Governor gave the order.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q40",
+    "question": "He considered the order to be the kindest mode of death.",
+    "options": [
+      "the farmer",
+      "the Governor",
+      "the aged mother",
+      "the son"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The farmer considers it the kindest mode of death.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q41",
+    "question": "She quietly dropped some twigs on the way.",
+    "options": [
+      "the aged mother",
+      "the farmer",
+      "the Governor",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The aged mother drops twigs as markers.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q42",
+    "question": "Let not thine eyes be blinded.",
+    "options": [
+      "the aged mother",
+      "the farmer",
+      "the Governor",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The aged mother says this to her son.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q43",
+    "question": "Together we will follow the path, together we will die.",
+    "options": [
+      "the son / farmer",
+      "the Governor",
+      "the aged mother",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The son / farmer says this.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q44",
+    "question": "I will think. I will think.",
+    "options": [
+      "the aged mother",
+      "the son",
+      "the Governor",
+      "the farmer"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The aged mother says this to her son.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q45",
+    "question": "The truth must be told.",
+    "options": [
+      "the son / farmer",
+      "the Governor",
+      "the aged mother",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The son / farmer says this.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q46",
+    "question": "He listened and meditated in silence.",
+    "options": [
+      "the Governor",
+      "the farmer",
+      "the aged mother",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The Governor listens and meditates.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q47",
+    "question": "Shining needs more than the strength of the youth.",
+    "options": [
+      "the Governor",
+      "the farmer",
+      "the aged mother",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The Governor says this after realizing the wisdom of the aged.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u4_q48",
+    "question": "With the crown of snow there cometh wisdom.",
+    "options": [
+      "the Governor",
+      "the farmer",
+      "the aged mother",
+      "the villagers"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The Governor says this about the wisdom of old age.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "sourceName": "VirkozKalvi — The Aged Mother",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-aged-mother/",
+    "verificationStatus": "ANSWER_FOUND"
+  }
+]
