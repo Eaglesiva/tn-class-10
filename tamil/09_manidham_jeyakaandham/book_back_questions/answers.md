@@ -508,3 +508,35 @@
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q13`
 
+
+
+### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 3
+
+#### 1. மேலிருந்து கீழ் 7 — மதியின் மறுபெயர், இது நிலவையும் குறிக்கும் (4)
+- **Source answer:** திங்கள்
+- **காரண விளக்கம்:** “திங்கள்” என்பது நிலவைக் குறிக்கும் பெயர்களில் ஒன்று.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q14`
+
+#### 2. மேலிருந்து கீழ் 10 — குறிஞ்சித் திணைக்குரிய விலங்கு (4)
+- **Source answer:** சிங்கம்
+- **காரண விளக்கம்:** குறிஞ்சி நிலத்திற்குரிய விலங்குகளில் சிங்கமும் குறிப்பிடப்படுகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q15`
+
+#### 3. மேலிருந்து கீழ் 12 — __________ என்பது புறத்திணைகளுள் ஒன்று (4)
+- **Source answer:** கைக்கிளை
+- **காரண விளக்கம்:** கைக்கிளை என்பது புறத்திணை வகைகளுள் ஒன்றாகப் பாடநூல்/விடை ஆதாரத்தில் தரப்படுகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q16`
+
+#### 4. வலமிருந்து இடம் 15 — மருந்தே ஆயினும் விருந்தோடு உண் – ஆசிரியர் (4)
+- **Source answer:** ஔவையார்
+- **காரண விளக்கம்:** “மருந்தே ஆயினும் விருந்தோடு உண்” என்ற அறிவுரைக் குறள் ஔவையாருக்குச் சேர்த்துக் கூறப்படுகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q17`
+
