@@ -121,25 +121,6 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
-    "id": "10_tam_u6_q7",
-    "question": "காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….",
-    "options": [
-      "தங்கும் / அவிழும்",
-      "அவிழும் / தங்கும்",
-      "கவிழும் / தயங்கும்",
-      "தோற்பவை / விருந்து"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; வண்டுகள் பூக்களில் தங்குகின்றன.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
-    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
-    "additionalSourceUrls": [
-      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/"
-    ],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
     "id": "10_tam_u6_q8",
     "question": "வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.",
     "options": [
