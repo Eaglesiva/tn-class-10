@@ -740,3 +740,37 @@ In the Parts of Speech chart, what is the noun form corresponding to the adverb 
 **Explanation (extractor-written from cited source):** The chart lists “perfection” as the noun form corresponding to “perfectly”.
 
 **Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 44 — Prose C
+In the Parts of Speech chart, what is the verb form corresponding to the adverb “perfectly”?
+
+- a) perfection
+- b) perfecting
+- c) perfect
+- d) perfectly
+
+**Correct answer:** c) perfect
+
+**Explanation (extractor-written from cited source):** The chart lists “perfect” as the verb form corresponding to “perfectly”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 45 — Prose C
+In the Parts of Speech chart, what is the adjective form corresponding to the adverb “perfectly”?
+
+- a) perfectly
+- b) perfect
+- c) perfection
+- d) perfected
+
+**Correct answer:** b) perfect
+
+**Explanation (extractor-written from cited source):** The chart lists “perfect” as the adjective form corresponding to “perfectly”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
