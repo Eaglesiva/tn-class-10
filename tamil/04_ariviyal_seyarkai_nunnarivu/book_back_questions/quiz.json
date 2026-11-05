@@ -176,5 +176,62 @@
     ],
     "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
     "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q11",
+    "question": "அமைச்சர் நாளை விழாவிற்கு வருகிறார்.",
+    "options": [
+      "கால வழுவமைதி",
+      "இட வழுவமைதி",
+      "பால் வழுவமைதி",
+      "திணை வழுவமைதி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“நாளை” என எதிர்கால நேரம் சுட்டப்பட்டாலும் “வருகிறார்” என நிகழ்கால வினை பயன்படுத்தப்பட்டுள்ளது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5",
+    "additionalSourceUrls": [
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html"
+    ],
+    "explanationSourceUrl": "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q12",
+    "question": "“இந்தக் கண்ணன் ஒன்றைச் செய்தான் என்றால் அதை அனைவரும் ஏற்பர்” என்று கூறினான்.",
+    "options": [
+      "பால் வழுவமைதி",
+      "இட வழுவமைதி",
+      "கால வழுவமைதி",
+      "மரபு வழுவமைதி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இந்தத் தொடரை இடத்தைச் சுட்டும் சொல்லமைப்பின் வழுவாக ஆதாரங்கள் வகைப்படுத்துகின்றன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5",
+    "additionalSourceUrls": [
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html"
+    ],
+    "explanationSourceUrl": "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q13",
+    "question": "செல்வன். இளவேலன் இந்தச் சிறுவயதிலேயே விளையாட்டுத்துறையில் சாதனை புரிந்திருக்கிறார்.",
+    "options": [
+      "மரபு வழுவமைதி",
+      "கால வழுவமைதி",
+      "திணை வழுவமைதி",
+      "இட வழுவமைதி"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "ஒரு தனி ஆளைக் குறிக்கும் பெயருடன் மரியாதை உயர்திணைப் பன்மை வினைமுற்று பயன்படுத்தப்பட்டுள்ளது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5",
+    "additionalSourceUrls": [
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html"
+    ],
+    "explanationSourceUrl": "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
