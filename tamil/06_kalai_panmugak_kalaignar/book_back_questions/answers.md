@@ -518,8 +518,8 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 
 ## Source QA — Iyal 6
 - Objective answer/source records remain in the first part of this file.
-- Non-objective questions are linked by section and question number to questions.md; three answer tiers remain placeholders.
-- Q&A and language-exercise source pages are direct unit-specific pages, not generic subject indexes.
+- Every non-objective record now reproduces the exact original question text from questions.md; each record has all three empty placeholders and a direct unit/section source link.
+- Q&A and language-exercise source pages are direct unit-specific pages, not generic subject indexes. Per-question answer-line checks are still in progress; known wording mismatches and missing sources are flagged in the relevant record.
 - A wording difference or a missing answer must remain marked as a variant / not found; no answer is inferred from a merely related passage.
 
 ---
