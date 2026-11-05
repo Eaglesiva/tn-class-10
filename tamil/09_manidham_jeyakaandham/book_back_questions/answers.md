@@ -28,6 +28,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/)
 - **விளக்க ஆதாரம்:** [CBSETamil — தேம்பாவணி](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q3`
 
 ### Q4 — “வாய்மையே மழைநீராகி”
 - **S1 — GreenTamil — இயல் 1–9 பலவுள் தெரிக:** இ) உருவகம் — [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
@@ -36,6 +37,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
 - **விளக்க ஆதாரம்:** அதே அணி விளக்க ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q4`
 
 ### Q5 — “கலையின் கணவனாகவும் சமுதாயத்தின் புதல்வனாகவும்”
 - **S1 — GreenTamil — இயல் 1–9 பலவுள் தெரிக:** ஆ) சமூகப் பார்வையோடு கலைப்பணி புரியவே எழுதினார் — [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
@@ -44,6 +46,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
 - **விளக்க ஆதாரம்:** [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q5`
 
 ## QC
 - `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
