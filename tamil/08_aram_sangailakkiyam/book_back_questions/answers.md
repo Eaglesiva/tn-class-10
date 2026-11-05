@@ -413,3 +413,39 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
    - **காரணம்:** “கொள்க”, “குரைக்க” ஆகியவை செயலைச் செய்யுமாறு கூறும் வியங்கோள் வினைமுற்று வடிவங்கள்.
    - **விடை ஆதாரம்:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — குறுவினா 1.
    - **Quiz நிலை:** இரண்டு குறுகிய, நிலையான விடை கொண்ட வினாக்கள்; தற்போதைய Quiz-ல் இல்லை.
+
+
+### Dictionary lookup — இலக்கியச் சொற்களின் பொருள்
+
+#### Q6 — ஆசுகவி என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** கொடுத்த பொருளை உடனே பாடும் பாட்டு; அப்பாடலைப் பாடும் புலவன் — [இயல் 8.5 பா வகை, அலகிடுதல்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/)
+- **S2 — SaraNextGen:** கொடுத்த பொருளை உடனே பாடும் பாட்டு; அப்பாடலைப் பாடும் புலவன் — [இயல் 8.5 பா வகை, அலகிடுதல்](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S3 — FreeTNBooks:** கொடுத்த பொருளை உடனே பாடும் பாட்டு; அப்பாடலைப் பாடும் புலவன் — [இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கொடுக்கப்பட்ட பொருளை உடனே பாடும் திறனுடன் தொடர்புடையது.
+- **Quiz ID:** `10_tam_u8_q6`
+- **நிலை:** ANSWER_FOUND
+
+#### Q7 — மதுரகவி என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு — [இயல் 8.5 பா வகை, அலகிடுதல்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/)
+- **S2 — SaraNextGen:** இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு — [இயல் 8.5 பா வகை, அலகிடுதல்](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S3 — FreeTNBooks:** இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு — [இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** இனிமை, சொற்சுவை, பொருட்சுவை ஆகிய பண்புகள் மதுரகவியை அடையாளப்படுத்துகின்றன.
+- **Quiz ID:** `10_tam_u8_q7`
+- **நிலை:** ANSWER_FOUND
+
+#### Q8 — சித்திரகவி என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி; 21 நயங்களில் கவிதை இயற்றுபவர் — [இயல் 8.5 பா வகை, அலகிடுதல்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/)
+- **S2 — SaraNextGen:** சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி; 21 நயங்களில் கவிதை இயற்றுபவர் — [இயல் 8.5 பா வகை, அலகிடுதல்](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S3 — FreeTNBooks:** சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி; 21 நயங்களில் கவிதை இயற்றுபவர் — [இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** சித்திர வடிவமைப்புக்கு ஏற்ப அமைந்த கவிதைச் சிறப்பைச் சித்திரகவி குறிக்கிறது.
+- **Quiz ID:** `10_tam_u8_q8`
+- **நிலை:** ANSWER_FOUND
+
+#### Q9 — வித்தாரகவி என்பதன் அகராதிப் பொருள்
+- **S1 — CBSETamil:** விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல் — [இயல் 8.5 பா வகை, அலகிடுதல்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/)
+- **S2 — SaraNextGen:** விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல் — [இயல் 8.5 பா வகை, அலகிடுதல்](https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S3 — FreeTNBooks:** விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல் — [இயல் 8.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** விரிவாகப் பாடும் தன்மை வித்தாரகவியின் அடையாளமாகும்.
+- **Quiz ID:** `10_tam_u8_q9`
+- **நிலை:** ANSWER_FOUND
+
