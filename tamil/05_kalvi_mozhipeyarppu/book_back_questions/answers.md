@@ -57,14 +57,14 @@
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [VirkozKalvi — இயல் 5.5 வினா/விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — இரு பயிற்சிகளுக்கும் பொருந்தும் விடைகள். [BrainKart — இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வகைகளின் விளக்கம். **நிலை:** ANSWER_FOUND.
 
 #### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் — 2
 **Question reference:** questions.md → V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) → வினா 2.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [VirkozKalvi — இயல் 5.5 வினா/விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — இரு பயிற்சிகளுக்கும் பொருந்தும் விடைகள். [BrainKart — இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வகைகளின் விளக்கம். **நிலை:** ANSWER_FOUND.
 
 ### VII. குறுவினா (பக்கம் 131-132)
 
@@ -73,28 +73,28 @@
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### VII. குறுவினா — 2
 **Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 2.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### VII. குறுவினா — 3
 **Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 3.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### VII. குறுவினா — 4
 **Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 4.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 ### VIII. சிறுவினா (பக்கம் 132)
 
@@ -103,28 +103,28 @@
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### VIII. சிறுவினா — 2
 **Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 2.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### VIII. சிறுவினா — 3
 **Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 3.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### VIII. சிறுவினா — 4
 **Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 4.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 ### IX. நெடுவினா (பக்கம் 132)
 
@@ -133,21 +133,21 @@
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### IX. நெடுவினா — 2
 **Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 2.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### IX. நெடுவினா — 3
 **Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 3.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 ### X. மொழியை ஆள்வோம் (பக்கம் 133)
 
@@ -156,28 +156,28 @@
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### X. மொழியை ஆள்வோம் — 2
 **Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 2.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### X. மொழியை ஆள்வோம் — 3
 **Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 3.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 #### X. மொழியை ஆள்வோம் — 4
 **Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 4.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
 ### XI. மதிப்புரை எழுதுக (பக்கம் 134)
 **Question reference:** questions.md → XI. மதிப்புரை எழுதுக (பக்கம் 134) → உரைநடை/செயல்பாட்டு வினா.
@@ -193,35 +193,35 @@
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
 #### XII. மொழியோடு விளையாடு — 2
 **Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 2.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
 #### XII. மொழியோடு விளையாடு — 3
 **Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 3.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
 #### XII. மொழியோடு விளையாடு — 4
 **Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 4.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — செயல்திட்டக் கேள்வி பக்கத்தில் உள்ளது; தனியான மாதிரி விடை கிடைக்கவில்லை. **நிலை:** ANSWER_NOT_FOUND.
 
 #### XII. மொழியோடு விளையாடு — 5
 **Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 5.
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — direct unit answer page; compare exact question wording before adopting the answer.
+**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
 ### XIII. நிற்க அதற்குத் தக (பக்கம் 136)
 **Question reference:** questions.md → XIII. நிற்க அதற்குத் தக (பக்கம் 136) → உரைநடை/செயல்பாட்டு வினா.
