@@ -416,6 +416,82 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
+    "id": "10_eng_u2_q31",
+    "question": "According to the Book Back table, what is the plural form of “radius”?",
+    "options": [
+      "radiuses",
+      "radii",
+      "radius",
+      "radia"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The Book Back table uses the classical Latin plural “radii” for “radius”.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q32",
+    "question": "According to the Book Back table, what is the plural form of “formula”?",
+    "options": [
+      "formulas",
+      "formulae",
+      "formula",
+      "formuli"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The Book Back table gives “formulae” as the plural form of “formula”.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q33",
+    "question": "According to the Book Back table, what is the plural form of “child”?",
+    "options": [
+      "childs",
+      "childes",
+      "children",
+      "childrens"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "“Child” has an irregular plural form: “children”.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q34",
+    "question": "According to the Book Back table, what is the plural form of “deer”?",
+    "options": [
+      "deers",
+      "deer",
+      "deeres",
+      "deeren"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Deer” has the same form in the singular and plural in the Book Back table.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
     "id": "10_eng_u2_q4",
     "question": "Gilson asked the narrator to buy a tie.",
     "options": [
