@@ -23,7 +23,7 @@
 | 3 | மூன்று Answer Tiers | 🔑 விடைக்குறிப்பு, 📝 சாதாரண விடை, 📖 விரிவான விடை — அனைத்தும் [TO_BE_PREPARED_LATER] |
 | 4 | Objective / one-word / MCQ | Source-ல் காணப்பட்ட option code + குறுகிய answer text மட்டும்; ஒவ்வொரு source தனித்தனியாக |
 | 5 | காரண விளக்கம் | ஒவ்வொரு one-mark / one-word வினாவுக்கும் பொருத்தமான காரண விளக்கம்: இலக்கணம், பாடநூல் சொற்பொருள், பாடப்பொருள், வகைப்பாடு அல்லது பொதுத் தகவல்; ஆதார URL கட்டாயம் |
-| 6 | பொருள்/அறிவு சார்ந்த MCQ | பொருத்தமான இலக்கண விதி இல்லையெனில் காரணம் உருவாக்கக்கூடாது; REASON_NOT_REQUIRED |
+| 6 | பொருள்/அறிவு சார்ந்த MCQ | இலக்கணம் அல்லாத வினாவுக்கும் பாடநூல் / கருத்து / வகைப்பாடு source-ஐ வைத்து காரண விளக்கம் தேட வேண்டும்; ஆதாரம் இல்லையெனில் EXPLANATION_SOURCE_NOT_FOUND |
 | 7 | Source எண்ணிக்கை | 3 அல்லது 5 என்ற வரம்பு இல்லை; உண்மையில் பதில் உள்ள எல்லா சரிபார்க்கப்பட்ட source-களையும் சேர்க்க வேண்டும் |
 | 8 | Source fidelity | ஒவ்வொரு தளமும் சொல்வதை தனித்தனியாக வைக்க வேண்டும்; விடைகளை merge செய்யவோ ஒன்றைத் தேர்ந்தெடுத்து மற்றதை மறைக்கவோ கூடாது |
 | 9 | Guide PDF | நேரடி PDF மற்றும் சரியான page number திறந்து சரிபார்த்தால் மட்டுமே answer source; விற்பனைப் பக்கம் PDF-க்கு மாற்றாகாது |
@@ -384,7 +384,7 @@ Guide புத்தகத்தின் பெயர் அல்லது �
 | Source-ல் இல்லாத answer-ஐ அந்தத் தளத்துக்கு உரிமை கூறுதல் | direct page open செய்து answer இருப்பதை உறுதி செய் |
 | Search snippet-ஐ source proof என எடுத்துக்கொள்ளுதல் | original answer page திறக்கப்பட வேண்டும் |
 | காரண விளக்கம் ஊகித்து எழுதுதல் | பாடநூல் / இலக்கணம் / பொருள் விளக்க source ஆகியவற்றில் பொருத்தமான ஆதாரம் தேடு; ஆதாரம் இல்லையெனில் EXPLANATION_SOURCE_NOT_FOUND |
-| பொதுப் பொருள் வினாவுக்கு இலக்கண காரணம் சேர்த்தல் | REASON_NOT_REQUIRED |
+| பொதுப் பொருள் வினாவுக்கு காரண விளக்கத்தைத் தவிர்த்தல் | பாடநூல் / கருத்து / வகைப்பாடு source-ல் விளக்கம் உள்ளதா தேடு; ஆதாரம் இல்லையெனில் EXPLANATION_SOURCE_NOT_FOUND |
 | வேறுபட்ட source answers-ல் ஒன்றை மறைத்தல் | எல்லா variants-ஐ பதிவு செய்து CONFLICT |
 | Source question பழைய/வேறுபட்ட edition | WORDING_VARIANT / QUESTION_MISMATCH |
 | Guide product page-ஐ PDF எனக் கருதுதல் | GUIDE_PRODUCT_PAGE_ONLY |
@@ -515,7 +515,7 @@ Repo-வில் உள்ள 248 page sequence, வெளியிடப்ப
 2. ஒவ்வொரு வினாவுக்கும் direct answer websites மற்றும் relevant publisher guide sources தேடு.
 3. Direct page/PDF-ல் exact question மற்றும் answer presence-ஐ verify செய்; homepage/snippet போதாது.
 4. Objective வினாக்களுக்கு source-ல் காணப்பட்ட option code + short answer மட்டும் பதிவு செய்.
-5. Grammar-rule based objective வினாவுக்கு மட்டும் உண்மையான இலக்கண விதி source திறந்து 1–2 வரி காரணம் எழுது.
+5. எல்லா one-mark objective வினாக்களுக்கும் பொருத்தமான ஆதார விளக்கம் தேடு; grammar / textbook / subject-matter / general வகையைத் தேர்ந்து direct source link கொடு.
 6. Non-objective வினாக்களுக்கு மூன்று காலி placeholders மற்றும் எல்லா verified direct source links மட்டும்.
 7. Source conflict/mismatch/access block-ஐ மறைக்காமல் குறி.
 8. questions.md, quiz files, PDF, site files மாற்றாதே. Deploy/merge/delete செய்யாதே.
