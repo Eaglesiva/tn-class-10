@@ -42,3 +42,127 @@
 - Book Back-ல் உள்ள 5 MCQ-களில் 4 உறுதிப்படுத்தப்பட்ட வினாக்கள் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
 - Q2 ஆதார முரண்பாடு காரணமாக Quiz-ல் நிறுத்தப்பட்டுள்ளது.
 - `questions.md` மாற்றப்படவில்லை.
+
+---
+
+## II. குறுவினா — Answer Source Collection
+
+### II-1. விருந்தினரை மகிழவித்துக் கூறும் முகமன் சொற்களை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — இதே குறுவினாவிற்கான முகமன் சொற்கள் — EXACT_MATCH.
+
+### II-2. 'தானியம் ஏதும் இல்லாத நிலையில் விதைக்காக வைத்திருந்த தினையை உலையில் இட்டுக் கு ஏற்றியெடுத்து விருந்தினருக்கு விருந்தளித்தாள் தலைவி' என்பது இலக்கியச் செய்தி. விருந்தோம்பலுக்குச் செலவம் மட்டுமே இன்றியமையாத ஒன்றா? உங்கள் கருத்தைக் குறிப்பிடுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — இதே வினாவிற்கான கருத்து/விடை பகுதி — EXACT_MATCH.
+
+### II-3. 'எழுது என்றாள்' என்பது விரைவு காரணமாக 'எழுது எழுது என்றாள்' என அடுக்குத்தொடரானது. 'சிரித்துப் பேசினார்' என்பது எவ்வாறு அடுக்குத்தொடராகும்?
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — அடுக்குத்தொடர் எடுத்துக்காட்டு — EXACT_MATCH.
+- [VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/) — தொடர்புடைய இலக்கண விளக்கம் — RELATED_GRAMMAR_SOURCE.
+
+### II-4. 'இறடிப் பொம்மல் பெறுகுவிர்' – இத்தொடர் உணர்த்தும் பொருளை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — இதே தொடருக்கான பொருள் — EXACT_MATCH.
+- [VirkozKalvi — மலைபடுகடாம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-3/) — பாடல்/சொற்பொருள் பகுதி — RELATED_TEXTBOOK_SOURCE.
+
+### II-5. பாரதியார் கவிஞர், நூலகம் சென்றார், அவர் யார்? ஆகிய தொடர்களில் எழுவாயுடன் தொடரும் பயனிலைகள் யாவை?
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — பெயர், வினை, வினா பயனிலைகள் — EXACT_MATCH.
+
+---
+
+## III. சிறுவினா — Answer Source Collection
+
+### III-1. 'கண்ணே கண்ணுறங்கு! காலையில் நீயெழும்பு! மாமழை பெய்கையிலே மாம்பூவே கண்ணுறங்கு! பாடினேன் தாலாட்டு! ஆடி ஆடி ஓய்ந்துறங்கு!' - இத்தாலாட்டுப் பாடலில் அமைந்துள்ள தொடர் வகைகளை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — பாடல் வரிகளின் தொடர் வகைகள் — EXACT_MATCH.
+- [VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/) — தொடர்புடைய இலக்கண வகைகள் — RELATED_GRAMMAR_SOURCE.
+
+### III-2. "பலர்புகு வாயில் அடைப்பக் கடவுநர் வருவீர் உளீரோ" - வினவுவது ஏன்?
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — மலைபடுகடாம் பாடல் சூழல்; துல்லியமான விடை உரை தனியாக உறுதிப்படுத்தப்படவில்லை — RELATED_SOURCE.
+- [VirkozKalvi — மலைபடுகடாம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-3/) — பாடல் வரி மற்றும் சூழல் — TEXTBOOK_LESSON_SOURCE.
+
+### III-3. காலமாற்றம், தமிழர் விருந்தோம்பலில் ஏற்படுத்திய மாற்றங்கள் குறித்த கருத்துகளை எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — இதே சிறுவினாவிற்கான பதில் — EXACT_MATCH.
+- [VirkozKalvi — விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/) — விருந்தோம்பல் பாடப்பகுதி — RELATED_TEXTBOOK_SOURCE.
+
+### III-4. கூத்தனைக் கூத்தன் ஆற்றுப்படுத்தலைக் கூத்தராற்றுப்படை எவ்வாறு காட்டுகிறது?
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — கூத்தராற்றுப்படை ஆற்றுப்படுத்தல் விளக்கம் — EXACT_MATCH.
+- [VirkozKalvi — மலைபடுகடாம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-3/) — மூலப் பாடப்பகுதி — TEXTBOOK_LESSON_SOURCE.
+
+---
+
+## IV. நெடுவினா — Answer Source Collection
+
+### IV-1. ஆற்றுப்படுத்தல் என்பது அன்றைக்குப் புலவர்களையும் கலைஞர்களையும் வள்ளல்களை நோக்கி நெறிப்படுத்துவதாக இருந்தது. அது இன்றைய நிலையில் ஒரு வழிகாட்டுதலாக மாறியிருப்பதை விளக்குக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — அன்றைய ஆற்றுப்படுத்தல் மற்றும் இன்றைய வழிகாட்டுதல் — EXACT_MATCH.
+- [VirkozKalvi — மலைபடுகடாம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-3/) — ஆற்றுப்படை இலக்கியச் சூழல் — RELATED_TEXTBOOK_SOURCE.
+
+### IV-2. அன்னமய்யா என்னும் பெயருக்கும் அவரின் செயலுக்கும் உள்ள பொருத்தப்பாட்டினைக் கோபல்லபுரத்து மக்கள் கதைப்பகுதி கொண்டு விவரிக்க.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — அன்னமய்யா கதைப்பகுதி — EXACT_MATCH.
+- [VirkozKalvi — கோபல்லபுரத்து மக்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-4/) — பாடக்கதை சார்ந்த reference — TEXTBOOK_LESSON_SOURCE.
+
+### IV-3. உங்கள் இல்லத்துக்கு வந்த உறவினருக்கு நீங்கள் செய்த விருந்தோம்பலை அழகுற விவரித்து எழுதுக.
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source links:**
+- [BrainKart — இயல் 3 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) — விருந்தோம்பல் விவரிப்பு எடுத்துக்காட்டு — EXACT_MATCH.
+- [VirkozKalvi — விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/) — விருந்தோம்பல் பாடப்பகுதி — RELATED_TEXTBOOK_SOURCE.
+
+---
+
+## Source / Textbook Edition QA
+- இயல் 3-ன் Book Back தொகுப்பு: 5 MCQ + 5 குறுவினா + 4 சிறுவினா + 3 நெடுவினா.
+- BrainKart இயல் 3 direct Q&A page-ல் MCQ, குறு, சிறு, நெடு வினா பகுதிகள் உள்ளன.
+- Q2 “பாக்கம்” source conflict தீர்க்கப்படவில்லை. BrainKart-ல் “சிற்றூர்” எனும் answer உள்ளது; VirkozKalvi / CBSETamil-ல் “பேரூர்” என முன்பு பதிவானதால் conflict நிலை தொடர்கிறது.
