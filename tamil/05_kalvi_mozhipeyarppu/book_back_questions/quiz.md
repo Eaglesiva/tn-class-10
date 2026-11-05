@@ -1,7 +1,7 @@
 # 10-ஆம் வகுப்பு தமிழ் — இயல் 5: மணற்கேணி
 ## Verified Book Back Objective Quiz
 
-> Source of question wording and option order: `questions.md` (read-only). Five Book Back objective MCQs and one Book Back one-word riddle are included. Original option order is preserved.
+> Source of question wording: `questions.md` (read-only). The file contains the original five Book Back MCQs, one Book Back riddle, objective language-exercise items, and the five Book Back dictionary lookups. New four-option conversions are based only on source-verified Book Back answers; open-ended tasks are excluded.
 
 ### வினா 1
 'மாபாதை தமிழப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்' என்னும் சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு உணர்த்தும் செய்தி
