@@ -81,5 +81,100 @@
     ],
     "explanationSourceUrl": "https://www.sbicard.com/en/personal/digital-platform-updates.page",
     "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q6",
+    "question": "நூலின் பயன் படித்தல் எனில், கல்வியின் பயன். ... ...",
+    "options": [
+      "கற்றல்",
+      "கரு",
+      "சோறு",
+      "எழுத்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நூலைப் படிப்பது அதன் பயன்; கல்வியின் அடிப்படைப் பயன் கற்றல் என்பதால் “கற்றல்” பொருந்துகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q7",
+    "question": "விதைக்குத் தேவை எரு எனில், கதைக்குத் தேவை ……",
+    "options": [
+      "சோறு",
+      "கரு",
+      "பூவில்",
+      "கற்றல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "விதை வளர எரு தேவைப்படுவது போல, கதையின் மையமாக அமையும் கருத்து “கரு” ஆகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q8",
+    "question": "கல் சிலை ஆகுமெனில், நெல். ... ... . ஆகும்.",
+    "options": [
+      "எழுத்து",
+      "பூவில்",
+      "சோறு",
+      "கரு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கல்லைச் செதுக்கிச் சிலை உருவாக்குவது போல, நெல்லை அரிசியாக்கிச் சமைத்த உணவு சோறு ஆகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q9",
+    "question": "குரலில் இருந்து பேச்சு எனில், விரலில் இருந்து. ... ... .",
+    "options": [
+      "கற்றல்",
+      "எழுத்து",
+      "கரு",
+      "சோறு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "குரல் வழியாகப் பேச்சு வெளிப்படுவது போல, விரல்/கை இயக்கத்தின் வழியாக எழுதப்படும் வடிவம் எழுத்து.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q10",
+    "question": "மீன் இருப்பது நீரில்; தேன் இருப்பது. ... ... .",
+    "options": [
+      "பூவில்",
+      "கரு",
+      "கற்றல்",
+      "எழுத்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தேன் மலர்களிலிருந்து கிடைப்பதால், தேன் இருக்கும் இடமாக “பூவில்” பொருந்துகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
