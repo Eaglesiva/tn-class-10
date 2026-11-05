@@ -689,3 +689,71 @@ What is the meaning of “in spite of”?
 **Explanation (extractor-written from cited source):** “In spite of” indicates that an action happens despite a difficulty or obstacle.
 
 **Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 41 — Prose L1: Prepositional phrase meanings
+What is the meaning of “in addition to”?
+
+- a) as a substitute for
+- b) added to
+- c) irrespective of
+- d) referring to
+
+**Correct answer:** b) added to
+
+**Explanation (extractor-written from cited source):** “In addition to” means something is added to or included with something else.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 42 — Prose L1: Prepositional phrase meanings
+What is the meaning of “in place of”?
+
+- a) with the exception of
+- b) because of
+- c) as a substitute for
+- d) added to
+
+**Correct answer:** c) as a substitute for
+
+**Explanation (extractor-written from cited source):** “In place of” means instead of or as a substitute for something.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 43 — Prose L1: Prepositional phrase meanings
+What is the meaning of “regardless of”?
+
+- a) irrespective of
+- b) in the interest of
+- c) disregarding the difficulty
+- d) referring to
+
+**Correct answer:** a) irrespective of
+
+**Explanation (extractor-written from cited source):** “Regardless of” means irrespective of a condition or circumstance.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+
+
+---
+
+### Question 44 — Prose L1: Prepositional phrase meanings
+What is the meaning of “for the sake of”?
+
+- a) with the exception of
+- b) added to
+- c) in the interest of
+- d) as a substitute for
+
+**Correct answer:** c) in the interest of
+
+**Explanation (extractor-written from cited source):** “For the sake of” means for the benefit or interest of someone or something.
+
+**Answer sources:** [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/) · [Namma English Classroom](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
