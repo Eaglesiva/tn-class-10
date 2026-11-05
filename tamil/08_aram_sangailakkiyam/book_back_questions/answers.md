@@ -10,6 +10,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-10-tamil-chapter-8-1)
 - **விளக்க ஆதாரம்:** [StudyToday — இயல் 8.1](https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-10-tamil-chapter-8-1)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u8_q1`
 
 ### Q2 — “வீட்டைத் துடைத்துச் சாயம் அடித்தல்”
 - **S1 — VirkozKalvi — இயல் 8.2, ஞானம்:** இ) இடையறாது அறப்பணி செய்தலை — [VirkozKalvi — இயல் 8.2, ஞானம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-2/)
@@ -18,6 +19,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-2/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 8.2, ஞானம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-2/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u8_q2`
 
 ### Q3 — கொடைச் சிறப்புடையோர்
 - **S1 — Samacheer Kalvi Guide — சங்க இலக்கியத்தில் அறம்:** ஆ) அதியன்; பெருஞ்சாத்தன் — [Samacheer Kalvi Guide — சங்க இலக்கியத்தில் அறம்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/)
@@ -27,6 +29,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/)
 - **விளக்க ஆதாரம்:** அதே பாடநூல் / விடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u8_q3`
 
 ### Q4 — காலக்கணிதம் கவிதை
 - **S1 — VirkozKalvi — இயல் 8.3, காலக்கணிதம்:** அ) இகழ்ந்தால் என்மனம் இறந்துவிடாது — [VirkozKalvi — இயல் 8.3, காலக்கணிதம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-3/)
@@ -35,6 +38,7 @@
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “காலக்கணிதம்” கவிதையில் இடம்பெறும் வரியை அப்படியே அடையாளம் காணும் வினா இது; பாடவிடை ஆதாரங்கள் முதல் option-ஐ உறுதிப்படுத்துகின்றன.
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-3/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u8_q4`
 
 ### Q5 — சிலப்பதிகாரம், மணிமேகலை பாவினம்
 - **S1 — Winmeen — இயல் 8 வினாக்கள்:** அ) அகவற்பா — [Winmeen — இயல் 8 வினாக்கள்](https://winmeen.com/10th-tamil-questions-unit-8/)
@@ -44,6 +48,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
 - **விளக்க ஆதாரம்:** அதே பாடநூல் / விடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u8_q5`
 
 ## QC
 - `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
