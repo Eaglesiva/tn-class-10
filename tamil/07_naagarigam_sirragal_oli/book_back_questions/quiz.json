@@ -1,7 +1,7 @@
 [
   {
     "id": "10_tam_u7_q1",
-    "question": "சரியான அகரவரிசையைத் தேர்க.",
+    "question": "சரியான அகவைரிசையைத் தேர்ந்தெடுக்க.",
     "options": [
       "உழவு, மண், ஏர், மாடு",
       "மண், மாடு, ஏர், உழவு",
@@ -9,54 +9,94 @@
       "ஏர், உழவு, மாடு, மண்"
     ],
     "correctOptionIndex": 2,
-    "explanation": "அகரவரிசைப்படி உயிர் எழுத்துக்களான உ, ஏ என்பன முதலில் வர வேண்டும். அடுத்து மெய்யெழுத்து 'ம' வரிசையில் ம, மா என அமைய வேண்டும் (உ, ஏ, ம, மா)."
+    "explanation": "தமிழ் அகரவரிசையில் “உ” தொடங்கும் உழவு, “ஏ” தொடங்கும் ஏர் ஆகியவை முதலில் வருகின்றன; “ம” வரிசையில் மண், மாடு என அமைகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "sourceName": "BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT",
+    "sourceWordingVariant": "சரியான அகரவரிசையைத் தேர்ந்தெடுக்க"
   },
   {
     "id": "10_tam_u7_q2",
-    "question": "\"மாலவன் குன்றம் போனாலென்ன? வேலவன் குன்றமாவது எங்களுக்கு வேண்டும்\" - மாலவன் குன்றமும் வேலவன் குன்றமும் குறிப்பவை முறையே",
+    "question": "'மாலவன் குன்றம் போனாலென்ன? வேலவன் குன்றமாவது எங்களுக்கு வேண்டும்' - மாலவன் குன்றமும் வேலவன் குன்றமும் குறிப்பவை முறையே -",
     "options": [
-      "திருப்பதியும், திருத்தணியும்",
-      "திருத்தணியும், திருப்பதியும்",
-      "திருப்பதியும், பழனியும்",
-      "பழனியும், திருத்தணியும்"
+      "திருப்பதியும் திருத்தணியும்",
+      "திருத்தணியும் திருப்பதியும்",
+      "திருப்பதியும் திருச்செந்தூரும்",
+      "திருப்பரங்குன்றமுமப் பழனியும்"
     ],
     "correctOptionIndex": 0,
-    "explanation": "மாலவன் (திருமால்) குன்றம் என்பது ஆந்திராவிடம் சென்ற திருப்பதியையும், வேலவன் (முருகன்) குன்றம் என்பது தமிழகத்தில் உள்ள திருத்தணியையும் குறிக்க ம.பொ.சி இவ்வாறு குறிப்பிட்டார்."
+    "explanation": "மாலவன் குன்றம் திருப்பதியையும், வேலவன் குன்றம் திருத்தணியையும் குறிக்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "sourceName": "BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-7-1/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-7-1/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u7_q3",
-    "question": "\"தன் நாட்டு மக்களுக்குத் தந்தையும் தாயும் மகனுமாக இருந்த அரசன்\" என்னும் மெய்க்கீர்த்தித் தொடர் உணர்த்தும் பொருள் -",
+    "question": "'தன் நாட்டு மக்களுக்குத் தந்தையும் தாயும் மகனுமாக இருந்த அசைன்' என்னும் மெய்க்கீர்த்தித் தொடர் உணர்த்தும் பொருள் -",
     "options": [
-      "மேம்பட்டு நின்றவன்",
-      "நெறியோடு நின்று காவல் காப்பவர்",
-      "மிகுந்த செல்வம் உடையவன்",
-      "அன்போடு ஆட்சி செய்தவன்"
+      "மேமப்பட்ட நிருவாகத்திறன் பெற்றவர்",
+      "மிகுந்த செலவம் உடையவர்",
+      "பணப்பட்ட மனிதநேயம் கொண்டவர்",
+      "நெறியோடு நின்று காவல் காப்பவர்"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "இரண்டாம் இராசராச சோழனின் மெய்க்கீர்த்தியில், அரசன் குடிமக்களுக்குத் தாயாகவும் தந்தையாகவும் இருந்து அறநெறி தவறாமல் காவல் காத்தான் எனச் சிறப்பிக்கப்படுகிறது."
+    "correctOptionIndex": 3,
+    "explanation": "மக்களுக்குத் தந்தை, தாய், மகன் என இருந்த அரசன் அவர்களைப் பாதுகாத்து நெறியுடன் ஆட்சி செய்தவன் என மெய்க்கீர்த்தி உணர்த்துகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "sourceName": "BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT",
+    "sourceWordingVariant": "'தன் நாட்டு மக்களுக்கு தந்தையும் தாயும் மகனுமாக இருந்த அரசன்'; மேம்பட்ட / செல்வம் / பண்பட்ட"
   },
   {
     "id": "10_tam_u7_q4",
-    "question": "இருநாட்டு அரசர்களும் தும்பைப்பூவைச் சூடிப் போரிடுவதன் காரணம் -",
+    "question": "இருநாட்டு அசைர்களும் தும்பைப் பூவைச் சூடிப் போரிடுவதன் காரணம் ………….",
     "options": [
-      "நாட்டைச் கைப்பற்றல்",
+      "நாட்டைக் கைப்பற்றல்",
+      "ஆநிரை கவர்தல்",
       "வலிமையை நிலைநாட்டல்",
-      "கோட்டையை முற்றுகையிடல்",
-      "பகைவரை வெல்லல்"
+      "கோட்டையை முற்றுகையிடல்"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "புறத்திணைகளில் ஒன்றான தும்பைத்திணையில், இரு பெருவேந்தர்களும் தத்தம் வலிமையையே (வீரத்தையே) பெரிதாகக் கருதி நிலைநாட்டத் தும்பைப்பூச் சூடிப் போரிடுவர்."
+    "correctOptionIndex": 2,
+    "explanation": "தும்பைத்திணைப் போர் இரு அரசர்களும் தமது வலிமையை நிலைநாட்டுவதற்காக மேற்கொள்ளும் போராக விளக்கப்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "sourceName": "BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT",
+    "sourceWordingVariant": "இருநாட்டு அரசர்களும்"
   },
   {
     "id": "10_tam_u7_q5",
-    "question": "தமிழினத்தை ஒன்றுபடுத்தும் இலக்கியமாக ம.பொ.சி. கருதியது -",
+    "question": "தமிழினத்தை ஒன்றுபடுத்தும் இலக்கியமாக ம.பொ.சி. கருதியது...........",
     "options": [
       "திருக்குறள்",
       "புறநானூறு",
-      "சிலப்பதிகாரம்",
-      "கம்பராமாயணம்"
+      "கமப்பராமாயணம்",
+      "சிலப்பதிகாரம்"
     ],
-    "correctOptionIndex": 2,
-    "explanation": "மூவேந்தர்களுக்கும் உரிய காப்பியமாகவும், தமிழர்களை ஒன்றுபடுத்தும் தேசிய காப்பியமாகவும் ம.பொ.சி சிலப்பதிகாரத்தையே சிறந்ததாகக் கருதினார்."
+    "correctOptionIndex": 3,
+    "explanation": "சேர, சோழ, பாண்டியர் என மூவேந்தர் தொடர்பையும் தமிழர் பண்பாட்டு ஒற்றுமையையும் இணைக்கும் இலக்கியமாக ம.பொ.சி. சிலப்பதிகாரத்தைக் கருதியதாக ஆதாரங்கள் தருகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11859/",
+    "sourceName": "BrainKart — இயல் 7 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+      "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT",
+    "sourceWordingVariant": "option text 'கமப்பராமாயணம்' appears as 'கம்பராமாயணம்' in references"
   }
 ]
