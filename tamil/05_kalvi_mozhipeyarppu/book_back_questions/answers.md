@@ -457,7 +457,7 @@
 - “ஏன் வராமல்?” — வினா எதிர் வினாதல் விடை.
 - **விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — உரையாடல் விடைகள்.
 - **விளக்க ஆதாரம்:** [BrainKart — வினா, விடை வகைகள், பொருள்கோள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வினா/விடை வகைகளின் வரையறைகள்.
-- **Quiz நிலை:** இவை தனித்தனி சரியான பெயரைக் கொண்ட வகை-அடையாள வினாக்கள்; Quiz-ஆக மாற்ற வேண்டிய candidates.
+- **Quiz நிலை:** உரையாடலில் உள்ள ஐந்து தெளிவான வினா/விடை வகை அடையாளங்கள் `10_tam_u5_q18`–`q22` ஆக நான்கு தேர்வுகளுடன் சேர்க்கப்பட்டுள்ளன. முதல் பயிற்சியில் விடை வகைகள் மட்டுமே உறுதியாகத் தரப்பட்டுள்ளதால், அதை தனி Quiz-ஆக மாற்றவில்லை.
 
 ### X. மொழியை ஆள்வோம் — ஆங்கிலச் சொல்லுக்கான தமிழ்ச் சொல்
 
@@ -472,7 +472,30 @@
 
 - **விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — சொல்-பொருள் இணைப்புகள்.
 - **சரிபார்ப்பு:** ANSWER_FOUND; source page-ல் ஆறு சொற்களும் காணப்படுகின்றன.
-- **Quiz நிலை:** ஆறு சொல்-பொருள் வினாக்களும் தற்போதைய Quiz-ல் இல்லை; one-word objective candidates.
+- **Quiz நிலை:** ஆறு சொல்-பொருள் இணைப்புகளும் `10_tam_u5_q12`–`q17` ஆக நான்கு தேர்வுகளுடன் சேர்க்கப்பட்டுள்ளன.
+
+### Quiz mapping — மொழிபெயர்ப்பு சொல் இணைப்புகள்
+
+| Quiz ID | Book Back ஆங்கிலச் சொல் | தமிழ்ச் சொல் | நேரடி ஆதாரம் |
+|---|---|---|---|
+| `10_tam_u5_q12` | lute music | யாழிசை | [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) |
+| `10_tam_u5_q13` | chamber | அறை | [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) |
+| `10_tam_u5_q14` | to look up | எட்டிப் பார்த்தல் | [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) |
+| `10_tam_u5_q15` | grand-daughter | பேத்தி | [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) |
+| `10_tam_u5_q16` | rote | நெட்டுரு | [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) |
+| `10_tam_u5_q17` | didactic compilation | நீதிநூல் திரட்டு | [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) |
+
+### Quiz mapping — உரையாடல் வினா/விடை வகைகள்
+
+| Quiz ID | அசல் உரையாடல் பகுதி | சரியான வகை | நேரடி ஆதாரம் |
+|---|---|---|---|
+| `10_tam_u5_q18` | “ஆமாம்! கவியரங்கத்துக்குக் கவிதை எழுதிக்கொண்டிருக்கிறேன்.” | உற்றது உரைத்தல் விடை | [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) |
+| `10_tam_u5_q19` | “அப்படியா! என்ன தலைப்பு?” | அறியா வினா | அதே நேரடி இயல் 5.5 ஆதாரம் |
+| `10_tam_u5_q20` | “கல்வியில் சிறக்கும் தமிழர்!” | நேர் விடை | அதே நேரடி இயல் 5.5 ஆதாரம் |
+| `10_tam_u5_q21` | “நீங்கள் கவியரங்கத்துக்கு எல்லாம் வருவீர்களோ? மாட்டீர்களோ?” | ஐய வினா | அதே நேரடி இயல் 5.5 ஆதாரம் |
+| `10_tam_u5_q22` | “ஏன் வராமல்?” | வினா எதிர் வினாதல் விடை | அதே நேரடி இயல் 5.5 ஆதாரம் |
+
+**காரண விளக்க ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — ஒவ்வொரு வகைக்கும் இலக்கண வரையறைகள்.
 
 #### V. இலக்கண வினாக்களுக்கான காரணம்
 - அறியா வினா — விடை தெரிந்துகொள்ளும் நோக்கில் கேட்கப்படும் வினா.
