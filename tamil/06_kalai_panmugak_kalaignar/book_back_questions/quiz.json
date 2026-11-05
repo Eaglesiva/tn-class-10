@@ -39,6 +39,97 @@
     "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT"
   },
   {
+    "id": "10_tam_u6_q11",
+    "question": "தால் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "நாக்கு",
+      "காது",
+      "மூக்கு",
+      "கண்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தால் என்பதற்கு நாக்கு என்ற பொருளை அகராதி ஆதாரம் தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q12",
+    "question": "உழுவை என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "புலி",
+      "யானை",
+      "மான்",
+      "நரி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "உழுவை என்பதற்கு புலி என CBSETamil தருகிறது; மேலும் ஒருவகை மீன், தும்பிலி என்ற பொருள்களையும் குறிப்பிடுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q13",
+    "question": "அகவுதல் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "அழைத்தல்; ஆடல்; கூத்தாடல்",
+      "மறைத்தல்; ஓடுதல்; உறங்குதல்",
+      "பார்த்தல்; கேட்டல்; எழுதுதல்",
+      "நடத்தல்; படித்தல்; பாடுதல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அகவுதல் என்பதற்கு அழைத்தல், ஆடல், கூத்தாடல் என CBSETamil தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q14",
+    "question": "ஏந்தெழில் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "மிக்க அழகு; மிக்க வனப்பு",
+      "மிகுந்த இருள்; கருமை",
+      "மெல்லிய ஒலி; இசை",
+      "பெரிய வலிமை; ஆற்றல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "ஏந்தெழில் என்பது மிகுந்த அழகையும் வனப்பையும் குறிக்கும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q15",
+    "question": "அணிமை என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "சமீபம்; அருகு; நுட்பம்; நுண்மை",
+      "தொலைவு; அகலம்; உயரம்",
+      "அழகு; நிறம்; ஒளி",
+      "கோபம்; சினம்; வெகுளி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அணிமை என்பதற்கு சமீபம், அருகு, நுட்பம், நுண்மை ஆகிய பொருள்கள் தரப்பட்டுள்ளன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
     "id": "10_tam_u6_q2",
     "question": "கூற்று 1: போராட்டப் பண்புடனே வளர்ந்தவர் கலைஞர். கூற்று 2: அவருக்குள் இருந்த கலைத்தன்மை வளர அது உதவியது.",
     "options": [
