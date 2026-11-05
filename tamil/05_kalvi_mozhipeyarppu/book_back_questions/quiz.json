@@ -118,5 +118,100 @@
     ],
     "explanationSourceUrl": "https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/",
     "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q7",
+    "question": "நிலத்துக்கு அடியில் கிடைக்கும் ______ யாவும் அரசுக்கே சொந்தம். நெகிழிப் பொருள்களை மண்ணுக்கு அடியில் _____ நிலத்தடி நீர்வளத்தைக் குன்றச் செய்யும்.",
+    "options": [
+      "புதையல் / புதைத்தல்",
+      "புதைத்தல் / புதையல்",
+      "நடித்தல் / நடிப்பு",
+      "காட்சி / காணுதல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நிலத்தடியில் கிடைக்கும் பொருள் “புதையல்”; பொருளை மண்ணுக்குள் இடும் செயல் “புதைத்தல்”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "sourceName": "VirkozKalvi — இயல் 5.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q8",
+    "question": "காட்டு விலங்குகளைச் ______ தடை செய்யப்பட்டுள்ளது. செய்த தவறுகளைச் ______ திருந்த உதவுகிறது.",
+    "options": [
+      "சுட்டல் / சுடுதல்",
+      "சுடுதல் / சுட்டல்",
+      "தொடுதல் / தொடுத்தல்",
+      "நடிப்பு / நடித்தல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "விலங்குகளைச் சுடும் செயல் “சுடுதல்”; தவறுகளைச் சுட்டிக்காட்டும் செயல் “சுட்டல்”.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "sourceName": "VirkozKalvi — இயல் 5.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q9",
+    "question": "காற்றின் மெல்லிய ______ பூக்களைத் தலையாட்டவைக்கிறது. கைகளின் நேர்த்தியான ______ பூக்களை மாலையாக்குகிறது.",
+    "options": [
+      "தொடுத்தல் / தொடுதல்",
+      "தொடுதல் / தொடுத்தல்",
+      "காட்சி / காணுதல்",
+      "புதையல் / புதைத்தல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "காற்று பூக்களை மென்மையாகத் தொடுகிறது; கைகளால் பூக்களைத் தொடுத்து மாலையாக்குகிறோம்.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "sourceName": "VirkozKalvi — இயல் 5.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q10",
+    "question": "பசுமையான _______ஐக் ________ கண்ணுக்கு நல்லது.",
+    "options": [
+      "காணுதல் / காட்சி",
+      "காட்சி / காணுதல்",
+      "நடித்தல் / நடிப்பு",
+      "புதையல் / புதைத்தல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“காட்சி” பெயர்ச்சொல்; “காணுதல்” செயலைக் குறிக்கும். பசுமையான காட்சியைக் காண்பது கண்களுக்கு நல்லது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "sourceName": "VirkozKalvi — இயல் 5.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q11",
+    "question": "பொதுவாழ்வில் ____ கூடாது. ____இல் அவரை மிஞ்ச ஆள் கிடையாது.",
+    "options": [
+      "நடிப்பு / நடித்தல்",
+      "நடித்தல் / நடிப்பு",
+      "சுடுதல் / சுட்டல்",
+      "தொடுதல் / தொடுத்தல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பொதுவாழ்வில் போலியாக நடந்து கொள்ளக் கூடாது; நடிப்புக் கலையில் அவரை மிஞ்ச யாருமில்லை.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "sourceName": "VirkozKalvi — இயல் 5.5",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
