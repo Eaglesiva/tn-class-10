@@ -48,187 +48,329 @@
 
 ## Non-objective Book Back — Answer Source Collection
 
-அசல் வினா உரை மற்றும் வரிசை questions.md-இல் பாதுகாக்கப்பட்டுள்ளன. கீழே உள்ள Section / Q ID-கள் அந்தக் கோப்பிலுள்ள அதே வினாவைக் குறிக்கின்றன; எந்த விடையும் இங்கு சொந்தமாக எழுதப்படவில்லை.
+> கீழே உள்ள ஒவ்வொரு பதிவிலும் அசல் கேள்வி உரை `questions.md`-இலிருந்து மாற்றமின்றி எடுத்துக் கொள்ளப்பட்டுள்ளது. Non-objective விடைகள் எழுதப்படவில்லை. மூன்று placeholders மட்டும் வைக்கப்பட்டுள்ளன. ஒவ்வொரு பதிவுக்கும் பொருத்தமான நேரடி இயல்/இலக்கணப் பக்கம் இணைக்கப்பட்டுள்ளது. கேள்வி-வாரியான exact match மற்றும் answer-line verification தனியாகக் குறிக்கப்பட்டுள்ளது.
 
-### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130)
+### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) — V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) — பதிவு 1
 
-#### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் — 1
-**Question reference:** questions.md → V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) → வினா 1.
+1. வினா வகையையும் விடை வகையையும் சுட்டுக.
+   • "காமராசர் நகர் எங்கே இருக்கிறது? "இந்த வழியாகச் செல்லுங்கள்." – என்று விடையளிப்பது.
+   • "எனக்கு எழுதித் தருகிறாயா?" என்ற வினாவுக்கு, "எனக்கு யார் எழுதித் தருவார்கள்?" என்று விடையளிப்பது.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [VirkozKalvi — இயல் 5.5 வினா/விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — இரு பயிற்சிகளுக்கும் பொருந்தும் விடைகள். [BrainKart — இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வகைகளின் விளக்கம். **நிலை:** ANSWER_FOUND.
 
-#### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் — 2
-**Question reference:** questions.md → V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) → வினா 2.
+**Source:** [BrainKart — இயல் 5 இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) — V. இலக்கணம் - வினா, விடை வகைகள், பொருள்கோள் (பக்கம் 130) — பதிவு 2
+
+2. உரையாடலில் இடம்பெற்றுள்ள வினாவிடை வகைகளைக் கண்டு எழுதுக.
+
+   பாமகள்: வணக்கம் ஆதிரை! ஏதோ எழுதுகிறீர்கள் போலிருக்கிறதே? (அறியா வினா)
+   ஆதிரை: ஆமாம்! கவியரங்கத்துக்குக் கவிதை எழுதிக்கொண்டிருக்கிறேன். (……………………)
+   பாமகள்: அப்படியா! என்ன தலைப்பு? (……………………)
+   ஆதிரை: கல்வியில் சிறக்கும் தமிழர்! (……………………). நீங்கள் கவியரங்கத்துக்கு எல்லாம் வருவீர்களோ? மாட்டீர்களோ? (……………………)
+   பாமகள்: ஏன் வராமல்? (……………………)
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [VirkozKalvi — இயல் 5.5 வினா/விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) — இரு பயிற்சிகளுக்கும் பொருந்தும் விடைகள். [BrainKart — இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — வகைகளின் விளக்கம். **நிலை:** ANSWER_FOUND.
 
-### VII. குறுவினா (பக்கம் 131-132)
+**Source:** [BrainKart — இயல் 5 இலக்கண விதி](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### VII. குறுவினா — 1
-**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 1.
+---
+
+### VII. குறுவினா (பக்கம் 131-132) — VII. குறுவினா (பக்கம் 131-132) — பதிவு 3
+
+1. "கழிந்த பெரும் கேள்வியினான் எனக் கேட்டு முழுது உணர்ந்த கபிலன் தன் பால் பொழிந்த பெரும் காதல்மிகு கேண்மையினான் இடைக்காட்டுப் புலவன் தென் சொல்" -இவ்வடிகளில் கழிந்த பெரும் கேள்வியினான் யார்? காதல்மிகு கேண்மையினான் யார்?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### VII. குறுவினா — 2
-**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 2.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VII. குறுவினா (பக்கம் 131-132) — VII. குறுவினா (பக்கம் 131-132) — பதிவு 4
+
+2. செய்குதம்பிப் பாவலரின் கல்வி பற்றிய கருத்தினை முழக்கத் தொடர்களாக்குக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### VII. குறுவினா — 3
-**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 3.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VII. குறுவினா (பக்கம் 131-132) — VII. குறுவினா (பக்கம் 131-132) — பதிவு 5
+
+3. அமர்ந்தான் - பகுபத உறுப்பிலக்கணம் தருக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### VII. குறுவினா — 4
-**Question reference:** questions.md → VII. குறுவினா (பக்கம் 131-132) → வினா 4.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VII. குறுவினா (பக்கம் 131-132) — VII. குறுவினா (பக்கம் 131-132) — பதிவு 6
+
+4. இந்த அறை இருட்டாக இருக்கிறது. மின்விளக்கின் சொடுக்கி எந்தப் பக்கம் இருக்கிறது? இதோ... இருக்கிறதே! சொடுக்கியைப் போட்டாலும் வெளிச்சம் வரவில்லையே! மின்சாரம் இருக்கிறதா, இல்லையா? மேற்கண்ட உரையாடலில் உள்ள வினாக்களின் வகைகளை எடுத்தெழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-### VIII. சிறுவினா (பக்கம் 132)
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### VIII. சிறுவினா — 1
-**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 1.
+---
+
+### VIII. சிறுவினா (பக்கம் 132) — VIII. சிறுவினா (பக்கம் 132) — பதிவு 7
+
+1. மன்னன் இடைக்காடனார் என்ற புலவனுக்குச் சிறப்புச் செய்தது ஏன்? விளக்கம் தருக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### VIII. சிறுவினா — 2
-**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 2.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VIII. சிறுவினா (பக்கம் 132) — VIII. சிறுவினா (பக்கம் 132) — பதிவு 8
+
+2. உங்களுடன் பயிலும் மாணவர் ஒருவர் பள்ளிப் படிப்பைப் பாதியில் நிறுத்தி வேலைக்குச் செல்ல விரும்புகிறார். அவரிடம் கற்பதன் இன்றியமையாமையை எவ்வகையில் எடுத்துரைப்பீர்கள்?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### VIII. சிறுவினா — 3
-**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 3.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VIII. சிறுவினா (பக்கம் 132) — VIII. சிறுவினா (பக்கம் 132) — பதிவு 9
+
+3. ஐக்கிய நாடுகள் அவையில் மொழிபெயர்ப்பு
+
+   ஐ.நா. அவையில் ஒருவர் பேசினால் அவரவர் மொழிகளில் புரிந்துகொள்வதற்கு வசதி செய்யப்பட்டிருக்கிறது. மொழிபெயர்ப்பு (translation) என்பது எழுதப்பட்டதை மொழிபெயர்ப்பது; ஆனால் ஒருவர் பேசும்போதே மொழிபெயர்ப்பது விளக்குவது (Interpreting) என்றே சொல்லப்படுகிறது. ஐ.நா. அவையில் ஒருவர் பேசுவதை மொழிபெயர்க்கும் மொழிபெயர்ப்பாளர் பார்வையாளர்களுக்குத் தெரியாதபடி வேறு இடத்தில் இருப்பார். ஒருவர் பேசுவதைக் காதணிக் கேட்பியில் (headphone) கேட்டபடி சில நொடிகளில் மொழிபெயர்த்து ஒலிவாங்கி வழியே பேசுவார். அவையில் உள்ள பார்வையாளர் தம்முன் உள்ள காதணிக் கேட்பியை எடுத்துப் பொருத்திக்கொண்டு அவரது மொழியில் புரிந்துகொள்வார்.
+
+   இப்பகுதியிலிருந்து ஐந்து வினாக்களை உருவாக்குக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### VIII. சிறுவினா — 4
-**Question reference:** questions.md → VIII. சிறுவினா (பக்கம் 132) → வினா 4.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VIII. சிறுவினா (பக்கம் 132) — VIII. சிறுவினா (பக்கம் 132) — பதிவு 10
+
+4. முயற்சி திருவினை ஆக்கும் முயற்றின்மை இன்மை புகுத்தி விடும். இக்குறட்பாவில் அமைந்துள்ள பொருள்கோளின் வகையைச் சுட்டி விளக்குக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-### IX. நெடுவினா (பக்கம் 132)
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### IX. நெடுவினா — 1
-**Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 1.
+---
+
+### IX. நெடுவினா (பக்கம் 132) — IX. நெடுவினா (பக்கம் 132) — பதிவு 11
+
+1. இறைவன், புலவர் இடைக்காடன் குரலுக்குச் செவிசாய்த்த நிகழ்வை நயத்துடன் எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### IX. நெடுவினா — 2
-**Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 2.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### IX. நெடுவினா (பக்கம் 132) — IX. நெடுவினா (பக்கம் 132) — பதிவு 12
+
+2. 'கற்கை நன்றே கற்கை நன்றே பிச்சை புகினும் கற்கை நன்றே' என்கிறது வெற்றிவேற்கை. மேரியிடமிருந்து பறிக்கப்பட்ட புத்தகம், அச்சிறுமியின் வாழ்க்கையில் கல்விச் சுடரை ஏற்றிய கதையைப் பற்றிய உங்களின் கருத்துகளை விவரிக்க.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### IX. நெடுவினா — 3
-**Question reference:** questions.md → IX. நெடுவினா (பக்கம் 132) → வினா 3.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### IX. நெடுவினா (பக்கம் 132) — IX. நெடுவினா (பக்கம் 132) — பதிவு 13
+
+3. தமிழின் இலக்கிய வளம் - கல்வி மொழி - பிறமொழிகளில் உள்ள இலக்கிய வளங்கள் - அறிவியல் கருத்துகள் - பிறதுறைக் கருத்துகள் - தமிழுக்குச் செழுமை - மேற்கண்ட குறிப்புகளைக் கொண்டு 'செம்மொழித் தமிழுக்கு வளம் சேர்க்கும் மொழிபெயர்ப்புக் கலை' என்ற தலைப்பில் வார இதழ் ஒன்றுக்கு நடுப்பக்கக் கட்டுரை எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — கேள்வி உரையும் விடையும் அதே பக்கத்தில் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-### X. மொழியை ஆள்வோம் (பக்கம் 133)
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### X. மொழியை ஆள்வோம் — 1
-**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 1.
+---
+
+### X. மொழியை ஆள்வோம் (பக்கம் 133) — அட்டவணையில் விடுபட்டதை எழுதுக. — பதிவு 14
+
+| வேர்ச்சொல் | பெயரெச்சத் தொடர் | வினையெச்சத் தொடர் | எழுவாய்த் தொடர் | விளித் தொடர் | வேற்றுமைத் தொடர் |
+|---|---|---|---|---|---|
+| ஓடு | ஓடிய அருணா | ஓடி வந்தாள் | அருணா ஓடினாள் | ஓடாதே! | அருணாவிற்காக ஓடினாள் |
+| சொல் | சொல்லிச் சென்றார் | கதையைச் சொன்னார் | அம்மா சொன்னார் | | |
+| தா | தந்து சென்றார் | | அரசர் தந்தார் | அரசே தருக! | |
+| பார் | பார்த்துச் சிரித்தாள் | துளிருடன் பார்த்தேன் | துளிர் பார்த்தாள் | | |
+| வா | வந்த குழந்தை | | குழந்தை வந்தாள் | குழந்தையே வா! | |
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### X. மொழியை ஆள்வோம் — 2
-**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 2.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### X. மொழியை ஆள்வோம் (பக்கம் 133) — தொடர்களில் உள்ள எழுவாயைச் செழுமை செய்க. — பதிவு 15
+
+1. மரத்தை வளர்ப்பது நன்மை பயக்கும்.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### X. மொழியை ஆள்வோம் — 3
-**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 3.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### X. மொழியை ஆள்வோம் (பக்கம் 133) — தொடர்களில் உள்ள எழுவாயைச் செழுமை செய்க. — பதிவு 16
+
+2. வாழ்க்கைப்பயணமே வேறுபட்ட பாடங்களைக் கற்றுத் தருகிறது.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-#### X. மொழியை ஆள்வோம் — 4
-**Question reference:** questions.md → X. மொழியை ஆள்வோம் (பக்கம் 133) → வினா 4.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### X. மொழியை ஆள்வோம் (பக்கம் 133) — தொடர்களில் உள்ள எழுவாயைச் செழுமை செய்க. — பதிவு 17
+
+3. கல்வியே ஒருவருக்கு உயர்வு தரும்.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — பாடல் மொழிபெயர்ப்பு, சொல் இணைப்பு, அட்டவணை, எழுவாய் விரிவாக்கம் ஆகியவற்றுக்கான பதில்கள் உள்ளன. **நிலை:** ANSWER_FOUND.
 
-### XI. மதிப்புரை எழுதுக (பக்கம் 134)
-**Question reference:** questions.md → XI. மதிப்புரை எழுதுக (பக்கம் 134) → உரைநடை/செயல்பாட்டு வினா.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### X. மொழியை ஆள்வோம் (பக்கம் 133) — தொடர்களில் உள்ள எழுவாயைச் செழுமை செய்க. — பதிவு 18
+
+4. குழந்தைகள் தனித்தனியே எழுதித்தரவேண்டும்.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — section-level answer reference; item-wise exact-match verification status must be checked against the page content.
 
-### XII. மொழியோடு விளையாடு (பக்கம் 135)
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### XII. மொழியோடு விளையாடு — 1
-**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 1.
+---
+
+### XI. மதிப்புரை எழுதுக (பக்கம் 134) — XI. மதிப்புரை எழுதுக (பக்கம் 134) — பதிவு 19
+
+பள்ளி ஆண்டுவிழா மலருக்காக, நீங்கள் நூலகத்தில் படித்த கதை/கட்டுரை/சிறுகதை/கவிதை நூலுக்கான மதிப்புரை எழுதுக.
+
+குறிப்பு – நூலின் தலைப்பு – நூலின் மையப்பொருள் – மொழிநடை – வெளிப்படுத்தும் கருத்து – நூலின் நயம் – நூல் கட்டமைப்பு – சிறப்புக் கூறு- நூல் ஆசிரியர்
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
-#### XII. மொழியோடு விளையாடு — 2
-**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 2.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### XI. மதிப்புரை எழுதுக (பக்கம் 134) — படிவத்தை நிரப்புக. — பதிவு 20
+
+நூலக உறுப்பினர் படிவம்
+தந்தை பெயர்
+பிறந்த நாள்
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
-#### XII. மொழியோடு விளையாடு — 3
-**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 3.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### XII. மொழியோடு விளையாடு (பக்கம் 135) — செயல்திட்டம் — பதிவு 21
+
+"பள்ளியைத் தூய்மையாக வைத்திருத்தல்" – குறித்த செயல்திட்ட வரைவு ஒன்றை உருவாக்கித் தலைமை ஆசிரியரின் ஒப்புதலுடன் நடைமுறைப்படுத்துக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
-#### XII. மொழியோடு விளையாடு — 4
-**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 4.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### XII. மொழியோடு விளையாடு (பக்கம் 135) — காட்சியைக் கவிதையாக்குக. — பதிவு 22
+
+---
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — செயல்திட்டக் கேள்வி பக்கத்தில் உள்ளது; தனியான மாதிரி விடை கிடைக்கவில்லை. **நிலை:** ANSWER_NOT_FOUND.
 
-#### XII. மொழியோடு விளையாடு — 5
-**Question reference:** questions.md → XII. மொழியோடு விளையாடு (பக்கம் 135) → வினா 5.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### XIII. நிற்க அதற்குத் தக (பக்கம் 136) — XIII. நிற்க அதற்குத் தக (பக்கம் 136) — பதிவு 23
+
+பள்ளியில் நான் - நேரத்தைச் சரியாக் கடைப்பிடிப்பேன்.
+வீட்டில் நான் - வீட்டுப் பணிகளைப் பகிர்ந்து செய்வேன்.
+உடன்பயிலும் மாணவரின் திறமையைப் பாராட்டுவேன்.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — தொடர்புடைய புதிர் / தொழிற்பெயர் / அகராதி / காட்சிக் கவிதை விடை அதே பக்கத்தில் உள்ளது. **நிலை:** ANSWER_FOUND.
 
-### XIII. நிற்க அதற்குத் தக (பக்கம் 136)
-**Question reference:** questions.md → XIII. நிற்க அதற்குத் தக (பக்கம் 136) → உரைநடை/செயல்பாட்டு வினா.
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — section-level answer reference; item-wise exact-match verification status must be checked against the page content.
+**Source:** [BrainKart — இயல் 5 — மணற்கேணி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
 
 ## Source QA — Iyal 5
 - Objective answer/source records remain in the first part of this file.
