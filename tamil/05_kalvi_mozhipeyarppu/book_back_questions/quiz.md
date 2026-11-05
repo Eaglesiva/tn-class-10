@@ -377,84 +377,86 @@ didactic compilation என்பதற்கான தமிழ்ச் சொ
 
 ---
 
-### வினா 7
-நிலத்துக்கு அடியில் கிடைக்கும் ______ யாவும் அரசுக்கே சொந்தம். நெகிழிப் பொருள்களை மண்ணுக்கு அடியில் _____ நிலத்தடி நீர்வளத்தைக் குன்றச் செய்யும்.
+---
 
-- அ) புதையல் / புதைத்தல்
-- ஆ) புதைத்தல் / புதையல்
-- இ) நடித்தல் / நடிப்பு
-- ஈ) காட்சி / காணுதல்
+### வினா 23
+மன்றல் என்பதன் அகராதிப் பொருள் எது?
 
-**சரியான விடை:** அ) புதையல் / புதைத்தல்
+- அ) திருமணம்
+- ஆ) காலடிக்குறி
+- இ) நீர்த்துளி
+- ஈ) மயக்கம்
 
-**காரண விளக்கம்:** நிலத்துக்கு அடியில் கிடைப்பது புதையல்; பொருள்களை மண்ணுக்குள் இடும் செயல் புதைத்தல்.
+**சரியான விடை:** அ) திருமணம்
 
-**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 
 
 ---
 
-### வினா 8
-காட்டு விலங்குகளைச் ______ தடை செய்யப்பட்டுள்ளது. செய்த தவறுகளைச் ______ திருந்த உதவுகிறது.
+### வினா 24
+அடிச்சுவடு என்பதன் அகராதிப் பொருள் எது?
 
-- அ) சுட்டல் / சுடுதல்
-- ஆ) சுடுதல் / சுட்டல்
-- இ) தொடுத்தல் / தொடுதல்
-- ஈ) புதையல் / புதைத்தல்
+- அ) காலடிக்குறி
+- ஆ) திருமணம்
+- இ) மயக்கம்
+- ஈ) அகர வரிசை நூல்
 
-**சரியான விடை:** ஆ) சுடுதல் / சுட்டல்
+**சரியான விடை:** அ) காலடிக்குறி
 
-**காரண விளக்கம்:** காட்டு விலங்குகளைச் சுடுதல் தடை; செய்த தவறுகளைச் சுட்டிக்காட்டுதல் திருந்த உதவுகிறது.
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.
 
-**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
-
-
----
-
-### வினா 9
-காற்றின் மெல்லிய ______ பூக்களைத் தலையாட்டவைக்கிறது. கைகளின் நேர்த்தியான ______ பூக்களை மாலையாக்குகிறது.
-
-- அ) தொடுத்தல் / தொடுதல்
-- ஆ) தொடுதல் / தொடுத்தல்
-- இ) நடித்தல் / நடிப்பு
-- ஈ) காட்சி / காணுதல்
-
-**சரியான விடை:** ஆ) தொடுதல் / தொடுத்தல்
-
-**காரண விளக்கம்:** காற்றின் மெல்லிய தொடுதல் பூக்களை அசைக்கிறது; கைகளின் நேர்த்தியான தொடுத்தல் பூக்களை மாலையாக்குகிறது.
-
-**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 
 
 ---
 
-### வினா 10
-பசுமையான _______ஐக் ________ கண்ணுக்கு நல்லது.
+### வினா 25
+அகராதி என்பதன் பொருள் எது?
 
-- அ) காணுதல் / காட்சி
-- ஆ) காட்சி / காணுதல்
-- இ) புதையல் / புதைத்தல்
-- ஈ) சுடுதல் / சுட்டல்
+- அ) அகர வரிசையில் பொருள் தரும் நூல்
+- ஆ) காலடிக்குறி
+- இ) திருமணம்
+- ஈ) மயக்கம்
 
-**சரியான விடை:** ஆ) காட்சி / காணுதல்
+**சரியான விடை:** அ) அகர வரிசையில் பொருள் தரும் நூல்
 
-**காரண விளக்கம்:** பசுமையான காட்சி கண்ணுக்கு நல்லது; அதைக் காணுதல் பார்வைக்கு இன்பம் தருகிறது.
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.
 
-**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
 
 
 ---
 
-### வினா 11
-பொதுவாழ்வில் ____ கூடாது. ____இல் அவரை மிஞ்ச ஆள் கிடையாது.
+### வினா 26
+தூவல் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?
 
-- அ) நடிப்பு / நடித்தல்
-- ஆ) நடித்தல் / நடிப்பு
-- இ) தொடுதல் / தொடுத்தல்
-- ஈ) சுட்டல் / சுடுதல்
+- அ) மழை / நீர்த்துளி
+- ஆ) திருமணம்
+- இ) காலடிக்குறி
+- ஈ) மயக்கம்
 
-**சரியான விடை:** ஆ) நடித்தல் / நடிப்பு
+**சரியான விடை:** அ) மழை / நீர்த்துளி
 
-**காரண விளக்கம்:** பொதுவாழ்வில் நடித்தல் கூடாது; நடிப்பில் அவரை மிஞ்ச ஆள் இல்லை.
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.
 
-**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+
+
+---
+
+### வினா 27
+மருள் என்பதன் அகராதிப் பொருள் எது?
+
+- அ) மயக்கம்
+- ஆ) திருமணம்
+- இ) காலடிக்குறி
+- ஈ) அகர வரிசை நூல்
+
+**சரியான விடை:** அ) மயக்கம்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; ஆதாரங்களில் “மயக்கம்” நேரடியாகத் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
