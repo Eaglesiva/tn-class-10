@@ -604,3 +604,71 @@ The successful flight of the bird was a proud moment for the seagull’s family.
 **Explanation (extractor-written from cited source):** “Flew” is the past-tense verb form used in the transformed sentence: “The bird flew successfully...”
 
 **Answer sources:** [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/) · [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [KalviTips](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+
+
+---
+
+### Question 36 — Prose C
+In the Parts of Speech chart, what is the verb form corresponding to the noun “exhaustion”?
+
+- a) exhaust
+- b) exhausted
+- c) exhaustive
+- d) exhausting
+
+**Correct answer:** a) exhaust
+
+**Explanation (extractor-written from cited source):** The chart lists “exhaust” as the verb form corresponding to the noun “exhaustion”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 37 — Prose C
+In the Parts of Speech chart, what is the adverb form corresponding to the noun “exhaustion”?
+
+- a) exhaust
+- b) exhaustively
+- c) exhaustible
+- d) exhaustion
+
+**Correct answer:** b) exhaustively
+
+**Explanation (extractor-written from cited source):** The chart lists “exhaustively” as the adverb form corresponding to the noun “exhaustion”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 38 — Prose C
+In the Parts of Speech chart, what is the adjective form corresponding to the verb “widen”?
+
+- a) widely
+- b) width
+- c) wide
+- d) wideness
+
+**Correct answer:** c) wide
+
+**Explanation (extractor-written from cited source):** The chart lists “wide” as the adjective form corresponding to the verb “widen”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 39 — Prose C
+In the Parts of Speech chart, what is the adverb form corresponding to the verb “widen”?
+
+- a) widen
+- b) wide
+- c) wideness
+- d) widely
+
+**Correct answer:** d) widely
+
+**Explanation (extractor-written from cited source):** The chart lists “widely” as the adverb form corresponding to the verb “widen”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
