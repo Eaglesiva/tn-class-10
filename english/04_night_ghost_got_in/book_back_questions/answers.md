@@ -497,7 +497,39 @@
 - **Quiz ID:** `10_eng_u2_q40`
 - **Status:** ANSWER_FOUND
 
-> Four of the eight matching pairs are recorded in this batch; the remaining four follow.
+- All eight source-listed preposition–meaning pairs are recorded, source-wise, in the answer register.
+#### 10_eng_u2_q41 — What is the meaning of “in addition to”?
+- **S1 — Learn Cram:** added to — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** added to — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “In addition to” means something is added to or included with something else.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q41`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q42 — What is the meaning of “in place of”?
+- **S1 — Learn Cram:** as a substitute for — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** as a substitute for — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “In place of” means instead of or as a substitute for something.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q42`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q43 — What is the meaning of “regardless of”?
+- **S1 — Learn Cram:** irrespective of — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** irrespective of — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “Regardless of” means irrespective of a condition or circumstance.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q43`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q44 — What is the meaning of “for the sake of”?
+- **S1 — Learn Cram:** in the interest of — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** in the interest of — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “For the sake of” means for the benefit or interest of someone or something.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q44`
+- **Status:** ANSWER_FOUND
+
 ### Prose L3
 
 **Book Back question / task:** Edit the passage by replacing incorrect words with correct prepositional phrases.
