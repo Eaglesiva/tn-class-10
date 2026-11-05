@@ -90,3 +90,71 @@
 ## Additional direct source
 [BrainKart — இயல் 9 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11876/)
 [BrainKart — இயல் 9 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/)
+
+
+---
+
+### வினா 6
+சிறுபொழுதின் வகைகளுள் ஒன்று (2)
+
+- அ) காலை
+- ஆ) மாலை
+- இ) யாமம்
+- ஈ) வைகறை
+
+**சரியான விடை:** அ) காலை
+
+**காரண விளக்கம்:** காலை என்பது ஒரு நாளின் ஆறு சிறுபொழுதுகளில் ஒன்றாகும்.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+
+
+---
+
+### வினா 7
+நேர் நேர் – வாய்பாடு (2)
+
+- அ) புளிமா
+- ஆ) தேமா
+- இ) கருவிளம்
+- ஈ) கூவிளம்
+
+**சரியான விடை:** ஆ) தேமா
+
+**காரண விளக்கம்:** இரண்டு நேர் அசைகள் இணையும் வாய்பாடு தேமா எனப்படும்.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+
+
+---
+
+### வினா 8
+எட்டுத்தொகை நூல்களுள் ஒன்று (5)
+
+- அ) பத்துப்பாட்டு
+- ஆ) கலித்தொகை
+- இ) திருக்குறள்
+- ஈ) சிலப்பதிகாரம்
+
+**சரியான விடை:** ஆ) கலித்தொகை
+
+**காரண விளக்கம்:** கலித்தொகை எட்டுத்தொகை நூல்களில் ஒன்றாகும்.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+
+
+---
+
+### வினா 9
+மக்களே போல்வர் __________ (4)
+
+- அ) சான்றோர்
+- ஆ) வள்ளல்
+- இ) கயவர்
+- ஈ) அறிஞர்
+
+**சரியான விடை:** இ) கயவர்
+
+**காரண விளக்கம்:** திருக்குறளில் “மக்களே போல்வர் கயவர்” என்ற தொடர் இடம்பெறுகிறது.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 9.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
