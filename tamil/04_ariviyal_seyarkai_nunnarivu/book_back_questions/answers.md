@@ -352,7 +352,7 @@
 #### Q9 — குரலில் இருந்து பேச்சு எனில், விரலில் இருந்து. ... ... .
 - **S1 — CBSETamil:** எழுத்து — [இயல் 4.5 மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** குரல் பேச்சை வெளிப்படுத்துவது போல, விரல்/கை இயக்கம் எழுத்தை உருவாக்குகிறது.
-- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-guide-chapter-4-5/)
+- **காரண விளக்க Source:** [CBSETamil — இயல் 4.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/)
 - **Quiz ID:** `10_tam_u4_q9`
 
 #### Q10 — மீன் இருப்பது நீரில்; தேன் இருப்பது. ... ... .
