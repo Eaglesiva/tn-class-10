@@ -1,62 +1,186 @@
 [
   {
     "id": "10_tam_u8_q1",
-    "question": "மேன்மை தரும் அறம் என்பது -",
+    "question": "மேன்மை தரும் அறம் என்பது.......",
     "options": [
-      "கைம்மாறு கருதாமல் அறம் செய்வது",
+      "கைமாறு கருதாமல் அறம் செய்வது",
       "மறுபிறப்பில் பயன் பெறலாம் என்ற நோக்கில் அறம் செய்வது",
-      "புகழுக்காக அறம் செய்வது",
+      "புகழக் கருதி அறம் செய்வது",
       "பதிலுதவி பெறுவதற்காக அறம் செய்வது"
     ],
     "correctOptionIndex": 0,
-    "explanation": "எந்த ஒரு பிரதிபலனையோ, கைம்மாறையோ (பதிலுதவியையோ) எதிர்பார்க்காமல் செய்வதே உண்மையான அறம் எனச் சங்க இலக்கியங்கள் உரைக்கின்றன."
+    "explanation": "எந்தப் பிரதிபலனையும் அல்லது பதிலுதவியையும் எதிர்பார்க்காமல் செய்யப்படும் அறமே மேன்மை தரும் அறமாகக் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-8-1/",
+    "sourceName": "TN Board Solutions — இயல் 8.1",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/",
+      "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-10-tamil-chapter-8-1",
+      "https://www.brainkart.in/article/Questions-and-Answers_11867/"
+    ],
+    "explanationSourceUrl": "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-10-tamil-chapter-8-1",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u8_q2",
-    "question": "'வீட்டைத் துடைத்துச் சாயம் அடித்தல்' இத்தொடர் குறிப்பிடுவது -",
+    "question": "'வீட்டைத் துடைத்துச் சாயம் அடித்தல்' இவ்வடி குறிப்பிடுவது...............",
     "options": [
-      "காலமாற்றம்",
-      "வீட்டை அழகுபடுத்துதல்",
-      "இடையறாது அறப்பணி செய்தல்",
-      "வறுமை நிலை"
+      "காலம் மாறுவதை",
+      "வீட்டைத் துடைப்பதை",
+      "இடையறாது அறப்பணி செய்தலை",
+      "வண்ணம் பூசுவதை"
     ],
     "correctOptionIndex": 2,
-    "explanation": "'ஞானம்' என்னும் கவிதையில் வீட்டைத் துடைத்துச் சாயம் அடித்தல் என்பது, சமுதாயத்தில் இடைவிடாது நம்மைப் புதுப்பித்தல் அல்லது அறப்பணி செய்தலைக் குறிப்பதாகக் கவிஞர் தி.சோ. வேணுகோபாலன் குறிப்பிடுகிறார்."
+    "explanation": "“ஞானம்” கவிதையில் இந்தச் செயல் வீட்டைச் சுத்தம் செய்வதை மட்டும் குறிக்காமல், இடைவிடாது அறப்பணி செய்வதைக் குறிக்கும் உருவகப் பொருளில் பயன்படுத்தப்படுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-2/",
+    "sourceName": "VirkozKalvi — இயல் 8.2, ஞானம்",
+    "additionalSourceUrls": [
+      "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-8-2/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11867/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-2/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u8_q3",
-    "question": "உலகமே வறுமையுற்றாலும் கொடுப்பவன் அதியன்; இரவலர் வராவிட்டாலும் அவர்களைத் தேடி வரவழைத்துக் கொடுப்பவன் ஆடுகோட்பாட்டுச் சேரலாதன் - இவை முறையே பாடியவர்கள் -",
+    "question": "உலகமே வறுமையுற்றாலும் கொடுப்பவன் என்றும், பொருள்களின் இருப்பைக் கூட அறியாமல் கொடுப்பவன் என்றும் பாராட்டப்படுவோர்",
     "options": [
-      "ஒளவையார், நச்செள்ளையார்",
-      "நச்செள்ளையார், ஒளவையார்",
-      "கபிலர், பரணர்",
-      "நக்கீரர், ஒளவையார்"
+      "உதியன்; சேரலாதன்",
+      "அதியன்; பெருஞ்சாத்தன்",
+      "பேகன்; கிள்ளிவளவன்",
+      "நெடுஞ்செழியன்; திருமுடிக்காரி"
     ],
-    "correctOptionIndex": 0,
-    "explanation": "அதியமானின் கொடைச் சிறப்பை ஔவையாரும், ஆடுகோட்பாட்டுச் சேரலாதனின் கொடைச் சிறப்பைக் காக்கைப்பாடினியார் நச்செள்ளையாரும் புகழ்ந்து பாடியுள்ளனர்."
+    "correctOptionIndex": 1,
+    "explanation": "வறுமை சூழ்ந்த நிலையிலும் கொடுப்பவர் என்றும், பொருளின் இருப்பைக் கூட எண்ணாமல் கொடுப்பவர் என்றும் ஆதாரங்களில் அதியன் மற்றும் பெருஞ்சாத்தன் குறிப்பிடப்படுகின்றனர்.",
+    "sourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/",
+    "sourceName": "Samacheer Kalvi Guide — சங்க இலக்கியத்தில் அறம்",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
+      "https://www.tamilnaduboard.com/papers/tn-board-class-10-tamil-p1-3551-ns-2020.pdf",
+      "https://www.brainkart.in/article/Questions-and-Answers_11867/"
+    ],
+    "explanationSourceUrl": "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u8_q4",
-    "question": "காலக்கணிதம் கவிதையில் இடம்பெற்ற தொடர் -",
+    "question": "காலக்கலக்கணிதம் கவிதையில் இடம்பெற தொடர்.........",
     "options": [
       "இகழ்ந்தால் என்மனம் இறந்துவிடாது",
-      "என்னைப் புகழ்ந்தால் என்மனம் இறந்துவிடாது",
-      "என்மனம் புகழ்ந்தால் இறந்துவிடாது",
-      "என்மனம் இகழ்ந்தால் இறந்துவிடாது"
+      "என்மனம் இகழ்ந்தால் இறந்துவிடாது",
+      "இகழ்ந்தால் இறந்துவிடாது என்மனம்",
+      "என்மனம் இறந்துவிடாது இகழ்ந்தால்"
     ],
     "correctOptionIndex": 0,
-    "explanation": "கண்ணதாசனின் காலக்கணிதம் கவிதையில், \"இகழ்ந்தால் என்மனம் இறந்துவிடாது; என்னைப் புகழ்ந்தால் என்மனம் புல்லரிக்காது\" என்று கவிஞன் தன் இயல்பைக் கூறுகிறான்."
+    "explanation": "“காலக்கணிதம்” கவிதையில் இடம்பெறும் வரியை அப்படியே அடையாளம் காணும் வினா இது; பாடவிடை ஆதாரங்கள் முதல் option-ஐ உறுதிப்படுத்துகின்றன.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-3/",
+    "sourceName": "VirkozKalvi — இயல் 8.3, காலக்கணிதம்",
+    "additionalSourceUrls": [
+      "https://www.studiestoday.com/samacheer-kalvi-solutions-for-class-10-tamil-chapter-8-3",
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11867/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-8-3/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u8_q5",
-    "question": "சிலப்பதிகாரத்திலும் மணிமேகலையிலும் அமைந்த பாவினம் -",
+    "question": "சிலப்பதிகாரத்திலும் மணிமேகலையிலும் அமைந்த பாவினம்..........",
     "options": [
-      "வெண்பா",
       "அகவற்பா",
-      "கலிப்பா",
-      "வஞ்சிப்பா"
+      "வெண்பா",
+      "வஞ்சிப்பா",
+      "கலிப்பா"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "தமிழில் தோன்றிய இரட்டைக் காப்பியங்களான சிலப்பதிகாரம், மணிமேகலை ஆகிய இரண்டும் 'அகவற்பா' (ஆசிரியப்பா) என்னும் யாப்பு வடிவத்திலேயே பாடப்பட்டுள்ளன."
+    "correctOptionIndex": 0,
+    "explanation": "சிலப்பதிகாரம், மணிமேகலை ஆகிய இரட்டைக் காப்பியங்களின் பாவினமாக அகவற்பா குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://winmeen.com/10th-tamil-questions-unit-8/",
+    "sourceName": "Winmeen — இயல் 8 வினாக்கள்",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11867/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u8_q6",
+    "question": "ஆசுகவி என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "கொடுத்த பொருளை உடனே பாடும் பாட்டு; அப்பாடலைப் பாடும் புலவன்",
+      "இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு",
+      "சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி",
+      "விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "ஆசுகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "sourceName": "CBSETamil — இயல் 8.5 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions",
+      "https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u8_q7",
+    "question": "மதுரகவி என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "இனிமை பெருகப் பாடும் கவி; சொற்சுவை, பொருட்சுவை நிரம்பிய பாட்டு",
+      "கொடுத்த பொருளை உடனே பாடும் பாட்டு",
+      "சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி",
+      "விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மதுரகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "sourceName": "CBSETamil — இயல் 8.5 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions",
+      "https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u8_q8",
+    "question": "சித்திரகவி என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி; 21 நயங்களில் கவிதை இயற்றுபவர்",
+      "கொடுத்த பொருளை உடனே பாடும் பாட்டு",
+      "இனிமை பெருகப் பாடும் கவி",
+      "விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "சித்திரகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "sourceName": "CBSETamil — இயல் 8.5 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions",
+      "https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u8_q9",
+    "question": "வித்தாரகவி என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "விரித்துப் பாடப் பெறும் பாட்டு; விரிவாகப் பாடும் நூல்",
+      "கொடுத்த பொருளை உடனே பாடும் பாட்டு",
+      "இனிமை பெருகப் பாடும் கவி",
+      "சித்திரத்தில் அமைத்தற்கு ஏற்ப பாடும் இறைக்கவி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வித்தாரகவி என்பதற்கான அகராதிப் பொருளை பாடவிடை ஆதாரங்கள் நேரடியாகத் தருகின்றன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "sourceName": "CBSETamil — இயல் 8.5 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/help/491/259/chapter-8-5-pa-vakai-alakitutal-chapter-8-5-10th-tamil-guide-samacheer-kalvi-solutions",
+      "https://www.freetnbooks.com/10th-std-tamil-guide-lesson-8-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-8-5/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]

@@ -1,63 +1,462 @@
-# 10-ஆம் வகுப்பு தமிழ் - இயல் 5: மொழிபெயர்ப்புக் கல்வி — வினாடி-வினா (Interactive Quiz)
+# 10-ஆம் வகுப்பு தமிழ் — இயல் 5: மணற்கேணி
+## Verified Book Back Objective Quiz
 
-## வினா 1:
-"மாபாரதம் தமிழ்ப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்" என்னும் சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு உணர்த்தும் செய்தி -
-* அ) சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது
-* ஆ) காப்பியக் காலத்தில் மொழிபெயர்ப்பு இருந்தது
-* இ) பக்தி இலக்கியக் காலத்தில் மொழிபெயர்ப்பு இருந்தது
-* ஈ) சங்கம் மருவிய காலத்தில் மொழிபெயர்ப்பு இருந்தது
+> Source of question wording: `questions.md` (read-only). The file contains the original five Book Back MCQs, one Book Back riddle, objective language-exercise items, and the five Book Back dictionary lookups. New four-option conversions are based only on source-verified Book Back answers; open-ended tasks are excluded.
 
-> **சரியான விடை:** அ) சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது
-> **காரண விளக்கம்:** பாண்டியர்கள் காலத்தில் சங்கம் வைத்து தமிழை வளர்த்ததோடு, மகாபாரதத்தைத் தமிழில் மொழிபெயர்த்தனர் என்பதை இச்செப்பேடு உறுதியாகத் தெரிவிக்கிறது.
+### வினா 1
+'மாபாதை தமிழப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்' என்னும் சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு உணர்த்தும் செய்தி
 
----
+- அ) சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது
+- ஆ) காப்பியக் காலத்தில் மொழிபெயர்ப்பு இருந்தது
+- இ) பக்தி இலக்கியக் காலத்தில் மொழிபெயர்ப்பு இருந்தது
+- ஈ) சங்கம் மருவிய காலத்தில் மொழிபெயர்ப்பு இருந்தது
 
-## வினா 2:
-அருந்துணை என்பதைப் பிரித்தால் -
-* அ) அருமை + துணை
-* ஆ) அரு + துணை
-* இ) அருமை + இணை
-* ஈ) அருமை + துனை
+**சரியான விடை:** அ) சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது
 
-> **சரியான விடை:** அ) அருமை + துணை
-> **காரண விளக்கம்:** பண்புப் பெயர் புணர்ச்சி விதிப்படி (ஈறுபோதல் விதி) 'அருமை' என்பதில் உள்ள 'மை' விகுதி கெட்டு, 'அருந்துணை' எனப் புணரும்.
+**காரண விளக்கம்:** சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு மகாபாரதம் தமிழாக்கம் செய்யப்பட்டதும் சங்கம் நிறுவப்பட்டதும் குறித்த செய்தியைச் சொல்வதால் சங்க கால மொழிபெயர்ப்பு மரபை உணர்த்துகிறது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/) · [Nibunan — இயல் 5](https://nibunan.in/clear-tnpsc-tamil/)
 
 ---
 
-## வினா 3:
-"இங்கு நகரப்பேருந்து நிற்குமா?" என்று வழிப்போக்கர் கேட்டது _______ வினா.
-"அதோ, அங்கே நிற்கும்" என்று மற்றொருவர் கூறியது _______ விடை.
-* அ) அறிவினா, சுட்டுவிடை
-* ஆ) அறியாவினா, மறைவிடை
-* இ) அறியாவினா, சுட்டுவிடை
-* ஈ) கொளல்வினா, நேர்விடை
+### வினா 2
+அருந்துணை என்பதைப் பிரித்தால்......................
 
-> **சரியான விடை:** இ) அறியாவினா, சுட்டுவிடை
-> **காரண விளக்கம்:** தனக்குத் தெரியாத ஒரு செய்தியைப் பிறரிடம் அறிந்துகொள்ளக் கேட்பது 'அறியாவினா'. ஒன்றைச் சுட்டிக்காட்டி விடை கூறுவது 'சுட்டுவிடை' எனப்படும்.
+- அ) அருமை + துணை
+- ஆ) அரு + துணை
+- இ) அருமை + இணை
+- ஈ) அரு + இணை
 
----
+**சரியான விடை:** அ) அருமை + துணை
 
-## வினா 4:
-"அருளைப் பெருக்கி அறிவைத் திருத்தி
-மருளை அகற்றி மதிக்கும் தெருளை" - என்று இவ்வடிகளில் குறிப்பிடப்படுவது எது?
-* அ) தமிழ்
-* ஆ) கல்வி
-* இ) அறிவியல்
-* ஈ) அறம்
+**காரண விளக்கம்:** “அருந்துணை” என்ற சொல்லின் பிரிப்பு “அருமை + துணை” என விடை ஆதாரங்களில் தரப்பட்டுள்ளது.
 
-> **சரியான விடை:** ஆ) கல்வி
-> **காரண விளக்கம்:** நீதிவெண்பாப் பாடலில், அறியாமையைப் போக்கி அறிவைத் தந்து வாழ்க்கையை உயர்த்தும் 'கல்வி'யின் சிறப்பையே க. செய்குதம்பிப் பாவலர் இவ்வாறு குறிப்பிடுகிறார்.
+**விடை ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/) · [Nibunan — இயல் 5](https://nibunan.in/clear-tnpsc-tamil/)
 
 ---
 
-## வினா 5:
-இடைக்காடனாரின் பாடலை இகழ்ந்தவர் _______; இடைக்காடனாரிடம் அன்பு வைத்தவர் _______
-* அ) இறைவன், மன்னன்
-* ஆ) மன்னன், இறைவன்
-* இ) மன்னன், புலவர்
-* ஈ) இறைவன், புலவர்
+### வினா 3
+'இங்கு நகரப் பேருந்து நிற்குமா?' என்று வழிப்போக்கர் கேட்டது............ வினா. 'அதோ, அங்கே நிற்கும்.' என்று மற்றொருவர் கூறியது.......... விடை.
 
-> **சரியான விடை:** ஆ) மன்னன், இறைவன்
-> **காரண விளக்கம்:** இடைக்காடனார் பாடிய பாடலின் பொருளை உணராமல் மன்னன் குசேலபாண்டியன் அவரை இகழ்ந்தான். ஆனால் இறைவன், புலவர் மீது அன்பு கொண்டு அவர் பக்கம் நின்றார்.
+- அ) ஐயவினா, வினா எதிர் வினாதல்
+- ஆ) அறிவினா, மறை விடை
+- இ) அறியா வினா, சுட்டு விடை
+- ஈ) கொளல் வினா, இனமொழி விடை
+
+**சரியான விடை:** இ) அறியா வினா, சுட்டு விடை
+
+**காரண விளக்கம்:** தனக்குத் தெரியாத பேருந்து நிற்கும் இடத்தை அறியக் கேட்பதால் அது அறியா வினா; “அதோ, அங்கே” என்று இடத்தைச் சுட்டிக் கூறுவதால் அது சுட்டு விடை.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/) · [VirkozKalvi — இயல் 5, வினா-விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 
 ---
+
+### வினா 4
+"அருளைப் பெருக்கி அறிவைத் திருத்தி மருளை அகற்றி மதிக்கும் தெருளை" - என்று இவ்வடிகளில் குறிப்பிடப்படுவது எது?
+
+- அ) தமிழ்
+- ஆ) அறிவியல்
+- இ) கல்வி
+- ஈ) இலக்கியம்
+
+**சரியான விடை:** இ) கல்வி
+
+**காரண விளக்கம்:** அருள் மற்றும் அறிவை வளர்த்து, அறியாமையை நீக்கி தெளிவைத் தருவது கல்வியின் பயனாக இவ்வடிகளில் கூறப்படுகிறது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/) · [Nibunan — இயல் 5](https://nibunan.in/clear-tnpsc-tamil/)
+
+---
+
+### வினா 5
+இடைக்காடனாரின் பாடலை இகழ்ந்தவர்......... இடைக்காடனாரிடம் அன்பு வைத்தவர்..........
+
+- அ) அமைச்சர், மன்னன்
+- ஆ) அமைச்சர், இறைவன்
+- இ) இறைவன், மன்னன்
+- ஈ) மன்னன், இறைவன்
+
+**சரியான விடை:** ஈ) மன்னன், இறைவன்
+
+**காரண விளக்கம்:** இடைக்காடனாரின் பாடலை மன்னன் இகழ்ந்தான்; புலவரிடம் அன்பு கொண்டு அவருக்கு ஆதரவாக இருந்தவர் இறைவன் எனப் பாடப்பகுதி விளக்குகிறது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/) · [YouTube lesson reference — திருவிளையாடற்புராணம்](https://www.youtube.com/watch?v=QOLU-HT0ZYs)
+
+---
+
+### வினா 6 — புதிர்ப்பாடல்
+தார்போன்ற நிறமுண்டு கரியுமில்லை; பார் முழுதும் பறந்து திரிவேன் மேகமுமில்லை; சேர்ந்து அமர்ந்து ஒலிப்பேன் பள்ளியுமில்லை; சோர்ந்து போகாமல் வீடமைப்பேன் பொறியாளருமில்லை; வீட்டுக்கு வருமுன்னே, வருவதைக் கூறுவேன். நான் யார்?
+
+- அ) காகம்
+- ஆ) கிளி
+- இ) புறா
+- ஈ) கழுகு
+
+**சரியான விடை:** அ) காகம்
+
+**காரண விளக்கம்:** புதிரில் கூறப்பட்ட கருமை, கூட்டமாக அமர்ந்து ஒலித்தல், கூடு கட்டுதல், வருகையை முன்கூட்டியே குரலால் அறிவித்தல் ஆகிய குறிப்புகள் காகத்திற்குப் பொருந்துகின்றன.
+
+**விடை ஆதாரம்:** [TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Malar Mahendran — இயல் 5 மொழியை ஆள்வோம்](https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/)
+
+## Source / Wording QA
+- Q1-ல் `questions.md` “மாபாதை தமிழப்படுத்தும்” என உள்ளது; ஆதாரப் பக்கங்களில் “மாபாரதம் தமிழ்ப்படுத்தும்” என உள்ளது. மூலக் கேள்வி மாற்றப்படாமல், wording variant பதிவு செய்யப்பட்டுள்ளது.
+
+[BrainKart — இயல் 5 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 7 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+நிலத்துக்கு அடியில் கிடைக்கும் ______ யாவும் அரசுக்கே சொந்தம். நெகிழிப் பொருள்களை மண்ணுக்கு அடியில் _____ நிலத்தடி நீர்வளத்தைக் குன்றச் செய்யும்.
+
+- அ) புதையல் / புதைத்தல்
+- ஆ) புதைத்தல் / புதையல்
+- இ) நடித்தல் / நடிப்பு
+- ஈ) காட்சி / காணுதல்
+
+**சரியான விடை:** அ) புதையல் / புதைத்தல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நிலத்தடியில் கிடைக்கும் பொருள் “புதையல்”; பொருளை மண்ணுக்குள் இடும் செயல் “புதைத்தல்”.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 8 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+காட்டு விலங்குகளைச் ______ தடை செய்யப்பட்டுள்ளது. செய்த தவறுகளைச் ______ திருந்த உதவுகிறது.
+
+- அ) சுட்டல் / சுடுதல்
+- ஆ) சுடுதல் / சுட்டல்
+- இ) தொடுதல் / தொடுத்தல்
+- ஈ) நடிப்பு / நடித்தல்
+
+**சரியான விடை:** ஆ) சுடுதல் / சுட்டல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** விலங்குகளைச் சுடும் செயல் “சுடுதல்”; தவறுகளைச் சுட்டிக்காட்டும் செயல் “சுட்டல்”.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 9 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+காற்றின் மெல்லிய ______ பூக்களைத் தலையாட்டவைக்கிறது. கைகளின் நேர்த்தியான ______ பூக்களை மாலையாக்குகிறது.
+
+- அ) தொடுத்தல் / தொடுதல்
+- ஆ) தொடுதல் / தொடுத்தல்
+- இ) காட்சி / காணுதல்
+- ஈ) புதையல் / புதைத்தல்
+
+**சரியான விடை:** ஆ) தொடுதல் / தொடுத்தல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காற்று பூக்களை மென்மையாகத் தொடுகிறது; கைகளால் பூக்களைத் தொடுத்து மாலையாக்குகிறோம்.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 10 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+பசுமையான _______ஐக் ________ கண்ணுக்கு நல்லது.
+
+- அ) காணுதல் / காட்சி
+- ஆ) காட்சி / காணுதல்
+- இ) நடித்தல் / நடிப்பு
+- ஈ) புதையல் / புதைத்தல்
+
+**சரியான விடை:** ஆ) காட்சி / காணுதல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “காட்சி” பெயர்ச்சொல்; “காணுதல்” செயலைக் குறிக்கும். பசுமையான காட்சியைக் காண்பது கண்களுக்கு நல்லது.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 11 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+பொதுவாழ்வில் ____ கூடாது. ____இல் அவரை மிஞ்ச ஆள் கிடையாது.
+
+- அ) நடிப்பு / நடித்தல்
+- ஆ) நடித்தல் / நடிப்பு
+- இ) சுடுதல் / சுட்டல்
+- ஈ) தொடுதல் / தொடுத்தல்
+
+**சரியான விடை:** ஆ) நடித்தல் / நடிப்பு
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பொதுவாழ்வில் போலியாக நடந்து கொள்ளக் கூடாது; நடிப்புக் கலையில் அவரை மிஞ்ச யாருமில்லை.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 12
+lute music என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) யாழிசை
+- ஆ) அறை
+- இ) பேத்தி
+- ஈ) நெட்டுரு
+
+**சரியான விடை:** அ) யாழிசை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடநூல் கவிதையில் “lute music” என்பதற்கு “யாழிசை” எனப் பொருள் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 13
+chamber என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) நீதிநூல் திரட்டு
+- ஆ) அறை
+- இ) எட்டிப் பார்த்தல்
+- ஈ) யாழிசை
+
+**சரியான விடை:** ஆ) அறை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “Coming from the chamber” என்ற வரிக்கு இணையாக “அறைக்குள் யாழிசை” எனப் பாடல் அமைந்துள்ளது; chamber என்பது அறை.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 14
+to look up என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) பேத்தி
+- ஆ) நெட்டுரு
+- இ) எட்டிப் பார்த்தல்
+- ஈ) யாழிசை
+
+**சரியான விடை:** இ) எட்டிப் பார்த்தல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடநூல் கவிதையில் “to look up” என்பதற்கு “எட்டிப் பார்த்தல்” என இணைக்கப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 15
+grand-daughter என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) பேத்தி
+- ஆ) அறை
+- இ) நெட்டுரு
+- ஈ) யாழிசை
+
+**சரியான விடை:** அ) பேத்தி
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கவிதையில் grand-daughter என்பதற்கு “பேத்தி” எனத் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 16
+rote என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) எட்டிப் பார்த்தல்
+- ஆ) நீதிநூல் திரட்டு
+- இ) அறை
+- ஈ) நெட்டுரு
+
+**சரியான விடை:** ஈ) நெட்டுரு
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “Learning by rote” என்ற சொல்லாக்கத்தில் rote என்பதற்கு “நெட்டுரு” என இணைக்கப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 17
+didactic compilation என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) யாழிசை
+- ஆ) நீதிநூல் திரட்டு
+- இ) பேத்தி
+- ஈ) அறை
+
+**சரியான விடை:** ஆ) நீதிநூல் திரட்டு
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடநூல் கவிதையில் didactic compilation என்பதற்கு “நீதிநூல் திரட்டு” எனத் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 18
+ஆதிரையின் “ஆமாம்! கவியரங்கத்துக்குக் கவிதை எழுதிக்கொண்டிருக்கிறேன்.” என்ற பதில் எந்த வகை?
+
+- அ) நேர் விடை
+- ஆ) உற்றது உரைத்தல் விடை
+- இ) சுட்டு விடை
+- ஈ) வினா எதிர் வினாதல் விடை
+
+**சரியான விடை:** ஆ) உற்றது உரைத்தல் விடை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கேள்விக்குப் பதிலாக தற்போது நிகழும் செயலை நேரடியாகக் கூறுவதால் இது உற்றது உரைத்தல் விடை.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 19
+பாமகளின் “அப்படியா! என்ன தலைப்பு?” என்ற வினா எந்த வகை?
+
+- அ) ஐய வினா
+- ஆ) அறியா வினா
+- இ) ஏவல் வினா
+- ஈ) அறி வினா
+
+**சரியான விடை:** ஆ) அறியா வினா
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தலைப்பு என்ன என்பதை அறிந்துகொள்ளக் கேட்பதால் இது அறியா வினா.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 20
+ஆதிரையின் “கல்வியில் சிறக்கும் தமிழர்!” என்ற பதில் எந்த வகை?
+
+- அ) நேர் விடை
+- ஆ) மறை விடை
+- இ) ஏவல் விடை
+- ஈ) சுட்டு விடை
+
+**சரியான விடை:** அ) நேர் விடை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “என்ன தலைப்பு?” என்ற வினாவுக்கு நேரடியாகத் தலைப்பைக் கூறுவதால் இது நேர் விடை.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 21
+“நீங்கள் கவியரங்கத்துக்கு எல்லாம் வருவீர்களோ? மாட்டீர்களோ?” என்ற வினா எந்த வகை?
+
+- அ) அறியா வினா
+- ஆ) ஏவல் வினா
+- இ) ஐய வினா
+- ஈ) அறி வினா
+
+**சரியான விடை:** இ) ஐய வினா
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** வருவாரா மாட்டாரா என்ற ஐயத்தை நீக்கிக் கொள்ள வினவுவதால் இது ஐய வினா.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 22
+பாமகளின் “ஏன் வராமல்?” என்ற பதில் எந்த வகை?
+
+- அ) வினா எதிர் வினாதல் விடை
+- ஆ) சுட்டு விடை
+- இ) உற்றது உரைத்தல் விடை
+- ஈ) மறை விடை
+
+**சரியான விடை:** அ) வினா எதிர் வினாதல் விடை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** வினாவுக்குப் பதிலாக இன்னொரு வினாவைக் கேட்டு உடன்பாட்டை உணர்த்துவதால் இது வினா எதிர் வினாதல் விடை.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+---
+
+### வினா 23
+மன்றல் என்பதன் அகராதிப் பொருள் எது?
+
+- அ) திருமணம்
+- ஆ) காலடிக்குறி
+- இ) நீர்த்துளி
+- ஈ) மயக்கம்
+
+**சரியான விடை:** அ) திருமணம்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+
+
+---
+
+### வினா 24
+அடிச்சுவடு என்பதன் அகராதிப் பொருள் எது?
+
+- அ) காலடிக்குறி
+- ஆ) திருமணம்
+- இ) மயக்கம்
+- ஈ) அகர வரிசை நூல்
+
+**சரியான விடை:** அ) காலடிக்குறி
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+
+
+---
+
+### வினா 25
+அகராதி என்பதன் பொருள் எது?
+
+- அ) அகர வரிசையில் பொருள் தரும் நூல்
+- ஆ) காலடிக்குறி
+- இ) திருமணம்
+- ஈ) மயக்கம்
+
+**சரியான விடை:** அ) அகர வரிசையில் பொருள் தரும் நூல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+
+
+---
+
+### வினா 26
+தூவல் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?
+
+- அ) மழை / நீர்த்துளி
+- ஆ) திருமணம்
+- இ) காலடிக்குறி
+- ஈ) மயக்கம்
+
+**சரியான விடை:** அ) மழை / நீர்த்துளி
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)
+
+
+---
+
+### வினா 27
+மருள் என்பதன் அகராதிப் பொருள் எது?
+
+- அ) மயக்கம்
+- ஆ) திருமணம்
+- இ) காலடிக்குறி
+- ஈ) அகர வரிசை நூல்
+
+**சரியான விடை:** அ) மயக்கம்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; ஆதாரங்களில் “மயக்கம்” நேரடியாகத் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/) · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [TamilVithai](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Padavelai](https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html)

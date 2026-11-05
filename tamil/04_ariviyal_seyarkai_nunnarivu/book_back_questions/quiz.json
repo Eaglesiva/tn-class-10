@@ -1,27 +1,23 @@
 [
   {
     "id": "10_tam_u4_q1",
-    "question": "\"உனதருளே பார்ப்பன் அடியேனே\" - யாரிடம் யார் கூறியது?",
+    "question": "'உனதருளே பார்ப்பன் அடியேனே' - யாரிடம் யார் கூறியது?",
     "options": [
       "குலசேகராழ்வாரிடம் இறைவன்",
       "இறைவனிடம் குலசேகராழ்வார்",
-      "மருத்துவனிடம் நோயாளி",
-      "நோயாளியிடம் மருத்துவன்"
+      "மருத்துவரிடம் நோயாளி",
+      "நோயாளியிடம் மருத்துவர்"
     ],
     "correctOptionIndex": 1,
-    "explanation": "பெருமாள் திருமொழியில், திருவித்துவக்கோடு என்னும் ஊரில் எழுந்தருளியுள்ள இறைவனை (உய்வந்தபெருமாளை) அன்னையாக உருவகித்துக் குலசேகராழ்வார் பாடிய அடி இது."
-  },
-  {
-    "id": "10_tam_u4_q2",
-    "question": "தலைப்புக்கும் குறிப்புகளுக்கும் பொருத்தமான விடையைத் தேர்ந்தெடுக்க.\nதலைப்பு: செயற்கை நுண்ணறிவு\nகுறிப்புகள்: கண்காணிப்புக் கருவி, அசைவு நிகழும் பக்கம் தன் பார்வையைத் திருப்புகிறது. திறன்பேசியில் உள்ள வரைபடம் போக்குவரத்தைச் சுருக்கமாகக் காண்பிக்கிறது.",
-    "options": [
-      "தலைப்புக்குத் தொடர்பில்லாத குறிப்புகள் அளிக்கப்பட்டுள்ளன",
-      "தலைப்புக்கு ஏற்பக் குறிப்புகள் இடம்பெற்றுள்ளன",
-      "குறிப்புகளுக்குச் சம்பந்தமில்லாத தலைப்பு வழங்கப்பட்டுள்ளது",
-      "தலைப்பும் குறிப்புகளும் முரணாக உள்ளன"
+    "explanation": "பெருமாள் திருமொழியில் குலசேகராழ்வார் திருவித்துவக்கோட்டில் எழுந்தருளியுள்ள இறைவனை நோக்கிப் பாடுகிறார்.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11832/",
+    "sourceName": "BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-4-2/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11832/"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "செயற்கை நுண்ணறிவின் (AI) அன்றாடப் பயன்பாடுகளான ஸ்மார்ட் கேமரா மற்றும் வழிகாட்டும் வரைபடம் (GPS Maps) ஆகியவை குறிப்புகளில் சரியாக விளக்கப்பட்டுள்ளன."
+    "explanationSourceUrl": "https://www.studentsguide360.com/10th-tamil-guide-unit-4-2/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u4_q3",
@@ -29,27 +25,45 @@
     "options": [
       "வானத்தையும் பாட்டையும்",
       "வானத்தையும் புகழையும்",
-      "வானத்தையும் பேரொலியையும்",
-      "வானத்தையும் மழையையும்"
+      "வானத்தையும் பூமியையும்",
+      "வானத்தையும் பேரொலியையும்"
     ],
-    "correctOptionIndex": 2,
-    "explanation": "பரிபாடலில் (கீரந்தையார் பாடல்) 'விசும்பு' என்பது வெற்றிடமான வானத்தையும், 'இசை' என்பது பெருவெடிப்பின் போது தோன்றிய பேரொலியையும் (Big Bang) குறிக்கின்றன."
+    "correctOptionIndex": 3,
+    "explanation": "இத்தொடரில் “விசும்பு” வானத்தையும் “இசை” பேரொலியையும் குறிக்கிறது எனப் பாடப்பகுதி விடை ஆதாரங்கள் தருகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11832/",
+    "sourceName": "BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html",
+      "https://samacheer-kalvi.com/samacheer-kalvi-10th-tamil-guide-chapter-4-3/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11832/"
+    ],
+    "explanationSourceUrl": "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-43.html",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u4_q4",
-    "question": "\"குலசேகராழ்வார் 'வித்துவக்கோட்டம்மா' என்று ஆண் தெய்வத்தை அழைத்துப் பாடுகிறார்.\nபூனையார் பால்சோற்றைக் கண்டதும் வருகிறார்.\"\nஆகிய தொடர்களில் இடம்பெற்றுள்ள வழுவமைதி முறையே -",
+    "question": "குலசேகர ஆழ்வார் 'வித்துவக்கோட்டம்மா' என்று ஆண் தெய்வத்தை அழைத்துப் பாடுகிறார். பூனையார் பால்சோற்றைக் கண்டதும் வருகிறார் ஆகிய தொடர்களில் இடம்பெற்றுள்ள வழுவமைதி முறையே –",
     "options": [
       "மரபு வழுவமைதி, திணை வழுவமைதி",
-      "இட வழுவமைதி, பால் வழுவமைதி",
+      "இடவழுவமைதி, மரபு வழுவமைதி",
       "பால் வழுவமைதி, திணை வழுவமைதி",
-      "கால வழுவமைதி, இட வழுவமைதி"
+      "கால வழுவமைதி, இடவழுவமைதி"
     ],
     "correctOptionIndex": 2,
-    "explanation": "ஆண் தெய்வத்தை அம்மா (பெண்பால்) என அழைப்பது 'பால் வழுவமைதி'. அஃறிணையான பூனையை 'வருகிறார்' என உயர்திணையாகக் கூறுவது 'திணை வழுவமைதி' ஆகும்."
+    "explanation": "ஆண் தெய்வத்தை “அம்மா” என அழைப்பது பால் வழுவமைதி; அஃறிணையான பூனையை “வருகிறார்” என உயர்திணை மரியாதையுடன் குறிப்பிடுவது திணை வழுவமைதி.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11832/",
+    "sourceName": "BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-4-5/",
+      "https://www.greentamil.in/2021/11/4-10th-tamil-eyal-4-thiran-arivom.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11832/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11832/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u4_q5",
-    "question": "பாரத ஸ்டேட் வங்கியின் உரையாடு மென்பொருள் எது?",
+    "question": "பாதைஸ்டேட் வங்கியின் உரையாடு மென்பொருள் எது?",
     "options": [
       "துலா",
       "சீலா",
@@ -57,6 +71,150 @@
       "இலா"
     ],
     "correctOptionIndex": 3,
-    "explanation": "பாரத ஸ்டேட் வங்கியின் உரையாடு மென்பொருள் (Chatbot) 'இலா' (ELA - Electronic Live Assistant) ஆகும். இது வினாடிக்கு சுமார் 10,000 வாடிக்கையாளர்களுடன் உரையாடும் திறன் கொண்டது."
+    "explanation": "“இலா” (ILA) என்பது SBI Card-ன் உரையாடு மென்பொருள் / chatbot என அதிகாரப்பூர்வ SBI Card தளமும் பாடவிடை ஆதாரங்களும் உறுதிப்படுத்துகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11832/",
+    "sourceName": "BrainKart — இயல் 4 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-4-1/",
+      "https://www.sbicard.com/en/personal/digital-platform-updates.page",
+      "https://www.brainkart.in/article/Questions-and-Answers_11832/"
+    ],
+    "explanationSourceUrl": "https://www.sbicard.com/en/personal/digital-platform-updates.page",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q6",
+    "question": "நூலின் பயன் படித்தல் எனில், கல்வியின் பயன். ... ...",
+    "options": [
+      "கற்றல்",
+      "கரு",
+      "சோறு",
+      "எழுத்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நூலைப் படிப்பது அதன் பயன்; கல்வியின் அடிப்படைப் பயன் கற்றல் என்பதால் “கற்றல்” பொருந்துகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q7",
+    "question": "விதைக்குத் தேவை எரு எனில், கதைக்குத் தேவை ……",
+    "options": [
+      "சோறு",
+      "கரு",
+      "பூவில்",
+      "கற்றல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "விதை வளர எரு தேவைப்படுவது போல, கதையின் மையமாக அமையும் கருத்து “கரு” ஆகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q8",
+    "question": "கல் சிலை ஆகுமெனில், நெல். ... ... . ஆகும்.",
+    "options": [
+      "எழுத்து",
+      "பூவில்",
+      "சோறு",
+      "கரு"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "கல்லைச் செதுக்கிச் சிலை உருவாக்குவது போல, நெல்லை அரிசியாக்கிச் சமைத்த உணவு சோறு ஆகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q9",
+    "question": "குரலில் இருந்து பேச்சு எனில், விரலில் இருந்து. ... ... .",
+    "options": [
+      "கற்றல்",
+      "எழுத்து",
+      "கரு",
+      "சோறு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "குரல் வழியாகப் பேச்சு வெளிப்படுவது போல, விரல்/கை இயக்கத்தின் வழியாக எழுதப்படும் வடிவம் எழுத்து.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q10",
+    "question": "மீன் இருப்பது நீரில்; தேன் இருப்பது. ... ... .",
+    "options": [
+      "பூவில்",
+      "கரு",
+      "கற்றல்",
+      "எழுத்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தேன் மலர்களிலிருந்து கிடைப்பதால், தேன் இருக்கும் இடமாக “பூவில்” பொருந்துகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5 மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q11",
+    "question": "அமைச்சர் நாளை விழாவிற்கு வருகிறார்.",
+    "options": [
+      "கால வழுவமைதி",
+      "இட வழுவமைதி",
+      "பால் வழுவமைதி",
+      "திணை வழுவமைதி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நாளை என்பது எதிர்கால நேரத்தைக் குறிக்கிறது. ஆனால் “வருகிறார்” என்ற நிகழ்கால வினைமுற்று பயன்படுத்தப்பட்டுள்ளது; வருகை உறுதி என்ற கருத்தால் இது கால வழுவமைதியாக ஏற்கப்படுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5",
+    "additionalSourceUrls": [
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html",
+      "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-4-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Podhu_11831/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u4_q12",
+    "question": "“இந்தக் கண்ணன் ஒன்றைச் செய்தான் என்றால் அதை அனைவரும் ஏற்பர்” என்று கூறினான்.",
+    "options": [
+      "பால் வழுவமைதி",
+      "இட வழுவமைதி",
+      "கால வழுவமைதி",
+      "மரபு வழுவமைதி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பேசுபவர் தன்னையே “இந்தக் கண்ணன்” என்று பெயரிட்டு, தன்மை இடத்துக்குப் பதிலாகப் படர்க்கை இடத்தில் குறிப்பிடுகிறார். எனவே இது இட வழுவமைதி.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-4-5/",
+    "sourceName": "CBSETamil — இயல் 4.5",
+    "additionalSourceUrls": [
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-45.html",
+      "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-4-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Podhu_11831/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]

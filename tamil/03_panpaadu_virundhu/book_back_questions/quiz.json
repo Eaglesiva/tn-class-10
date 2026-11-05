@@ -1,31 +1,27 @@
 [
   {
     "id": "10_tam_u3_q1",
-    "question": "பின்வருவனவற்றுள் முறையான தொடர் எது?",
+    "question": "பின்வருவனவற்றுள் முறையான தொடர் -",
     "options": [
-      "தமிழர் பண்பாட்டில் தனித்த வாழை இலைக்கு இடம் உண்டு",
-      "தமிழர் வாழை இலைக்குத் பண்பாட்டில் தனித்த இடம் உண்டு",
-      "தமிழர் பண்பாட்டில் வாழை இலைக்குத் தனித்த இடம் உண்டு",
-      "தமிழர் வாழை பண்பாட்டில் தனித்த இலைக்கு இடம் உண்டு"
+      "தமிழர் பண்பாட்டில் தனித்த வாழை இலைக்கு இடமுண்டு.",
+      "தமிழர் வாழை இலைக்குப் பண்பாட்டில் தனித்த இடமுண்டு.",
+      "தமிழர் பண்பாட்டில் வாழை இலைக்குத் தனித்த இடமுண்டு.",
+      "தமிழர் வாழை பண்பாட்டில் தனித்த இலைக்கு இடமுண்டு."
     ],
     "correctOptionIndex": 2,
-    "explanation": "சொற்கள் பொருள் பிழையின்றி, இலக்கண முறைப்படி சரியான வரிசையில் அமைந்துள்ள தொடர் இதுவே ஆகும்."
-  },
-  {
-    "id": "10_tam_u3_q2",
-    "question": "\"சிலம்பு அடைந்திருந்த பாக்கம் எய்தி\" என்னும் அடியில் 'பாக்கம்' என்பது -",
-    "options": [
-      "பேரூர்",
-      "மூதூர்",
-      "பட்டினம்",
-      "சிற்றூர்"
+    "explanation": "சொற்கள் பொருள் மற்றும் இலக்கண ஒழுங்குடன் அமைந்துள்ள சரியான தொடர் இதுவாகும்.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/",
+    "sourceName": "VirkozKalvi — இயல் 3, விருந்து போற்றுதும்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11824/"
     ],
-    "correctOptionIndex": 3,
-    "explanation": "மலைபடுகடாம் பாடலில் 'பாக்கம்' என்பது மலைப்பகுதியில் அமைந்த சிறிய ஊரைக் (சிற்றூர்) குறிக்கிறது."
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u3_q3",
-    "question": "அறிஞருக்கு நூல், அறிஞரது நூல் ஆகிய சொற்றொடர்களில் பொருளை வேறுபடுத்தக் காரணமாக அமைவது -",
+    "question": "அறிஞருக்கு நூல், அறிஞதைு நூல் ஆகிய சொற்றொடர்களில் பொருளை வேறுபடுத்தக் காரணமாக அமைவது –",
     "options": [
       "வேற்றுமை உருபு",
       "எழுவாய்",
@@ -33,30 +29,53 @@
       "உரிச்சொல்"
     ],
     "correctOptionIndex": 0,
-    "explanation": "அறிஞருக்கு (கு - 4ஆம் வேற்றுமை) நூல் என்பது அவர் எழுதிய நூலையும், அறிஞரது (அது - 6ஆம் வேற்றுமை) நூல் என்பது அவருக்குச் சொந்தமான நூலையும் குறிக்கிறது. வேற்றுமை உருபுகளே பொருளை வேறுபடுத்துகின்றன."
+    "explanation": "“அறிஞருக்கு” என்பதில் “கு” உருபும், “அறிஞரது” என்பதில் “அது” உருபும் வேறுபட்ட வேற்றுமைத் தொடர்பைக் காட்டுகின்றன. கேள்வியில் உள்ள மூல எழுத்துரு மாற்றப்படவில்லை.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/",
+    "sourceName": "VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11824/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u3_q4",
     "question": "காசிக்காண்டம் என்பது -",
     "options": [
       "காசி நகரத்தின் வரலாற்றைப் பாடும் நூல்",
+      "காசி நகரத்தைக் குறிக்கும் மறுபெயர்",
       "காசி நகரத்தின் பெருமையைப் பாடும் நூல்",
-      "காசி நகரத்தின் வளத்தைப் பாடும் நூல்",
-      "காசி நகரத்தின் வீழ்ச்சியைப் பாடும் நூல்"
+      "காசி நகரத்திற்கு வழிப்படுத்தும் நூல்"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "காசி நகரத்தின் பெருமைகளைக் கூறுவதற்காக அதிவீரராம பாண்டியரால் பாடப்பட்ட நூல் 'காசிக்காண்டம்' ஆகும்."
+    "correctOptionIndex": 2,
+    "explanation": "காசி நகரத்தின் பெருமைகளை எடுத்துரைக்கும் நூலாகக் காசிக்காண்டம் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/",
+    "sourceName": "VirkozKalvi — இயல் 3, காசிக்காண்டம்",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Questions-and-Answers_11824/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u3_q5",
-    "question": "விருந்தினரைப் பேணுவதற்குப் பொருள் தேவைப்பட்டதால், தன் கருங்கோட்டுச் சீறியாழைப் பணயம் வைத்து விருந்தளித்தான் என்கிறது புறநானூறு. இச்செய்தி உணர்த்தும் விருந்து போற்றிய நிலை -",
+    "question": "'விருந்தினரைப் பேணுவதற்குப் பொருள் தேவைப்பட்டதால், தன் கருங்கோட்டுச் சீறியாழைப் பணையம் வைத்து விருந்தளித்தான் என்கிறது புறநானூறு'. இச்செய்தி உணர்த்தும் விருந்து போற்றிய நிலை –",
     "options": [
-      "நள்ளிரவில் விருந்து",
-      "இன்மையில் விருந்து",
-      "அல்லில் விருந்து",
-      "உற்றார் விருந்து"
+      "நிலத்திற்கேற்ற விருந்து",
+      "இன்மையிலும் விருந்து",
+      "அல்லிலும் விருந்து",
+      "உற்றாரின் விருந்து"
     ],
     "correctOptionIndex": 1,
-    "explanation": "வறுமையான (இன்மை) நிலையிலும் தன்னிடம் இருந்த பொருளை அடகு வைத்து விருந்தளித்த தமிழரின் விருந்தோம்பல் சிறப்பை இது குறிக்கிறது."
+    "explanation": "விருந்தினரைப் பேணுவதற்காகத் தன்னுடைய சீறியாழையே பணயம் வைத்துச் செலவிட்ட செயல், பொருளின்மை/வறுமையிலும் விருந்தோம்பிய நிலையை உணர்த்துகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/",
+    "sourceName": "VirkozKalvi — இயல் 3, விருந்து போற்றுதும்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11824/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
