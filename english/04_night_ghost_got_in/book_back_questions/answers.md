@@ -288,16 +288,41 @@
 
 **Source:** [VirkozKalvi — The Night the Ghost Got In](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/) — direct unit answer page.
 
-### Prose D
+### Prose D — Singular and plural forms (objective word forms)
 
-**Book Back question / task:** Complete the plural-forms table.
+#### 10_eng_u2_q27 — What is the plural form of “chair”?
+- **S1 — BrainKart:** chairs — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** chairs — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** For the regular noun “chair”, add -s to form the plural “chairs”.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q27`
+- **Status:** ANSWER_FOUND
 
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+#### 10_eng_u2_q28 — What is the plural form of “box”?
+- **S1 — BrainKart:** boxes — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** boxes — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** Nouns ending in -x usually take -es in the plural: box → boxes.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q28`
+- **Status:** ANSWER_FOUND
 
-**Source:** [VirkozKalvi — The Night the Ghost Got In](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/) — direct unit answer page.
+#### 10_eng_u2_q29 — What is the plural form of “eskimo”?
+- **S1 — BrainKart:** eskimos — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** eskimos — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** The Book Back table gives “eskimos” as the plural form of “eskimo”.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q29`
+- **Status:** ANSWER_FOUND
 
+#### 10_eng_u2_q30 — What is the plural form of “lady”?
+- **S1 — BrainKart:** ladies — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** ladies — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** For a consonant + y ending, change y to -ies: lady → ladies.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q30`
+- **Status:** ANSWER_FOUND
+
+> Four of the ten entries are recorded in this batch; the remaining source-listed forms will be appended in the next batches.
 ### Prose E2
 
 **Book Back question / task:** Where did Chulong catch the bird?
