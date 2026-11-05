@@ -78,5 +78,80 @@
     ],
     "explanationSourceUrl": "https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2025/12/TVA_TVA_BOK_062716/upload_primary_20251209034251297_20251209032739.pdf",
     "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u2_iv5",
+    "question": "“மாஅல்” என்பதன் பொருளும் இலக்கணக் குறிப்பும் எது?",
+    "options": [
+      "திருமால் — செய்யுளிசை அளபெடை",
+      "மாமரம் — இன்னிசை அளபெடை",
+      "கடல் — சொல்லிசை அளபெடை",
+      "மலை — உயிரளபெடை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இயல் 2 விடை ஆதாரத்தில் “மாஅல்” என்பதற்கு திருமால் என்று பொருளும், செய்யுளிசை அளபெடை என்று இலக்கணக் குறிப்பும் தரப்பட்டுள்ளன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11815/",
+    "sourceName": "BrainKart — இயல் 2 நேரடி Book Back விடை",
+    "additionalSourceUrls": [
+      "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
+    ],
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u2_vii1",
+    "question": "“மலர் உண்டு; பெயரும் உண்டு” — இத்தொடர்களை ஒரே தொடராக்குக.",
+    "options": [
+      "மலருக்குப் பெயர் உண்டு",
+      "மலரும் பெயரும் உண்டு",
+      "பெயருக்கு மலர் உண்டு",
+      "மலர் பெயரை உடையது அல்ல"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இரு தொடர்களின் கருத்தையும் ஒரே தொடரில் இணைத்தால் “மலருக்குப் பெயர் உண்டு” என அமைகிறது.",
+    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
+    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
+      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u2_vii4",
+    "question": "“அரிய மலர்” — “அரிய” என்பதற்கான இலக்கணக் குறிப்பு எது?",
+    "options": [
+      "குறிப்புப் பெயரெச்சம்",
+      "வினையெச்சம்",
+      "தொழிற்பெயர்",
+      "வினையாலணையும் பெயர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "TN Board Solutions மற்றும் SaraNextGen ஆகிய ஆதாரங்கள் “அரிய” என்பதை குறிப்புப் பெயரெச்சம் என வகைப்படுத்துகின்றன; ஒரு source பொதுவாகப் பெயரெச்சம் எனக் குறிப்பிடுவதால் அந்த வேறுபாடு கவனத்தில் கொள்ளப்பட்டுள்ளது.",
+    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
+    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
+      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND_WITH_SOURCE_VARIANT"
+  },
+  {
+    "id": "10_tam_u2_vii5",
+    "question": "கீழே உள்ள தொடரில் பொருளுக்குப் பொருந்தாத மயங்கொலி எழுத்துகளைச் சரிசெய்த சரியான வரிசை எது? “கரடிகள் மறத்தின் மீதேறி அவற்றைப் பரித்து உண்ணும். பாதிரிப் பூகுடிநீருக்குத் தன் மனத்தை ஏற்றும்.”",
+    "options": [
+      "மரத்தின் — பறித்து — மணத்தை",
+      "மறத்தின் — பறித்து — மனத்தை",
+      "மரத்தின் — பரித்து — மனத்தை",
+      "மறத்தின் — பரித்து — மணத்தை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பொருளுக்கு ஏற்ற சொற்கள் “மரத்தின்”, “பறித்து”, “மணத்தை”. மூன்று சொற்களிலும் மயங்கொலி எழுத்து திருத்தப்படுகிறது.",
+    "sourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/",
+    "sourceName": "TN Board Solutions — இயல் 2, தொகைநிலைத் தொடர்கள்",
+    "additionalSourceUrls": [
+      "https://www.saranextgen.com/homeworkhelp/index.php?id=15901",
+      "https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html"
+    ],
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
