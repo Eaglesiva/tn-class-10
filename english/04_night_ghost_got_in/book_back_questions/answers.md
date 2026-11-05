@@ -463,16 +463,41 @@
 
 **Source:** [VirkozKalvi — The Night the Ghost Got In](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/) — direct unit answer page.
 
-### Prose L1
+### Prose L1 — Prepositional phrase meanings (objective matching)
 
-**Book Back question / task:** Use the dictionary to match the meanings of the given prepositions.
+#### 10_eng_u2_q37 — What is the meaning of “due to”?
+- **S1 — Learn Cram:** because of — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** because of — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “Due to” expresses cause or reason; it means “because of”.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q37`
+- **Status:** ANSWER_FOUND
 
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+#### 10_eng_u2_q38 — What is the meaning of “except for”?
+- **S1 — Learn Cram:** with the exception of — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** with the exception of — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “Except for” means “with the exception of”.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q38`
+- **Status:** ANSWER_FOUND
 
-**Source:** [VirkozKalvi — The Night the Ghost Got In](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/) — direct unit answer page.
+#### 10_eng_u2_q39 — What is the meaning of “with reference to”?
+- **S1 — Learn Cram:** referring to — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** referring to — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “With reference to” means “referring to” a subject.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q39`
+- **Status:** ANSWER_FOUND
 
+#### 10_eng_u2_q40 — What is the meaning of “in spite of”?
+- **S1 — Learn Cram:** disregarding the difficulty — [Prepositional phrase matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **S2 — Namma English Classroom:** disregarding the difficulty — [Unit 2 grammar — prepositions](https://nammaenglishclassroom.blogspot.com/2021/07/unit-2-10th-english-solutions-prose.html)
+- **💡 Explanation (extractor-written from cited source):** “In spite of” indicates that an action happens despite a difficulty or obstacle.
+- **Explanation source:** [Learn Cram — preposition matching](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-2/)
+- **Quiz ID:** `10_eng_u2_q40`
+- **Status:** ANSWER_FOUND
+
+> Four of the eight matching pairs are recorded in this batch; the remaining four follow.
 ### Prose L3
 
 **Book Back question / task:** Edit the passage by replacing incorrect words with correct prepositional phrases.
