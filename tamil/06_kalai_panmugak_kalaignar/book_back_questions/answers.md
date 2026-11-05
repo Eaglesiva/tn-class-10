@@ -59,7 +59,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 6 — நிலா முற்றம் கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11850/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**QC:** QUESTION_MISMATCH — BrainKart இயல் 6 Q&A-வில் திணைநிலைத் தொழில்கள் மற்றும் அவற்றின் வளர்ச்சி பற்றிய வேறுபட்ட வினா உள்ளது; questions.md-இல் உள்ள பழந்தமிழர்/இன்றைய வாழ்க்கைமுறை ஒப்பீட்டு வினாவுக்கு அதே உரை/விடை இல்லை. அசல் வினா மாற்றப்படவில்லை.
 
 ---
 
@@ -85,7 +85,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 6 — நிலா முற்றம் கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11850/) — நேரடி இயல்-பதில் பக்கம்.  
-**QC:** Original question text is byte-for-byte copied from the matching questions.md item; the direct unit answer page has been opened. Exact source-side wording and answer-line match still require item-by-item confirmation.
+**QC:** ANSWER_NOT_FOUND — திறந்த BrainKart இயல் 6 Q&A பக்கத்தில் இந்த அன்பழகனார் மேற்கோள்-அயற்கூற்று வினா கிடைக்கவில்லை. இதே பக்கத்தின் பிற கலைஞர் வினாக்கள் இதற்கான நேரடி பதில் ஆதாரமாகாது.
 
 ---
 
