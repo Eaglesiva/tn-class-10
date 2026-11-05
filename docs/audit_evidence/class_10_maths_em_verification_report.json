@@ -26,7 +26,17 @@
     "moderate_revisions": 25,
     "low_similarity_pages": 6,
     "total_pages_compared": 352,
-    "average_similarity_percentage": 96.15
+    "average_similarity_percentage": 96.15,
+    "visual_review_summary": {
+      "total_flagged_pages_inspected": 7,
+      "visually_equivalent_pages": 5,
+      "ocr_extraction_artifacts": 0,
+      "typographical_revisions": 1,
+      "layout_only_revisions": 1,
+      "genuine_content_differences": 0,
+      "human_review_required_pages": 0,
+      "overall_visual_status": "CURRICULUM_EQUIVALENT_CONFIRMED"
+    }
   },
   "edition_finding": {
     "page_2_imprint_verdict": "CONFIRMED_GITHUB_IS_NEWER",
@@ -2169,7 +2179,11 @@
       "len_gh": 1019,
       "reason": "Page 2 Imprint: GitHub main is 2025 Revised Edition with 1098/14417 helplines; Official portal is 2024 Reprint.",
       "sample_off": "(ii) Government of Tamil Nadu First Edition - 2019 Revised Edition - 2020, 2021, 2022, 2023 Reprint - 2024 (Published under new syllabus) Tamil NaduTe",
-      "sample_gh": "(ii) Government of Tamil Nadu First Edition - 2019 Revised Edition - \u00072020, 2021, 2022, 2023, 2025 Reprint - 2024 (Published under new syllabus) Tamil"
+      "sample_gh": "(ii) Government of Tamil Nadu First Edition - 2019 Revised Edition - \u00072020, 2021, 2022, 2023, 2025 Reprint - 2024 (Published under new syllabus) Tamil",
+      "visual_status": "TYPOGRAPHICAL_REVISION",
+      "pixel_diff_pct": 4.43,
+      "visual_finding": "Page 2 Imprint: GitHub main is newer 2025 Revised Edition with Government Helplines 1098 & 14417. Official portal is 2024 Reprint.",
+      "comparison_image": "c10_em_p002_comparison.png"
     },
     {
       "page": 3,
@@ -2334,7 +2348,11 @@
       "len_gh": 1934,
       "reason": "Significant text variation (78.0% text similarity)",
       "sample_off": "11 Relations and Functions A function f can be thought as a mechanism (or device) (Fig.1.12(b)), which gives a unique output f(x) to every input x. No",
-      "sample_gh": "11 Relations and Functions A function f can be thought as a mechanism (or device) (Fig.1.12(b)), which gives a unique output f(x) to every input x. No"
+      "sample_gh": "11 Relations and Functions A function f can be thought as a mechanism (or device) (Fig.1.12(b)), which gives a unique output f(x) to every input x. No",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.74,
+      "visual_finding": "Visually equivalent (0.74% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "comparison_image": "c10_em_p017_comparison.png"
     },
     {
       "page": 18,
@@ -2587,7 +2605,11 @@
       "len_gh": 1444,
       "reason": "Significant text variation (80.0% text similarity)",
       "sample_off": "34 10th Standard Mathematics 5. Find the domain of the function f x x ( ) = + − − 1 1 1 2 6. If f x x ( ) = 2 , g x x ( ) = 3 and h x x ( ) = −2 , Pro",
-      "sample_gh": "34 10th Standard Mathematics 5. Find the domain of the function f x x ( ) = + − − 1 1 1 2 6. If f x x ( ) = 2 , g x x ( ) = 3 and h x x ( ) = −2 , Pro"
+      "sample_gh": "34 10th Standard Mathematics 5. Find the domain of the function f x x ( ) = + − − 1 1 1 2 6. If f x x ( ) = 2 , g x x ( ) = 3 and h x x ( ) = −2 , Pro",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.79,
+      "visual_finding": "Visually equivalent (0.79% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "comparison_image": "c10_em_p040_comparison.png"
     },
     {
       "page": 41,
@@ -3984,7 +4006,11 @@
       "len_gh": 2081,
       "reason": "Significant text variation (74.9% text similarity)",
       "sample_off": "161 Learning Outcomes z z To recall congruent triangles and understand the definition of similar triangles. z z To understand the properties and const",
-      "sample_gh": "161 Learning Outcomes z To recall congruent triangles and understand the definition of similar triangles. z To understand the properties and construct"
+      "sample_gh": "161 Learning Outcomes z To recall congruent triangles and understand the definition of similar triangles. z To understand the properties and construct",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.76,
+      "visual_finding": "Visually equivalent (0.76% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "comparison_image": "c10_em_p167_comparison.png"
     },
     {
       "page": 168,
@@ -5161,7 +5187,11 @@
       "len_gh": 1842,
       "reason": "Significant text variation (69.9% text similarity)",
       "sample_off": "10th Standard Mathematics 268 Points to Remember z z An equation involving trigonometric ratios of an angle is called a trigonometric identity if it i",
-      "sample_gh": "10th Standard Mathematics 268 Points to Remember z An equation involving trigonometric ratios of an angle is called a trigonometric identity if it is "
+      "sample_gh": "10th Standard Mathematics 268 Points to Remember z An equation involving trigonometric ratios of an angle is called a trigonometric identity if it is ",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 1.14,
+      "visual_finding": "Visually equivalent (1.14% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "comparison_image": "c10_em_p274_comparison.png"
     },
     {
       "page": 275,
@@ -5722,7 +5752,11 @@
       "len_gh": 1434,
       "reason": "Significant text variation (55.2% text similarity)",
       "sample_off": "Statistics and Probability 319 8.4.2 Probability of an Event In a random experiment, let S be the sample space and E S Í . Then if E is an event, the ",
-      "sample_gh": "Statistics and Probability 319 8.4.2 Probability of an Event In a random experiment, let S be the sample space and E S Í . Then if E is an event, the "
+      "sample_gh": "Statistics and Probability 319 8.4.2 Probability of an Event In a random experiment, let S be the sample space and E S Í . Then if E is an event, the ",
+      "visual_status": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.89,
+      "visual_finding": "Visually equivalent (0.89% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "comparison_image": "c10_em_p325_comparison.png"
     },
     {
       "page": 326,
@@ -6019,7 +6053,11 @@
       "len_gh": 152,
       "reason": "Significant text variation (68.3% text similarity)",
       "sample_off": "346 10th Standard Mathematics Note 10th_Maths_Glossary_English.indd 346 03-12-2022 16:37:49",
-      "sample_gh": "346 10th Standard Mathematics Note 10th_Maths_Glossary_English.indd 346 10th_Maths_Glossary_English.indd 346 12/14/2024 5:18:17 PM 12/14/2024 5:18:17 "
+      "sample_gh": "346 10th Standard Mathematics Note 10th_Maths_Glossary_English.indd 346 10th_Maths_Glossary_English.indd 346 12/14/2024 5:18:17 PM 12/14/2024 5:18:17 ",
+      "visual_status": "LAYOUT_ONLY_REVISION",
+      "pixel_diff_pct": 0.53,
+      "visual_finding": "Final glossary slugline: InDesign compile timestamp and print line variation at bottom of page.",
+      "comparison_image": "c10_em_p352_comparison.png"
     }
   ]
 }
