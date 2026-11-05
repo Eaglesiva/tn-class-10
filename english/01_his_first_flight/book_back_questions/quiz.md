@@ -519,3 +519,88 @@ He will continue to seek new friendship, ________ and a crown.
 - Modal items G1.3, G1.5, G1.7 and G1.10 are not included because the source accepts multiple answers.
 - G3 modal-dialogue completion is withheld because the source dialogue differs in wording from `questions.md`.
 - Non-objective comprehension and paragraph tasks are not included in the Quiz.
+
+
+---
+
+### Question 31 — Prose D
+His family was screaming and offering him food. (Change the underlined word to an adjective.)
+
+- a) scream
+- b) screaming
+- c) screamed
+- d) screams
+
+**Correct answer:** b) screaming
+
+**Explanation (extractor-written from cited source):** “Screaming” functions as an adjective describing “family” in the transformed sentence: “His screaming family was offering him food.”
+
+**Answer sources:** [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/) · [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [KalviTips](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+
+
+---
+
+### Question 32 — Prose D
+The young seagull gave out a loud call. (Change the underlined word to an adverb.)
+
+- a) loud
+- b) loudness
+- c) louder
+- d) loudly
+
+**Correct answer:** d) loudly
+
+**Explanation (extractor-written from cited source):** “Loudly” is the adverb form of “loud”; it describes how the seagull called.
+
+**Answer sources:** [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/) · [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [KalviTips](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+
+
+---
+
+### Question 33 — Prose D
+The bird cackled amusedly while flying. (Change the underlined word to a noun.)
+
+- a) amused
+- b) amusing
+- c) amusement
+- d) amuse
+
+**Correct answer:** c) amusement
+
+**Explanation (extractor-written from cited source):** “Amusement” is the noun form used in the phrase “cackled in amusement”.
+
+**Answer sources:** [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/) · [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [KalviTips](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+
+
+---
+
+### Question 34 — Prose D
+The depth of the sea from the ledge scared the seagull. (Change the underlined word to an adjective.)
+
+- a) deep
+- b) deeply
+- c) deepen
+- d) depth
+
+**Correct answer:** a) deep
+
+**Explanation (extractor-written from cited source):** “Deep” is the adjective form of the noun “depth” and modifies “sea”.
+
+**Answer sources:** [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/) · [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [KalviTips](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+
+
+---
+
+### Question 35 — Prose D
+The successful flight of the bird was a proud moment for the seagull’s family. (Change the underlined word to a verb.)
+
+- a) fly
+- b) flew
+- c) flying
+- d) flight
+
+**Correct answer:** b) flew
+
+**Explanation (extractor-written from cited source):** “Flew” is the past-tense verb form used in the transformed sentence: “The bird flew successfully...”
+
+**Answer sources:** [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/) · [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [KalviTips](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
