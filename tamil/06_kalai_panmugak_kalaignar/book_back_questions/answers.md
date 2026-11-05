@@ -544,7 +544,7 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 
 - **விடை ஆதாரம்:** [StudentsGuide360 — 10th Tamil Unit 5 Question and Answers (இயல் 6: நிலா முற்றம்)](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — “பொருத்தமானவற்றைச் சொற்பெட்டியில் கண்டு எழுதுக” பகுதி.
 - **சரிபார்ப்பு:** ANSWER_FOUND; questions.md-இல் உள்ள சொற்பெட்டி மற்றும் ஐந்து வினாக்களும் source page-ல் பொருந்துகின்றன.
-- **Quiz நிலை:** `questions.md`-இன் ஐந்து சொற்பெட்டி வினாக்களும், நான்கு source-verified அகராதி வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன. மலரிதழ்/வண்டினம் மற்றும் மலைமுகட்டுப் புதிர் ஆகிய இரு சொற்பெட்டி வினாக்களுக்கு இடையே source conflict இருந்தது; புதிய verification-ல் பொருந்தும் விடைகள் உறுதி செய்யப்பட்டு சேர்க்கப்பட்டுள்ளன.
+- **Quiz நிலை:** `questions.md`-இன் ஐந்து சொற்பெட்டி வினாக்களும், ஐந்து source-verified அகராதி வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன. மலரிதழ்/வண்டினம் மற்றும் மலைமுகட்டுப் புதிர் ஆகிய இரு சொற்பெட்டி வினாக்களுக்கு இடையே source conflict இருந்தது; புதிய verification-ல் பொருந்தும் விடைகள் உறுதி செய்யப்பட்டு சேர்க்கப்பட்டுள்ளன.
 
 
 ### Objective word-bank quiz records — மொழியோடு விளையாடு
