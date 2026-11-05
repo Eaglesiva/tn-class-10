@@ -448,7 +448,7 @@
 #### 1. இடமிருந்து வலம் 1 — சிறுபொழுதின் வகைகளுள் ஒன்று (2)
 - **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** காலை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
 - **S2 — StudentsGuide360 — இயல் 9.5:** காலை — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
-- **S3 — VISTAS Tamil grammar material — later 12-fold Pura classification:** காலை — [VISTAS Tamil grammar material — later 12-fold Pura classification](https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf)
+- **S3 — VISTAS Tamil grammar material — later 12-fold Pura classification:** காலை — [BrainKart — இயல் 9 மொழியோடு விளையாடு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q6`
 
