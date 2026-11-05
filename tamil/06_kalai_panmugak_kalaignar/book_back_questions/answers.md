@@ -6,12 +6,16 @@
 ### Q1 — குளிர்கால நிலங்கள்
 - **S1 — BrainKart — இயல் 6:** இ) குறிஞ்சி, மருதம், நெய்தல் நிலங்கள் — [BrainKart — இயல் 6](https://www.brainkart.in/article/Questions-and-Answers_11850/)
 - **S2 — GreenTamil — இயல் 1–9 பலவுள் தெரிக:** இ) குறிஞ்சி, மருதம், நெய்தல் நிலங்கள் — [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** குளிர்காலத்தைப் பெரும்பொழுதாகக் கொண்ட நிலங்களாகக் குறிஞ்சி, மருதம், நெய்தல் ஆகிய மூன்றும் பாடவிடை ஆதாரங்களில் குறிப்பிடப்படுகின்றன.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11850/)
 - **விளக்க ஆதாரம்:** அதே பாடவிடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
 
 ### Q2 — கலைஞரின் போராட்டப் பண்பு
 - **S1 — Kalvikavi — இயல் 6 Book Back:** ஈ) கூற்று 1 மற்றும் 2 சரி — [Kalvikavi — இயல் 6 Book Back](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
 - **S2 — Podhigai Guide PDF:** ஈ) கூற்று 1 மற்றும் 2 சரி — [Podhigai Guide PDF](https://padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடவிடை ஆதாரங்கள் இரு கூற்றுகளையும் சரி என உறுதிப்படுத்துகின்றன.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
 - **விளக்க ஆதாரம்:** அதே பாடவிடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
 
@@ -19,12 +23,16 @@
 - **S1 — BrainKart — இயல் 6:** ஆ) தளரப் பிணைத்தால் — [BrainKart — இயல் 6](https://www.brainkart.in/article/Questions-and-Answers_11850/)
 - **S2 — VirkozKalvi — பூத்தொடுத்தல்:** ஆ) தளரப் பிணைத்தால் — [VirkozKalvi — பூத்தொடுத்தல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/)
 - **S3 — FreeTNBooks — பூத்தொடுத்தல்:** ஆ) தளரப் பிணைத்தால் — [FreeTNBooks — பூத்தொடுத்தல்](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-6-2/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பூத்தொடுத்தல் பாடலில் மலர்களைத் தளரப் பிணைத்தால் அவை தரையில் நழுவும் எனக் கூறப்படுகிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — பூத்தொடுத்தல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q4 — தூக்குமேடை நாடகப் பாராட்டு
 - **S1 — Kalvikavi — இயல் 6 Book Back:** ஆ) கலைஞர் என்ற சிறப்புப்பெயர் எப்போது வழங்கப்பட்டது? — [Kalvikavi — இயல் 6 Book Back](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
 - **S2 — Podhigai Guide PDF:** ஆ) கலைஞர் என்ற சிறப்புப்பெயர் எப்போது வழங்கப்பட்டது? — [Podhigai Guide PDF](https://padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கொடுக்கப்பட்ட தொடர் சிறப்புப்பெயர் வழங்கப்பட்ட நேரத்தைச் சொல்கிறது; அதற்கான வினா “எப்போது?” எனக் கேட்க வேண்டும்.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html)
 - **விளக்க ஆதாரம்:** அதே வினா-விடை ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
 
@@ -32,6 +40,8 @@
 - **S1 — BrainKart — இயல் 6:** ஈ) அங்கு வறுமை இல்லாததால் — [BrainKart — இயல் 6](https://www.brainkart.in/article/Questions-and-Answers_11850/)
 - **S2 — VirkozKalvi — கம்பராமாயணம்:** ஈ) அங்கு வறுமை இல்லாததால் — [VirkozKalvi — கம்பராமாயணம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/)
 - **S3 — TextbookPDF — கம்பராமாயணம்:** ஈ) அங்கு வறுமை இல்லாததால் — [TextbookPDF — கம்பராமாயணம்](https://textbookpdf.in/tn-10th-tamil-guide-lesson-6-4/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கோசல நாட்டில் வறுமை இல்லாததால் கொடை பெற வேண்டிய வறியோர் இல்லை; அதனால் கொடை நிகழ்வு இல்லை எனக் கம்பராமாயணப் பாடல் நாட்டின் வளத்தைச் சிறப்பிக்கிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — கம்பராமாயணம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/)
 - **நிலை:** ANSWER_FOUND
 
