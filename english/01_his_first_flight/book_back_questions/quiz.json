@@ -605,6 +605,86 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
+    "id": "10_eng_u1_q40",
+    "question": "In the Parts of Speech chart, what is the noun form corresponding to the adjective “mad”?",
+    "options": [
+      "madly",
+      "madness",
+      "madden",
+      "mad"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The chart lists “madness” as the noun form corresponding to the adjective “mad”.",
+    "sourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "sourceName": "OMTEX — His First Flight Parts of Speech chart",
+    "additionalSourceUrls": [
+      "https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/",
+      "https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html"
+    ],
+    "explanationSourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u1_q41",
+    "question": "In the Parts of Speech chart, what is the verb form corresponding to the adjective “mad”?",
+    "options": [
+      "madness",
+      "madly",
+      "madden",
+      "mad"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "The chart lists “madden” as the verb form corresponding to the adjective “mad”.",
+    "sourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "sourceName": "OMTEX — His First Flight Parts of Speech chart",
+    "additionalSourceUrls": [
+      "https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/",
+      "https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html"
+    ],
+    "explanationSourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u1_q42",
+    "question": "In the Parts of Speech chart, what is the adverb form corresponding to the adjective “mad”?",
+    "options": [
+      "madly",
+      "madness",
+      "madden",
+      "mad"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The chart lists “madly” as the adverb form corresponding to the adjective “mad”.",
+    "sourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "sourceName": "OMTEX — His First Flight Parts of Speech chart",
+    "additionalSourceUrls": [
+      "https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/",
+      "https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html"
+    ],
+    "explanationSourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u1_q43",
+    "question": "In the Parts of Speech chart, what is the noun form corresponding to the adverb “perfectly”?",
+    "options": [
+      "perfect",
+      "perfection",
+      "perfected",
+      "perfectly"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The chart lists “perfection” as the noun form corresponding to “perfectly”.",
+    "sourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "sourceName": "OMTEX — His First Flight Parts of Speech chart",
+    "additionalSourceUrls": [
+      "https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/",
+      "https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html"
+    ],
+    "explanationSourceUrl": "https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
     "id": "10_eng_u1_q5",
     "question": "_______ had provided Prospero formerly with books and provisions.",
     "options": [
