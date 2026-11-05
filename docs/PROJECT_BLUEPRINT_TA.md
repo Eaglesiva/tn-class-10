@@ -461,6 +461,24 @@ Guide புத்தகத்தின் பெயர் அல்லது �
 - questions.md, quiz files, book PDFs, routing files மாற்றப்படக்கூடாது.
 - User பின்னர் தன் ஒப்பீடு/எழுத்துப்பணியைத் தொடங்குவார்; assistant அதற்காக answer tiers-ஐ முன்கூட்டியே நிரப்பக்கூடாது.
 
+## 15.6 Class 10 முழு Coverage — Batch Execution Plan
+
+Class 10-ன் அனைத்து பாடங்களையும் ஒரே பெரிய extraction run-ல் முடிப்பதை விட, ஒரே நிலையான விதிமுறையுடன் subject-wise சிறிய batch-களாகச் செய்வதே சரியான நடைமுறை. இதனால் source mismatch, தவறான edition, answer conflict, JSON field error ஆகியவை ஆரம்பத்திலேயே கண்டுபிடிக்கப்படும்.
+
+### கட்டாய வேலை வரிசை
+
+1. **முழு inventory முதலில்:** Class 10-ல் உள்ள ஒவ்வொரு subject, medium, textbook edition, book, chapter/lesson, Book Back question count ஆகியவற்றின் பட்டியலை உருவாக்கு. Edition verification முடியும் வரை current answer extraction தொடங்க வேண்டாம்.
+2. **Subject-wise செயல்:** ஒரே நேரத்தில் ஒரு subject மட்டும். தமிழ், ஆங்கிலம், கணிதம், அறிவியல், சமூக அறிவியல் போன்ற பாடங்களை ஒன்றாகக் கலந்து ஒரே batch செய்ய வேண்டாம்.
+3. **ஒவ்வொரு batch-லும் 2–3 chapters:** source search, direct page verification, answer conflict review, explanation source verification ஆகியவற்றை 2–3 chapters முடிந்ததும் QC செய்ய வேண்டும். Chapter/Unit மிகப்பெரியதாக இருந்தால் அதை ஒரு தனி batch ஆகப் பிரிக்கலாம்.
+4. **ஒரே Book Back தொகுப்பு பல பாடங்களை உள்ளடக்கியிருந்தால்:** அது ஒரு integrated unit ஆகவே கையாளப்பட வேண்டும். கேள்வி எந்த lesson-க்கு சேர்ந்தது எனப் பிரிக்க முடியாவிட்டால் ஊகித்து பிரிக்க வேண்டாம்.
+5. **Answer Source முதலில்:** அந்த batch-ன் எல்லா கேள்விகளுக்கும் source records, objective correct answers, one-mark reasons, non-objective placeholders முடிக்கப்பட வேண்டும்.
+6. **Quiz Start அடுத்த கட்டம்:** Antigravity உறுதிசெய்த schema-க்கு ஏற்ப, அந்த batch-ன் verified one-mark questions-ஐ மட்டும் quiz.start.md/json-ல் உருவாக்க வேண்டும்.
+7. **Batch QC:** question count, source links, explanation citations, conflict status, JSON validity, duplicate IDs, original question wording ஆகியவை சரிபார்க்கப்பட்ட பிறகே அடுத்த batch தொடங்க வேண்டும்.
+8. **Subject completion:** அந்த subject-ன் எல்லா chapters-ம் முடிந்த பிறகு subject-level coverage summary உருவாக்கு; பின்னர் அடுத்த subject-க்கு நகரு.
+9. **Class completion:** எல்லா subjects-ம் முடிந்த பிறகு மட்டுமே Class 10 consolidated coverage audit செய்ய வேண்டும்.
+
+**முடிவு:** முழு Class 10-ஐ திட்டமிட்டு ஒரே project-ஆகக் கையாளலாம்; ஆனால் extraction மற்றும் quiz data generation 2–3 chapter batch-களாக, subject-wise நடைபெறும். இது வேலை அளவைச் சிறிதாக்குவதற்காக அல்ல; ஒவ்வொரு answer/source/quiz entry-யும் traceable மற்றும் சரிபார்க்கக்கூடியதாக இருக்கவே.
+
 ## 16. Current Audit Finding — Class 10 Tamil Book Version (Provisional Warning)
 
 **Repository:** [Eaglesiva/tn-class-10](https://github.com/Eaglesiva/tn-class-10)
