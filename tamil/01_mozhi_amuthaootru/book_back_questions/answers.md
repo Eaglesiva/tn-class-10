@@ -1,429 +1,409 @@
-# 10ஆம் வகுப்பு தமிழ் — முழுப் பாடத்திட்டம்: விடை ஆதாரச் சேகரிப்பு
-## Reference Source Collection — கட்டம் 1
+# 10-ஆம் வகுப்பு தமிழ் — இயல் 1: அமுதூற்று
+## Book Back Answer Source Index — Source-only extraction
 
-**கேள்வி கோப்பு:** [questions.md](./questions.md)  
-**ஆய்வு நாள்:** 04-11-2026  
-**வரம்பு:** ஒன்பது இயல்களுக்குமான Answer Source-களை அடையாளம் காணும் பணி தொடங்கப்பட்டுள்ளது. தற்போது இயல் 1-ன் 19 ஒருங்கிணைந்த வினாக்களுக்கான விரிவான Source குறிப்புகள் உள்ளன; மற்ற இயல்களின் Source பக்கங்கள் கீழே பட்டியலிடப்பட்டுள்ளன. அவற்றின் ஒவ்வொரு வினாவுக்கும் தனித்தனி ஒப்பீட்டுப் பதிவு இன்னும் செய்யப்பட வேண்டும்.
+**கோப்பின் நோக்கம்:** ஒவ்வொரு கேள்விக்கும் பிற கல்வித் தளங்கள் / Guide-களில் பதில் உள்ள இடங்களைச் சுட்டும் இணைப்புத் தொகுப்பு. இது மாணவர்களுக்கான விடை நூல் அல்ல.  
+**அடிப்படை:** [`questions.md`](./questions.md) — கேள்வி உரை, வரிசை, பிரிவு மாற்றப்படவில்லை.  
+**பணி வரம்பு:** Non-objective கேள்விகளுக்கு மூன்று காலி placeholder-கள் + சரிபார்க்கப்பட்ட source links மட்டும். Objective கேள்விகளுக்கு source-ல் உள்ள option/சுருக்கமான விடை மட்டும். இலக்கண விதியால் நேரடியாக ஆதரிக்கப்படும் இடங்களில் மட்டும் காரண விளக்கம்.
 
-> இந்தக் கோப்பு Reference சேகரிப்புக்கான உள் வேலை ஆவணம். ஒவ்வொரு தளத்தின் விடை அமைப்பு, புள்ளி வரிசை, அட்டவணை, உரையாடல், எடுத்துக்காட்டு ஆகியவை தனித்தனியாகப் பதிவு செய்யப்பட வேண்டும். ஒரு Source-ன் தகவலை மற்றொன்றுடன் கலந்து ஒரே விடையாக மாற்றக்கூடாது. மாணவர்களுக்கான இறுதி விடைகள் இங்கு உருவாக்கப்படுவதில்லை.
+> **முக்கியம்:** இங்கு ஒரே சொந்த/மாதிரி விடை எதுவும் உருவாக்கப்படவில்லை. Source-கள் தரும் விடைகள் ஒன்றுக்கொன்று மாறினால் அவை தனித்தனியாகப் பதிவு செய்யப்பட்டுள்ளன. ஒரு கேள்விக்கு மூன்று/ஐந்து என்ற Source எண்ணிக்கை வரம்பு இல்லை; கண்டறியப்பட்ட எல்லா பொருத்தமான source-களும் சேர்க்கப்படும்.
 
-## முழு 10ஆம் வகுப்பு தமிழ் — இயல் வாரியான Answer Source பட்டியல்
+---
 
-**முதன்மை Source S12 — BrainKart:** ஒவ்வொரு இயலுக்கும் தனித்தனி “கேள்விகள் மற்றும் பதில்கள்” பக்கம். ஒன்பது பக்கங்களும் திறந்து சரிபார்க்கப்பட்டுள்ளன. இவை ஒவ்வொரு இயலின் கேள்வி வகைகள் மற்றும் பதில் வடிவங்களை ஒப்பிடுவதற்கான முதன்மை Reference.
+## A. தற்போதைய Guide பட்டியல் — PDF கிடைத்ததா என்ற நிலை
 
-**இரண்டாம் Source S13 — Samacheer Kalvi Guide:** [10th Tamil Guide — அனைத்து 9 இயல்களுக்குமான பாடவாரி இணைப்புப் பட்டியல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide/). இந்தப் பட்டியலில் ஒவ்வொரு இயலின் தனிப்பாடங்களுக்கான தனித்தனி இணைப்புகள் உள்ளன. ஒவ்வொரு பாட இணைப்பையும் திறந்து, அதற்குரிய நேரடி Answer Page-ஐ வினா வாரியாகப் பதிவு செய்ய வேண்டும்.
+| Guide / Publisher | பதிப்பு / விவரம் | இணைப்பு | நிலை |
+|---|---|---|---|
+| SURA Publications | SURA'S 10th Standard Tamil Urainool Guide, Low Priced Edition, 2026–27 | [SURA அதிகாரப்பூர்வ தயாரிப்பு பக்கம்](https://www.surabooks.com/Books/307923/www.surabooks.com) | `GUIDE_PRODUCT_PAGE_ONLY` — தயாரிப்பு விவரம் மட்டுமே சரிபார்க்கப்பட்டது; இலவச PDF / இந்த இயலின் PDF பக்கங்கள் உறுதிப்படுத்தப்படவில்லை |
+| DON Publications | 10th Tamil Guide, New Syllabus 2026–27 | [DON Guide விற்பனையாளர் பட்டியல்](https://routemybook.com/publisher_details/Don-Publications-27?autshort=pop) | `GUIDE_PRODUCT_PAGE_ONLY` — விற்பனைப் பட்டியல் மட்டுமே; PDF / விடைப் பக்கங்கள் உறுதிப்படுத்தப்படவில்லை |
 
-| இயல் | BrainKart — நேரடி இயல் Q&A | ஆய்வு நிலை |
+**குறிப்பு:** SURA / DON Guide-களுக்கான நேரடி இலவச PDF இந்த ஆய்வில் சரிபார்க்கப்படவில்லை. ஆகவே அவற்றில் பதில் உள்ளது என்று இங்கு claim செய்யவில்லை. பின்னர் PDF கிடைத்தால் அதற்கான சரியான PDF page number உடன் தனியாகச் சேர்க்க வேண்டும்.
+
+---
+
+## B. பொதுவான Source பட்டியல் — இந்த இயலுக்குப் பயன்படுத்தப்பட்டவை
+
+| ID | Source | Direct page | தேதி / நிலை |
+|---|---|---|---|
+| S1 | BrainKart — 10th Tamil இயல் 1 Questions & Answers | [கேள்விகள் மற்றும் பதில்கள் — இயல் 1](https://www.brainkart.in/article/Questions-and-Answers_11807/) | 21-07-2022; நேரடியாகத் திறந்து பல பிரிவு விடைகள் சரிபார்க்கப்பட்டன |
+| S2 | BrainKart — இலக்கணம்: எழுத்து, சொல் | [Grammar — Eluthu-sol](https://www.brainkart.in/article/Grammar--Eluthu-sol_11806/) | 21-07-2022; கற்பவை கற்றபின் வினாக்கள் உள்ளன; எல்லா வினாக்களுக்கும் விடை உள்ளதாகக் கருதப்படவில்லை |
+| S3 | TNBoardSolutions — Lesson 1.5 | [10th Tamil Guide Chapter 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) | 2024; பல பயிற்சி வினாக்களுக்கு நேரடி விடை; K5-ல் கேள்வி சொல் வேறுபாடு |
+| S4 | KalviBot — Unit 1.5 | [10th Tamil Unit 1 Section 1.5 Solutions](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) | 23-02-2021 update; பல பயிற்சி வினாக்கள்; K5 wording variant |
+| S5 | KalviKavi — Unit 1.5 | [10th Tamil Answers Guide — Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) | 2021; பழைய குறைக்கப்பட்ட பாடத்திட்டப் பக்கம்; K5 wording variant |
+| S6 | FreeTNBooks — Lesson 1.5 | [10th Standard Tamil Guide Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) | 22-10-2025 update; K1–K4 / MCQ4 போன்ற பகுதிகள்; சில வினாக்களில் wording variant |
+| S7 | SamacheerKalviGuide — Lesson 1.5 | [எழுத்து, சொல் வினா விடை](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-eluthu-sol-question-answer/) | 30-11-2023; K1–K3 மற்றும் வேங்கை வினா உள்ளிட்டவை |
+| S8 | TextBookPDF — Lesson 1.5 | [TN 10th Tamil Guide Lesson 1.5](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-5/) | 23-06-2023 / 10-09-2022 page dates; MCQ4 மற்றும் வேங்கை வினா |
+| S9 | TextBookPDF — Lesson 1.2 | [TN 10th Tamil Guide Lesson 1.2](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-2/) | MCQ2, MCQ5 மற்றும் சொல்வளம் சார்ந்த நீள்வினா reference |
+| S10 | TamilSangamam — இயல் 1 / பாடம் 1.2 | [10ஆம் வகுப்பு தமிழ் — இயல் 1](https://www.tamilsangamam.in/2022/07/10-1.html) | 2022; MCQ2, MCQ5, SHORT2, LONG2 போன்ற தொடர்புடைய வினாக்கள் |
+| S11 | KalviWorld Official — Unit 1 | [10th Tamil Book Back Answers — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) | 06-2025; MCQ3/4/5-ல் மற்ற source-களுடன் மாறுபாடு; conflict record ஆக மட்டும் |
+| S12 | GreenTamil — இயல் 1 | [பத்தாம் வகுப்பு தமிழ் — இயல் 1 வினாக்களும் விடைகளும்](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html?showComment=1656005902712) | 19-06-2021; முன்பு நேரடியாகச் சரிபார்க்கப்பட்டது; இந்த மறு-சரிபார்ப்பில் Cloudflare/Access block |
+| S13 | GreenTamil — பழைய மாற்று வினா பதிவு | [10ஆம் வகுப்பு தமிழ் — மாற்று பதிவு](https://www.greentamil.in/2021/08/10.html) | பழைய பதிவு; MCQ1-க்கு wording/answer variant |
+| S14 | Tamil Virtual Academy — மகர ஈற்றுப் புணர்ச்சி | [மகர ஈற்றுப் புணர்ச்சி விதிகள்](https://www.tamilvu.org/ta/courses-degree-c021-c0214-html-c0214221-16222) | இலக்கண விதி ஆதாரம்; MCQ3 காரண விளக்கத்திற்குப் பயன்படுத்தப்பட்டது |
+| S15 | Tamil Virtual Academy — தொழிற்பெயர் / வினையாலணையும் பெயர் | [4.5 தொழிற்பெயரும் வினையாலணையும் பெயரும்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138) | இலக்கண வகை விளக்கம்; MCQ4 காரண விளக்கத்திற்குப் பயன்படுத்தப்பட்டது |
+| S16 | OMTEX Classes | [10th Standard Tamil Question Paper — related item](https://www.omtexclasses.com/2025/07/tamil-question-papers-10th-standard-1st_63.html) | 2025; MCQ3-க்கு அதே சொல் பிரிப்பு வேறு தேர்வுத் தாள் சூழலில் |
+| S17 | Kalvi Vula | [10ஆம் வகுப்பு தமிழ் — தொடர்புடைய வினா](https://kalvivula.blogspot.com/2021/08/10_22.html) | MCQ4 விடை reference |
+| S18 | SaraNextGen | [Chapter 1.5 — Eluttu Col](https://www.saranextgen.com/homeworkhelp/index.php?id=15896) | 2024–25 material; வேங்கை / MCQ4 reference |
+| S19 | SaraNextGen | [Chapter 1.1 + 1.5 combined guide](https://www.saranextgen.com/help/48K/24W/chapter-1-1-annai-moliyai-chapter-1-5-10th-tamil-guide-samacheer-kalvi-solutions) | 1.1 / 1.5 answer source candidate |
+| S20 | Samacheer-Kalvi.com — Lesson 1.1 | [10th Tamil Guide Chapter 1.1](https://samacheer-kalvi.com/samacheer-kalvi-10th-tamil-guide-chapter-1-1/) | LONG1 தொடர்புடைய source |
+| S21 | StudentsGuide360 — Lesson 1.1 | [10th Tamil Guide Unit 1.1](https://www.studentsguide360.com/10th-tamil-guide-unit-1-1/) | LONG1 தொடர்புடைய source |
+| S22 | FreeTNBooks — Lesson 1.1 | [10th Standard Tamil Guide Lesson 1.1](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-1/) | LONG1 தொடர்புடைய source |
+| S23 | TNBoardSolutions — Lesson 1.1 | [10th Tamil Guide Chapter 1.1](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-1/) | LONG1 தொடர்புடைய source |
+| S24 | KalviBot — Unit 1.1 | [10th Tamil Unit 1 Section 1.1 Solutions](https://docs.kalvibot.in/2020/12/10th-tamil-unit-1-section-11-solutions.html) | LONG1 தொடர்புடைய source |
+| S25 | NammaKalvi — பழைய Slow Learners Material | [10th Tamil Study Material PDF](https://www.nammakalvi.com/uploads/3/0/7/5/30750087/namma_kalvi_10th_tamil_slow_learners_study_material_216363.pdf) | பழைய 2019–20 material; edition warning உடன் மட்டும் பயன்படுத்தவும் |
+
+---
+
+## I. கற்பவை கற்றபின்...
+
+### K1. தேன், நூல், பை, மலர், வா - இத் தனிமொழிகளுடன் சொற்களைச் சேர்த்துத் தொடர்மொழிகளாக்குக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — பயிற்சி K1-க்கு நேரடி விடை உள்ளது — `EXACT_MATCH`.
+- S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K1 — `EXACT_MATCH`.
+- S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K1 — `EXACT_MATCH`.
+- S6 — [FreeTNBooks, Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) — K1 — `EXACT_MATCH`.
+- S7 — [SamacheerKalviGuide, எழுத்து, சொல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-eluthu-sol-question-answer/) — K1 — `EXACT_MATCH`.
+- S2 — [BrainKart Grammar — எழுத்து, சொல்](https://www.brainkart.in/article/Grammar--Eluthu-sol_11806/) — கேள்வி பட்டியல் உள்ளது; இந்தப் பதிவில் K1-க்கு விடை உறுதி செய்யப்படவில்லை — `QUESTION_LOCATOR_ONLY`.
+
+### K2. வினையடியை விகுதிகளுடன் இணைத்துத் தொழிற்பெயர்களை உருவாக்குக.
+   காண், சிரி, படி, தடு
+   எ.கா. காட்சி, காணுதல், காணல், காணாமை
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — K2 — `EXACT_MATCH`.
+- S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K2 — `EXACT_MATCH`.
+- S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K2 — `EXACT_MATCH`.
+- S7 — [SamacheerKalviGuide, எழுத்து, சொல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-eluthu-sol-question-answer/) — K2 — `EXACT_MATCH`.
+- S2 — [BrainKart Grammar — எழுத்து, சொல்](https://www.brainkart.in/article/Grammar--Eluthu-sol_11806/) — question locator only; K2 விடை இந்தப் பக்கத்தில் உறுதி செய்யப்படவில்லை.
+
+### K3. தனிமொழி, தொடர்மொழி ஆகியவற்றைக் கொண்டு உரையாடலைத் தொடர்க.
+   அண்ணன் : எங்கே செல்கிறாய்? (தொடர்மொழி)
+   தம்பி : _____ (தனிமொழி)
+   அண்ணன் : _____ _______ வாங்குகிறாய்? (தொடர்மொழி)
+   தம்பி : _________________ (தொடர்மொழி)
+   அண்ணன் : ______________(தனிமொழி)
+   தம்பி : ____________ (தொடர்மொழி)
+   அண்ணன் :
+   தம்பி :
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — K3 உரையாடல் — `EXACT_MATCH`.
+- S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K3 — `EXACT_MATCH`.
+- S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K3 — `EXACT_MATCH`.
+- S6 — [FreeTNBooks, Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) — K3 — `EXACT_MATCH`.
+- S7 — [SamacheerKalviGuide, எழுத்து, சொல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-eluthu-sol-question-answer/) — K3 — `EXACT_MATCH`.
+
+### K4. மலை என்னை அடிக்கடி அழைக்கும். மலைமீது ஏறுவேன்; ஓரிடத்தில் அமர்வேன்; மேலும் கீழும் பார்ப்பேன்; சுற்றுமுற்றும் பார்ப்பேன். மனம் அமைதி எய்தும். இத்தொடர்களில் உள்ள வினைமுற்றுகளைத் தனியே எடுத்தெழுதித் தொழிற்பெயர்களாக மாற்றுக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — மலைத் தொடருக்கான K4 — `EXACT_MATCH`.
+- S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K4 — `EXACT_MATCH`.
+- S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K4 — `EXACT_MATCH`.
+- S6 — [FreeTNBooks, Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) — K4 — `EXACT_MATCH`.
+
+### K5. கட்டு, சொட்டு, வழிபாடு, கேடு, பாடுதல் - இத்தொழிற்பெயர்களை வகைப்படுத்துக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — source question-ல் `பாடுதல்` என்பதற்குப் பதில் `கோறல்` என்று உள்ளது — `QUESTION_MISMATCH`.
+- S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K5-ல் `கோறல்` wording — `QUESTION_MISMATCH`.
+- S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K5-ல் `கோறல்` wording — `QUESTION_MISMATCH`.
+- S2 — [BrainKart Grammar — எழுத்து, சொல்](https://www.brainkart.in/article/Grammar--Eluthu-sol_11806/) — கேள்வி/பாடப்பகுதி locator; exact `பாடுதல்` விடை இந்த ஆய்வில் உறுதி செய்யப்படவில்லை.
+
+**QC Note:** `questions.md`-இல் உள்ள சொல் `பாடுதல்`; பல guide source-களில் `கோறல்`. இவற்றை ஒன்றாகக் கருதவில்லை. `பாடுதல்` உள்ள துல்லியமான source விடை இன்னும் சரிபார்க்கப்படவில்லை.
+
+---
+
+## II. பலவுள் தெரிக.
+
+### MCQ1. 'மெத்த வணிகலன்' என்னும் தொடரில் தமிழகனார் குறிப்பிடுவது-
+   அ) வணிக் கப்பல்களும் ஐம்பெரும் காப்பியங்களும்
+   ஆ) பெரும் வணிகமும் பெருமக் கலன்களும்
+   இ) ஐம்பெரும் காப்பியங்களும் அணிகலன்களும்
+   ஈ) வணிக் கப்பல்களும் அணிகலன்களும்
+
+**Source-ல் காணப்பட்ட விடைகள் (ஒவ்வொன்றும் தனித்தனி):**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — **அ) வணிகக் கப்பல்களும் ஐம்பெருங்காப்பியங்களும்** — `WORDING_VARIANT` (option wording-ல் சிறிய எழுத்து வேறுபாடு).
+- S12 — [GreenTamil, இயல் 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html?showComment=1656005902712) — முன்பு சரிபார்த்த பதிவில் **அ** எனக் காட்டியது; தற்போதைய மறு திறப்பு Cloudflare காரணமாக இயலவில்லை — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
+- S13 — [GreenTamil, பழைய மாற்று பதிவு](https://www.greentamil.in/2021/08/10.html) — **இ) ஐம்பெரும் காப்பியங்களும் அணிகலன்களும்** எனத் தரும் பழைய பதிவு; கேள்வியில் ஆசிரியர் பெயர் `தமிழழகனார்` என மாறியுள்ளது — `QUESTION_VARIANT; CONFLICT`.
+
+**💡 காரண விளக்கம்:** `REASON_NOT_REQUIRED` — இது குறிப்பிட்ட இலக்கண விதியைச் சோதிக்கும் வினா அல்ல; கருத்துப் பொருள் சார்ந்த வினா.
+
+### MCQ2. 'காய்ந்த இலையும் காய்ந்த தோகையும்' நிலத்துக்கு நல்ல உரங்கள். இத்தொடரில் அடிக்கோடிட்ட பகுதி குறிப்பிடுவது -
+   அ) இலையும் சருகும் ஆ) தோகையும் சண்டும்
+   இ) தாளும் ஓலையும் ஈ) சருகும் சண்டும்
+
+**Source-ல் காணப்பட்ட விடைகள்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — **ஈ) சருகும் சண்டும்**.
+- S9 — [TextBookPDF, Lesson 1.2](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-2/) — **ஈ) சருகும் சண்டும்**.
+- S10 — [TamilSangamam, இயல் 1 / பாடம் 1.2](https://www.tamilsangamam.in/2022/07/10-1.html) — **ஈ) சருகும் சண்டும்**.
+- S12 — [GreenTamil, இயல் 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html?showComment=1656005902712) — முன்பு சரிபார்த்த பதிவில் **ஈ) சருகும் சண்டும்**; தற்போதைய recheck block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
+
+**💡 காரண விளக்கம்:** `REASON_NOT_REQUIRED` — இது சொல்/பயிர் சார்ந்த பொருள் வினா; இந்த ஆய்வில் இதற்குப் பொருந்தும் தனி இலக்கண விதி தேவையில்லை.
+
+### MCQ3. எந்தமிழ்நா என்பதைப் பிரித்தால் இவ்வாறு வரும் -
+   அ) எந் + தமிழ் + நா
+   ஆ) எந்த + தமிழ் + நா
+   இ) எம் + தமிழ் + நா
+   ஈ) எந்தம் + தமிழ் + நா
+
+**Source-ல் காணப்பட்ட விடைகள்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — **இ) எம் + தமிழ் + நா**.
+- S16 — [OMTEX Classes — தொடர்புடைய தேர்வுத் தாள்](https://www.omtexclasses.com/2025/07/tamil-question-papers-10th-standard-1st_63.html) — **எம் + தமிழ் + நா** எனத் தருகிறது; அதே சொல்லைப் பயன்படுத்திய வேறு தேர்வுத் தாள் — `SAME_ITEM_DIFFERENT_TEST`.
+- S11 — [KalviWorld Official — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) — **என் + தமிழ் + நா** எனத் தருகிறது; இது `questions.md`-இல் உள்ள எந்த option-க்கும் துல்லியமாகப் பொருந்தவில்லை — `OPTION_TEXT_VARIANT; CONFLICT`.
+
+**💡 காரண விளக்கம் (இலக்கண விதி ஆதாரத்துடன்):** `எம் + தமிழ்` புணரும்போது, வருமொழியின் தொடக்கத் தகரத்திற்கு இனமான நகரம் (ந்) தோன்றும்; அதனால் `எந்தமிழ்` என அமைகிறது. `நா` இணைந்த வடிவம் `எந்தமிழ்நா`. இது மகர ஈற்றுப் புணர்ச்சி விதியை அடிப்படையாகக் கொண்ட சுருக்கமான extractor விளக்கம்.  
+**காரண விளக்க Source:** S14 — [தமிழ் இணையக் கல்விக்கழகம்: மகர ஈற்றுப் புணர்ச்சி விதிகள்](https://www.tamilvu.org/ta/courses-degree-c021-c0214-html-c0214221-16222).
+
+### MCQ4. 'கேட்டவர் மகிழப் பாடிய பாடல் இது' - தொடரில் இடம்பெற்றுள்ள தொழிற்பெயரும் வினையாலணையும் பெயரும் முறையே -
+   அ) பாடிய; கேட்டவர் ஆ) பாடல்; பாடிய
+   இ) கேட்டவர்; பாடிய ஈ) பாடல்; கேட்டவர்
+
+**Source-ல் காணப்பட்ட விடைகள்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — **ஈ) பாடல்; கேட்டவர்**.
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — **ஈ) பாடல்; கேட்டவர்**.
+- S6 — [FreeTNBooks, Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) — **ஈ) பாடல்; கேட்டவர்**.
+- S8 — [TextBookPDF, Lesson 1.5](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-5/) — **ஈ) பாடல்; கேட்டவர்**.
+- S11 — [KalviWorld Official — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) — **இ) கேட்டவர்; பாடிய** எனக் குறிக்கிறது — `CONFLICT`.
+- S17 — [Kalvi Vula](https://kalvivula.blogspot.com/2021/08/10_22.html) — **ஈ) பாடல்; கேட்டவர்** எனக் காட்டும் answer reference.
+- S18 — [SaraNextGen, Lesson 1.5](https://www.saranextgen.com/homeworkhelp/index.php?id=15896) — **ஈ) பாடல்; கேட்டவர்** எனக் காட்டும் answer reference.
+
+**💡 காரண விளக்கம் (இலக்கண வகை ஆதாரத்துடன்):** `பாடல்` என்பது பாடும் செயலைக் குறிக்கும் தொழிற்பெயர்; `கேட்டவர்` என்பது கேட்ட செயலைச் செய்தவரைக் குறிக்கும் வினையாலணையும் பெயர். ஆகவே கேள்வியில் கேட்ட வரிசை `பாடல்; கேட்டவர்`. இது இலக்கண வகைகளை விளக்கும் extractor குறிப்பு.  
+**காரண விளக்க Source:** S15 — [தமிழ் இணையக் கல்விக்கழகம்: தொழிற்பெயரும் வினையாலணையும் பெயரும்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138).
+
+### MCQ5. வேர்க்கடலை, மிளகாய் விதை, மாங்கொட்டை ஆகியவற்றைக் குறிக்கும் பயிர்வகை -
+   அ) குலை வகை ஆ) மணி வகை
+   இ) கொழுந்து வகை ஈ) இலை வகை
+
+**Source-ல் காணப்பட்ட விடைகள்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — **ஆ) மணிவகை**.
+- S9 — [TextBookPDF, Lesson 1.2](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-2/) — **ஆ) மணிவகை**.
+- S10 — [TamilSangamam, இயல் 1 / பாடம் 1.2](https://www.tamilsangamam.in/2022/07/10-1.html) — **ஆ) மணிவகை**.
+- S11 — [KalviWorld Official — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) — **இ) கொழுந்து வகை** எனக் குறிக்கிறது — `CONFLICT`.
+
+**💡 காரண விளக்கம்:** `REASON_NOT_REQUIRED` — இது பயிர்வகை/பொருள் அடையாளம் சார்ந்த வினா; குறிப்பிட்ட இலக்கண விதி சார்ந்ததல்ல.
+
+---
+
+## III. குறுவினா
+
+### SQ1. 'வேங்கை' என்பதைத் தொடர்மொழியாகவும் பொதுமொழியாகவும் வேறுபடுத்திக் காட்டுக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — வேங்கை வினா — `EXACT_MATCH`.
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — வேங்கை — `EXACT_MATCH`.
+- S5 — [KalviKavi, Lesson 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — வேங்கை — `EXACT_MATCH`.
+- S7 — [SamacheerKalviGuide, எழுத்து, சொல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-eluthu-sol-question-answer/) — வேங்கை — `EXACT_MATCH`.
+- S8 — [TextBookPDF, Lesson 1.5](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-5/) — வேங்கை — `EXACT_MATCH`.
+- S18 — [SaraNextGen, Lesson 1.5](https://www.saranextgen.com/homeworkhelp/index.php?id=15896) — வேங்கை — `EXACT_MATCH`.
+- S6 — [FreeTNBooks, Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) — அந்தப் பக்கத்தில் `பலகை` என்ற வேறு சொல் உள்ளது; இக்கேள்விக்கான source ஆகப் பயன்படுத்தவில்லை — `QUESTION_MISMATCH`.
+
+### SQ2. "மன்னும் சிலம்பே! மணிமேகலைவடிவே!
+   முன்னும் நினைவால் முடிதாழ வாழ்த்துவமே!" – இவ்வடிகளில் இடம்பெற்றுள்ள காப்பியங்களைத் தவிர எஞ்சியுள்ள ஐம்பெருங் காப்பியங்களின் பெயர்களை எழுதுக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — SQ2-க்கு நேரடி வினா/விடை பகுதி — `EXACT_MATCH`.
+- S12 — [GreenTamil, இயல் 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html?showComment=1656005902712) — முன்பு பார்த்த இயல் 1 முழு Q&A பக்கம்; தற்போதைய மறு திறப்பு Cloudflare காரணமாக இயலவில்லை — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
+
+---
+
+## IV. சிறுவினா
+
+### SHORT1. தமிழன்னையை வாழ்த்துவதற்கான காரணங்களாகப் பாவலரேறு சுட்டுவன யாவை?
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — SHORT1 — `EXACT_MATCH`.
+- S12 — [GreenTamil, இயல் 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html?showComment=1656005902712) — முன்பு சரிபார்க்கப்பட்ட Q&A பக்கம்; தற்போதைய திறப்பு block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
+
+### SHORT2. 'புளியங்கன்று ஆழமாக நடப்பட்டுள்ளது.' இதுபோல் இளம் பயிர் வகை ஐந்தின் பெயர்களைத் தொடர்களில் அமைக்க.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — குறைந்த எண்ணிக்கையிலான எடுத்துக்காட்டுகளுடன் உள்ள பகுதி — `PARTIAL_SOURCE`.
+- S10 — [TamilSangamam, இயல் 1 / பாடம் 1.2](https://www.tamilsangamam.in/2022/07/10-1.html) — இளம் பயிர் வகை தொடர்புடைய எடுத்துக்காட்டுகள் — `EXACT_MATCH`.
+
+### SHORT3. 'அறிந்து, அறியாது, புரிந்து, புரியாது, தெரிந்து, தெரியாது, பிறந்து, பிறவாது' இவை அனைத்தையும் யாம் அறிவோம். அதுபற்றி உமது அறிவுரை எமக்குத் தேவை இல்லை. எல்லாம் எமக்குத் தெரியும். இக்கூற்றில் வண்ண எழுத்துகளில் உள்ள வினைமுற்றுகளைத் தொழிற்பெயர்களாக மாற்றி எழுதுக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — இதே வினா நோக்கம்; source wording `அறிந்தது, அறியாதது...` என வேறுபடுகிறது — `WORDING_VARIANT`.
+- S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — source-ல் `அறிந்தது, அறியாதது...` wording — `WORDING_VARIANT`.
+- S6 — [FreeTNBooks, Lesson 1.5](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-5/) — source-ல் `அறிந்தது, அறியாதது...` wording — `WORDING_VARIANT`.
+
+**QC Note:** `questions.md`-இல் `அறிந்து, அறியாது...` என்று உள்ளது. திறந்த source-களில் `அறிந்தது, அறியாதது...` என்று உள்ளது. அதே கேள்வி என உறுதி செய்யும் வரை wording variant ஆகவே வைத்துள்ளோம்.
+
+### SHORT4. தமிழகனார் தமிழையும் கடலையும் இரட்டுறமொழியும் பாங்கினை விளக்குக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — இதே கருத்து/வினா; source-ல் ஆசிரியர் பெயர் `தமிழழகனார்` என உள்ளது — `WORDING_VARIANT`.
+- S12 — [GreenTamil, இயல் 1](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html?showComment=1656005902712) — முன்பு சரிபார்க்கப்பட்ட இயல் 1 பக்கம்; தற்போதைய அணுகல் block — `PREVIOUSLY_VERIFIED; ACCESS_BLOCKED`.
+
+**QC Note:** `questions.md`-ல் `தமிழகனார்`; BrainKart page-ல் `தமிழழகனார்`. பெயர் வேறுபாட்டைத் தீர்க்காமல் source variant ஆக மட்டும் பதிவு செய்துள்ளோம்.
+
+---
+
+## V. நெடுவினா
+
+### LONG1. மனோன்மணீயம் சுந்தரனாரின் தமிழ்த்தாய் வாழ்த்துப் பாடலையும் பெருஞ்சித்திரனாரின் தமிழ் வாழ்த்தையும் ஒப்பிட்டு மேடைப்பேச்சு ஒன்றை உருவாக்குக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — LONG1 — `EXACT_MATCH`.
+- S20 — [Samacheer-Kalvi.com, Lesson 1.1](https://samacheer-kalvi.com/samacheer-kalvi-10th-tamil-guide-chapter-1-1/) — தமிழ்த்தாய் வாழ்த்து / பாடப்பகுதி source — `RELATED_SOURCE`.
+- S21 — [StudentsGuide360, Lesson 1.1](https://www.studentsguide360.com/10th-tamil-guide-unit-1-1/) — LONG1 தொடர்புடைய material — `RELATED_SOURCE`.
+- S22 — [FreeTNBooks, Lesson 1.1](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-1-1/) — LONG1 தொடர்புடைய material — `RELATED_SOURCE`.
+- S23 — [TNBoardSolutions, Lesson 1.1](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-1/) — LONG1 தொடர்புடைய material — `RELATED_SOURCE`.
+- S24 — [KalviBot, Unit 1.1](https://docs.kalvibot.in/2020/12/10th-tamil-unit-1-section-11-solutions.html) — LONG1 தொடர்புடைய material — `RELATED_SOURCE`.
+- S19 — [SaraNextGen, Lessons 1.1 + 1.5](https://www.saranextgen.com/help/48K/24W/chapter-1-1-annai-moliyai-chapter-1-5-10th-tamil-guide-samacheer-kalvi-solutions) — தொடர்புடைய guide page — `RELATED_SOURCE`.
+
+### LONG2. தமிழின் சொல்வளம் பற்றியும் புதிய சொல்லாக்கத்திற்கான தேவை குறித்தும் தமிழ் மன்றத்தில் பேசுவதற்கான உரைக் குறிப்புகளை எழுதுக.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — LONG2 — `EXACT_MATCH`.
+- S9 — [TextBookPDF, Lesson 1.2](https://textbookpdf.in/tn-10th-tamil-guide-lesson-1-2/) — சொல்வளம் தொடர்புடைய வினா/விடை reference — `RELATED_SOURCE`.
+- S10 — [TamilSangamam, இயல் 1 / பாடம் 1.2](https://www.tamilsangamam.in/2022/07/10-1.html) — தமிழ்ச்சொல் வளம் / புதிய சொல்லாக்கம் சார்ந்த reference — `RELATED_SOURCE`.
+- S25 — [NammaKalvi, 10th Tamil Slow Learners PDF](https://www.nammakalvi.com/uploads/3/0/7/5/30750087/namma_kalvi_10th_tamil_slow_learners_study_material_216363.pdf) — பழைய 2019–20 PDF; edition வேறுபாடு இருக்கலாம் — `LEGACY_PDF_REFERENCE; EDITION_REVIEW_REQUIRED`.
+
+### LONG3. ஒரு பக்க அளவில் உரையாடல் எழுதுக.
+   சூழல் – வெளிநாட்டிலிருந்து உங்கள் இல்லத்திற்கு வந்திருக்கும் உறவினரின் மகளுக்குத் தமிழ் மொழியைப் பேச மட்டுமே தெரியும். ஆங்கில இலக்கியம் படித்த அவரிடம் தமிழ் உரைநடையின் சிறப்புப் பற்றி உரையாடுதல்.
+
+#### 🔑 விடைக்குறிப்பு
+[TO_BE_PREPARED_LATER]
+
+#### 📝 சாதாரண விடை
+[TO_BE_PREPARED_LATER]
+
+#### 📖 விரிவான விடை
+[TO_BE_PREPARED_LATER]
+
+**Source links மட்டும்:**
+- S1 — [BrainKart, இயல் 1 Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/) — LONG3-க்கான நேரடி வினா/விடை பகுதி — `EXACT_MATCH`.
+
+---
+
+## C. திறந்த QC பட்டியல்
+
+| Question ID | நிலை | சரிபார்க்க வேண்டியது |
 |---|---|---|
-| இயல் 1 — அமுத ஊற்று | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11807/) | 5 துணைப்பாடங்கள்; ஒருங்கிணைந்த வினா–விடை பக்கம் கிடைத்துள்ளது. தற்போதைய 19 வினாக்கள் இவ்வியலின் ஒருங்கிணைந்த தொகுப்பு. |
-| இயல் 2 — உயிரின் ஓசை | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11815/) | 5 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 3 — கூட்டாஞ்சோறு | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11824/) | 6 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 4 — நான்காம் தமிழ் | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11832/) | 5 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 5 — மணற்கேணி | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11840/) | 5 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 6 — நிலா முற்றம் | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11850/) | 7 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 7 — விதைநெல் | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11859/) | 6 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 8 — பெருவழி | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) | 5 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-| இயல் 9 — அன்பின் மொழி | [கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11876/) | 5 துணைப்பாடங்கள்; இயல்-முழு Q&A பக்கம் சரிபார்க்கப்பட்டது. |
-
-**முக்கிய நிலை குறிப்பு:** ஒன்பது இயல்களுக்குமான முதன்மை Answer Page-கள் கண்டறியப்பட்டுள்ளன. இதை ஒன்பது இயல்களின் ஒவ்வொரு கேள்விக்கும் மூன்று Source-களின் விடைகள் முழுமையாகச் சேகரிக்கப்பட்டுவிட்டன என்று பொருள் கொள்ளக்கூடாது. வினா வாரியான Source பதிவுகள், குறிப்பாக இயல் 2–9, அடுத்தடுத்த தொகுப்புகளில் நிரப்பப்பட வேண்டும்.
-
----
-
-## இயல் 1 — விரிவான வினா வாரியான Reference பதிவுகள்
-
-## இரண்டாம் Source — ஒவ்வொரு இயலிலிருந்தும் நேரடியாகச் சரிபார்க்கப்பட்ட பாட விடைப் பக்கங்கள்
-
-கீழே ஒவ்வொரு இயலிலிருந்தும் குறைந்தது ஒரு தனிப்பாட Answer Page திறந்து சரிபார்க்கப்பட்டுள்ளது. இவை அந்தந்த பாடத்திற்கான நேரடி விடைப் பக்கங்கள்; இயல் முழுவதற்கான மூன்றாவது Source என்று கருதக்கூடாது. ஒவ்வொரு இயலின் மீதமுள்ள துணைப்பாடங்களுக்கும் இதே தளத்தின் தொடர்புடைய பக்கங்களைத் திறந்து பதிவு செய்ய வேண்டும்.
-
-| இயல் | பாடம் | நேரடி Answer Page | சரிபார்க்கப்பட்ட விடை வடிவங்கள் |
-|---|---|---|---|
-| 1 | அன்னை மொழியே | [Samacheer Kalvi Guide — அன்னை மொழியே](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-annai-mozhiye-question-answer/) | ஒரு மதிப்பெண் விடை வரி; குறுவினா புள்ளிகள்; சிறுவினா மேற்கோள் + புள்ளிகள்; நெடுவினா அறிமுகம், ஒப்பீட்டு அட்டவணை, நிறைவுரை |
-| 2 | கேட்கிறதா என் குரல்! | [Samacheer Kalvi Guide — கேட்கிறதா என் குரல்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ketkiratha-en-kural-question-answer/) | MCQ விடை வரி; குறுவினா எண் பட்டியல்; சிறுவினா கற்பனைத் தலைப்புகள்; நெடுவினா விளக்கத் தலைப்புகள் மற்றும் எடுத்துக்காட்டுகள் |
-| 3 | விருந்து போற்றுதும்! | [Samacheer Kalvi Guide — விருந்து போற்றுதும்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-virunthu-potruthum-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; ஒவ்வொரு வினாவின் வடிவத்தைத் தனியே எடுக்க வேண்டும் |
-| 4 | செயற்கை நுண்ணறிவு | [Samacheer Kalvi Guide — செயற்கை நுண்ணறிவு](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-seyarkai-nunnarivu-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; உரைநடை விளக்க விடைகள் |
-| 5 | மொழிபெயர்ப்புக் கல்வி | [Samacheer Kalvi Guide — மொழிபெயர்ப்புக் கல்வி](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-mozhipeyarpu-kalvi-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; உரைநடை சார்ந்த விளக்க விடைகள் |
-| 6 | நிகழ்கலை | [Samacheer Kalvi Guide — நிகழ்கலை](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-nigalkalai-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; கலை/பண்பாட்டு விளக்க விடைகள் |
-| 7 | சிற்றகல் ஒளி | [Samacheer Kalvi Guide — சிற்றகல் ஒளி](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sitrakal-oli-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; தன்வரலாறு சார்ந்த விடைகள் |
-| 8 | சங்க இலக்கியத்தில் அறம் | [Samacheer Kalvi Guide — சங்க இலக்கியத்தில் அறம்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-sanga-ilakkiyathil-aram-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; இலக்கிய விளக்க விடைகள் |
-| 9 | ஜெயகாந்தம் (நினைவு இதழ்) | [Samacheer Kalvi Guide — ஜெயகாந்தம்](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-jeyakantham-question-answer/) | பாடத்திற்கான நேரடி வினா–விடைப் பக்கம்; உரைநடை/வாழ்க்கைக் குறிப்பு சார்ந்த விடைகள் |
-
-**Source ஒப்பீட்டு விதி:** BrainKart-ன் இயல்-முழு Q&A பக்கத்தையும் Samacheer Kalvi Guide-ன் குறிப்பிட்ட பாட Answer Page-ஐயும் ஒரே கேள்விக்காகப் பொருத்திப் பார்க்க வேண்டும். இரண்டும் ஒரே கேள்விக்கு பதில் தரும்போது அவற்றின் சொல் தேர்வு, பதில் வரிசை, புள்ளிகள், எடுத்துக்காட்டுகள், அட்டவணை/பத்தி வடிவம் ஆகியவை தனித்தனியாகப் பதிவு செய்யப்பட வேண்டும். இங்கு ஒரு தளத்தின் பதிலை மற்றொரு தளத்தின் பதிலுடன் கலந்து விடையாக மாற்ற வேண்டாம்.
-
-## Source பட்டியல்
-
-| ID | தளம் | நேரடி Answer Page | Page-ல் உள்ள பதில் வடிவம் |
-|---|---|---|---|
-| S1 | BrainKart | [இயல் 1 — கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11807/) | MCQ-க்கு நேரடி விடை; குறுவினா/சிறுவினாவுக்கு புள்ளிகள்; நெடுவினாவுக்கு தலைப்புகள், விளக்கப் புள்ளிகள், உரையாடல் |
-| S2 | GreenTamil | [இயல் 1 — பாடப்பகுதி வினாக்களும் விடைகளும்](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) | MCQ-க்கு விடை வரி; சில விடைகளுக்கு பத்தி; சிலவற்றுக்கு அட்டவணை/பட்டியல்/உரையாடல் |
-| S3 | GreenTamil | [இயல் 1 — கற்பவை கற்றபின்](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-karpavai-karrapin.html) | செயற்பாட்டு வினாக்களுக்கு உதாரண வாக்கியங்கள், உரையாடல், வினைமுற்று–தொழிற்பெயர் அட்டவணை |
-| S4 | TamilVithai | [இயல் 1 — கற்பவை கற்றபின்](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) | உதாரண வாக்கியங்கள், உரையாடல், இலக்கணப் பட்டியல் மற்றும் அட்டவணை |
-| S5 | KalviWorld | [10th Tamil — Book Back Answers — Unit 1](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) | MCQ option-களைத் தேர்வு செய்த வடிவம்; ஐந்து MCQ-களிலும் S1/S2-வுடன் பல முரண்பாடுகள் உள்ளன |
-| S6 | A2Z TNPSC | [10th Std — இயல் 1](https://www.a2ztnpsc.in/2024/07/10th-std-1.html) | Search preview-ல் ஒரு மதிப்பெண் விடைகள் தெரிந்தன; page திறப்பு 502 பிழையால் முழு page verification செய்யப்படவில்லை |
-| S7 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [மூவகை மொழி — PDF, பக்கம் 128](https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128) | தனிமொழி, தொடர்மொழி, பொதுமொழி பற்றிய இலக்கண வரையறை |
-| S8 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [தொழிற்பெயர் — பெயர்ச்சொல் வகைகள்](https://www.tamilvu.org/en/node/1542) | தொழிற்பெயர், விகுதி பெற்ற தொழிற்பெயர், முதனிலை/முதனிலை திரிந்த வகைகளுக்கான இலக்கண விதி |
-| S9 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [தொழிற்பெயரும் வினையாலணையும் பெயரும்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138) | தொழிற்பெயர் மற்றும் வினையாலணையும் பெயரின் வேறுபாடு |
-| S10 | தமிழ் இணையக் கல்விக்கழகம் (TVA) | [ஐம்பெருங்காப்பியங்கள்](https://www.tamilvu.org/courses/new_courses/level05/sem01/html/lev510900092.htm) | ஐம்பெருங்காப்பியங்களின் பெயர் மற்றும் அணிகலன் தொடர்பு |
-| S11 | 10ஆம் வகுப்பு தமிழ் பாடநூல் PDF mirror | [10th Tamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf) | சருகு = காய்ந்த இலை; சண்டு = காய்ந்த தாளும் தோகையும் என்ற சொல்வளப் பகுதி |
-
----
-
-## I. கற்பவை கற்றபின் — 5 வினாக்கள்
-
-### K1. தேன், நூல், பை, மலர், வா — தனிமொழிகளுடன் சொற்களைச் சேர்த்து தொடர்மொழிகளாக்குக.
-
-**S3 — GreenTamil:** ஐந்து தனித்தனி உதாரண வாக்கியங்களாகத் தருகிறது. தேன் வாங்குதல், நூல்களைப் படித்தல், பையில் புத்தகங்களை வைப்பது, மலர்களால் அலங்கரித்தல், பலர் வருதல் போன்ற பயன்பாடுகள்.
-
-**S4 — TamilVithai:** ஐந்து குறுகிய உதாரண வாக்கியங்களாகத் தருகிறது. தேனின் பயன், நூல் பயில்தல், பை நிறைய காய்கறிகள், மல்லிகை மலரின் மணம், உடன் வருதல் ஆகியவை.
-
-**பதில் நிலை:** இரண்டு source-களிலும் ஐந்து சொற்களுக்கும் உதாரணங்கள் உள்ளன. வாக்கியங்கள் மாறுபடுவது இயல்பானது; ஒரே பதில் கட்டாயமில்லை.
-
-**காரண விளக்கம்:** தனிமொழியுடன் மற்றொரு சொல் அல்லது சொற்களை இணைத்து ஒரு முழுப் பொருளைத் தரும் தொடரை அமைக்க வேண்டும்.
-
-**Source:** [S3 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-karpavai-karrapin.html) · [S4 — TamilVithai](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html)
-
-### K2. காண், சிரி, படி, தடு — வினையடியை விகுதிகளுடன் இணைத்துத் தொழிற்பெயர்களை உருவாக்குக.
-
-**S4 — TamilVithai:** ஒவ்வொரு வினையடிக்கும் தொழிற்பெயர் வடிவங்களைக் கொடுக்கிறது:
-- காண் — காட்சி, காணுதல், காணல், காணாமை
-- சிரி — சிரித்தல், சிரிப்பு, சிரிக்காமை
-- படி — படித்தல், படிப்பு, படிக்காமை
-- தடு — தடுத்தல், தடுப்பு, தடுக்காமை
-
-**S3 — GreenTamil:** இந்தப் பகுதியில் சில இடங்களில் தொழிற்பெயருக்குப் பதிலாக வினைமுற்று வடிவங்களும் தரப்பட்டுள்ளன. எனவே முழுப் பட்டியலுக்கும் இதைத் தனியாக ஏற்றுக்கொள்ளவில்லை.
-
-**இலக்கண ஆதாரம்:** TVA-வின் தொழிற்பெயர் விளக்கத்தில் செயலைக் குறிக்கும் பெயர் தொழிற்பெயர் என்றும், அல்/தல் போன்ற விகுதிகள் பயன்படுகின்றன என்றும் கூறப்படுகிறது.
-
-**பதில் நிலை:** S4-ன் தொழிற்பெயர் வடிவங்கள் பயன்படுத்தத்தக்கவை; S3-ன் பட்டியலில் உள்ள வினைமுற்று வடிவங்களைத் தொழிற்பெயராகக் கருதக்கூடாது.
-
-**காரண விளக்கம்:** செயலைக் குறிக்கும் பெயராக்கம் தேவை. “சிரிப்பேன்”, “சிரித்தாள்” போன்றவை காலம்/நபர் காட்டும் வினைமுற்றுகள்; “சிரித்தல்”, “சிரிப்பு” போன்றவை செயலைப் பெயராகக் குறிக்கும் தொழிற்பெயர்கள்.
-
-**Source:** [S4 — TamilVithai](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) · [S3 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-karpavai-karrapin.html) · [S8 — TVA தொழிற்பெயர் இலக்கணம்](https://www.tamilvu.org/en/node/1542)
-
-### K3. தனிமொழி, தொடர்மொழி கொண்டு உரையாடலைத் தொடர்க.
-
-**S3 — GreenTamil:** கடைக்குச் செல்வது, தேங்காய் வாங்குவது, கோயிலுக்குச் செல்வது, குன்றத்தூர் கோயிலைச் சுட்டுவது போன்ற உரையாடல் வடிவம்.
-
-**S4 — TamilVithai:** எழுதுகோல் வாங்குவது, நண்பனுக்காக வாங்குவது என்ற வேறு உரையாடல் வடிவம்.
-
-**பதில் நிலை:** இரண்டு source-களிலும் மாதிரி உரையாடல்கள் உள்ளன. இரண்டும் வேறுபட்டாலும் கேள்வியின் நோக்கத்துக்கு ஏற்றவை.
-
-**காரண விளக்கம்:** உரையாடலில் தனியாக வரும் ஒற்றைச் சொல் தனிமொழியாகவும், பல சொற்கள் இணைந்து பொருள் தரும் பகுதி தொடர்மொழியாகவும் இருக்க வேண்டும்.
-
-**Source:** [S3 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-karpavai-karrapin.html) · [S4 — TamilVithai](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html)
-
-### K4. மலை பற்றிய தொடரிலுள்ள வினைமுற்றுகளைத் தொழிற்பெயர்களாக மாற்றுக.
-
-**S3 — GreenTamil:** வினைமுற்று → தொழிற்பெயர் என்ற இரண்டு பத்தி அட்டவணை வடிவம்.
-
-**S4 — TamilVithai:** அதே அட்டவணை வடிவம். இரண்டிலும் கிடைக்கும் மாற்றங்கள்:
-
-| வினைமுற்று | தொழிற்பெயர் |
-|---|---|
-| அழைக்கும் | அழைத்தல் |
-| ஏறுவேன் | ஏறுதல் |
-| அமர்வேன் | அமர்தல் |
-| பார்ப்பேன் | பார்த்தல் |
-| எய்தும் | எய்தல் |
-
-**பதில் நிலை:** S3/S4-ல் பெரும்பாலும் ஒரே மாற்றங்கள் உள்ளன. “எய்தல்” என்பதே இரு பக்கங்களிலும் காணப்படும் வடிவம்.
-
-**காரண விளக்கம்:** வாக்கியத்தில் வினைமுற்றாக வரும் செயலை, காலம்/நபர் காட்டாத செயற்பெயராக மாற்ற வேண்டும்.
-
-**Source:** [S3 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-karpavai-karrapin.html) · [S4 — TamilVithai](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html)
-
-### K5. கட்டு, சொட்டு, வழிபாடு, கேடு, பாடுதல் — தொழிற்பெயர்களை வகைப்படுத்துக.
-
-**கேள்வி உரை வேறுபாடு:** S3/S4 மற்றும் TN Board Solutions-ல் ஐந்தாவது சொல் “கோறல்” என்று வருகிறது. தற்போதைய questions.md-ல் “பாடுதல்” என்று உள்ளது. இரண்டும் ஒரே சொல் அல்ல; இந்த வேறுபாட்டை மறைக்கவில்லை.
-
-**S4 — TamilVithai:** “கட்டு”, “சொட்டு”, “வழிபாடு”, “கேடு”, “கோறல்” என்ற சொற்களை வகைப்படுத்துகிறது. “வழிபாடு” மற்றும் “கேடு” வகைப்படுத்தலில் S3-வுடன் முரண்பாடு உள்ளது.
-
-**S3 — GreenTamil:** “வழிபாடு” முதனிலைத் தொழிற்பெயர் எனக் குறிப்பிடுகிறது. இது S4 மற்றும் மற்றொரு guide source-ன் வகைப்பாட்டுடன் முரண்படுகிறது.
-
-**கேள்வியில் உள்ள “பாடுதல்” என்பதற்கான பதில்:** பாடுதல் — விகுதி பெற்ற தொழிற்பெயர் (தல் விகுதி). இது கேள்வியில் உள்ள சொல்லை அடிப்படையாகக் கொண்ட இலக்கணப் பதில்; “கோறல்” என்ற source பதிலாக மாற்றப்படவில்லை.
-
-**தற்காலிக வகைப்பாடு:**
-- கட்டு — முதனிலைத் தொழிற்பெயர்
-- சொட்டு — முதனிலைத் தொழிற்பெயர்
-- வழிபாடு — விகுதி பெற்ற தொழிற்பெயர் (S3-ல் முரண்பட்ட வகைப்பாடு உள்ளது)
-- கேடு — முதனிலை திரிந்த தொழிற்பெயர்
-- பாடுதல் — விகுதி பெற்ற தொழிற்பெயர்
-
-**காரண விளக்கம்:** விகுதி இல்லாமல் வினைப்பகுதி மட்டும் தொழிலை உணர்த்தினால் முதனிலைத் தொழிற்பெயர்; வினைப்பகுதி ஒலி மாற்றத்துடன் வந்தால் முதனிலை திரிந்த தொழிற்பெயர்; தல் போன்ற விகுதி சேர்ந்து வந்தால் விகுதி பெற்ற தொழிற்பெயர்.
-
-**Source:** [S3 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-karpavai-karrapin.html) · [S4 — TamilVithai](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) · [TN Board Solutions — அதே வினா](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) · [S8 — TVA தொழிற்பெயர் இலக்கணம்](https://www.tamilvu.org/en/node/1542)
-
----
-
-## II. பலவுள் தெரிக — 5 வினாக்கள்
-
-### MCQ1. ‘மெத்த வணிகலன்’ என்னும் தொடரில் தமிழழகனார் குறிப்பிடுவது?
-
-**S1 — BrainKart:** விடை A — வணிகக் கப்பல்களும் ஐம்பெருங்காப்பியங்களும்.
-
-**S2 — GreenTamil:** விடை A.
-
-**S5 — KalviWorld:** விடை B — பெரும் வணிகமும் பெரும் கலன்களும் எனக் குறிக்கிறது. இது S1/S2-வுடன் முரண்படுகிறது.
-
-**S6 — A2Z TNPSC:** Search preview-ல் வணிகக் கப்பல்களும் ஐம்பெருங்காப்பியங்களும் எனத் தெரிகிறது; முழுப் பக்கத்தைத் திறந்து சரிபார்க்க முடியவில்லை.
-
-**சரியான விடை:** அ) வணிகக் கப்பல்களும் ஐம்பெருங்காப்பியங்களும்.
-
-**காரண விளக்கம்:** இது இரட்டுற மொழிதல். கடலைக் குறிக்கும் போது மிகுதியான வணிகக் கப்பல்களையும், தமிழைக் குறிக்கும் போது தமிழின் அணிகலன்களான ஐம்பெருங்காப்பியங்களையும் குறிக்கிறது. ஆகவே B-ஐத் தேர்வு செய்துள்ள S5 பதில் மற்ற நேரடி விடை ஆதாரங்களுடன் பொருந்தவில்லை.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S5 — KalviWorld](https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html) · [S6 — A2Z TNPSC](https://www.a2ztnpsc.in/2024/07/10th-std-1.html)
-
-### MCQ2. ‘காய்ந்த இலையும் காய்ந்த தோகையும்’ — அடிக்கோடிட்ட பகுதி எதைக் குறிக்கிறது?
-
-**S1 — BrainKart:** “சருகும் சண்டும்” என்று விடை தருகிறது.
-
-**S2 — GreenTamil:** விடை D — சருகும் சண்டும்.
-
-**S5 — KalviWorld:** option C — தாளும் ஓலையும் எனக் குறிக்கிறது; இது மற்ற இரு நேரடி விடை பக்கங்களுடன் முரண்படுகிறது.
-
-**சரியான விடை:** ஈ) சருகும் சண்டும்.
-
-**காரண விளக்கம்:** பாடநூல் சொல்வளப் பகுதியில் “சருகு” என்பது காய்ந்த இலை என்றும், “சண்டு” என்பது காய்ந்த தாளும் தோகையும் என்றும் விளக்கப்படுகிறது. எனவே இரண்டையும் இணைத்த விடை D.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S11 — பாடநூல் PDF mirror](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
-
-### MCQ3. ‘எந்தமிழ்நா’ என்பதைப் பிரித்தால் எவ்வாறு வரும்?
-
-**S1 — BrainKart:** “எம் + தமிழ் + நா” எனப் பிரிக்கிறது.
-
-**S2 — GreenTamil:** விடை C — எம் + தமிழ் + நா.
-
-**S5 — KalviWorld:** “என் + தமிழ் + நா” என option A-ஐத் தேர்ந்தெடுக்கிறது; இது S1/S2-வுடன் முரண்படுகிறது.
-
-**சரியான விடை:** இ) எம் + தமிழ் + நா.
-
-**காரண விளக்கம்:** “எம்” என்பது நம்முடையது/எங்களுடையது என்ற பொருளைத் தருகிறது; “தமிழ் + நா” உடன் சேர்ந்து “எம் தமிழ் நா” என அமைகிறது.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
-### MCQ4. “கேட்டவர் மகிழப் பாடிய பாடல் இது” — தொழிற்பெயரும் வினையாலணையும் பெயரும் முறையே?
-
-**S1 — BrainKart:** “பாடல்; கேட்டவர்” என விடை தருகிறது.
-
-**S2 — GreenTamil:** விடை D — பாடல்; கேட்டவர்.
-
-**S5 — KalviWorld:** option C — கேட்டவர்; பாடிய எனக் குறிக்கிறது; இது S1/S2-வுடன் முரண்படுகிறது.
-
-**சரியான விடை:** ஈ) பாடல்; கேட்டவர்.
-
-**காரண விளக்கம்:** “பாடல்” என்பது பாடும் செயலைக் குறிக்கும் தொழிற்பெயர். “கேட்டவர்” என்பது கேட்ட செயலைச் செய்தவரைக் குறிக்கும் வினையாலணையும் பெயர்.
-
-**இலக்கண ஆதாரம்:** TVA-வில் தொழிற்பெயர் செயலைக் குறிக்கும் பெயர் என்றும், வினையாலணையும் பெயர் செயலைச் செய்தவரைக் குறிக்கும் என்றும் வேறுபடுத்துகிறது.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S9 — TVA இலக்கணம்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138)
-
-### MCQ5. வேர்க்கடலை, மிளகாய் விதை, மாங்கொட்டை ஆகியவற்றைக் குறிக்கும் பயிர்வகை?
-
-**S1 — BrainKart:** விடை B — மணிவகை.
-
-**S2 — GreenTamil:** விடை B — மணி வகை.
-
-**S5 — KalviWorld:** option C — கொழுந்து வகை எனக் குறிக்கிறது; இது S1/S2-வுடன் முரண்படுகிறது.
-
-**சரியான விடை:** ஆ) மணி வகை.
-
-**காரண விளக்கம்:** கொடுக்கப்பட்ட மூன்று விதை/கொட்டை வகைகளும் பாடத்தில் குறிப்பிடப்படும் மணி வகைக்குள் அடங்குகின்றன.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
----
-
-## III. குறுவினா — 2 வினாக்கள்
-
-### SQ1. ‘வேங்கை’ என்பதைத் தொடர்மொழியாகவும் பொதுமொழியாகவும் வேறுபடுத்திக் காட்டுக.
-
-**S1 — BrainKart:** வேங்கை என்ற சொல் ஒரு மரத்தைக் குறிக்கும் தனிமொழி எனக் காட்டுகிறது; வேம் + கை என்று பிரித்தால் “வேகுகின்ற கை” என்ற பொருள் தரும் தொடர்மொழி என விளக்குகிறது.
-
-**S2 — GreenTamil:** அதே இரண்டு பொருள் விளக்கத்தைக் கொடுக்கிறது.
-
-**S7 — TVA:** பொதுமொழி என்பது ஒரே சொல் தனிமொழியாக ஒரு பொருளையும், தொடர்மொழியாகப் பிரிந்தால் வேறு பொருளையும் தருவது என்று வரையறுக்கிறது. “வேங்கை”யை நேரடி எடுத்துக்காட்டாகக் குறிப்பிடுகிறது.
-
-**பதில்:**
-- தனிமொழி: வேங்கை — ஒரு வகை மரம்.
-- தொடர்மொழி: வேம் + கை — வேகுகின்ற கை.
-- பொதுமொழி: ஒரே “வேங்கை” என்ற சொல் இந்த இரு பொருள்களையும் தருவதால் பொதுமொழியாக அமைகிறது.
-
-**காரண விளக்கம்:** தனிமொழி/தொடர்மொழி இரண்டிற்கும் பொதுவாக ஒரே சொல் இரு வேறு பொருள்களைத் தருவது பொதுமொழி.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S7 — TVA PDF, பக்கம் 128](https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128)
-
-### SQ2. கொடுக்கப்பட்ட அடிகளில் உள்ள இரண்டு காப்பியங்களைத் தவிர எஞ்சியுள்ள ஐம்பெருங்காப்பியங்களின் பெயர்களை எழுதுக.
-
-**S1 — BrainKart:** மூன்று பெயர்களை நேரடியாகப் பட்டியலிடுகிறது.
-
-**S2 — GreenTamil:** அதே மூன்று பெயர்களையும் தனித்தனி வரிசையில் தருகிறது.
-
-**S10 — TVA:** ஐம்பெருங்காப்பியங்களின் முழுப் பட்டியலை வழங்குகிறது.
-
-**சரியான விடை:**
-1. சீவகசிந்தாமணி
-2. வளையாபதி
-3. குண்டலகேசி
-
-**காரண விளக்கம்:** செய்யுளில் சிலப்பதிகாரம் மற்றும் மணிமேகலை இடம்பெறுகின்றன. ஐம்பெருங்காப்பியங்களின் முழுப் பட்டியலில் மீதமுள்ள மூன்று நூல்களே கேட்கப்பட்டுள்ளன.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S10 — TVA ஐம்பெருங்காப்பியங்கள்](https://www.tamilvu.org/courses/new_courses/level05/sem01/html/lev510900092.htm)
-
----
-
-## IV. சிறுவினா — 4 வினாக்கள்
-
-### MA1. தமிழன்னையை வாழ்த்துவதற்கான காரணங்களாகப் பாவலரேறு சுட்டுவன யாவை?
-
-**S1 — BrainKart:** நான்கு எண்ணிட்ட காரணங்களாகத் தருகிறது — தமிழின் செழுமை/உயிர்த்தன்மை; தமிழின் பெருமையைச் சொல்லும் ஆற்றல்; பழமை, தனிச்சிறப்பு, இலக்கிய வளம்; நீண்ட நிலைத்தன்மை மற்றும் பிறமொழியினரின் பாராட்டு.
-
-**S2 — GreenTamil:** ஒரே விரிவான பத்தியாகத் தருகிறது — தமிழின் தொன்மை, குமரிக்கண்டத் தொடர்பு, பாண்டிய மன்னனின் மகள் என்ற உருவகம், திருக்குறள், சங்க இலக்கியங்கள், சிலப்பதிகாரம், மணிமேகலை ஆகிய பெருமைகளை இணைக்கிறது.
-
-**பதில் சாரம்:** தமிழ் பழமையானது; தனித்தன்மையும் இலக்கிய வளமும் உடையது; திருக்குறள், சங்க நூல்கள், ஐம்பெருங்காப்பியங்கள் போன்ற இலக்கியச் செல்வம் கொண்டது; பிறமொழியினராலும் போற்றப்படுகிறது. இக்காரணங்களால் பாவலரேறு தமிழன்னையை வாழ்த்துகிறார்.
-
-**காரண விளக்கம்:** பாடலில் தமிழின் தொன்மை, இலக்கியச் செல்வம், தனிச்சிறப்பு மற்றும் உலகளாவிய புகழ் வாழ்த்திற்கான காரணங்களாக முன்வைக்கப்படுகின்றன.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
-### MA2. ‘புளியங்கன்று ஆழமாக நடப்பட்டுள்ளது.’ இதுபோல் இளம் பயிர் வகை ஐந்தின் பெயர்களைத் தொடர்களில் அமைக்க.
-
-**S1 — BrainKart:** நான்கு பெயர்/உதாரணங்களைப் புள்ளி வடிவில் தருகிறது — கன்று, பிள்ளை, நாற்று, பைங்கூழ்.
-
-**S2 — GreenTamil:** ஐந்து வாக்கியங்களாகத் தருகிறது — நெல் நாற்று, தென்னம்பிள்ளை, கத்தரி நாற்று, மாங்கன்று, வாழைக்கன்று.
-
-**பதில்:**
-1. நெல் நாற்று வயலில் நடப்பட்டது.
-2. தென்னம்பிள்ளை தோட்டத்தில் வளர்கிறது.
-3. கத்தரி நாற்று நன்றாகப் பிடித்துள்ளது.
-4. மாங்கன்று புதிய தளிர் விட்டுள்ளது.
-5. வாழைக்கன்று ஈரமான மண்ணில் நடப்பட்டுள்ளது.
-
-**காரண விளக்கம்:** இளம் பயிர் அல்லது இளம் செடியைக் குறிக்கும் பெயர்களைத் தேர்ந்தெடுத்து, ஒவ்வொன்றையும் பொருள் தெளிவான தொடரில் பயன்படுத்த வேண்டும்.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
-### MA3. கொடுக்கப்பட்ட வினைமுற்றுகளைத் தொழிற்பெயர்களாக மாற்றுக.
-
-**கேள்வி உரை வேறுபாடு:** questions.md-ல் “அறிந்து, அறியாது, புரிந்து...” என்று உள்ளது. BrainKart/GreenTamil பக்கங்களில் “அறிந்தது, அறியாதது, புரிந்தது...” என்று வருகிறது. அசல் PDF-ஐப் பார்த்து இந்த உரை வேறுபாட்டை உறுதிப்படுத்த வேண்டும்.
-
-**S1 — BrainKart:** தொழிற்பெயர்களை நான்கு இணை வரிசைகளாகப் புள்ளிப் பட்டியலில் தருகிறது.
-
-**S2 — GreenTamil:** வினைமுற்று / தொழிற்பெயர் என்ற இரண்டு நெடுவரிசை அட்டவணையாகத் தருகிறது.
-
-**பதில்:**
-
-| வினைமுற்று | தொழிற்பெயர் |
-|---|---|
-| அறிந்தது | அறிதல் |
-| அறியாதது | அறியாமை |
-| புரிந்தது | புரிதல் |
-| புரியாதது | புரியாமை |
-| தெரிந்தது | தெரிதல் |
-| தெரியாதது | தெரியாமை |
-| பிறந்தது | பிறத்தல் |
-| பிறவாதது | பிறவாமை |
-
-**காரண விளக்கம்:** ஒவ்வொரு வினை வடிவமும் செயலைக் குறிக்கும் பெயராக மாற்றப்படுகிறது; எதிர்மறை வடிவங்களில் “ஆமை” வடிவம் பயன்படுத்தப்படுகிறது.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html) · [S9 — TVA தொழிற்பெயர்/வினையாலணையும் பெயர்](https://www.tamilvu.org/ta/courses-degree-a021-a0211-html-a02114l5-6138)
-
-### MA4. தமிழழகனார் தமிழையும் கடலையும் இரட்டுற மொழியும் பாங்கினை விளக்குக.
-
-**S1 — BrainKart:** தமிழ்/கடல் என இரண்டு பக்கங்களாகப் புள்ளிகள் தருகிறது:
-- முத்தமிழ் — கடல் முத்து, அமிழ்து தருவது.
-- முச்சங்கம் — கடல் மூவகைச் சங்குகளைத் தருவது.
-- ஐம்பெருங்காப்பியங்கள் — தமிழின் அணிகலன்கள்; கடலில் வணிகக் கப்பல்கள்.
-- சங்கப் புலவர்கள் தமிழைக் காத்தல் — கடல் அலைகள் சங்கைக் காத்தல்.
-
-**S2 — GreenTamil:** இதே கருத்துகளை நான்கு எண்ணிட்ட தலைப்புகளாகப் பிரிக்கிறது: முத்தமிழ், முச்சங்கம், மெத்த வணிகலன், சங்கத்தவர் காக்க.
-
-**பதில் சாரம்:** தமிழின் முத்தமிழ், முச்சங்கம், ஐம்பெருங்காப்பிய அணிகலன்கள், சங்கப் புலவர் பாதுகாப்பு ஆகியவற்றுக்கு இணையாகக் கடலின் முத்து/அமிழ்து, மூவகைச் சங்கு, வணிகக் கப்பல்கள், அலைகள் சங்கைக் காப்பது ஆகியவற்றை அமைத்து தமிழையும் கடலையும் ஒரே தொடரில் இரட்டுற மொழிகிறார்.
-
-**காரண விளக்கம்:** ஒரே சொல்லோ கருத்தோ தமிழ் மற்றும் கடல் ஆகிய இரண்டிற்கும் பொருந்தும் இருபொருள் நயத்தில் அமைந்திருப்பதே இரட்டுற மொழிதல்.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
----
-
-## V. நெடுவினா — 3 வினாக்கள்
-
-### LA1. மனோன்மணீயம் சுந்தரனாரின் தமிழ்த்தாய் வாழ்த்தையும் பெருஞ்சித்திரனாரின் தமிழ் வாழ்த்தையும் ஒப்பிட்டு மேடைப்பேச்சு உருவாக்குக.
-
-**S1 — BrainKart:** இரு கவிஞர்களையும் தனித்தலைப்புகளாகப் பிரித்து, சுந்தரனாரின் பூமி/தமிழகம் உருவகம், தமிழின் தொன்மை மற்றும் இளமை; பெருஞ்சித்திரனாரின் குமரிக்கண்டம், பாண்டியன் மகள், திருக்குறள்/சங்க இலக்கிய வளம் ஆகியவற்றைப் புள்ளிவாரியாக ஒப்பிடுகிறது.
-
-**S2 — GreenTamil:** தொடக்க உரையுடன் ஒப்பீட்டு பத்திகளாகத் தருகிறது. சுந்தரனாரின் தமிழகம் திலகமாக விளங்கும் உருவகத்தையும், பெருஞ்சித்திரனாரின் பழமை, குமரிக்கண்டம், இலக்கியப் பெருமை ஆகியவற்றையும் இணைக்கிறது.
-
-**பதில் எழுதும் முக்கியப் புள்ளிகள்:**
-1. சுந்தரனார் — கடலை ஆடையாக அணிந்த பூமிப் பெண்; பாரதக் கண்டம் முகம்; தமிழகம் நறுமணத் திலகம்.
-2. தமிழின் தொன்மை இருந்தும் இளமை குறையாத மொழியாக விளங்குதல்.
-3. பெருஞ்சித்திரனார் — குமரிக்கண்டம், பாண்டிய மன்னனின் மகள், திருக்குறள் மற்றும் இலக்கியச் செல்வம்.
-4. இரு கவிஞர்களும் தமிழின் பழமை, தனிச்சிறப்பு, இலக்கிய வளம், உலகப் புகழ் ஆகியவற்றைப் போற்றுதல்.
-5. முடிவில் தமிழ்மொழியின் பெருமையை வாழ்த்தும் நிறைவு.
-
-**பதில் வடிவக் குறிப்பு:** S1 தலைப்புகள்/புள்ளிகள்; S2 தொடர்ச்சியான பேச்சுப் பத்திகள். இரண்டின் வடிவங்களும் வேறுபட்டவை.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
-### LA2. தமிழின் சொல்வளம் மற்றும் புதிய சொல்லாக்கத் தேவையைப் பற்றி உரைக் குறிப்புகள் எழுதுக.
-
-**S1 — BrainKart:** “தமிழின் சொல்வளம்” மற்றும் “புதிய சொல்லாக்கத்திற்கான தேவைகள்” என்று இரண்டு தலைப்புகளின் கீழ் புள்ளி வடிவில் தருகிறது.
-
-**S2 — GreenTamil:** சொல்வளம், பயிர்வகைச் சொற்கள், சொற்களின் நுண்பொருள் வேறுபாடுகள், புதிய கலைச்சொற்கள் ஆகியவற்றை எடுத்துக்காட்டுகளுடன் விரிவான குறிப்புகளாகத் தருகிறது.
-
-**பதில் எழுதும் முக்கியப் புள்ளிகள்:**
-
-**தமிழின் சொல்வளம்**
-1. ஒரே பொருளைக் குறிக்கும் பல சொற்கள் தமிழில் உள்ளன.
-2. பயிர், நிலம், தாவரப் பகுதிகள் போன்ற துறைகளுக்கே உரிய நுணுக்கமான சொற்கள் உள்ளன.
-3. சொற்களின் பொருள் வேறுபாடுகள் தமிழின் வளத்தைக் காட்டுகின்றன.
-4. தமிழ் சொற்களஞ்சியம் இலக்கியம் மற்றும் வாழ்வியல் அனுபவங்களால் வளம்பெற்றுள்ளது.
-
-**புதிய சொல்லாக்கத் தேவை**
-1. அறிவியல் மற்றும் தொழில்நுட்ப வளர்ச்சிக்கேற்ப புதிய கலைச்சொற்கள் தேவை.
-2. உயர்கல்வி, பாடநூல்கள், ஆய்வுகள் ஆகியவற்றில் தமிழைப் பயன்படுத்தச் சொல்லாக்கம் உதவும்.
-3. பிறமொழிக் கருத்துகளையும் அறிவையும் தமிழில் விளக்க புதிய சொற்கள் தேவை.
-4. மொழியின் தனித்தன்மை மற்றும் இனிமையைப் பாதுகாத்து வளர்க்க சொல்லாக்கம் தேவை.
-
-**பதில் வடிவக் குறிப்பு:** S1 சுருக்கமான உரைக்குறிப்பு புள்ளிகள்; S2 விரிவான எடுத்துக்காட்டுகளுடன் கூடிய குறிப்புகள்.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
-### LA3. தமிழ் உரைநடையின் சிறப்பைப் பற்றி வெளிநாட்டிலிருந்து வந்த உறவினர் மகளுடன் ஒரு பக்க உரையாடல் எழுதுக.
-
-**S1 — BrainKart:** குமரன் மற்றும் யாழினி என்ற இரண்டு பாத்திரங்களைக் கொண்டு கேள்வி–பதில் உரையாடலாக அமைக்கிறது. உரைநடை என்றால் என்ன, அதன் வளர்ச்சி, தமிழ் இலக்கியப் பாரம்பரியம், உரைநடை அழகு, தமிழின் தனித்தன்மை ஆகியவை உரையாடலில் வருகின்றன.
-
-**S2 — GreenTamil:** தமிழரசி மற்றும் கவியரசி என்ற பாத்திரங்களைக் கொண்டு உரையாடுகிறது. தமிழ் பேசத் தெரிந்தும் படிக்கத் தெரியாத உறவினர் மகளுக்கு உரைநடை, அதன் அமைப்பு, வளர்ச்சி, சிறுகதை/புதினம்/மொழிபெயர்ப்பு போன்ற பயன்பாடுகளை விளக்குகிறது.
-
-**பதில் எழுதும் முக்கிய உரையாடல் அம்சங்கள்:**
-- உறவினர் மகளுக்கு தமிழ் பேசத் தெரியும்; படிக்க/எழுத கற்றுக்கொள்ள விருப்பம் உள்ளது.
-- உரைநடை என்பது கருத்துகளை இயல்பான வாக்கியங்களில் எழுதும் முறை.
-- செய்யுளைப் போல எதுகை, மோனை கட்டுப்பாடுகள் உரைநடைக்கு அவசியமில்லை.
-- உரைநடை வழியாக சிறுகதை, புதினம், கட்டுரை, வரலாறு, அறிவியல் போன்றவற்றை எளிதாகப் பகிரலாம்.
-- தமிழ் உரைநடை வளர்ச்சிக்கு பங்களித்த எழுத்தாளர்கள் மற்றும் மொழிபெயர்ப்பாளர்கள் பற்றி உரையாடலாம்.
-- இறுதியில் உறவினர் மகள் தமிழைப் படிக்கவும் எழுதவும் கற்றுக்கொள்ள முன்வர வேண்டும்.
-
-**பதில் வடிவக் குறிப்பு:** இரு source-களும் பாத்திரப் பெயர் + உரையாடல் வரிகள் என்ற வடிவத்தையே பயன்படுத்துகின்றன; பாத்திரப் பெயர்களும் உரையாடல் வரிசையும் மாறுபடுகின்றன.
-
-**Source:** [S1 — BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11807/) · [S2 — GreenTamil](https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html)
-
----
-
-## சரிபார்க்க வேண்டிய உரை வேறுபாடுகள்
-
-| கேள்வி | questions.md-ல் உள்ள உரை | இணைய Answer Page-களில் உள்ள உரை | செய்ய வேண்டியது |
-|---|---|---|---|
-| SQ1 | பொதுமொழி | சில பக்கங்களில் தனிமொழி / தொடர்மொழி என மட்டும் தலைப்பிடப்பட்டுள்ளது | TVA வரையறையை வைத்து மூன்று நிலைகளையும் காட்டுதல் |
-| MA3 | அறிந்து, அறியாது, புரிந்து... | அறிந்தது, அறியாதது, புரிந்தது... | அசல் PDF-ஐப் பார்த்து எழுத்து வடிவம் உறுதி செய்தல் |
-| K5 | பாடுதல் | பல source-களில் கோறல் | அசல் PDF-ஐப் பார்த்து சரியான சொல் உறுதி செய்தல் |
-| MCQ1 | option A-க்கு ஏற்ற கேள்வி | KalviWorld option B எனக் காட்டுகிறது; மற்ற மூன்று source-கள் A எனக் காட்டுகின்றன | பாடப்புத்தகப் பொருளுடன் ஒப்பிட்டு A எனத் தேர்வு செய்தல் |
-
-## சுருக்க நிலை
-
-- இயல் 1-ல் விரிவாகப் பதிவு செய்யப்பட்ட ஒருங்கிணைந்த வினாக்கள்: **19**
-- 10ஆம் வகுப்பு தமிழ் பாடத்திட்ட இயல்கள்: **9**
-- ஒன்பது இயல்களுக்குமான BrainKart முதன்மை Q&A பக்கங்கள் கண்டறியப்பட்டவை: **9/9**
-- இயல் 2–9 வினா வாரியான பல-Source ஒப்பீடு: **இன்னும் செய்யப்பட வேண்டும்**
-- பதில் ஆதாரம் உள்ள வினாக்கள்: **19**
-- Source முரண்பாடு/கேள்வி உரை வேறுபாடு உள்ளவை: **MCQ1, SQ1, MA3, K5**
-- ChatGPT உருவாக்கிய மாதிரி விடை எனத் தனியாகக் குறிக்க வேண்டியவை: **இந்தப் பதிவில் source answer இல்லாத வினா இல்லை; உதாரண வாக்கியங்கள்/உரையாடல்களுக்கு source-ல் உள்ள மாறுபட்ட மாதிரிகள் பதிவு செய்யப்பட்டுள்ளன.**
-- பெரிய வினாக்களுக்கு தனியாக உருவாக்கிய காரண விளக்கங்கள் இந்த Reference கட்டத்தின் விதி அல்ல; அவை இறுதி விடையாகக் கருதப்படக்கூடாது.
-- Final student answer layout: **இன்னும் உருவாக்கப்படவில்லை.**
+| K5 | `QUESTION_MISMATCH` | கேள்விக் கோப்பில் `பாடுதல்`; பல source-களில் `கோறல்`. Exact `பாடுதல்` answer source இன்னும் கிடைக்கவில்லை. |
+| MCQ1 | `CONFLICT` | BrainKart / GreenTamil பதிவில் option அ; பழைய GreenTamil variant-ல் option இ. ஆசிரியர் பெயர் wording-ம் மாறுகிறது. |
+| MCQ3 | `CONFLICT` | பெரும்பாலான source-கள் `எம் + தமிழ் + நா`; KalviWorld `என் + தமிழ் + நா` என்கிறது. TVA மகர ஈற்றுப் புணர்ச்சி விதி option இ-ஐ ஆதரிக்கிறது. |
+| MCQ4 | `CONFLICT` | BrainKart மற்றும் பல source-கள் option ஈ; KalviWorld option இ என்கிறது. TVA இலக்கண வகை விளக்கம் option ஈ-ஐ ஆதரிக்கிறது. |
+| MCQ5 | `CONFLICT` | BrainKart / TextBookPDF / TamilSangamam — option ஆ; KalviWorld — option இ. |
+| SQ1 | `QUESTION_MISMATCH` | FreeTNBooks-ல் வேறு சொல் (`பலகை`); மற்ற direct sources `வேங்கை` வினாவை உள்ளடக்குகின்றன. |
+| SHORT3 | `WORDING_VARIANT` | `அறிந்து...` vs source-களில் `அறிந்தது...`. |
+| SHORT4 | `WORDING_VARIANT` | `தமிழகனார்` vs BrainKart-ல் `தமிழழகனார்`. |
+
+**முடிவு:** இக்கோப்பு source lookup மற்றும் QC index மட்டுமே. இங்கு எந்த non-objective answer-மும் உருவாக்கப்படவில்லை. மூன்று answer tiers அனைத்தும் காலியாக உள்ளன. இதை மாணவர் பதில் ஆவணமாகப் பயன்படுத்த வேண்டாம்.
