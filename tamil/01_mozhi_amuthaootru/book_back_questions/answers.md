@@ -70,6 +70,7 @@
 [TO_BE_PREPARED_LATER]
 
 **Source links மட்டும்:**
+- S26 — [TamilVithai, Karpavai Kattrapin](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) — இந்தப் பகுதியைச் சார்ந்த source candidate; தற்போதைய direct recheck CAPTCHA/access block, answer மீண்டும் உறுதிசெய்யப்படவில்லை — `ACCESS_BLOCKED; NOT_COUNTED_AS_CURRENTLY_VERIFIED`.
 - S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — பயிற்சி K1-க்கு நேரடி விடை உள்ளது — `EXACT_MATCH`.
 - S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K1 — `EXACT_MATCH`.
 - S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K1 — `EXACT_MATCH`.
@@ -91,6 +92,7 @@
 [TO_BE_PREPARED_LATER]
 
 **Source links மட்டும்:**
+- S26 — [TamilVithai, Karpavai Kattrapin](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) — இந்தப் பகுதியைச் சார்ந்த source candidate; தற்போதைய direct recheck CAPTCHA/access block, answer மீண்டும் உறுதிசெய்யப்படவில்லை — `ACCESS_BLOCKED; NOT_COUNTED_AS_CURRENTLY_VERIFIED`.
 - S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — K2 — `EXACT_MATCH`.
 - S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K2 — `EXACT_MATCH`.
 - S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K2 — `EXACT_MATCH`.
@@ -117,6 +119,7 @@
 [TO_BE_PREPARED_LATER]
 
 **Source links மட்டும்:**
+- S26 — [TamilVithai, Karpavai Kattrapin](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) — இந்தப் பகுதியைச் சார்ந்த source candidate; தற்போதைய direct recheck CAPTCHA/access block, answer மீண்டும் உறுதிசெய்யப்படவில்லை — `ACCESS_BLOCKED; NOT_COUNTED_AS_CURRENTLY_VERIFIED`.
 - S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — K3 உரையாடல் — `EXACT_MATCH`.
 - S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K3 — `EXACT_MATCH`.
 - S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K3 — `EXACT_MATCH`.
@@ -135,6 +138,7 @@
 [TO_BE_PREPARED_LATER]
 
 **Source links மட்டும்:**
+- S26 — [TamilVithai, Karpavai Kattrapin](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) — இந்தப் பகுதியைச் சார்ந்த source candidate; தற்போதைய direct recheck CAPTCHA/access block, answer மீண்டும் உறுதிசெய்யப்படவில்லை — `ACCESS_BLOCKED; NOT_COUNTED_AS_CURRENTLY_VERIFIED`.
 - S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — மலைத் தொடருக்கான K4 — `EXACT_MATCH`.
 - S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K4 — `EXACT_MATCH`.
 - S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K4 — `EXACT_MATCH`.
@@ -152,6 +156,7 @@
 [TO_BE_PREPARED_LATER]
 
 **Source links மட்டும்:**
+- S26 — [TamilVithai, Karpavai Kattrapin](https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html) — இந்தப் பகுதியைச் சார்ந்த source candidate; தற்போதைய direct recheck CAPTCHA/access block, answer மீண்டும் உறுதிசெய்யப்படவில்லை — `ACCESS_BLOCKED; NOT_COUNTED_AS_CURRENTLY_VERIFIED`.
 - S3 — [TNBoardSolutions, Lesson 1.5](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/) — source question-ல் `பாடுதல்` என்பதற்குப் பதில் `கோறல்` என்று உள்ளது — `QUESTION_MISMATCH`.
 - S4 — [KalviBot, Unit 1.5](https://docs.kalvibot.in/2021/02/10th-tamil-unit-1-section-1-5-solutions.html) — K5-ல் `கோறல்` wording — `QUESTION_MISMATCH`.
 - S5 — [KalviKavi, Unit 1.5](https://www.kalvikavi.com/2021/02/samacheer-kalvi-10th-tamil-answers.html) — K5-ல் `கோறல்` wording — `QUESTION_MISMATCH`.
