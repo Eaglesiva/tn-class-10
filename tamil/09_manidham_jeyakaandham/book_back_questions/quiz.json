@@ -100,5 +100,81 @@
     ],
     "explanationSourceUrl": "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
     "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q6",
+    "question": "சிறுபொழுதின் வகைகளுள் ஒன்று (2)",
+    "options": [
+      "காலை",
+      "மாலை",
+      "யாமம்",
+      "வைகறை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "காலை என்பது ஒரு நாளின் ஆறு சிறுபொழுதுகளில் ஒன்றாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q7",
+    "question": "நேர் நேர் – வாய்பாடு (2)",
+    "options": [
+      "புளிமா",
+      "தேமா",
+      "கருவிளம்",
+      "கூவிளம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இரண்டு நேர் அசைகள் இணையும் வாய்பாடு தேமா எனப்படும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q8",
+    "question": "எட்டுத்தொகை நூல்களுள் ஒன்று (5)",
+    "options": [
+      "பத்துப்பாட்டு",
+      "கலித்தொகை",
+      "திருக்குறள்",
+      "சிலப்பதிகாரம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கலித்தொகை எட்டுத்தொகை நூல்களில் ஒன்றாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q9",
+    "question": "மக்களே போல்வர் __________ (4)",
+    "options": [
+      "சான்றோர்",
+      "வள்ளல்",
+      "கயவர்",
+      "அறிஞர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "திருக்குறளில் “மக்களே போல்வர் கயவர்” என்ற தொடர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
