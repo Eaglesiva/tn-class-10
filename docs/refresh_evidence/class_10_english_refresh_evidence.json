@@ -1,0 +1,20 @@
+{
+  "book_id": "class_10_english",
+  "class": "10",
+  "subject": "English",
+  "medium": "English",
+  "official_filename": "10th_English_Text.pdf",
+  "official_url": "https://d21mc000xink7q.cloudfront.net/scert/textbook/syllabuspdf/10th_English_Text.pdf",
+  "http_status": "GET_200",
+  "content_length": 68655845,
+  "etag": "72ecec131347e7e4881fe98fd24f159d",
+  "last_modified": "Thu, 22 Oct 2026 07:24:11 GMT",
+  "sha256": "4d09e77f3984701d6c7fdc00512b0fe7bc1599019f020df9bfa39008bb6cdb8e",
+  "expected_page_count": 224,
+  "actual_page_count": 224,
+  "pages_replaced_count": 224,
+  "all_pages_validated": true,
+  "refresh_status": "OFFICIAL_SOURCE_REFRESHED",
+  "timestamp_utc": "2026-11-05T00:13:37Z",
+  "zero_master_pdf_persistence_verified": true
+}
