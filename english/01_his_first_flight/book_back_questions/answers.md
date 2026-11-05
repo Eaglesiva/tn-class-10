@@ -695,3 +695,19 @@ Rearrange the ten supplied sentences in coherent order.
 - **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
 - **Status:** ANSWER_FOUND
 
+### 10_eng_u1_q44 — In the Parts of Speech chart, what is the verb form corresponding to the adverb “perfectly”?
+- **S1 — OMTEX:** perfect — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** perfect — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** perfect — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “perfect” as the verb form corresponding to “perfectly”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q45 — In the Parts of Speech chart, what is the adjective form corresponding to the adverb “perfectly”?
+- **S1 — OMTEX:** perfect — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** perfect — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** perfect — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “perfect” as the adjective form corresponding to “perfectly”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
