@@ -399,13 +399,18 @@
 
 ### VII-2. அரும்பாகி மொட்டாகிப் பூவாகி…. என்பதை ஒத்து அமைந்துள்ள தொடரைக் கண்டறிக.
 
-**Source-wise விடைகள்:**
-- S5 — [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/) — “அகவிதழ் முதலிய உறுப்புகள் இருந்து அவை புறத்தே காட்சிப்படாமல் உள்ளேயே பொதிந்திருக்கும் மலர்கள்” — `ANSWER_FOUND`.
-- S6 — [SaraNextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15901) — அதே தொடரை விடையாகக் கொடுக்கிறது — `ANSWER_FOUND`.
-- S7 — [KalviVithaigal](https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html) — அதே தொடரை விடையாகக் கொடுக்கிறது — `ANSWER_FOUND`.
+**தற்போதைய பாடநூல் உரையுடன் பொருந்தும் விடை:**
+- **S1 — CBSETamil, இயல் 2.5 (2025):** “மூங்கில் பூவில் காய் தோன்றி கனியாகி அதிலிருந்து ஒருவகை அரிசி தோன்றும்” — [CBSETamil — இயல் 2.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/)
+- **S2 — KalviTips, Unit 2 (2025):** “காயாகி, கனியாகி, அரிசியாவது மூங்கில் அரிசி” — [KalviTips — இயல் 2](https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html)
+- **S3 — KalviKavi, Unit 2 (2025):** “காயாகி, கனியாகி, அரிசியாவது மூங்கில் அரிசி” — [KalviKavi — இயல் 2](https://www.kalvikavi.com/2025/06/10th-tamil-unit-2-book-back-answers.html)
+- **S4 — StudentsGuide360, Unit 2 (2025):** “மூங்கில் பூவில் காய் தோன்றிக் கனியாகி...” — [StudentsGuide360 — இயல் 2](https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/)
 
-**குறிப்பு:** S5/S6/S7 பதில்கள் ஒன்றுபோல் உள்ளன; ஆனால் பாடப்பகுதியிலுள்ள “காயாகி, கனியாகி...” என்ற தொடர் ஒப்புமை நோக்கில் வேறு source-களில் மாறுபட்ட பதில் அமைப்பு காணப்படுவதால், பாடநூல் passage-ஐ வைத்து இறுதி Quiz suitability பின்னர் மதிப்பிட வேண்டும்.  
-**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** source-கள் தரும் ஒப்புமைத் தொடர் விளக்கத்தில் முழுமையான ஒருமித்த முடிவு இல்லை — `EXPLANATION_SOURCE_NOT_FOUND`.
+**முந்தைய Guide பதில் வேறுபாடு:**
+- [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/) · [SaraNextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15901) · [Samacheer Kalvi Guide](https://samacheerkalvi.guide/samacheer-kalvi-10th-tamil-guide-chapter-2-5/) — “அகவிதழ் முதலிய உறுப்புகள் இருந்து அவை புறத்தே காட்சிப்படாமல் உள்ளேயே பொதிந்திருக்கும் மலர்கள்” என வேறுபட்ட தொடரைக் கொடுக்கின்றன.
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கேள்வியில் உள்ள “அரும்பாகி–மொட்டாகி–பூவாகி” என்ற வளர்ச்சி வரிசைக்கு, பாடநூல் பத்தியில் உள்ள “காய் தோன்றி–கனியாகி–அரிசி தோன்றும்” என்ற தொடரே தற்போதைய பதிப்பு ஆதாரங்களுடன் பொருந்துகிறது.
+**விளக்க ஆதாரம்:** [CBSETamil — இயல் 2.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/) · [KalviTips — இயல் 2](https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html).
+**நிலை:** `ANSWER_FOUND_WITH_SOURCE_VARIANT` — பழைய Guide-களின் வேறுபட்ட விடை மறைக்கப்படவில்லை.
 
 ### VII-3. நீங்கள் அறிந்த இரு பூக்களின் பெயர்களையும் பயன்களையும் எழுதுக.
 
