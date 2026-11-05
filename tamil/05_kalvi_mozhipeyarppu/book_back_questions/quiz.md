@@ -101,3 +101,88 @@
 - Q1-ல் `questions.md` “மாபாதை தமிழப்படுத்தும்” என உள்ளது; ஆதாரப் பக்கங்களில் “மாபாரதம் தமிழ்ப்படுத்தும்” என உள்ளது. மூலக் கேள்வி மாற்றப்படாமல், wording variant பதிவு செய்யப்பட்டுள்ளது.
 
 [BrainKart — இயல் 5 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 7 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+நிலத்துக்கு அடியில் கிடைக்கும் ______ யாவும் அரசுக்கே சொந்தம். நெகிழிப் பொருள்களை மண்ணுக்கு அடியில் _____ நிலத்தடி நீர்வளத்தைக் குன்றச் செய்யும்.
+
+- அ) புதையல் / புதைத்தல்
+- ஆ) புதைத்தல் / புதையல்
+- இ) நடித்தல் / நடிப்பு
+- ஈ) காட்சி / காணுதல்
+
+**சரியான விடை:** அ) புதையல் / புதைத்தல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** நிலத்தடியில் கிடைக்கும் பொருள் “புதையல்”; பொருளை மண்ணுக்குள் இடும் செயல் “புதைத்தல்”.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 8 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+காட்டு விலங்குகளைச் ______ தடை செய்யப்பட்டுள்ளது. செய்த தவறுகளைச் ______ திருந்த உதவுகிறது.
+
+- அ) சுட்டல் / சுடுதல்
+- ஆ) சுடுதல் / சுட்டல்
+- இ) தொடுதல் / தொடுத்தல்
+- ஈ) நடிப்பு / நடித்தல்
+
+**சரியான விடை:** ஆ) சுடுதல் / சுட்டல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** விலங்குகளைச் சுடும் செயல் “சுடுதல்”; தவறுகளைச் சுட்டிக்காட்டும் செயல் “சுட்டல்”.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 9 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+காற்றின் மெல்லிய ______ பூக்களைத் தலையாட்டவைக்கிறது. கைகளின் நேர்த்தியான ______ பூக்களை மாலையாக்குகிறது.
+
+- அ) தொடுத்தல் / தொடுதல்
+- ஆ) தொடுதல் / தொடுத்தல்
+- இ) காட்சி / காணுதல்
+- ஈ) புதையல் / புதைத்தல்
+
+**சரியான விடை:** ஆ) தொடுதல் / தொடுத்தல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காற்று பூக்களை மென்மையாகத் தொடுகிறது; கைகளால் பூக்களைத் தொடுத்து மாலையாக்குகிறோம்.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 10 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+பசுமையான _______ஐக் ________ கண்ணுக்கு நல்லது.
+
+- அ) காணுதல் / காட்சி
+- ஆ) காட்சி / காணுதல்
+- இ) நடித்தல் / நடிப்பு
+- ஈ) புதையல் / புதைத்தல்
+
+**சரியான விடை:** ஆ) காட்சி / காணுதல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “காட்சி” பெயர்ச்சொல்; “காணுதல்” செயலைக் குறிக்கும். பசுமையான காட்சியைக் காண்பது கண்களுக்கு நல்லது.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 11 — Book Back தொழிற்பெயர் / சொல் தேர்வு
+பொதுவாழ்வில் ____ கூடாது. ____இல் அவரை மிஞ்ச ஆள் கிடையாது.
+
+- அ) நடிப்பு / நடித்தல்
+- ஆ) நடித்தல் / நடிப்பு
+- இ) சுடுதல் / சுட்டல்
+- ஈ) தொடுதல் / தொடுத்தல்
+
+**சரியான விடை:** ஆ) நடித்தல் / நடிப்பு
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பொதுவாழ்வில் போலியாக நடந்து கொள்ளக் கூடாது; நடிப்புக் கலையில் அவரை மிஞ்ச யாருமில்லை.
+
+**விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
