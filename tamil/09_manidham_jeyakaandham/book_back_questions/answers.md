@@ -4,37 +4,34 @@
 > Scope: `questions.md`-இல் உள்ள I. திறன் அறிவோம் / பலவுள் தெரிக பகுதி மட்டும். கேள்வி உரை மற்றும் option வரிசை பாதுகாக்கப்பட்டுள்ளன.
 
 ### Q1 — தேம்பாவணி பாடலடிச் சொற்பொருள்
-- **சரியான விடை:** இ) காடு, வாட
-- **காரண விளக்கம்:** பாடல் வரியில் வரும் “கான்” = காடு; “தேம்ப” = வாட எனப் பாடநூல் சொல்லும் பொருள் பகுதியில் தரப்பட்டுள்ளது.
-- **விடை ஆதாரம்:** [CBSETamil Textbook PDF — தேம்பாவணி, பாடல் 2401](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf) · [AnyFlip — 10th Tamil textbook pages 201–248](https://anyflip.com/xexml/bdim/basic/201-248) · [TamilVithai — இயல் 9 புதிய வினா](https://www.tamilvithai.com/2023/07/10th-tamil-text-book-2-question-change.html)
+- **S1 — CBSETamil Textbook PDF — தேம்பாவணி, பாடல் 2401:** இ) காடு, வாட — [CBSETamil Textbook PDF — தேம்பாவணி, பாடல் 2401](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
+- **S2 — AnyFlip — 10th Tamil textbook pages 201–248:** இ) காடு, வாட — [AnyFlip — 10th Tamil textbook pages 201–248](https://anyflip.com/xexml/bdim/basic/201-248)
+- **S3 — TamilVithai — இயல் 9 புதிய வினா:** இ) காடு, வாட — [TamilVithai — இயல் 9 புதிய வினா](https://www.tamilvithai.com/2023/07/10th-tamil-text-book-2-question-change.html)
 - **விளக்க ஆதாரம்:** [CBSETamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
 - **நிலை:** ANSWER_FOUND
 
 ### Q2 — சுதந்திர இந்தியாவின் சாதனையும் சவாலும்
-- **சரியான விடை:** ஆ) பெற்ற சுதந்திரத்தைப் பேணிக் காத்தல்
-- **காரண விளக்கம்:** ஜெயகாந்தன் கருத்தில் சுதந்திரத்தைப் பெற்றிருப்பதுடன் அதைத் தொடர்ந்து பாதுகாத்துப் பேணுவதும் இந்தியாவின் மகத்தான சாதனையும் சவாலும் ஆகும்.
-- **விடை ஆதாரம்:** [Nibunan — இயல் 9, அன்பின் மொழி](https://nibunan.in/clear-tnpsc-tamil/) · [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **S1 — Nibunan — இயல் 9, அன்பின் மொழி:** ஆ) பெற்ற சுதந்திரத்தைப் பேணிக் காத்தல் — [Nibunan — இயல் 9, அன்பின் மொழி](https://nibunan.in/clear-tnpsc-tamil/)
+- **S2 — GreenTamil — இயல் 1–9 பலவுள் தெரிக:** ஆ) பெற்ற சுதந்திரத்தைப் பேணிக் காத்தல் — [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
 - **விளக்க ஆதாரம்:** [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
 - **நிலை:** ANSWER_FOUND
 
 ### Q3 — “பூக்கையைக் குவித்துப் பூவே புரிவொடு காக்க”
-- **சரியான விடை:** அ) கருணையன், எலிசபெத்துக்காக
-- **காரண விளக்கம்:** தேம்பாவணி பாடல் சூழலில் கருணையன் தன் தாய் எலிசபெத்துக்காக வேண்டுகிறார்.
-- **விடை ஆதாரம்:** [CBSETamil — தேம்பாவணி](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/) · [Samacheer Kalvi Guide — தேம்பாவணி](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-thembavani-question-answer/) · [FreeTNBooks — தேம்பாவணி](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-9-3/)
+- **S1 — CBSETamil — தேம்பாவணி:** அ) கருணையன், எலிசபெத்துக்காக — [CBSETamil — தேம்பாவணி](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/)
+- **S2 — Samacheer Kalvi Guide — தேம்பாவணி:** அ) கருணையன், எலிசபெத்துக்காக — [Samacheer Kalvi Guide — தேம்பாவணி](https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-thembavani-question-answer/)
+- **S3 — FreeTNBooks — தேம்பாவணி:** அ) கருணையன், எலிசபெத்துக்காக — [FreeTNBooks — தேம்பாவணி](https://www.freetnbooks.com/10th-std-tamil-guide-lesson-9-3/)
 - **விளக்க ஆதாரம்:** [CBSETamil — தேம்பாவணி](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q4 — “வாய்மையே மழைநீராகி”
-- **சரியான விடை:** இ) உருவகம்
-- **காரண விளக்கம்:** “வாய்மை” நேரடியாக “மழைநீர்” ஆகக் கூறப்பட்டுள்ளது; “போன்ற” என்ற உவம உருபின்றி ஒன்றை மற்றொன்றாகக் கூறுவதால் உருவக அணி.
-- **விடை ஆதாரம்:** [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html) · [Nibunan — இயல் 9 அணி](https://nibunan.in/clear-tnpsc-tamil/)
+- **S1 — GreenTamil — இயல் 1–9 பலவுள் தெரிக:** இ) உருவகம் — [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **S2 — Nibunan — இயல் 9 அணி:** இ) உருவகம் — [Nibunan — இயல் 9 அணி](https://nibunan.in/clear-tnpsc-tamil/)
 - **விளக்க ஆதாரம்:** அதே அணி விளக்க ஆதாரங்கள்.
 - **நிலை:** ANSWER_FOUND
 
 ### Q5 — “கலையின் கணவனாகவும் சமுதாயத்தின் புதல்வனாகவும்”
-- **சரியான விடை:** ஆ) சமூகப் பார்வையோடு கலைப்பணி புரியவே எழுதினார்
-- **காரண விளக்கம்:** இக்கூற்று கலைப்பணியையும் சமூகப் பொறுப்பையும் இணைத்துப் பார்க்கும் எழுத்து நோக்கத்தை வெளிப்படுத்துகிறது.
-- **விடை ஆதாரம்:** [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html) · [Nibunan — இயல் 9 அணி](https://nibunan.in/clear-tnpsc-tamil/)
+- **S1 — GreenTamil — இயல் 1–9 பலவுள் தெரிக:** ஆ) சமூகப் பார்வையோடு கலைப்பணி புரியவே எழுதினார் — [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
+- **S2 — Nibunan — இயல் 9 அணி:** ஆ) சமூகப் பார்வையோடு கலைப்பணி புரியவே எழுதினார் — [Nibunan — இயல் 9 அணி](https://nibunan.in/clear-tnpsc-tamil/)
 - **விளக்க ஆதாரம்:** [GreenTamil — இயல் 1–9 பலவுள் தெரிக](https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html)
 - **நிலை:** ANSWER_FOUND
 
@@ -449,30 +446,27 @@
 ### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 1
 
 #### 1. இடமிருந்து வலம் 1 — சிறுபொழுதின் வகைகளுள் ஒன்று (2)
-- **Source answer:** காலை
-- **காரண விளக்கம்:** ஒரு நாளின் சிறுபொழுதுகளில் காலை ஒன்றாகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/) · [VISTAS Tamil grammar material — later 12-fold Pura classification](https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** காலை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** காலை — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S3 — VISTAS Tamil grammar material — later 12-fold Pura classification:** காலை — [VISTAS Tamil grammar material — later 12-fold Pura classification](https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q6`
 
 #### 2. இடமிருந்து வலம் 2 — நேர் நேர் – வாய்பாடு (2)
-- **Source answer:** தேமா
-- **காரண விளக்கம்:** யாப்பிலக்கணத்தில் இரண்டு நேர் அசைகள் சேர்வது தேமா வாய்பாடு.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** தேமா — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** தேமா — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q7`
 
 #### 3. இடமிருந்து வலம் 11 — எட்டுத்தொகை நூல்களுள் ஒன்று (5)
-- **Source answer:** கலித்தொகை
-- **காரண விளக்கம்:** கலித்தொகை எட்டுத்தொகை நூல்களில் ஒன்றாகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** கலித்தொகை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** கலித்தொகை — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q8`
 
 #### 4. இடமிருந்து வலம் 14 — மக்களே போல்வர் __________ (4)
-- **Source answer:** கயவர்
-- **காரண விளக்கம்:** திருக்குறளில் “மக்களே போல்வர் கயவர்” என்ற தொடர் இடம்பெறுகிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** கயவர் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** கயவர் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q9`
 
@@ -481,30 +475,26 @@
 ### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 2
 
 #### 1. மேலிருந்து கீழ் 1 — முல்லைத் திணைக்குரிய பெரும்பொழுது (5)
-- **Source answer:** கார்காலம்
-- **காரண விளக்கம்:** முல்லைத் திணைக்குரிய பெரும்பொழுது கார்காலம் என வகைப்படுத்தப்படுகிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** கார்காலம் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** கார்காலம் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q10`
 
 #### 2. மேலிருந்து கீழ் 2 — மொழிஞாயிறு (9)
-- **Source answer:** தேவநேயப்பாவாணர்
-- **காரண விளக்கம்:** “மொழிஞாயிறு” என்ற சிறப்புப்பெயர் தேவநேயப்பாவாணரைக் குறிக்கிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** தேவநேயப்பாவாணர் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** தேவநேயப்பாவாணர் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q11`
 
 #### 3. மேலிருந்து கீழ் 3 — நல்ல என்னும் அடைமொழி கொண்ட தொகைநூல் (5)
-- **Source answer:** குறுந்தொகை
-- **காரண விளக்கம்:** “நல்ல குறுந்தொகை” என்பது சங்கத் தொகைநூலின் மரபுவழிப் பெயராக வழங்குகிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** குறுந்தொகை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** குறுந்தொகை — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q12`
 
 #### 4. மேலிருந்து கீழ் 4 — கழை என்பதன் பொருள் (4)
-- **Source answer:** மூங்கில்
-- **காரண விளக்கம்:** “கழை” என்பது மூங்கிலைச் சுட்டும் சொல்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** மூங்கில் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** மூங்கில் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q13`
 
@@ -513,30 +503,26 @@
 ### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 3
 
 #### 1. மேலிருந்து கீழ் 7 — மதியின் மறுபெயர், இது நிலவையும் குறிக்கும் (4)
-- **Source answer:** திங்கள்
-- **காரண விளக்கம்:** “திங்கள்” என்பது நிலவைக் குறிக்கும் பெயர்களில் ஒன்று.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** திங்கள் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — Kalvikavi — இயல் 9 குறுக்கெழுத்து:** திங்கள் — [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q14`
 
 #### 2. மேலிருந்து கீழ் 10 — குறிஞ்சித் திணைக்குரிய விலங்கு (4)
-- **Source answer:** சிங்கம்
-- **காரண விளக்கம்:** குறிஞ்சி நிலத்திற்குரிய விலங்குகளில் சிங்கமும் குறிப்பிடப்படுகிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** சிங்கம் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — Kalvikavi — இயல் 9 குறுக்கெழுத்து:** சிங்கம் — [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q15`
 
 #### 3. மேலிருந்து கீழ் 12 — __________ என்பது புறத்திணைகளுள் ஒன்று (4)
-- **Source answer:** கைக்கிளை
-- **காரண விளக்கம்:** புறப்பொருள் வெண்பாமாலை மரபில் புறத்திணை வகைகள் பன்னிரண்டாக விரிவுபடுத்தப்பட்டபோது கைக்கிளையும் சேர்க்கப்படுகிறது; தொல்காப்பியத்தின் அடிப்படை ஏழு புறத்திணை வகைகளில் இது இல்லை.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** கைக்கிளை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — Kalvikavi — இயல் 9 குறுக்கெழுத்து:** கைக்கிளை — [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q16`
 
 #### 4. வலமிருந்து இடம் 15 — மருந்தே ஆயினும் விருந்தோடு உண் – ஆசிரியர் (4)
-- **Source answer:** ஔவையார்
-- **காரண விளக்கம்:** “மருந்தே ஆயினும் விருந்தோடு உண்” என்ற அறிவுரைக் குறள் ஔவையாருக்குச் சேர்த்துக் கூறப்படுகிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** ஔவையார் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — Kalvikavi — இயல் 9 குறுக்கெழுத்து:** ஔவையார் — [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q17`
 
@@ -545,30 +531,26 @@
 ### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 4
 
 #### 1. வலமிருந்து இடம் 16 — மதிமுகம் உவமை எனில் முகமதி ………… (5)
-- **Source answer:** உருவகம்
-- **காரண விளக்கம்:** முகம் நிலவைப் போன்றது என்ற உவமை மாற்றத்தில், முகமே மதி எனக் கூறப்படுவது உருவகம்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** உருவகம் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** உருவகம் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q18`
 
 #### 2. கீழிருந்து மேல் 5 — விடையின் வகைகள் (3)
-- **Source answer:** எட்டு
-- **காரண விளக்கம்:** விடைகள் பொதுவாக எட்டு வகைகளாகப் பகுக்கப்படுகின்றன எனப் பாடவிடை ஆதாரம் தருகிறது.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** எட்டு — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** எட்டு — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q19`
 
 #### 3. கீழிருந்து மேல் 6 — வீரமாமுனிவர் இயற்றிய நூல் (5)
-- **Source answer:** தேம்பாவணி
-- **காரண விளக்கம்:** தேம்பாவணி வீரமாமுனிவர் இயற்றிய தமிழ் காப்பியமாகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** தேம்பாவணி — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** தேம்பாவணி — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q20`
 
 #### 4. கீழிருந்து மேல் 8 — பிள்ளைத்தமிழின் இரண்டாம் பருவம் (4)
-- **Source answer:** செங்கீரை
-- **காரண விளக்கம்:** பிள்ளைத்தமிழின் பருவ வரிசையில் இரண்டாவது பருவம் செங்கீரை ஆகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** செங்கீரை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** செங்கீரை — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q21`
 
@@ -577,30 +559,26 @@
 ### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 5
 
 #### 1. கீழிருந்து மேல் 9 — முப்பால் பகுப்பு கொண்ட நூல்களுள் ஒன்று (6)
-- **Source answer:** திருக்குறள்
-- **காரண விளக்கம்:** அறம், பொருள், இன்பம் என முப்பாலாகப் பகுக்கப்பட்ட நூல் திருக்குறள்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** திருக்குறள் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** திருக்குறள் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q22`
 
 #### 2. கீழிருந்து மேல் 13 — மன்னனது உண்மையான புகழை எடுத்துக் கூறுவது (7)
-- **Source answer:** மெய்க்கீர்த்தி
-- **காரண விளக்கம்:** அரசனின் உண்மையான புகழையும் சிறப்புகளையும் எடுத்துரைப்பது மெய்க்கீர்த்தி.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** மெய்க்கீர்த்தி — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** மெய்க்கீர்த்தி — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q23`
 
 #### 3. கீழிருந்து மேல் 17 — 96 வகைச் சிற்றிலக்கிய வகைகளுள் ஒன்று (7)
-- **Source answer:** பிள்ளைத்தமிழ்
-- **காரண விளக்கம்:** பிள்ளைத்தமிழ் என்பது 96 வகைச் சிற்றிலக்கியங்களுள் ஒன்றாகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** பிள்ளைத்தமிழ் — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** பிள்ளைத்தமிழ் — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q24`
 
 #### 4. கீழிருந்து மேல் 18 — செய்தவம் – இலக்கணக்குறிப்பு (5)
-- **Source answer:** வினைத்தொகை
-- **காரண விளக்கம்:** “செய்தவம்” என்பது காலம் வெளிப்படாத வினைத்தொகை அமைப்பாகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **S1 — CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்:** வினைத்தொகை — [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/)
+- **S2 — StudentsGuide360 — இயல் 9.5:** வினைத்தொகை — [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q25`
 
