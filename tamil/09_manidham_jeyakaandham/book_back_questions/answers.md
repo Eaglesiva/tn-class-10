@@ -451,7 +451,7 @@
 #### 1. இடமிருந்து வலம் 1 — சிறுபொழுதின் வகைகளுள் ஒன்று (2)
 - **Source answer:** காலை
 - **காரண விளக்கம்:** ஒரு நாளின் சிறுபொழுதுகளில் காலை ஒன்றாகும்.
-- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/) · [VISTAS Tamil grammar material — later 12-fold Pura classification](https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q6`
 
@@ -528,7 +528,7 @@
 
 #### 3. மேலிருந்து கீழ் 12 — __________ என்பது புறத்திணைகளுள் ஒன்று (4)
 - **Source answer:** கைக்கிளை
-- **காரண விளக்கம்:** கைக்கிளை என்பது புறத்திணை வகைகளுள் ஒன்றாகப் பாடநூல்/விடை ஆதாரத்தில் தரப்படுகிறது.
+- **காரண விளக்கம்:** புறப்பொருள் வெண்பாமாலை மரபில் புறத்திணை வகைகள் பன்னிரண்டாக விரிவுபடுத்தப்பட்டபோது கைக்கிளையும் சேர்க்கப்படுகிறது; தொல்காப்பியத்தின் அடிப்படை ஏழு புறத்திணை வகைகளில் இது இல்லை.
 - **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [Kalvikavi — இயல் 9 குறுக்கெழுத்து](https://www.kalvikavi.com/2025/06/10th-tamil-unit-7-book-back-answers.html)
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q16`
