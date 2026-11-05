@@ -20,6 +20,25 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
+    "id": "10_tam_u6_q10",
+    "question": "கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….",
+    "options": [
+      "விருந்து / விருது",
+      "விருது / விருந்து",
+      "மரம் வீடு / மரவீடு",
+      "தோற்பவர் / பார்ப்பவர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் அவருக்கு விருந்தாகவும் உருவகிக்கப்படுகிறது.",
+    "sourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/"
+    ],
+    "explanationSourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT"
+  },
+  {
     "id": "10_tam_u6_q2",
     "question": "கூற்று 1: போராட்டப் பண்புடனே வளர்ந்தவர் கலைஞர். கூற்று 2: அவருக்குள் இருந்த கலைத்தன்மை வளர அது உதவியது.",
     "options": [
@@ -111,51 +130,70 @@
       "மரவீடு / விருது"
     ],
     "correctOptionIndex": 0,
-    "explanation": "பறவைகளுக்கு மரம் வாழிடமாகவும், மனிதர்களுக்கு மரம் வீடாகவும் பயன்படுகிறது.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "explanation": "பறவைகளுக்கு மரம் வாழிடமாகவும், மரம் மனிதர்களுக்கு வீடு கட்டத் தேவையான பொருளாகவும் பயன்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
     "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
     "additionalSourceUrls": [
-      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/"
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
     ],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q7",
+    "question": "காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….",
+    "options": [
+      "தங்கும் / அவிழும்",
+      "அவிழும் / கவிழும்",
+      "கவிழும் / தயங்கும்",
+      "தோற்பவை / விருந்து"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; மலர்களில் வண்டினம் கவிழ்ந்து/அமர்ந்து தேனை அணுகுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+      "https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u6_q8",
-    "question": "வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.",
+    "question": "மலை முகட்டில் மேகம் ………. – அதைப் பார்க்கும் மனங்கள் செல்லத் ……….",
     "options": [
-      "பார்ப்பவர் / தோற்பவர்",
+      "தங்கும் / தயங்கும்",
+      "அவிழும் / கவிழும்",
       "தோற்பவர் / பார்ப்பவர்",
-      "தோற்பவை / தோற்பாவை",
-      "விருந்து / விருது"
+      "விருது / விருந்து"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "தோல்வியடைந்தவர் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதுபவர் முயற்சி மேற்கொள்வர்.",
-    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html",
+    "correctOptionIndex": 0,
+    "explanation": "மலைமுகட்டில் மேகம் தங்கும் காட்சியைப் பார்க்கச் செல்லும் மனங்கள் தயங்கும் எனப் பாடல் காட்சியைச் சொல்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
     "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+      "https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u6_q9",
-    "question": "கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….",
+    "question": "வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.",
     "options": [
-      "விருந்து / விருது",
+      "தோற்பவர் / பார்ப்பவர்",
+      "தோற்பவை / தோற்பாவை",
       "விருது / விருந்து",
-      "தங்கும் / தயங்கும்",
-      "மரவீடு / மரம் வீடு"
+      "அவிழும் / கவிழும்"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் விருந்தாகவும் உருவகிக்கப்படுகிறது.",
+    "correctOptionIndex": 0,
+    "explanation": "தோல்வியடைந்தவரும் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதி முயற்சி மேற்கொள்ள வேண்டும் என்பதே வினாவின் பொருத்தமான சொல் இணை.",
     "sourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
-    "sourceName": "StudentsGuide360 — இயல் 6.6",
-    "additionalSourceUrls": [
-      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
-      "https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html",
-      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
-    ],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
     "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT"
   }
 ]
