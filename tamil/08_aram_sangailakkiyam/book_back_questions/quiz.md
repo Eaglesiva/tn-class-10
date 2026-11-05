@@ -85,3 +85,8 @@
 
 ## Source / Extraction QA
 - Q3-ல் கேள்வி கேட்டுள்ள “பாராட்டப்படுவோர்” என்ற பொருளுக்கு ஏற்ற அசல் option-கள் பாதுகாக்கப்பட்டுள்ளன. பழைய Quiz-ல் இருந்த “பாடியவர்கள்” என்ற வேறு வினா நீக்கப்பட்டது.
+
+
+## Additional direct source
+[BrainKart — இயல் 8 Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11867/)
+[BrainKart — இயல் 8 மொழி அறிவு / பயிற்சிகள்](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/)
