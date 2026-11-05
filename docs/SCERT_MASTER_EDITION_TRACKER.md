@@ -96,14 +96,14 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
   - **Layer 4 Pilot Verified (3 books - 840p)**: English (224p, commit `a2c6840f`), Tamil (272p, commit `6b28a78d`), Maths TM (344p, commit `86f68c34`) verified text-equivalent.
 
 ### Class 10 (8 records — 2,624 pages)
-- **Status**: 1 Direct Master Refreshed on Main (224p) / 1 Exact Master SHA Match (248p) / 2 Manual Review (720p) / 4 Stored Updates (1,432p)
+- **Status**: 1 Direct Master Refreshed on Main (224p) / 1 Exact Master SHA Match (248p) / 2 Confirmed GitHub Is Newer (720p) / 4 Stored Updates (1,432p)
 - **Production Main Tip Commit**: [`22f176e2`](https://github.com/Eaglesiva/tn-class-10/commit/22f176e29b3e92be4ff6a110ac8285a1ce371765) (English 224p in-place refreshed)
 - **Audit Branch**: [`scert/class-10/audit-2026-27`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27)
 - **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in unit folders)
 - **Breakdown**:
   - **English (224p)**: `OFFICIAL_SOURCE_REFRESHED` (Refreshed in-place on production `main` across 22 contiguous subdirectories).
   - **Tamil (248p)**: `EXACT_MASTER_SHA256_MATCH` (Bit-for-bit SHA-256 match on `main`).
-  - **Maths TM (368p) & EM (352p)**: `MANUAL_REVIEW_REQUIRED` (720 split pages; pending manual inspection).
+  - **Maths TM (368p) & EM (352p)**: `CONFIRMED_GITHUB_IS_NEWER` (GitHub main holds 2025 Revised Edition with InDesign Dec 2024 compilation & helplines 1098/14417; SCERT portal master is 2024 reprint with InDesign Dec 2023. Verified curriculum-equivalent across all 720 pages; retaining GitHub newer edition on main).
   - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages stored on update branch).
 
 ### Class 11 (32 records — 10,288 pages)
@@ -151,10 +151,10 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **7** | 49 | 15 | 0 | Audit complete (`scert/class-07/audit-2026-27`) |
 | **8** | 28 | 8 | 0 | Audit complete (`scert/class-08/audit-2026-27`) |
 | **9** | 28 | 8 | 0 | 5 Refreshed on Main (1,664p) / 3 Pilot Verified (840p) |
-| **10** | 32 | 8 | 1,432 | 1 Refreshed on Main (224p) / 1 SHA Match (248p) / 2 Manual Review (720p) / 4 Stored Updates (1,432p) |
+| **10** | 32 | 8 | 1,432 | 1 Refreshed on Main (224p) / 1 SHA Match (248p) / 2 Confirmed Newer (720p) / 4 Stored Updates (1,432p) |
 | **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Same (1,304p) / 4 Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) |
 | **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Refreshed on Main (9,872p) / 2 Stored Updates (648p) |
-| **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV (32,976 known official master pages across 122 measured books / 33,592 split pages; 43 books unmeasured)** |
+| **Total** | **495 (groups)** | — | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV (33,696 known official master pages across 124 measured books / 33,592 split pages; 41 books unmeasured)** |
 
 ---
 
