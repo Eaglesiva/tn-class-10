@@ -300,15 +300,53 @@ Vocabulary: Parts of Speech — complete the word-form chart for exhaustion, wid
 
 **Source:** [VirkozKalvi — His First Flight](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-his-first-flight/) — நேரடி பாடவிடை ஆதாரம்.
 
-### Prose D
+### Prose D — One-word form transformations
 
-Change the form of the underlined words in the five given sentences as directed (screaming, loud, amusedly, depth, flight).
+#### 10_eng_u1_q31 — His family was screaming and offering him food. (Change the underlined word to an adjective.)
+- **S1 — TN Board Solutions:** screaming — [His First Flight — Vocabulary D](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **S2 — OMTEX:** screaming — [Chapter 1 — His First Flight](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S3 — KalviTips:** screaming — [Prose Unit 1 — Book Back Answers](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+- **💡 Explanation (extractor-written from cited grammar/source):** “Screaming” functions as an adjective describing “family” in the transformed sentence: “His screaming family was offering him food.”
+- **Explanation source:** [TN Board Solutions — Prose Chapter 1](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **Quiz ID:** `10_eng_u1_q31`
+- **Status:** ANSWER_FOUND
 
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+#### 10_eng_u1_q32 — The young seagull gave out a loud call. (Change the underlined word to an adverb.)
+- **S1 — TN Board Solutions:** loudly — [His First Flight — Vocabulary D](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **S2 — OMTEX:** loudly — [Chapter 1 — His First Flight](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S3 — KalviTips:** loudly — [Prose Unit 1 — Book Back Answers](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+- **💡 Explanation (extractor-written from cited grammar/source):** “Loudly” is the adverb form of “loud”; it describes how the seagull called.
+- **Explanation source:** [TN Board Solutions — Prose Chapter 1](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **Quiz ID:** `10_eng_u1_q32`
+- **Status:** ANSWER_FOUND
 
-**Source:** [VirkozKalvi — His First Flight](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-his-first-flight/) — நேரடி பாடவிடை ஆதாரம்.
+#### 10_eng_u1_q33 — The bird cackled amusedly while flying. (Change the underlined word to a noun.)
+- **S1 — TN Board Solutions:** amusement — [His First Flight — Vocabulary D](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **S2 — OMTEX:** amusement — [Chapter 1 — His First Flight](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S3 — KalviTips:** amusement — [Prose Unit 1 — Book Back Answers](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+- **💡 Explanation (extractor-written from cited grammar/source):** “Amusement” is the noun form used in the phrase “cackled in amusement”.
+- **Explanation source:** [TN Board Solutions — Prose Chapter 1](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **Quiz ID:** `10_eng_u1_q33`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u1_q34 — The depth of the sea from the ledge scared the seagull. (Change the underlined word to an adjective.)
+- **S1 — TN Board Solutions:** deep — [His First Flight — Vocabulary D](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **S2 — OMTEX:** deep — [Chapter 1 — His First Flight](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S3 — KalviTips:** deep — [Prose Unit 1 — Book Back Answers](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+- **💡 Explanation (extractor-written from cited grammar/source):** “Deep” is the adjective form of the noun “depth” and modifies “sea”.
+- **Explanation source:** [TN Board Solutions — Prose Chapter 1](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **Quiz ID:** `10_eng_u1_q34`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u1_q35 — The successful flight of the bird was a proud moment for the seagull’s family. (Change the underlined word to a verb.)
+- **S1 — TN Board Solutions:** flew — [His First Flight — Vocabulary D](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **S2 — OMTEX:** flew — [Chapter 1 — His First Flight](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S3 — KalviTips:** flew — [Prose Unit 1 — Book Back Answers](https://www.kalvitips.com/2025/04/10th-English-Book-Back-Answers-prose-unit-1-Tamilnadu-School-Books.html)
+- **💡 Explanation (extractor-written from cited grammar/source):** “Flew” is the past-tense verb form used in the transformed sentence: “The bird flew successfully...”
+- **Explanation source:** [TN Board Solutions — Prose Chapter 1](https://tnboardsolutions.com/samacheer-kalvi-10th-english-guide-prose-chapter-1/)
+- **Quiz ID:** `10_eng_u1_q35`
+- **Status:** ANSWER_FOUND
+
 
 ### Prose E
 
