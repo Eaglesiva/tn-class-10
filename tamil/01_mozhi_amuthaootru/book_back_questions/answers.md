@@ -1,3 +1,8 @@
+> **SUPERSEDED DRAFT — DO NOT USE AS THE FINAL ANSWER-EXTRACTION FILE.**  
+> This file was prepared before the user's 05-11-2026 correction and contains assistant-written / synthesized material. It does not satisfy the corrected source-extraction-only workflow. Regenerate the extraction under [ANSWER_RESEARCH_BLUEPRINT_TA.md](./ANSWER_RESEARCH_BLUEPRINT_TA.md): copy no assistant-authored student answers, leave the three non-objective answer tiers blank, and keep source records separate. This warning does not replace or alter the original questions.
+
+---
+
 # 10ஆம் வகுப்பு தமிழ் — இயல் 1: அமுதூற்று
 # Answer Collection & Guide — Verified Working Draft
 
