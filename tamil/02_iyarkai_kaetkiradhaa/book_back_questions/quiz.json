@@ -157,5 +157,26 @@
     ],
     "verificationStatus": "ANSWER_FOUND",
     "explanationSourceUrl": "https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/"
+  },
+  {
+    "id": "10_tam_u2_vii2",
+    "question": "“அரும்பாகி மொட்டாகிப் பூவாகி…” என்பதை ஒத்து அமைந்துள்ள தொடரைக் கண்டறிக.",
+    "options": [
+      "மூங்கில் பூவில் காய் தோன்றிக் கனியாகி அதிலிருந்து ஒருவகை அரிசி தோன்றும்.",
+      "அகவிதழ் முதலிய உறுப்புகள் இருந்து அவை புறத்தே காட்சிப்படாமல் உள்ளேயே பொதிந்திருக்கும் மலர்கள்.",
+      "பூ உண்டு; ஆனால் கண்ணிற்குக் காட்சி தராமல் காண்பதற்கு அரியனவாய் இருக்கும் மலர்கள்.",
+      "மலர் உண்டு; பெயரும் உண்டு; ஆனால் இதுதான் அது என்று உறுதியாக அறிய இயலாத மலர்கள்."
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“அரும்பு–மொட்டு–பூ” என்ற வளர்ச்சி வரிசைக்கு ஒத்தபடி, மூங்கில் பூவிலிருந்து காய் தோன்றி கனியாகி அரிசி உருவாகும் படிநிலைத் தொடரை பாடநூல் உரை தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/",
+    "sourceName": "CBSETamil — இயல் 2.5",
+    "additionalSourceUrls": [
+      "https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html",
+      "https://www.kalvikavi.com/2025/06/10th-tamil-unit-2-book-back-answers.html",
+      "https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/",
+    "verificationStatus": "ANSWER_FOUND_WITH_SOURCE_VARIANT"
   }
 ]
