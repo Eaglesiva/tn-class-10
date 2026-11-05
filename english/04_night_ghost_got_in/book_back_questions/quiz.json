@@ -492,6 +492,44 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
+    "id": "10_eng_u2_q35",
+    "question": "According to the Book Back table, what is the plural form of “loaf”?",
+    "options": [
+      "loafs",
+      "loaves",
+      "loafes",
+      "loafs"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Loaf” changes to “loaves” in the plural.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q36",
+    "question": "According to the Book Back table, what is the plural form of “hero”?",
+    "options": [
+      "heros",
+      "heroes",
+      "heroies",
+      "hero"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The Book Back table gives “heroes” as the plural of “hero”.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
     "id": "10_eng_u2_q4",
     "question": "Gilson asked the narrator to buy a tie.",
     "options": [
