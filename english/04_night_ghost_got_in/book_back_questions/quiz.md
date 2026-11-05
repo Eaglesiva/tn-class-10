@@ -519,3 +519,71 @@ What is the plural form of “lady”?
 **Explanation (extractor-written from cited source):** For a consonant + y ending, change y to -ies: lady → ladies.
 
 **Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 31 — Prose D: Singular and Plural Forms
+According to the Book Back table, what is the plural form of “radius”?
+
+- a) radiuses
+- b) radii
+- c) radius
+- d) radia
+
+**Correct answer:** b) radii
+
+**Explanation (extractor-written from cited source):** The Book Back table uses the classical Latin plural “radii” for “radius”.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 32 — Prose D: Singular and Plural Forms
+According to the Book Back table, what is the plural form of “formula”?
+
+- a) formulas
+- b) formulae
+- c) formula
+- d) formuli
+
+**Correct answer:** b) formulae
+
+**Explanation (extractor-written from cited source):** The Book Back table gives “formulae” as the plural form of “formula”.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 33 — Prose D: Singular and Plural Forms
+According to the Book Back table, what is the plural form of “child”?
+
+- a) childs
+- b) childes
+- c) children
+- d) childrens
+
+**Correct answer:** c) children
+
+**Explanation (extractor-written from cited source):** “Child” has an irregular plural form: “children”.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+
+
+---
+
+### Question 34 — Prose D: Singular and Plural Forms
+According to the Book Back table, what is the plural form of “deer”?
+
+- a) deers
+- b) deer
+- c) deeres
+- d) deeren
+
+**Correct answer:** b) deer
+
+**Explanation (extractor-written from cited source):** “Deer” has the same form in the singular and plural in the Book Back table.
+
+**Answer sources:** [BrainKart](https://www.brainkart.com/article/Vocabulary_39467/) · [TamilSangamam](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
