@@ -100,5 +100,80 @@
     ],
     "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/",
     "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q6",
+    "question": "விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….",
+    "options": [
+      "மரம் வீடு / மரவீடு",
+      "மரவீடு / மரம் வீடு",
+      "மரம் வீடு / விருந்து",
+      "மரவீடு / விருது"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பறவைகளுக்கு மரம் வாழிடமாகவும், மனிதர்களுக்கு மரம் வீடாகவும் பயன்படுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q7",
+    "question": "காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….",
+    "options": [
+      "தங்கும் / அவிழும்",
+      "அவிழும் / தங்கும்",
+      "கவிழும் / தயங்கும்",
+      "தோற்பவை / விருந்து"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; வண்டுகள் பூக்களில் தங்குகின்றன.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q8",
+    "question": "வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.",
+    "options": [
+      "பார்ப்பவர் / தோற்பவர்",
+      "தோற்பவர் / பார்ப்பவர்",
+      "தோற்பவை / தோற்பாவை",
+      "விருந்து / விருது"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "தோல்வியடைந்தவர் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதுபவர் முயற்சி மேற்கொள்வர்.",
+    "sourceUrl": "https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q9",
+    "question": "கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….",
+    "options": [
+      "விருந்து / விருது",
+      "விருது / விருந்து",
+      "தங்கும் / தயங்கும்",
+      "மரவீடு / மரம் வீடு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் விருந்தாகவும் உருவகிக்கப்படுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+      "https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
