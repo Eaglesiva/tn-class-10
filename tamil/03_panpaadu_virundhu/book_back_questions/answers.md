@@ -6,6 +6,8 @@
 ### Q1 — முறையான தொடர்
 - **S1 — VirkozKalvi — இயல் 3, விருந்து போற்றுதும்:** இ) தமிழர் பண்பாட்டில் வாழை இலைக்குத் தனித்த இடமுண்டு. — [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **S2 — GreenTamil — இயல் 3 திறன் அறிவோம்:** இ) தமிழர் பண்பாட்டில் வாழை இலைக்குத் தனித்த இடமுண்டு. — [GreenTamil — இயல் 3 திறன் அறிவோம்](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** சொற்கள் பொருள் மற்றும் இலக்கண ஒழுங்குடன் அமைந்துள்ள சரியான தொடர் இதுவாகும்.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **நிலை:** ANSWER_FOUND
 
@@ -19,17 +21,23 @@
 ### Q3 — “அறிஞருக்கு நூல், அறிஞதைு நூல்”
 - **S1 — VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்:** அ) வேற்றுமை உருபு — [VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/)
 - **S2 — GreenTamil — இயல் 3 திறன் அறிவோம்:** அ) வேற்றுமை உருபு — [GreenTamil — இயல் 3 திறன் அறிவோம்](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “அறிஞருக்கு” என்பதில் “கு” உருபும், “அறிஞரது” என்பதில் “அது” உருபும் வேறுபட்ட வேற்றுமைத் தொடர்பைக் காட்டுகின்றன. கேள்வியில் உள்ள மூல எழுத்துரு மாற்றப்படவில்லை.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 3, தொகாநிலைத் தொடர்கள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-5/)
 - **நிலை:** ANSWER_FOUND
 
 ### Q4 — காசிக்காண்டம்
 - **S1 — VirkozKalvi — இயல் 3, காசிக்காண்டம்:** இ) காசி நகரத்தின் பெருமையைப் பாடும் நூல் — [VirkozKalvi — இயல் 3, காசிக்காண்டம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காசி நகரத்தின் பெருமைகளை எடுத்துரைக்கும் நூலாகக் காசிக்காண்டம் குறிப்பிடப்படுகிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-2/)
 - **விளக்க ஆதாரம்:** அதே பாடப்பகுதி விடை மற்றும் நூல் குறிப்பு.
 - **நிலை:** ANSWER_FOUND
 
 ### Q5 — இன்மையிலும் விருந்து
 - **S1 — VirkozKalvi — இயல் 3, விருந்து போற்றுதும்:** ஆ) இன்மையிலும் விருந்து — [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **S2 — GreenTamil — இயல் 3 திறன் அறிவோம்:** ஆ) இன்மையிலும் விருந்து — [GreenTamil — இயல் 3 திறன் அறிவோம்](https://www.greentamil.in/2021/07/3-10-tamil-thiran-arivom-bookback.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** விருந்தினரைப் பேணுவதற்காகத் தன்னுடைய சீறியாழையே பணயம் வைத்துச் செலவிட்ட செயல், பொருளின்மை/வறுமையிலும் விருந்தோம்பிய நிலையை உணர்த்துகிறது.
+- **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 3, விருந்து போற்றுதும்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-3-1/)
 - **நிலை:** ANSWER_FOUND
 
