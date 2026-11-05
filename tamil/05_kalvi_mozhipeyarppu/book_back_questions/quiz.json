@@ -1,7 +1,7 @@
 [
   {
     "id": "10_tam_u5_q1",
-    "question": "\"மாபாரதம் தமிழ்ப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்\" என்னும் சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு உணர்த்தும் செய்தி -",
+    "question": "'மாபாதை தமிழப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்' என்னும் சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு உணர்த்தும் செய்தி",
     "options": [
       "சங்க காலத்தில் மொழிபெயர்ப்பு இருந்தது",
       "காப்பியக் காலத்தில் மொழிபெயர்ப்பு இருந்தது",
@@ -9,11 +9,20 @@
       "சங்கம் மருவிய காலத்தில் மொழிபெயர்ப்பு இருந்தது"
     ],
     "correctOptionIndex": 0,
-    "explanation": "பாண்டியர்கள் காலத்தில் சங்கம் வைத்து தமிழை வளர்த்ததோடு, மகாபாரதத்தைத் தமிழில் மொழிபெயர்த்தனர் என்பதை இச்செப்பேடு உறுதியாகத் தெரிவிக்கிறது."
+    "explanation": "சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு மகாபாரதம் தமிழாக்கம் செய்யப்பட்டதும் சங்கம் நிறுவப்பட்டதும் குறித்த செய்தியைச் சொல்வதால் சங்க கால மொழிபெயர்ப்பு மரபை உணர்த்துகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "sourceName": "BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://nibunan.in/clear-tnpsc-tamil/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11840/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT",
+    "sourceWordingVariant": "மாபாரதம் தமிழ்ப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்"
   },
   {
     "id": "10_tam_u5_q2",
-    "question": "அருந்துணை என்பதைப் பிரித்தால் -",
+    "question": "அருந்துணை என்பதைப் பிரித்தால்......................",
     "options": [
       "அருமை + துணை",
       "அரு + துணை",
@@ -21,11 +30,19 @@
       "அரு + இணை"
     ],
     "correctOptionIndex": 0,
-    "explanation": "பண்புப் பெயர் புணர்ச்சி விதிப்படி (ஈறுபோதல் விதி) 'அருமை' என்பதில் உள்ள 'மை' விகுதி கெட்டு, 'அருந்துணை' எனப் புணரும்."
+    "explanation": "“அருந்துணை” என்ற சொல்லின் பிரிப்பு “அருமை + துணை” என விடை ஆதாரங்களில் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "sourceName": "BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://nibunan.in/clear-tnpsc-tamil/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11840/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q3",
-    "question": "'இங்கு நகரப் பேருந்து நிற்குமா?' என்று வழிப்போக்கர் கேட்டது ............ வினா.\n'அதோ, அங்கே நிற்கும்.' என்று மற்றொருவர் கூறியது .......... விடை.",
+    "question": "'இங்கு நகரப் பேருந்து நிற்குமா?' என்று வழிப்போக்கர் கேட்டது............ வினா. 'அதோ, அங்கே நிற்கும்.' என்று மற்றொருவர் கூறியது.......... விடை.",
     "options": [
       "ஐயவினா, வினா எதிர் வினாதல்",
       "அறிவினா, மறை விடை",
@@ -33,11 +50,19 @@
       "கொளல் வினா, இனமொழி விடை"
     ],
     "correctOptionIndex": 2,
-    "explanation": "தான் அறியாத ஒன்றைப் பிறரிடம் கேட்டு அறிந்துகொள்ள வினவுவது 'அறியா வினா'. விடையாக ஒன்றைச் சுட்டிக் கூறல் 'சுட்டு விடை' ஆகும்."
+    "explanation": "தனக்குத் தெரியாத பேருந்து நிற்கும் இடத்தை அறியக் கேட்பதால் அது அறியா வினா; “அதோ, அங்கே” என்று இடத்தைச் சுட்டிக் கூறுவதால் அது சுட்டு விடை.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "sourceName": "BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11840/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q4",
-    "question": "\"அருளைப் பெருக்கி அறிவைத் திருத்தி\nமருளை அகற்றி மதிக்கும் தெருளை\"\n- என்று இவ்வடிகளில் குறிப்பிடப்படுவது எது?",
+    "question": "\"அருளைப் பெருக்கி அறிவைத் திருத்தி மருளை அகற்றி மதிக்கும் தெருளை\" - என்று இவ்வடிகளில் குறிப்பிடப்படுவது எது?",
     "options": [
       "தமிழ்",
       "அறிவியல்",
@@ -45,11 +70,19 @@
       "இலக்கியம்"
     ],
     "correctOptionIndex": 2,
-    "explanation": "நீதிவெண்பாவில் க. செய்குதம்பிப் பாவலர் அறியாமையை அகற்றி மனிதனுக்கு நல்வழிகாட்டும் அருமருந்தாக 'கல்வி'யையே குறிப்பிடுகிறார்."
+    "explanation": "அருள் மற்றும் அறிவை வளர்த்து, அறியாமையை நீக்கி தெளிவைத் தருவது கல்வியின் பயனாக இவ்வடிகளில் கூறப்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "sourceName": "BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://nibunan.in/clear-tnpsc-tamil/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11840/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q5",
-    "question": "இடைக்காடனாரின் பாடலை இகழ்ந்தவர் ......... இடைக்காடனாரிடம் அன்பு வைத்தவர் ..........",
+    "question": "இடைக்காடனாரின் பாடலை இகழ்ந்தவர்......... இடைக்காடனாரிடம் அன்பு வைத்தவர்..........",
     "options": [
       "அமைச்சர், மன்னன்",
       "அமைச்சர், இறைவன்",
@@ -57,6 +90,430 @@
       "மன்னன், இறைவன்"
     ],
     "correctOptionIndex": 3,
-    "explanation": "இடைக்காடனாரின் செய்யுளை மதிக்காமல் அவமதித்து இகழ்ந்தவன் குசேலபாண்டிய 'மன்னன்'. புலவரின் வருத்தம் தீர்க்கக் கோயிலை விட்டு நீங்கி அன்பு காட்டியவர் 'இறைவன்' ஆவார்."
+    "explanation": "இடைக்காடனாரின் பாடலை மன்னன் இகழ்ந்தான்; புலவரிடம் அன்பு கொண்டு அவருக்கு ஆதரவாக இருந்தவர் இறைவன் எனப் பாடப்பகுதி விளக்குகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "sourceName": "BrainKart — இயல் 5 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.youtube.com/watch?v=QOLU-HT0ZYs",
+      "https://www.brainkart.in/article/Questions-and-Answers_11840/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11840/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q6",
+    "question": "தார்போன்ற நிறமுண்டு கரியுமில்லை; பார் முழுதும் பறந்து திரிவேன் மேகமுமில்லை; சேர்ந்து அமர்ந்து ஒலிப்பேன் பள்ளியுமில்லை; சோர்ந்து போகாமல் வீடமைப்பேன் பொறியாளருமில்லை; வீட்டுக்கு வருமுன்னே, வருவதைக் கூறுவேன். நான் யார்?",
+    "options": [
+      "காகம்",
+      "கிளி",
+      "புறா",
+      "கழுகு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கருமையான நிறம், கூட்டமாக அமர்ந்து ஒலித்தல், கூடு கட்டுதல், வருகையை முன்கூட்டியே குரலால் அறிவித்தல் ஆகிய குறிப்புகள் காகத்திற்குப் பொருந்துகின்றன.",
+    "sourceUrl": "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+    "sourceName": "TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி",
+    "additionalSourceUrls": [
+      "https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/"
+    ],
+    "explanationSourceUrl": "https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q7",
+    "question": "நிலத்துக்கு அடியில் கிடைக்கும் ______ யாவும் அரசுக்கே சொந்தம். நெகிழிப் பொருள்களை மண்ணுக்கு அடியில் _____ நிலத்தடி நீர்வளத்தைக் குன்றச் செய்யும்.",
+    "options": [
+      "புதையல் / புதைத்தல்",
+      "புதைத்தல் / புதையல்",
+      "நடித்தல் / நடிப்பு",
+      "காட்சி / காணுதல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "நிலத்துக்கு அடியில் கிடைப்பது புதையல்; பொருள்களை மண்ணுக்குள் இடும் செயல் புதைத்தல்.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "Book Back answer / exercise source",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q8",
+    "question": "காட்டு விலங்குகளைச் ______ தடை செய்யப்பட்டுள்ளது. செய்த தவறுகளைச் ______ திருந்த உதவுகிறது.",
+    "options": [
+      "சுட்டல் / சுடுதல்",
+      "சுடுதல் / சுட்டல்",
+      "தொடுத்தல் / தொடுதல்",
+      "புதையல் / புதைத்தல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "காட்டு விலங்குகளைச் சுடுதல் தடை; செய்த தவறுகளைச் சுட்டிக்காட்டுதல் திருந்த உதவுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "Book Back answer / exercise source",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q9",
+    "question": "காற்றின் மெல்லிய ______ பூக்களைத் தலையாட்டவைக்கிறது. கைகளின் நேர்த்தியான ______ பூக்களை மாலையாக்குகிறது.",
+    "options": [
+      "தொடுத்தல் / தொடுதல்",
+      "தொடுதல் / தொடுத்தல்",
+      "நடித்தல் / நடிப்பு",
+      "காட்சி / காணுதல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "காற்றின் மெல்லிய தொடுதல் பூக்களை அசைக்கிறது; கைகளின் நேர்த்தியான தொடுத்தல் பூக்களை மாலையாக்குகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "Book Back answer / exercise source",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q10",
+    "question": "பசுமையான _______ஐக் ________ கண்ணுக்கு நல்லது.",
+    "options": [
+      "காணுதல் / காட்சி",
+      "காட்சி / காணுதல்",
+      "புதையல் / புதைத்தல்",
+      "சுடுதல் / சுட்டல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பசுமையான காட்சி கண்ணுக்கு நல்லது; அதைக் காணுதல் பார்வைக்கு இன்பம் தருகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "Book Back answer / exercise source",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q11",
+    "question": "பொதுவாழ்வில் ____ கூடாது. ____இல் அவரை மிஞ்ச ஆள் கிடையாது.",
+    "options": [
+      "நடிப்பு / நடித்தல்",
+      "நடித்தல் / நடிப்பு",
+      "தொடுதல் / தொடுத்தல்",
+      "சுட்டல் / சுடுதல்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பொதுவாழ்வில் நடித்தல் கூடாது; நடிப்பில் அவரை மிஞ்ச ஆள் இல்லை.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "Book Back answer / exercise source",
+    "additionalSourceUrls": [
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q12",
+    "question": "lute music என்பதற்கான தமிழ்ச் சொல் எது?",
+    "options": [
+      "யாழிசை",
+      "அறை",
+      "பேத்தி",
+      "நெட்டுரு"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பாடநூல் கவிதையில் “lute music” என்பதற்கு “யாழிசை” எனப் பொருள் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q13",
+    "question": "chamber என்பதற்கான தமிழ்ச் சொல் எது?",
+    "options": [
+      "நீதிநூல் திரட்டு",
+      "அறை",
+      "எட்டிப் பார்த்தல்",
+      "யாழிசை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Coming from the chamber” என்ற வரிக்கு இணையாக “அறைக்குள் யாழிசை” எனப் பாடல் அமைந்துள்ளது; chamber என்பது அறை.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q14",
+    "question": "to look up என்பதற்கான தமிழ்ச் சொல் எது?",
+    "options": [
+      "பேத்தி",
+      "நெட்டுரு",
+      "எட்டிப் பார்த்தல்",
+      "யாழிசை"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் கவிதையில் “to look up” என்பதற்கு “எட்டிப் பார்த்தல்” என இணைக்கப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q15",
+    "question": "grand-daughter என்பதற்கான தமிழ்ச் சொல் எது?",
+    "options": [
+      "பேத்தி",
+      "அறை",
+      "நெட்டுரு",
+      "யாழிசை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "கவிதையில் grand-daughter என்பதற்கு “பேத்தி” எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q16",
+    "question": "rote என்பதற்கான தமிழ்ச் சொல் எது?",
+    "options": [
+      "எட்டிப் பார்த்தல்",
+      "நீதிநூல் திரட்டு",
+      "அறை",
+      "நெட்டுரு"
+    ],
+    "correctOptionIndex": 3,
+    "explanation": "“Learning by rote” என்ற சொல்லாக்கத்தில் rote என்பதற்கு “நெட்டுரு” என இணைக்கப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q17",
+    "question": "didactic compilation என்பதற்கான தமிழ்ச் சொல் எது?",
+    "options": [
+      "யாழிசை",
+      "நீதிநூல் திரட்டு",
+      "பேத்தி",
+      "அறை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பாடநூல் கவிதையில் didactic compilation என்பதற்கு “நீதிநூல் திரட்டு” எனத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q18",
+    "question": "ஆதிரையின் “ஆமாம்! கவியரங்கத்துக்குக் கவிதை எழுதிக்கொண்டிருக்கிறேன்.” என்ற பதில் எந்த வகை?",
+    "options": [
+      "நேர் விடை",
+      "உற்றது உரைத்தல் விடை",
+      "சுட்டு விடை",
+      "வினா எதிர் வினாதல் விடை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கேள்விக்குப் பதிலாக தற்போது நிகழும் செயலை நேரடியாகக் கூறுவதால் இது உற்றது உரைத்தல் விடை.",
+    "sourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "sourceName": "BrainKart — வினா, விடை வகைகள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q19",
+    "question": "பாமகளின் “அப்படியா! என்ன தலைப்பு?” என்ற வினா எந்த வகை?",
+    "options": [
+      "ஐய வினா",
+      "அறியா வினா",
+      "ஏவல் வினா",
+      "அறி வினா"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "தலைப்பு என்ன என்பதை அறிந்துகொள்ளக் கேட்பதால் இது அறியா வினா.",
+    "sourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "sourceName": "BrainKart — வினா, விடை வகைகள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q20",
+    "question": "ஆதிரையின் “கல்வியில் சிறக்கும் தமிழர்!” என்ற பதில் எந்த வகை?",
+    "options": [
+      "நேர் விடை",
+      "மறை விடை",
+      "ஏவல் விடை",
+      "சுட்டு விடை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“என்ன தலைப்பு?” என்ற வினாவுக்கு நேரடியாகத் தலைப்பைக் கூறுவதால் இது நேர் விடை.",
+    "sourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "sourceName": "BrainKart — வினா, விடை வகைகள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q21",
+    "question": "“நீங்கள் கவியரங்கத்துக்கு எல்லாம் வருவீர்களோ? மாட்டீர்களோ?” என்ற வினா எந்த வகை?",
+    "options": [
+      "அறியா வினா",
+      "ஏவல் வினா",
+      "ஐய வினா",
+      "அறி வினா"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "வருவாரா மாட்டாரா என்ற ஐயத்தை நீக்கிக் கொள்ள வினவுவதால் இது ஐய வினா.",
+    "sourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "sourceName": "BrainKart — வினா, விடை வகைகள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q22",
+    "question": "பாமகளின் “ஏன் வராமல்?” என்ற பதில் எந்த வகை?",
+    "options": [
+      "வினா எதிர் வினாதல் விடை",
+      "சுட்டு விடை",
+      "உற்றது உரைத்தல் விடை",
+      "மறை விடை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "வினாவுக்குப் பதிலாக இன்னொரு வினாவைக் கேட்டு உடன்பாட்டை உணர்த்துவதால் இது வினா எதிர் வினாதல் விடை.",
+    "sourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "sourceName": "BrainKart — வினா, விடை வகைகள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q23",
+    "question": "மன்றல் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "திருமணம்",
+      "காலடிக்குறி",
+      "நீர்த்துளி",
+      "மயக்கம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q24",
+    "question": "அடிச்சுவடு என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "காலடிக்குறி",
+      "திருமணம்",
+      "மயக்கம்",
+      "அகர வரிசை நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q25",
+    "question": "அகராதி என்பதன் பொருள் எது?",
+    "options": [
+      "அகர வரிசையில் பொருள் தரும் நூல்",
+      "காலடிக்குறி",
+      "திருமணம்",
+      "மயக்கம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q26",
+    "question": "தூவல் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "மழை / நீர்த்துளி",
+      "திருமணம்",
+      "காலடிக்குறி",
+      "மயக்கம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q27",
+    "question": "மருள் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "மயக்கம்",
+      "திருமணம்",
+      "காலடிக்குறி",
+      "அகர வரிசை நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; ஆதாரங்களில் “மயக்கம்” நேரடியாகத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]

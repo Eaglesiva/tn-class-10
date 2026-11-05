@@ -1,62 +1,619 @@
 [
   {
     "id": "10_tam_u9_q1",
-    "question": "இமையத்துக் கோடு - இத்தொடரில் 'கோடு' என்பதன் பொருள் -",
+    "question": "''பிரிந்தன புள்ளின் கானில் பெரிதழுது இரங்கித் தேம்ப'' பாடலடிகளில் அடிக்கோடிட்ட சொற்களின் பொருளைத் தெரிவு செய்க.",
     "options": [
-      "பனிமலை",
-      "சிகரம் (மலையுச்சி)",
-      "வானம்",
-      "பனிப்பாறை"
+      "கிளை, துளை",
+      "நிலம், வாட",
+      "காடு, வாட",
+      "காடு, நிலம்"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "'கோடு' என்பதற்கு மலையுச்சி அல்லது சிகரம் என்பது பொருள். இமையத்துக்கோடு என்பது உயர்ந்த இமயமலையின் உச்சிப் பகுதியைக் குறிக்கிறது."
+    "correctOptionIndex": 2,
+    "explanation": "பாடல் வரியில் வரும் “கான்” = காடு; “தேம்ப” = வாட எனப் பாடநூல் சொல்லும் பொருள் பகுதியில் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
+    "sourceName": "CBSETamil Textbook PDF — தேம்பாவணி, பாடல் 2401",
+    "additionalSourceUrls": [
+      "https://anyflip.com/xexml/bdim/basic/201-248",
+      "https://www.tamilvithai.com/2023/07/10th-tamil-text-book-2-question-change.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11876/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u9_q2",
-    "question": "'பூக்கையைக் குவித்து' - 'பூக்கை' என்பதன் இலக்கணக் குறிப்பு -",
+    "question": "சுதந்திர இந்தியாவின் மகத்தான சாதனையும் சவாலுமாக ஜெயகாந்தன் கருதுவது",
     "options": [
-      "உவமைத்தொகை",
-      "உருவகம்",
-      "பண்புத்தொகை",
-      "வினைத்தொகை"
+      "அரசின் நலத்திட்டங்களைச் செயல்படுத்தல்",
+      "பெற்ற சுதந்திரத்தைப் பேணிக் காத்தல்",
+      "அறிவியல் முன்னேற்றம்",
+      "வெளிநாட்டு முதலீடுகள்"
     ],
-    "correctOptionIndex": 0,
-    "explanation": "'பூக்கை' என்பது பூப்போன்ற கை என விரியும். இதில் 'போன்ற' என்னும் உவம உருபு மறைந்து வந்துள்ளதால் இது உவமைத்தொகை ஆகும்."
+    "correctOptionIndex": 1,
+    "explanation": "ஜெயகாந்தன் கருத்தில் சுதந்திரத்தைப் பெற்றிருப்பதுடன் அதைத் தொடர்ந்து பாதுகாத்துப் பேணுவதும் இந்தியாவின் மகத்தான சாதனையும் சவாலும் ஆகும்.",
+    "sourceUrl": "https://nibunan.in/clear-tnpsc-tamil/",
+    "sourceName": "Nibunan — இயல் 9, அன்பின் மொழி",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11876/"
+    ],
+    "explanationSourceUrl": "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u9_q3",
-    "question": "வாய்மையே மழைநீராகி - இத்தொடரில் வெளிப்படும் அணி -",
+    "question": "பூக்கையைக் குவித்துப் பூவே புரிவொடு காக்க என்று........................................ வேண்டினார்.",
     "options": [
-      "உவமையணி",
-      "தற்குறிப்பேற்ற அணி",
-      "உருவக அணி",
-      "தீவக அணி"
+      "கருணையன், எலிசபெத்துக்காக",
+      "எலிசபெத், தமக்காக",
+      "கருணையன், பூக்களுக்காக",
+      "எலிசபெத், பூமிக்காக"
     ],
-    "correctOptionIndex": 2,
-    "explanation": "தேம்பாவணிப் பாடலில் வாய்மை (உண்மை) என்பது மழைநீராக உருவகப்படுத்தப்பட்டுள்ளதால், இது உருவக அணி ஆகும். (வாய்மையாகிய மழைநீர்)."
+    "correctOptionIndex": 0,
+    "explanation": "தேம்பாவணி பாடல் சூழலில் கருணையன் தன் தாய் எலிசபெத்துக்காக வேண்டுகிறார்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/",
+    "sourceName": "CBSETamil — தேம்பாவணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-thembavani-question-answer/",
+      "https://www.freetnbooks.com/10th-std-tamil-guide-lesson-9-3/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11876/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-3/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u9_q4",
-    "question": "\"கலையின் கணவனாகவும் சமுதாயத்தின் புதல்வனாகவும் இருந்து எழுதுகிறேன்\" - இக்கூற்றிலிருந்து நாம் புரிந்துகொள்வது -",
+    "question": "வாய்மையே மழைநீராகி – இத் தொடரில் வெளிப்படும் அணி",
     "options": [
-      "சமூகப் பார்வையோடு கலைப்பணி புரியவே எழுதினார்",
-      "கலைக்காகவே கலை என எழுதினார்",
-      "சமுதாயத்திற்காக மட்டுமே எழுதினார்",
-      "கலையையும் சமுதாயத்தையும் பிரித்துப் பார்த்தார்"
+      "உவமை",
+      "தற்குறிப்பேற்றம்",
+      "உருவகம்",
+      "தீவகம்"
     ],
-    "correctOptionIndex": 0,
-    "explanation": "எழுத்தாளர் ஜெயகாந்தன் தன் படைப்புகள் வெறும் கலைக்காக மட்டுமின்றி, சமூக மேம்பாட்டிற்கான கருவியாகவும் (சமூகப் பார்வை) செயல்பட வேண்டும் என்ற நோக்கிலேயே எழுதினார்."
+    "correctOptionIndex": 2,
+    "explanation": "“வாய்மை” நேரடியாக “மழைநீர்” ஆகக் கூறப்பட்டுள்ளது; “போன்ற” என்ற உவம உருபின்றி ஒன்றை மற்றொன்றாகக் கூறுவதால் உருவக அணி.",
+    "sourceUrl": "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+    "sourceName": "GreenTamil — இயல் 1–9 பலவுள் தெரிக",
+    "additionalSourceUrls": [
+      "https://nibunan.in/clear-tnpsc-tamil/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11876/"
+    ],
+    "explanationSourceUrl": "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u9_q5",
-    "question": "அறம்+கதிர் என்பதனைச் சேர்த்து எழுதக் கிடைக்கும் சொல் -",
+    "question": "கலையின் கணவனாகவும் சமுதாயத்தின் புதல்வனாகவும் இருந்து எழுதுகிறேன் – இக்கூற்றிலிருந்து நாம் புரிந்துகொள்வது:",
     "options": [
-      "அறம்கதிர்",
-      "அறக்கதிர்",
-      "அறங்குதிர்",
-      "அறன்கதிர்"
+      "தம் வாழ்க்கையில் பெற்ற விளைவுகளைக் கலையாக்கினார்",
+      "சமூகப் பார்வையோடு கலைப்பணி புரியவே எழுதினார்",
+      "அறத்தைக் கூறுவதற்காக எழுதினார்",
+      "அழகியலுடன் இலக்கியம் படைத்தார்"
     ],
     "correctOptionIndex": 1,
-    "explanation": "நிலைமொழி ஈற்றில் உள்ள 'ம்' கெட்டு, வருமொழி முதலில் உள்ள வல்லினம் மிகும். எனவே அறம்+கதிர் = அறக்கதிர் எனப் புணரும்."
+    "explanation": "இக்கூற்று கலைப்பணியையும் சமூகப் பொறுப்பையும் இணைத்துப் பார்க்கும் எழுத்து நோக்கத்தை வெளிப்படுத்துகிறது.",
+    "sourceUrl": "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+    "sourceName": "GreenTamil — இயல் 1–9 பலவுள் தெரிக",
+    "additionalSourceUrls": [
+      "https://nibunan.in/clear-tnpsc-tamil/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11876/"
+    ],
+    "explanationSourceUrl": "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q6",
+    "question": "சிறுபொழுதின் வகைகளுள் ஒன்று (2)",
+    "options": [
+      "காலை",
+      "மாலை",
+      "யாமம்",
+      "வைகறை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "காலை என்பது ஒரு நாளின் ஆறு சிறுபொழுதுகளில் ஒன்றாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q7",
+    "question": "நேர் நேர் – வாய்பாடு (2)",
+    "options": [
+      "புளிமா",
+      "தேமா",
+      "கருவிளம்",
+      "கூவிளம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இரண்டு நேர் அசைகள் இணையும் வாய்பாடு தேமா எனப்படும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q8",
+    "question": "எட்டுத்தொகை நூல்களுள் ஒன்று (5)",
+    "options": [
+      "பத்துப்பாட்டு",
+      "கலித்தொகை",
+      "திருக்குறள்",
+      "சிலப்பதிகாரம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கலித்தொகை எட்டுத்தொகை நூல்களில் ஒன்றாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q9",
+    "question": "மக்களே போல்வர் __________ (4)",
+    "options": [
+      "சான்றோர்",
+      "வள்ளல்",
+      "கயவர்",
+      "அறிஞர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "திருக்குறளில் “மக்களே போல்வர் கயவர்” என்ற தொடர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q10",
+    "question": "முல்லைத் திணைக்குரிய பெரும்பொழுது (5)",
+    "options": [
+      "முன்பனிக்காலம்",
+      "கார்காலம்",
+      "குளிர்காலம்",
+      "முதுவேனிற்காலம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "முல்லைத் திணைக்குரிய பெரும்பொழுதாகக் கார்காலம் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q11",
+    "question": "மொழிஞாயிறு (9)",
+    "options": [
+      "பாவேந்தர் பாரதிதாசன்",
+      "தேவநேயப்பாவாணர்",
+      "உ.வே.சாமிநாதையர்",
+      "மறைமலை அடிகள்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“மொழிஞாயிறு” என்ற சிறப்புப்பெயர் தேவநேயப்பாவாணரைக் குறிக்கிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q12",
+    "question": "நல்ல என்னும் அடைமொழி கொண்ட தொகைநூல் (5)",
+    "options": [
+      "நற்றிணை",
+      "குறுந்தொகை",
+      "அகநானூறு",
+      "புறநானூறு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“நல்ல குறுந்தொகை” என்பது சங்கத் தொகைநூலின் மரபுவழிப் பெயராக வழங்குகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q13",
+    "question": "கழை என்பதன் பொருள் (4)",
+    "options": [
+      "மருதம்",
+      "மூங்கில்",
+      "கொன்றை",
+      "வேங்கை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“கழை” என்பது மூங்கிலைச் சுட்டும் சொல்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q14",
+    "question": "மதியின் மறுபெயர், இது நிலவையும் குறிக்கும் (4)",
+    "options": [
+      "திங்கள்",
+      "கதிரவன்",
+      "விண்மீன்",
+      "மேகம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“திங்கள்” என்பது நிலவைக் குறிக்கும் பெயர்களில் ஒன்று.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q15",
+    "question": "குறிஞ்சித் திணைக்குரிய விலங்கு (4)",
+    "options": [
+      "சிங்கம்",
+      "யானை",
+      "மான்",
+      "முயல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குறிஞ்சி நிலத்திற்குரிய விலங்குகளில் சிங்கமும் குறிப்பிடப்படுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q16",
+    "question": "__________ என்பது புறத்திணைகளுள் ஒன்று (4)",
+    "options": [
+      "கைக்கிளை",
+      "வெட்சி",
+      "வஞ்சி",
+      "உழிஞை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "குறுக்கெழுத்துப் போட்டிக்கான நேரடி விடை ஆதாரங்கள் இந்த இடைவெளிக்குக் “கைக்கிளை” எனத் தருகின்றன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/",
+      "https://vistascdoe.in/wp-content/uploads/2024/03/DLTAM-11-Tamil-I-f.pdf",
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11877/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q17",
+    "question": "மருந்தே ஆயினும் விருந்தோடு உண் – ஆசிரியர் (4)",
+    "options": [
+      "ஔவையார்",
+      "திருவள்ளுவர்",
+      "கம்பர்",
+      "கபிலர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“மருந்தே ஆயினும் விருந்தோடு உண்” என்ற அறிவுரைக் குறள் ஔவையாருக்குச் சேர்த்துக் கூறப்படுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q18",
+    "question": "மதிமுகம் உவமை எனில் முகமதி ………… (5)",
+    "options": [
+      "உவமை",
+      "உருவகம்",
+      "தீவகம்",
+      "தற்குறிப்பேற்றம்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "முகம் நிலவைப் போன்றது என்ற உவமை மாற்றத்தில், முகமே மதி எனக் கூறப்படுவது உருவகம்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q19",
+    "question": "விடையின் வகைகள் (3)",
+    "options": [
+      "நான்கு",
+      "ஐந்து",
+      "எட்டு",
+      "பத்து"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "விடைகள் பொதுவாக எட்டு வகைகளாகப் பகுக்கப்படுகின்றன எனப் பாடவிடை ஆதாரம் தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q20",
+    "question": "வீரமாமுனிவர் இயற்றிய நூல் (5)",
+    "options": [
+      "தேம்பாவணி",
+      "திருக்குறள்",
+      "சீவகசிந்தாமணி",
+      "கம்பராமாயணம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தேம்பாவணி வீரமாமுனிவர் இயற்றிய தமிழ் காப்பியமாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q21",
+    "question": "பிள்ளைத்தமிழின் இரண்டாம் பருவம் (4)",
+    "options": [
+      "காப்பு",
+      "செங்கீரை",
+      "தாலாட்டு",
+      "அம்புலி"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "பிள்ளைத்தமிழின் பருவ வரிசையில் இரண்டாவது பருவம் செங்கீரை ஆகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q22",
+    "question": "முப்பால் பகுப்பு கொண்ட நூல்களுள் ஒன்று (6)",
+    "options": [
+      "நாலடியார்",
+      "திருக்குறள்",
+      "கலித்தொகை",
+      "புறநானூறு"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "அறம், பொருள், இன்பம் என முப்பாலாகப் பகுக்கப்பட்ட நூல் திருக்குறள்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q23",
+    "question": "மன்னனது உண்மையான புகழை எடுத்துக் கூறுவது (7)",
+    "options": [
+      "மெய்க்கீர்த்தி",
+      "புறநானூறு",
+      "பட்டினப்பாலை",
+      "கலித்தொகை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அரசனின் உண்மையான புகழையும் சிறப்புகளையும் எடுத்துரைப்பது மெய்க்கீர்த்தி.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q24",
+    "question": "96 வகைச் சிற்றிலக்கிய வகைகளுள் ஒன்று (7)",
+    "options": [
+      "பிள்ளைத்தமிழ்",
+      "தேம்பாவணி",
+      "திருக்குறள்",
+      "கலித்தொகை"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பிள்ளைத்தமிழ் என்பது 96 வகைச் சிற்றிலக்கியங்களுள் ஒன்றாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q25",
+    "question": "செய்தவம் – இலக்கணக்குறிப்பு (5)",
+    "options": [
+      "பண்புத்தொகை",
+      "வினைத்தொகை",
+      "உம்மைத்தொகை",
+      "வேற்றுமைத்தொகை"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“செய்தவம்” என்பது காலம் வெளிப்படாத வினைத்தொகை அமைப்பாகும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "sourceName": "CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u9_q26",
+    "question": "“கம்பனும் கண்டேத்தும்” எனப் பாடலில் சுட்டப்படும் புலவர் யார்?",
+    "options": [
+      "கம்பர்",
+      "உமறுப்புலவர்",
+      "ஜவாது ஆசுகவி",
+      "காசிம்புலவர்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “கம்பர்” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
+  },
+  {
+    "id": "10_tam_u9_q27",
+    "question": "பாடலில் குறிப்பிடப்படும் “உமறுப் புலவர்” என்பவரின் சரியான பெயர் எது?",
+    "options": [
+      "காசிம்புலவர்",
+      "உமறுப்புலவர்",
+      "குணங்குடியார்",
+      "சேகனாபுலவர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “உமறுப்புலவர்” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
+  },
+  {
+    "id": "10_tam_u9_q28",
+    "question": "பாடலில் வரும் “ஜவாது ஆசுகவி” என்ற பெயர் குறிக்கும் புலவர் யார்?",
+    "options": [
+      "செய்குதம்பிப் பாவலர்",
+      "காசிம்புலவர்",
+      "ஜவாது ஆசுகவி",
+      "கம்பர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “ஜவாது ஆசுகவி” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
+  },
+  {
+    "id": "10_tam_u9_q29",
+    "question": "“காசிம்புலவர்” எனப் பாடலில் குறிப்பிடப்படும் புலவர் யார்?",
+    "options": [
+      "குணங்குடியார்",
+      "சேகனாபுலவர்",
+      "காசிம்புலவர்",
+      "உமறுப்புலவர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “காசிம்புலவர்” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
+  },
+  {
+    "id": "10_tam_u9_q30",
+    "question": "பாடலில் இடம்பெறும் “குணங்குடியார்” என்ற பெயர் எது?",
+    "options": [
+      "கம்பர்",
+      "குணங்குடியார்",
+      "ஜவாது ஆசுகவி",
+      "செய்குதம்பிப் பாவலர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “குணங்குடியார்” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
+  },
+  {
+    "id": "10_tam_u9_q31",
+    "question": "“சேகனாப் புலவர்” என்பதன் சரியான பெயர்வடிவம் எது?",
+    "options": [
+      "சேகனாபுலவர்",
+      "உமறுப்புலவர்",
+      "காசிம்புலவர்",
+      "குணங்குடியார்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “சேகனாபுலவர்” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
+  },
+  {
+    "id": "10_tam_u9_q32",
+    "question": "பாடலில் சுட்டப்படும் “செய்குதம்பிப் பாவலர்” யார்?",
+    "options": [
+      "கம்பர்",
+      "ஜவாது ஆசுகவி",
+      "செய்குதம்பிப் பாவலர்",
+      "காசிம்புலவர்"
+    ],
+    "correctOptionIndex": 2,
+    "explanation": "இயல் 9.5 பாடல்/விடை ஆதாரத்தில் “செய்குதம்பிப் பாவலர்” என்ற புலவர் பெயர் இடம்பெறுகிறது.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/",
+    "sourceName": "VirkozKalvi — இயல் 9.5 அணி",
+    "additionalSourceUrls": [
+      "https://samacheerkalviguide.com/samacheer-kalvi-10th-tamil-guide-ani-question-answer/"
+    ],
+    "verificationStatus": "ANSWER_FOUND",
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-9-5/"
   }
 ]

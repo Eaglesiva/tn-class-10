@@ -1,7 +1,7 @@
 [
   {
     "id": "10_tam_u6_q1",
-    "question": "குளிர்காலத்தைப் பொழுதாகக் கொண்ட நிலங்கள் -",
+    "question": "குளிர் காலத்தைப் பொழுதாக் கொண்ட நிலங்கள்..............",
     "options": [
       "முல்லை, குறிஞ்சி, மருத நிலங்கள்",
       "குறிஞ்சி, பாலை, நெய்தல் நிலங்கள்",
@@ -9,54 +9,282 @@
       "மருதம், நெய்தல், பாலை நிலங்கள்"
     ],
     "correctOptionIndex": 2,
-    "explanation": "ஐவகை நிலங்களில் குறிஞ்சி, மருதம், நெய்தல் ஆகிய மூன்று நிலங்களுக்கும் பெரும்பொழுதாகக் குளிர்காலம் (கூதிர்காலம் மற்றும் முன்பனிக்காலம்) அமைகிறது."
+    "explanation": "குளிர்காலத்தைப் பெரும்பொழுதாகக் கொண்ட நிலங்களாகக் குறிஞ்சி, மருதம், நெய்தல் ஆகிய மூன்றும் பாடவிடை ஆதாரங்களில் குறிப்பிடப்படுகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11850/",
+    "sourceName": "BrainKart — இயல் 6 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://www.greentamil.in/2022/04/10-1-9-10th-tamil-palavul-therika-eyal.html",
+      "https://www.brainkart.in/article/Questions-and-Answers_11850/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11850/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u6_q2",
-    "question": "'ஒயிலாட்டத்தில் இருவரிசையில் நின்று ஆடுகின்றனர்' - இத்தொடரின் செயப்பாட்டு வினைத்தொடர் எது?",
+    "question": "கூற்று 1: போராட்டப் பண்புடனே வளர்ந்தவர் கலைஞர். கூற்று 2: அவருக்குள் இருந்த கலைத்தன்மை வளர அது உதவியது.",
     "options": [
-      "ஒயிலாட்டத்தில் இருவரிசையில் நின்று ஆடப்படுகிறது.",
-      "ஒயிலாட்டம் இருவரிசையில் நின்று ஆடப்படுகிறது.",
-      "ஒயிலாட்டத்தை இருவரிசையில் நின்று ஆடுகின்றனர்.",
-      "ஒயிலாட்டம் இருவரிசையில் நின்று ஆடுகின்றனர்."
+      "கூற்று 1 சரி, 2 தவறு",
+      "கூற்று 1 மற்றும் 2 தவறு",
+      "கூற்று 1 தவறு, 2 சரி",
+      "கூற்று 1 மற்றும் 2 சரி"
     ],
-    "correctOptionIndex": 1,
-    "explanation": "ஒரு தொடரைச் செயப்பாட்டு வினையாக மாற்றும் போது எழுவாய் செயல்படுபொருளாகவும், பயனிலை 'படு' அல்லது 'பட்டது' என்னும் துணைவினையைக் கொண்டும் முடியும். எனவே 'ஒயிலாட்டம்... ஆடப்படுகிறது' என்பதே இலக்கணப்படி சரி."
+    "correctOptionIndex": 3,
+    "explanation": "பாடவிடை ஆதாரங்கள் இரு கூற்றுகளையும் சரி என உறுதிப்படுத்துகின்றன.",
+    "sourceUrl": "https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html",
+    "sourceName": "Kalvikavi — இயல் 6 Book Back",
+    "additionalSourceUrls": [
+      "https://padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf",
+      "https://www.brainkart.in/article/Questions-and-Answers_11850/"
+    ],
+    "explanationSourceUrl": "https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u6_q3",
     "question": "மலர்கள் தரையில் நழுவும். எப்போது?",
     "options": [
-      "தளரப் பிணைத்தால்",
-      "இறுக்கி முடிச்சிட்டால்",
-      "காம்பு முறிந்தால்",
-      "காற்றில் அசைந்தால்"
+      "அள்ளி முகர்ந்தால்.",
+      "தளரப் பிணைத்தால்.",
+      "இறுக்கி முடிச்சிட்டால்.",
+      "காம்பு முறிந்தால்."
     ],
-    "correctOptionIndex": 0,
-    "explanation": "'பூத்தொடுத்தல்' என்னும் கவிதையில் கவிஞர் உமா மகேஸ்வரி, மலர்களைத் தளரப் பிணைத்தால் அவை தரையில் நழுவி விழும் என்று குறிப்பிட்டுள்ளார்."
+    "correctOptionIndex": 1,
+    "explanation": "பூத்தொடுத்தல் பாடலில் மலர்களைத் தளரப் பிணைத்தால் அவை தரையில் நழுவும் எனக் கூறப்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11850/",
+    "sourceName": "BrainKart — இயல் 6 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/",
+      "https://www.freetnbooks.com/10th-std-tamil-guide-lesson-6-2/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11850/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-2/",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u6_q4",
-    "question": "கரகாட்டத்தைக் கும்பாட்டம் என்றும் குடக்கூத்து என்றும் கூறுவர். இத்தொடருக்கான வினா எது?",
+    "question": "தூக்குமேடை என்னும் நாடகத்தின் பாராட்டுவிழாவில்தான், கலைஞர் என்ற சிறப்புப்பெயர் வழங்கப்பட்டது – இத்தொடருக்கான வினா எது?",
     "options": [
-      "கரகாட்டம் என்றால் என்ன?",
-      "கரகாட்டத்தின் வேறு பெயர்கள் யாவை?",
-      "கும்பாட்டம் எங்கு நடைபெறும்?",
-      "கரகாட்டம் எவ்வாறு ஆடப்படும்?"
+      "தூக்குமேடை நாடகத்தில் நடித்தவர் யார்?",
+      "கலைஞர் என்ற சிறப்புப்பெயர் எப்போது வழங்கப்பட்டது?",
+      "தூக்குமேடை என்பது திரைப்படமா? நாடகமா?",
+      "யாருக்குப் பாராட்டுவிழா நடத்தப்பட்டது?"
     ],
     "correctOptionIndex": 1,
-    "explanation": "விடைத்தொடரில் 'கும்பாட்டம், குடக்கூத்து' என வேறு பெயர்கள் கூறப்பட்டுள்ளதால், அதற்கான சரியான வினாவாக 'வேறு பெயர்கள் யாவை?' என்பதே சரியாக அமையும்."
+    "explanation": "கொடுக்கப்பட்ட தொடர் சிறப்புப்பெயர் வழங்கப்பட்ட நேரத்தைச் சொல்கிறது; அதற்கான வினா “எப்போது?” எனக் கேட்க வேண்டும்.",
+    "sourceUrl": "https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html",
+    "sourceName": "Kalvikavi — இயல் 6 Book Back",
+    "additionalSourceUrls": [
+      "https://padasalai.info/wp-content/uploads/2024/06/10th-Tamil-PTA-And-Public-Question-Paper-Podhigai-Guide-PDF-Download.pdf",
+      "https://www.brainkart.in/article/Questions-and-Answers_11850/"
+    ],
+    "explanationSourceUrl": "https://www.kalvikavi.com/2024/05/10th-tamil-unit-6-book-back-answer.html",
+    "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u6_q5",
     "question": "கோசல நாட்டில் கொடை இல்லாத காரணம் என்ன?",
     "options": [
       "நல்ல உள்ளம் உடையவர்கள் இல்லாததால்",
-      "அரசன் கொடுங்கோலன் என்பதால்",
-      "அங்கு வறுமை இல்லாததால்",
-      "மக்கள் வறுமையில் வாடியதால்"
+      "ஊரில் விளைச்சல் இல்லாததால்",
+      "அரசன் கொடுங்கோல் ஆட்சி புரிவதால்",
+      "அங்கு வறுமை இல்லாததால்"
     ],
-    "correctOptionIndex": 2,
-    "explanation": "கம்பராமாயணப் பாடலில், கோசல நாட்டில் வறுமை என்ற ஒன்று இல்லாததால் அங்கு யாருக்கும் கொடை கொடுக்க வேண்டிய அவசியமே எழவில்லை என நாட்டு வளம் சிறப்பிக்கப்பட்டுள்ளது."
+    "correctOptionIndex": 3,
+    "explanation": "கோசல நாட்டில் வறுமை இல்லாததால் கொடை பெற வேண்டிய வறியோர் இல்லை; அதனால் கொடை நிகழ்வு இல்லை எனக் கம்பராமாயணப் பாடல் நாட்டின் வளத்தைச் சிறப்பிக்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11850/",
+    "sourceName": "BrainKart — இயல் 6 கேள்விகள் மற்றும் பதில்கள்",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/",
+      "https://textbookpdf.in/tn-10th-tamil-guide-lesson-6-4/",
+      "https://www.brainkart.in/article/Questions-and-Answers_11850/"
+    ],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-4/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q6",
+    "question": "விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….",
+    "options": [
+      "மரம் வீடு / மரவீடு",
+      "மரவீடு / மரம் வீடு",
+      "மரம் வீடு / விருந்து",
+      "மரவீடு / விருது"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "பறவைகளுக்கு மரம் வாழிடமாகவும், மரம் மனிதர்களுக்கு வீடு கட்டத் தேவையான பொருளாகவும் பயன்படுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q7",
+    "question": "காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….",
+    "options": [
+      "தங்கும் / அவிழும்",
+      "அவிழும் / கவிழும்",
+      "கவிழும் / தயங்கும்",
+      "தோற்பவை / விருந்து"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; மலர்களில் வண்டினம் கவிழ்ந்து/அமர்ந்து தேனை அணுகுகிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+      "https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q8",
+    "question": "மலை முகட்டில் மேகம் ………. – அதைப் பார்க்கும் மனங்கள் செல்லத் ……….",
+    "options": [
+      "தங்கும் / தயங்கும்",
+      "அவிழும் / கவிழும்",
+      "தோற்பவர் / பார்ப்பவர்",
+      "விருது / விருந்து"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மலைமுகட்டில் மேகம் தங்கும் காட்சியைப் பார்க்கச் செல்லும் மனங்கள் தயங்கும் எனப் பாடல் காட்சியைச் சொல்கிறது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+      "https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q9",
+    "question": "வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.",
+    "options": [
+      "தோற்பவர் / பார்ப்பவர்",
+      "தோற்பவை / தோற்பாவை",
+      "விருது / விருந்து",
+      "அவிழும் / கவிழும்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தோல்வியடைந்தவரும் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதி முயற்சி மேற்கொள்ள வேண்டும் என்பதே வினாவின் பொருத்தமான சொல் இணை.",
+    "sourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT"
+  },
+  {
+    "id": "10_tam_u6_q10",
+    "question": "கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….",
+    "options": [
+      "விருந்து / விருது",
+      "விருது / விருந்து",
+      "மரம் வீடு / மரவீடு",
+      "தோற்பவர் / பார்ப்பவர்"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் அவருக்கு விருந்தாகவும் உருவகிக்கப்படுகிறது.",
+    "sourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+    "sourceName": "இயல் 6 — மொழியோடு விளையாடு",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/"
+    ],
+    "explanationSourceUrl": "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/",
+    "verificationStatus": "ANSWER_FOUND_WITH_WORDING_VARIANT"
+  },
+  {
+    "id": "10_tam_u6_q11",
+    "question": "தால் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "நாக்கு",
+      "காது",
+      "மூக்கு",
+      "கண்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தால் என்பதற்கு நாக்கு என்ற பொருளை அகராதி ஆதாரம் தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q12",
+    "question": "உழுவை என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "புலி",
+      "யானை",
+      "மான்",
+      "நரி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "உழுவை என்பதற்கு புலி என CBSETamil தருகிறது; மேலும் ஒருவகை மீன், தும்பிலி என்ற பொருள்களையும் குறிப்பிடுகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q13",
+    "question": "அகவுதல் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "அழைத்தல்; ஆடல்; கூத்தாடல்",
+      "மறைத்தல்; ஓடுதல்; உறங்குதல்",
+      "பார்த்தல்; கேட்டல்; எழுதுதல்",
+      "நடத்தல்; படித்தல்; பாடுதல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அகவுதல் என்பதற்கு அழைத்தல், ஆடல், கூத்தாடல் என CBSETamil தருகிறது.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q14",
+    "question": "ஏந்தெழில் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "மிக்க அழகு; மிக்க வனப்பு",
+      "மிகுந்த இருள்; கருமை",
+      "மெல்லிய ஒலி; இசை",
+      "பெரிய வலிமை; ஆற்றல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "ஏந்தெழில் என்பது மிகுந்த அழகையும் வனப்பையும் குறிக்கும்.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u6_q15",
+    "question": "அணிமை என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "சமீபம்; அருகு; நுட்பம்; நுண்மை",
+      "தொலைவு; அகலம்; உயரம்",
+      "அழகு; நிறம்; ஒளி",
+      "கோபம்; சினம்; வெகுளி"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அணிமை என்பதற்கு சமீபம், அருகு, நுட்பம், நுண்மை ஆகிய பொருள்கள் தரப்பட்டுள்ளன.",
+    "sourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "sourceName": "CBSETamil — இயல் 6.6 அகராதியில் காண்க",
+    "additionalSourceUrls": [
+      "https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/"
+    ],
+    "explanationSourceUrl": "https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/",
+    "verificationStatus": "ANSWER_FOUND"
   }
 ]
