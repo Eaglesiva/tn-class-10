@@ -322,7 +322,7 @@
 - **Quiz ID:** `10_eng_u2_q30`
 - **Status:** ANSWER_FOUND
 
-> Four of the ten entries are recorded in this batch; the remaining source-listed forms will be appended in the next batches.
+> Eight of the ten entries are recorded; the final two source-listed forms remain.
 ### Prose E2
 
 **Book Back question / task:** Where did Chulong catch the bird?
@@ -729,3 +729,35 @@
 - The image-embedded plural table and Zigzag data table were not guessed or recreated.
 - The unit's non-objective prose, poem and supplementary questions retain empty answer tiers and direct unit source links.
 - `questions.md` was newly created only because Unit 2 had no prior question file; the page PDFs were not altered.
+#### 10_eng_u2_q31 — According to the Book Back table, what is the plural form of “radius”?
+- **S1 — BrainKart:** radii — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** radii — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** The Book Back table uses the classical Latin plural “radii” for “radius”.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q31`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q32 — According to the Book Back table, what is the plural form of “formula”?
+- **S1 — BrainKart:** formulae — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** formulae — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** The Book Back table gives “formulae” as the plural form of “formula”.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q32`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q33 — According to the Book Back table, what is the plural form of “child”?
+- **S1 — BrainKart:** children — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** children — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** “Child” has an irregular plural form: “children”.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q33`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q34 — According to the Book Back table, what is the plural form of “deer”?
+- **S1 — BrainKart:** deer — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** deer — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** “Deer” has the same form in the singular and plural in the Book Back table.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q34`
+- **Status:** ANSWER_FOUND
+
