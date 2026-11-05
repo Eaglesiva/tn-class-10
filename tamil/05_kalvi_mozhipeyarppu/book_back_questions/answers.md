@@ -38,8 +38,14 @@
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **நிலை:** ANSWER_FOUND
 
+### Q6 — புதிர்ப்பாடல்: “தார்போன்ற நிறமுண்டு”
+- **சரியான விடை:** காகம்
+- **காரண விளக்கம்:** கருமையான நிறம், கூட்டமாக அமர்ந்து ஒலித்தல், சோர்வின்றிக் கூடு கட்டுதல், வீட்டிற்கு வருவதற்கு முன் குரல் எழுப்புதல் ஆகிய குறிப்புகள் காகத்தைக் குறிக்கின்றன.
+- **விடை ஆதாரம்:** [TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Malar Mahendran — இயல் 5 மொழியை ஆள்வோம்](https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/)
+- **நிலை:** ANSWER_FOUND
+
 ## QC
-- 5 Book Back MCQ-களும் source-wise விடைகளுடன் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
+- 5 பல்தேர்வு வினாக்களும், 1 ஒரு-சொல் புதிர் வினாவும் source-wise விடைகளுடன் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
 - Q1-ல் கேள்வி உரை மற்றும் இணைய ஆதார உரைக்கு OCR/wording வேறுபாடு இருப்பது தனியாகக் குறிக்கப்பட்டுள்ளது.
 - `questions.md` மாற்றப்படவில்லை.
 
