@@ -60,106 +60,86 @@
   },
   {
     "id": "10_tam_u5_q12",
-    "question": "மன்றல் என்பதன் அகராதிப் பொருள் எது?",
+    "question": "lute music என்பதற்கான தமிழ்ச் சொல் எது?",
     "options": [
-      "திருமணம்",
-      "காலடிக்குறி",
-      "நீர்த்துளி",
-      "மயக்கம்"
+      "யாழிசை",
+      "அறை",
+      "பேத்தி",
+      "நெட்டுரு"
     ],
     "correctOptionIndex": 0,
-    "explanation": "மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.",
+    "explanation": "பாடநூல் கவிதையில் “lute music” என்பதற்கு “யாழிசை” எனப் பொருள் தரப்பட்டுள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
-    "sourceName": "Book Back answer / exercise source",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
-      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
-      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
-    ],
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q13",
-    "question": "அடிச்சுவடு என்பதன் அகராதிப் பொருள் எது?",
+    "question": "chamber என்பதற்கான தமிழ்ச் சொல் எது?",
     "options": [
-      "காலடிக்குறி",
-      "திருமணம்",
-      "மயக்கம்",
-      "அகர வரிசை நூல்"
+      "நீதிநூல் திரட்டு",
+      "அறை",
+      "எட்டிப் பார்த்தல்",
+      "யாழிசை"
     ],
-    "correctOptionIndex": 0,
-    "explanation": "அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.",
+    "correctOptionIndex": 1,
+    "explanation": "“Coming from the chamber” என்ற வரிக்கு இணையாக “அறைக்குள் யாழிசை” எனப் பாடல் அமைந்துள்ளது; chamber என்பது அறை.",
     "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
-    "sourceName": "Book Back answer / exercise source",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
-      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
-      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
-    ],
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q14",
-    "question": "அகராதி என்பதன் பொருள் எது?",
+    "question": "to look up என்பதற்கான தமிழ்ச் சொல் எது?",
     "options": [
-      "அகர வரிசையில் பொருள் தரும் நூல்",
-      "காலடிக்குறி",
-      "திருமணம்",
-      "மயக்கம்"
+      "பேத்தி",
+      "நெட்டுரு",
+      "எட்டிப் பார்த்தல்",
+      "யாழிசை"
     ],
-    "correctOptionIndex": 0,
-    "explanation": "அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.",
+    "correctOptionIndex": 2,
+    "explanation": "பாடநூல் கவிதையில் “to look up” என்பதற்கு “எட்டிப் பார்த்தல்” என இணைக்கப்பட்டுள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
-    "sourceName": "Book Back answer / exercise source",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
-      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
-      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
-    ],
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q15",
-    "question": "தூவல் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?",
+    "question": "grand-daughter என்பதற்கான தமிழ்ச் சொல் எது?",
     "options": [
-      "மழை / நீர்த்துளி",
-      "திருமணம்",
-      "காலடிக்குறி",
-      "மயக்கம்"
+      "பேத்தி",
+      "அறை",
+      "நெட்டுரு",
+      "யாழிசை"
     ],
     "correctOptionIndex": 0,
-    "explanation": "தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.",
+    "explanation": "கவிதையில் grand-daughter என்பதற்கு “பேத்தி” எனத் தரப்பட்டுள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
-    "sourceName": "Book Back answer / exercise source",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
-      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
-      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
-    ],
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
     "id": "10_tam_u5_q16",
-    "question": "மருள் என்பதன் அகராதிப் பொருள் எது?",
+    "question": "rote என்பதற்கான தமிழ்ச் சொல் எது?",
     "options": [
-      "மயக்கம்",
-      "திருமணம்",
-      "காலடிக்குறி",
-      "அகர வரிசை நூல்"
+      "எட்டிப் பார்த்தல்",
+      "நீதிநூல் திரட்டு",
+      "அறை",
+      "நெட்டுரு"
     ],
-    "correctOptionIndex": 0,
-    "explanation": "மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; இங்கு source-களில் பொதுவாகக் காணப்படும் பொருள் மயக்கம்.",
+    "correctOptionIndex": 3,
+    "explanation": "“Learning by rote” என்ற சொல்லாக்கத்தில் rote என்பதற்கு “நெட்டுரு” என இணைக்கப்பட்டுள்ளது.",
     "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
-    "sourceName": "Book Back answer / exercise source",
-    "additionalSourceUrls": [
-      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
-      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
-      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
-    ],
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [],
     "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
     "verificationStatus": "ANSWER_FOUND"
   },
@@ -293,6 +273,111 @@
       "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/"
     ],
     "explanationSourceUrl": "https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q23",
+    "question": "மன்றல் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "திருமணம்",
+      "காலடிக்குறி",
+      "நீர்த்துளி",
+      "மயக்கம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மன்றல் என்பதற்கு திருமணம் என்ற பொருளை விடை ஆதாரங்கள் தருகின்றன.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q24",
+    "question": "அடிச்சுவடு என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "காலடிக்குறி",
+      "திருமணம்",
+      "மயக்கம்",
+      "அகர வரிசை நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அடிச்சுவடு என்பது காலடிக்குறி அல்லது காலடித்தடம்.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q25",
+    "question": "அகராதி என்பதன் பொருள் எது?",
+    "options": [
+      "அகர வரிசையில் பொருள் தரும் நூல்",
+      "காலடிக்குறி",
+      "திருமணம்",
+      "மயக்கம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "அகராதி என்பது சொற்களை அகரவரிசையில் அமைத்து அவற்றின் பொருள்களைத் தரும் நூல்.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q26",
+    "question": "தூவல் என்பதன் அகராதிப் பொருள்களில் ஒன்று எது?",
+    "options": [
+      "மழை / நீர்த்துளி",
+      "திருமணம்",
+      "காலடிக்குறி",
+      "மயக்கம்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "தூவல் என்பதற்கு மழை அல்லது நீர்த்துளி என்ற பொருள் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_tam_u5_q27",
+    "question": "மருள் என்பதன் அகராதிப் பொருள் எது?",
+    "options": [
+      "மயக்கம்",
+      "திருமணம்",
+      "காலடிக்குறி",
+      "அகர வரிசை நூல்"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "மருள் என்பது மயக்கம் அல்லது வியப்பு எனப் பொருள்படும்; ஆதாரங்களில் “மயக்கம்” நேரடியாகத் தரப்பட்டுள்ளது.",
+    "sourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
+    "sourceName": "BrainKart — இயல் 5 மொழி அறிவு",
+    "additionalSourceUrls": [
+      "https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/",
+      "https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html",
+      "https://www.padavelai.com/2022/07/10th-tamil-guide-unit-55.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/",
     "verificationStatus": "ANSWER_FOUND"
   },
   {
