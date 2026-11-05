@@ -2,20 +2,20 @@
 # Answer Collection & Guide — Verified Working Draft
 
 **ஆய்வு தேதி:** 05-11-2026  
-**Repository:** \`Eaglesiva/tn-class-10\`  
-**Base branch:** \`content/class10-tamil-iyal1-answers-quiz-2026-11-04\`  
-**Working branch:** \`content/class10-tamil-iyal1-answer-guide-2026-11-05\`  
-**File:** \`tamil/01_mozhi_amuthaootru/book_back_questions/answers.md\`
+**Repository:** `Eaglesiva/tn-class-10`  
+**Base branch:** `content/class10-tamil-iyal1-answers-quiz-2026-11-04`  
+**Working branch:** `content/class10-tamil-iyal1-answer-guide-2026-11-05`  
+**File:** `tamil/01_mozhi_amuthaootru/book_back_questions/answers.md`
 
 ## 0. ஆய்வு வரம்பும் பதிப்பு நிலையும்
 
-- இந்தப் பணியின் Original Question Inventory: அதே branch-ல் உள்ள \`questions.md\`. அதன் கேள்வி வரிசை, சொற்கள், வகைகள், options மாற்றப்படவில்லை.
+- இந்தப் பணியின் Original Question Inventory: அதே branch-ல் உள்ள `questions.md`. அதன் கேள்வி வரிசை, சொற்கள், வகைகள், options மாற்றப்படவில்லை.
 - இந்த இயல் தொகுப்பில் உள்ள கேள்விகள்: **19** — கற்பவை கற்றபின் 5, MCQ 5, குறுவினா 2, சிறுவினா 4, நெடுவினா 3.
-- Project Blueprint-ன் Section 22 மற்றும் \`docs/OFFICIAL_GOVERNMENT_CDN_VERIFICATION_PROOF.md\` பதிவின்படி, repository-யின் 248-page / 9-Iyal Class 10 Tamil PDF, SCERT API-யிலிருந்து கிடைத்த \`10th_Tamil_Text.pdf\` கோப்புடன் byte-size மற்றும் MD5/ETag அடிப்படையில் பொருந்தியதாகப் பதிவு செய்யப்பட்டுள்ளது. அதனால் இந்த வேலை 248-page / 9-Iyal பதிப்பை அடிப்படையாகக் கொள்கிறது; 184-page / 7-Iyal third-party copy-ஐ பதிப்புச் சான்றாக ஏற்கவில்லை.
-- \`tamil/pages.json\`-ல் Iyal 1 PDF வரிசை \`page_011.pdf\` முதல் \`page_035.pdf\` வரை உள்ளது. \`questions.md\`-ல் உள்ள பழைய HTML mapping குறிப்புகளின்படி Karpavai வினாக்கள் page 28, MCQ page 29, குறுவினா/சிறுவினா தொகுதி page 30 எனக் குறிக்கப்பட்டுள்ளன.
+- Project Blueprint-ன் Section 22 மற்றும் `docs/OFFICIAL_GOVERNMENT_CDN_VERIFICATION_PROOF.md` பதிவின்படி, repository-யின் 248-page / 9-Iyal Class 10 Tamil PDF, SCERT API-யிலிருந்து கிடைத்த `10th_Tamil_Text.pdf` கோப்புடன் byte-size மற்றும் MD5/ETag அடிப்படையில் பொருந்தியதாகப் பதிவு செய்யப்பட்டுள்ளது. அதனால் இந்த வேலை 248-page / 9-Iyal பதிப்பை அடிப்படையாகக் கொள்கிறது; 184-page / 7-Iyal third-party copy-ஐ பதிப்புச் சான்றாக ஏற்கவில்லை.
+- `tamil/pages.json`-ல் Iyal 1 PDF வரிசை `page_011.pdf` முதல் `page_035.pdf` வரை உள்ளது. `questions.md`-ல் உள்ள பழைய HTML mapping குறிப்புகளின்படி Karpavai வினாக்கள் page 28, MCQ page 29, குறுவினா/சிறுவினா தொகுதி page 30 எனக் குறிக்கப்பட்டுள்ளன.
 - அந்த mapping-ஐ அடிப்படையாகக் கொண்டு Physical PDF Page குறிப்புகள் பதிவு செய்யப்பட்டுள்ளன. GitHub-இல் உள்ள தனிப்பட்ட page PDF-களை இந்த ஆய்வில் screenshot மூலம் திறந்து கண்ணால் ஒப்பிட முடியாததால், **Printed Textbook Page எண்கள் உறுதிசெய்யப்படவில்லை**. ஊகித்து அச்சுப் பக்க எண் சேர்க்கப்படவில்லை.
-- பழைய 430-line \`answers.md\` இந்தப் புதிய branch-ன் parent branch-ல் அப்படியே உள்ளது. அந்தப் பழைய draft-ன் Source Findings மற்றும் வேறுபாடுகள் இங்கே மீளாய்வு செய்யப்பட்டுள்ளன; பழைய file-ஐ அழிக்கவோ மாற்றவோ இல்லை.
-- இங்கே உள்ள “நமது சொந்த விடை” என்பது source-களின் கருத்துகளை ஒப்பிட்டு, அசல் \`questions.md\` கேள்வியை மாற்றாமல் எழுதப்பட்ட மாணவர் பயன்பாட்டு விடை. Source answer மற்றும் நமது விடை ஒன்றாகக் கலக்கப்படவில்லை.
+- பழைய 430-line `answers.md` இந்தப் புதிய branch-ன் parent branch-ல் அப்படியே உள்ளது. அந்தப் பழைய draft-ன் Source Findings மற்றும் வேறுபாடுகள் இங்கே மீளாய்வு செய்யப்பட்டுள்ளன; பழைய file-ஐ அழிக்கவோ மாற்றவோ இல்லை.
+- இங்கே உள்ள “நமது சொந்த விடை” என்பது source-களின் கருத்துகளை ஒப்பிட்டு, அசல் `questions.md` கேள்வியை மாற்றாமல் எழுதப்பட்ட மாணவர் பயன்பாட்டு விடை. Source answer மற்றும் நமது விடை ஒன்றாகக் கலக்கப்படவில்லை.
 
 ## 1. பயன்படுத்திய Source Register
 
@@ -38,7 +38,7 @@
 1. S1–S9-ல் மேற்கண்ட கேள்விகளுக்கான பதில் நேரடியாகக் காணப்பட்ட இடங்களையே கேள்வி வாரியான Source Answer ஆகப் பயன்படுத்தியுள்ளேன்.
 2. S10 ஒரு 2025 Tamil Virtual Academy நூல்; அது 2019–2024 SCERT பாடநூல் பதிப்புக்குப் பதிலாகக் கொள்ளப்படவில்லை. பொதுமொழி வரையறைக்கான துணை இலக்கண ஆதாரமாக மட்டும் பயன்படுத்தப்பட்டுள்ளது.
 3. S11-ன் search excerpt பழைய draft-ல் உள்ள findings-ஐ உறுதிப்படுத்துகிறது; ஆனால் நேரடி பக்கம் திறக்கப்படாததால் தனித்த Verified Source என எண்ணப்படவில்லை.
-4. பழைய \`answers.md\`-ல் இருந்த GreenTamil main Iyal1 Q&A மற்றும் KalviWorld link-கள் பழைய ஆதாரப் பதிவுகளாகப் பாதுகாக்கப்பட்டுள்ளன. இந்த run-ல் அவற்றின் முழுப் பக்கத்தை மறுதிறந்து சரிபார்க்க முடியாத இடங்களில் புதிய Verified Source எண்ணிக்கையில் சேர்க்கவில்லை.
+4. பழைய `answers.md`-ல் இருந்த GreenTamil main Iyal1 Q&A மற்றும் KalviWorld link-கள் பழைய ஆதாரப் பதிவுகளாகப் பாதுகாக்கப்பட்டுள்ளன. இந்த run-ல் அவற்றின் முழுப் பக்கத்தை மறுதிறந்து சரிபார்க்க முடியாத இடங்களில் புதிய Verified Source எண்ணிக்கையில் சேர்க்கவில்லை.
 5. Search snippet மட்டும் கிடைத்த A2Z TNPSC / TamilVithai போன்ற பழைய candidates-ஐ உறுதிப்படுத்தப்பட்ட பதில் ஆதாரமாகக் கணக்கிடவில்லை.
 
 ---
@@ -51,10 +51,10 @@
 தேன், நூல், பை, மலர், வா - இத் தனிமொழிகளுடன் சொற்களைச் சேர்த்துத் தொடர்மொழிகளாக்குக.
 
 **Book Reference:**
-- Physical PDF Page: 28 — \`questions.md\` பழைய HTML page_28 mapping அடிப்படையில்; screenshot மூலம் உறுதிசெய்யப்படவில்லை.
+- Physical PDF Page: 28 — `questions.md` பழைய HTML page_28 mapping அடிப்படையில்; screenshot மூலம் உறுதிசெய்யப்படவில்லை.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; 05. எழுத்து, சொல் / கற்பவை கற்றபின்.
-- Existing Page Mapping: \`tamil/pages.json\` → \`tamil/01_mozhi_amuthaootru/page_028.pdf\`; source HTML page_28 குறிப்பு.
+- Existing Page Mapping: `tamil/pages.json` → `tamil/01_mozhi_amuthaootru/page_028.pdf`; source HTML page_28 குறிப்பு.
 
 **Source 1 — TN Board Solutions (S2):**
 - Direct URL: https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/
@@ -82,7 +82,7 @@
 **காரண விளக்கம்:**  
 தனித்து நின்று பொருள் தரும் ஒவ்வொரு சொல்லுடனும் மற்றொரு சொல் சேர்ந்து பொருள் முழுமை பெறும் வகையில் தொடர் அமைக்கப்பட்டுள்ளது. “நூல் பல கல்” என்பது நூல்களைப் பலவாகக் கற்று அறிவைப் பெருக்குக என்ற தொடராகப் பொருள் தருகிறது.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -95,7 +95,7 @@
 - Physical PDF Page: 28 — existing page_28 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; 05. எழுத்து, சொல் / கற்பவை கற்றபின்.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_028.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_028.pdf`.
 
 **Source 1 — TN Board Solutions (S2):**
 - Direct URL: https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/
@@ -131,7 +131,7 @@
 **காரண விளக்கம்:**  
 தொழிற்பெயர் என்பது செயலைப் பெயராகக் குறிக்கும். “சிரித்தல்”, “படித்தல்”, “தடுத்தல்” போன்றவை தல் விகுதியுடன் வருகின்றன; “சிரிப்பு”, “படிப்பு”, “தடுப்பு” போன்றவை செயலைப் பெயராக்கும் வடிவங்கள். “சிரிப்பேன்” போன்றவை காலம்/நபர் காட்டும் வினைமுற்றுகள் என்பதால் இங்கே சேர்க்கப்படவில்லை.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -153,7 +153,7 @@
 - Physical PDF Page: 28 — existing page_28 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; 05. எழுத்து, சொல் / கற்பவை கற்றபின்.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_028.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_028.pdf`.
 
 **Source 1 — TN Board Solutions (S2):**
 - Direct URL: https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/
@@ -191,7 +191,7 @@
 **காரண விளக்கம்:**  
 “கடைக்கு”, “எதற்கு?” போன்ற தனியாக வரும் ஒரு சொல் தனிமொழியாகப் பயன்படுத்தப்பட்டுள்ளது. “இப்பொழுது என்ன வாங்குகிறாய்?”, “பருப்பு வாங்குகிறேன்” போன்ற பல சொற்கள் இணைந்து முழுப் பொருள் தரும் இடங்கள் தொடர்மொழியாக அமைந்துள்ளன.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -204,7 +204,7 @@
 - Physical PDF Page: 28 — existing page_28 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; 05. எழுத்து, சொல் / கற்பவை கற்றபின்.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_028.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_028.pdf`.
 
 **Source 1 — TN Board Solutions (S2):**
 - Direct URL: https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/
@@ -242,7 +242,7 @@
 **காரண விளக்கம்:**  
 வினைமுற்றில் வரும் காலம்/நபர் சார்ந்த முடிவை நீக்கி, செயலைப் பெயராகக் குறிக்கும் தொழிற்பெயர் வடிவமாக மாற்ற வேண்டும். “மேலும் கீழும் பார்ப்பேன்”, “சுற்றுமுற்றும் பார்ப்பேன்” ஆகிய இரு இடங்களிலும் ஒரே “பார்ப்பேன்” வினைமுற்றே வருகிறது.
 
-**Final Status:** \`CONFLICT\` — கடைசி வினைமுற்றின் தொழிற்பெயர் வடிவத்தில் source வேறுபாடு உள்ளது.
+**Final Status:** `CONFLICT` — கடைசி வினைமுற்றின் தொழிற்பெயர் வடிவத்தில் source வேறுபாடு உள்ளது.
 
 ---
 
@@ -255,7 +255,7 @@
 - Physical PDF Page: 28 — existing page_28 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; 05. எழுத்து, சொல் / கற்பவை கற்றபின்.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_028.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_028.pdf`.
 
 **Source 1 — TN Board Solutions (S2):**
 - Direct URL: https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/
@@ -282,7 +282,7 @@
 - Source Answer: “தல்” விகுதி பெற்ற வடிவம் தொழிற்பெயராக அமையும்; “பாடுதல்” தல் விகுதி பெற்ற வடிவம்.
 
 **Source Comparison:**
-- \`questions.md\`-ல் உள்ள ஐந்தாவது சொல் **“பாடுதல்”**. S2/S3/S4-ல் அதற்குப் பதிலாக **“கோறல்”** உள்ளது. இவை ஒரே சொல் அல்ல; மாற்றப்படவில்லை.
+- `questions.md`-ல் உள்ள ஐந்தாவது சொல் **“பாடுதல்”**. S2/S3/S4-ல் அதற்குப் பதிலாக **“கோறல்”** உள்ளது. இவை ஒரே சொல் அல்ல; மாற்றப்படவில்லை.
 - “வழிபாடு” வகைப்பாட்டில் S2/S3 விகுதி பெற்றது எனவும் S4 முதனிலை எனவும் முரண்படுகின்றன.
 - ஆகவே source-ல் உள்ள “கோறல்” வகைப்பாட்டை “பாடுதல்” என்று மாற்றிப் பயன்படுத்தவில்லை.
 - “பாடுதல்” என்பதற்கு TVA தொழிற்பெயர் விகுதி விதியைப் பயன்படுத்தி விகுதி பெற்ற தொழிற்பெயர் எனக் குறிக்க முடிகிறது.
@@ -300,7 +300,7 @@
 **காரண விளக்கம்:**  
 முதனிலைத் தொழிற்பெயரில் வினைப்பகுதி தனியே தொழிற்பெயராக வரும். முதனிலை திரிந்த தொழிற்பெயரில் வினைப்பகுதி ஒலி/வடிவ மாற்றத்துடன் வரும். “தல்” போன்ற விகுதி இணைந்தால் விகுதி பெற்ற தொழிற்பெயராகும். “பாடுதல்” என்பதில் “தல்” விகுதி தெளிவாக உள்ளது. “வழிபாடு” பற்றிய source முரண்பாட்டை ஆதாரமின்றி ஒருதலைப்பட்சமாக முடிவு செய்யவில்லை.
 
-**Final Status:** \`REVIEW_REQUIRED\` — “வழிபாடு” வகைப்பாடு முரண்பாடு மற்றும் “பாடுதல்” / “கோறல்” கேள்வி உரை வேறுபாடு காரணமாக இறுதி QC தேவை.
+**Final Status:** `REVIEW_REQUIRED` — “வழிபாடு” வகைப்பாடு முரண்பாடு மற்றும் “பாடுதல்” / “கோறல்” கேள்வி உரை வேறுபாடு காரணமாக இறுதி QC தேவை.
 
 ---
 
@@ -320,7 +320,7 @@
 - Physical PDF Page: 29 — existing page_29 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; ஒருங்கிணைந்த Book Back MCQ.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_029.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_029.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -336,7 +336,7 @@
 
 **Source Comparison:**
 - S1/S5 இரண்டும் option அ-ஐக் காட்டுகின்றன.
-- பழைய \`answers.md\`-ல் இருந்த KalviWorld source option ஆ எனக் கூறியதாக பதிவு இருந்தது; அந்தப் பக்கத்தை இம்முறை மீண்டும் திறந்து சரிபார்க்க முடியவில்லை. அது legacy unverified conflict எனப் பாதுகாக்கப்படுகிறது; verified answer-ஐ மாற்றவில்லை.
+- பழைய `answers.md`-ல் இருந்த KalviWorld source option ஆ எனக் கூறியதாக பதிவு இருந்தது; அந்தப் பக்கத்தை இம்முறை மீண்டும் திறந்து சரிபார்க்க முடியவில்லை. அது legacy unverified conflict எனப் பாதுகாக்கப்படுகிறது; verified answer-ஐ மாற்றவில்லை.
 
 **நமது சொந்த விடை:**  
 **அ) வணிகக் கப்பல்களும் ஐம்பெரும் காப்பியங்களும்.**
@@ -344,7 +344,7 @@
 **காரண விளக்கம்:**  
 இரட்டுற மொழிதலில் ஒரே தொடர் தமிழுக்கும் கடலுக்கும் பொருந்தும். தமிழுக்கு ஐம்பெருங்காப்பியங்கள் அணிகலன்களாகக் குறிக்கப்படுகின்றன; கடலில் மிகுதியான வணிகக் கப்பல்கள் செல்வது குறிக்கப்படுகிறது. ஆகவே இரண்டு பொருள்களையும் இணைக்கும் option அ பொருந்துகிறது.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -362,7 +362,7 @@
 - Physical PDF Page: 29 — existing page_29 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; ஒருங்கிணைந்த Book Back MCQ.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_029.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_029.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -392,7 +392,7 @@
 **காரண விளக்கம்:**  
 காய்ந்த இலைகள் சருகு எனவும், காய்ந்த தோகைச் சார்ந்த பகுதி சண்டு எனவும் இப்பாடப் பயன்பாட்டில் வேறுபடுத்தப்படுகிறது. எனவே இரண்டையும் இணைக்கும் விடை “சருகும் சண்டும்”.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -410,7 +410,7 @@
 - Physical PDF Page: 29 — existing page_29 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; Book Back MCQ.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_029.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_029.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -439,7 +439,7 @@
 **காரண விளக்கம்:**  
 பாடலில் உள்ள “எந்தமிழ்நா” என்ற தொடரின் பிரிப்பு “எம் + தமிழ் + நா” என வழங்கப்படுகிறது. இது S1, S5, S7 ஆகிய மூன்று ஆதாரங்களிலும் ஒத்துள்ளது.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -457,7 +457,7 @@
 - Physical PDF Page: 29 — existing page_029 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; Book Back MCQ.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_029.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_029.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -486,7 +486,7 @@ S1/S5 பதில்கள் ஒத்துள்ளன. S9 இலக்க�
 **காரண விளக்கம்:**  
 “பாடல்” என்பது பாடும் செயலைப் பெயராகக் குறிக்கும் தொழிற்பெயர். “கேட்டவர்” என்பது கேட்கும் செயலைச் செய்த நபரைக் குறிக்கிறது; எனவே அது வினையாலணையும் பெயர்.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -504,7 +504,7 @@ S1/S5 பதில்கள் ஒத்துள்ளன. S9 இலக்க�
 - Physical PDF Page: 29 — existing page_029 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; Book Back MCQ.
-- Existing Page Mapping: \`tamil/pages.json\` → \`page_029.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → `page_029.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -533,7 +533,7 @@ S1/S5 பதில்கள் ஒத்துள்ளன. S9 இலக்க�
 **காரண விளக்கம்:**  
 வேர்க்கடலை, மிளகாய் விதை, மாங்கொட்டை ஆகியவை விதை/மணியை அடிப்படையாகக் கொண்ட பயிர்வகை என வகைப்படுத்தப்பட்டுள்ளன.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -545,10 +545,10 @@ S1/S5 பதில்கள் ஒத்துள்ளன. S9 இலக்க�
 'வேங்கை' என்பதைத் தொடர்மொழியாகவும் பொதுமொழியாகவும் வேறுபடுத்திக் காட்டுக.
 
 **Book Reference:**
-- Physical PDF Page: 30 — \`questions.md\`-ல் உள்ள குறுவினா block mapping அடிப்படையில்; visual verification pending.
+- Physical PDF Page: 30 — `questions.md`-ல் உள்ள குறுவினா block mapping அடிப்படையில்; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; ஒருங்கிணைந்த Book Back குறுவினா.
-- Existing Page Mapping: \`tamil/pages.json\` → Iyal 1 PDF range \`page_011.pdf\`–\`page_035.pdf\`; exact item mapping screenshot pending.
+- Existing Page Mapping: `tamil/pages.json` → Iyal 1 PDF range `page_011.pdf`–`page_035.pdf`; exact item mapping screenshot pending.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -581,7 +581,7 @@ S1/S5 பதில்கள் ஒத்துள்ளன. S9 இலக்க�
 **காரண விளக்கம்:**  
 ஒரே சொல் தனியாக நின்று ஒரு பொருளையும், பிரிக்கப்பட்டு தொடராக நின்று வேறு பொருளையும் தந்தால் அது பொதுமொழி. இங்கு தனிமொழி / தொடர்மொழி இரு நிலைகளும் ஒரே சொல்லில் அமைகின்றன.
 
-**Final Status:** \`CONFLICT\` — தனிமொழிப் பொருளில் 2019–2024 Class 10 guide-களுக்கும் 2025 TVA நூலுக்கும் வேறுபாடு உள்ளது. பள்ளிப் பாடநூல் பக்கத்தை கண்ணால் ஒப்பிட்ட பின் இறுதி சொல் பொருளை lock செய்ய வேண்டும்.
+**Final Status:** `CONFLICT` — தனிமொழிப் பொருளில் 2019–2024 Class 10 guide-களுக்கும் 2025 TVA நூலுக்கும் வேறுபாடு உள்ளது. பள்ளிப் பாடநூல் பக்கத்தை கண்ணால் ஒப்பிட்ட பின் இறுதி சொல் பொருளை lock செய்ய வேண்டும்.
 
 ---
 
@@ -594,7 +594,7 @@ S1/S5 பதில்கள் ஒத்துள்ளன. S9 இலக்க�
 - Physical PDF Page: 30 — குறுவினா block-ன் existing page mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; அன்னை மொழியே.
-- Existing Page Mapping: Iyal 1 PDF range \`page_011.pdf\`–\`page_035.pdf\`; exact printed page pending.
+- Existing Page Mapping: Iyal 1 PDF range `page_011.pdf`–`page_035.pdf`; exact printed page pending.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -619,7 +619,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 ஐம்பெருங்காப்பியங்களில் சிலப்பதிகாரம், மணிமேகலை ஆகிய இரண்டு நூல்கள் கொடுக்கப்பட்ட அடிகளில் சுட்டப்பட்டுள்ளன. எனவே அவற்றைத் தவிர மீதமுள்ள மூன்று காப்பியங்களின் பெயர்கள் எழுதப்படுகின்றன.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -631,10 +631,10 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 தமிழன்னையை வாழ்த்துவதற்கான காரணங்களாகப் பாவலரேறு சுட்டுவன யாவை?
 
 **Book Reference:**
-- Physical PDF Page: 30 — \`questions.md\`-ல் உள்ள page_30 HTML source note; visual verification pending.
+- Physical PDF Page: 30 — `questions.md`-ல் உள்ள page_30 HTML source note; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; அன்னை மொழியே.
-- Existing Page Mapping: \`tamil/pages.json\` → Iyal 1 PDF range \`page_011.pdf\`–\`page_035.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → Iyal 1 PDF range `page_011.pdf`–`page_035.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -664,7 +664,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 பாடல் தமிழின் தொன்மை, இலக்கிய வளம், தனித்தன்மை, நிலைத்த வாழ்வு ஆகியவற்றைத் தமிழன்னையை வாழ்த்துவதற்கான அடிப்படைகளாக முன்வைக்கிறது. S1-ன் நான்கு காரணங்களும் S7-ன் பாடல் சார்ந்த குறிப்புகளும் இதை ஆதரிக்கின்றன.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -677,7 +677,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 - Physical PDF Page: 30 — existing page_30 mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; தமிழ்ச்சொல் வளம்.
-- Existing Page Mapping: Iyal 1 PDF range \`page_011.pdf\`–\`page_035.pdf\`.
+- Existing Page Mapping: Iyal 1 PDF range `page_011.pdf`–`page_035.pdf`.
 
 **Source 1 — தமிழ்ச்சங்கமம் (S6):**
 - Direct URL: https://www.tamilsangamam.in/2021/08/10-1.html
@@ -712,7 +712,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 இளம் தென்னை/பனை/நெற்பயிர்/வாழை/சோளம் போன்ற தாவர வளர்ச்சிநிலைகளைச் சுட்டும் சொற்கள் தேர்ந்தெடுக்கப்பட்டுள்ளன. ஒவ்வொரு சொல்லும் தனித்தொடரில் பொருள் தெளிவாகப் பயன்படுத்தப்பட்டுள்ளது.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -725,18 +725,18 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 - Physical PDF Page: 30 — existing page_30 source reference; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; எழுத்து, சொல் / இலக்கணப் பயிற்சி.
-- Existing Page Mapping: \`tamil/pages.json\` → Iyal 1 PDF range \`page_011.pdf\`–\`page_035.pdf\`.
+- Existing Page Mapping: `tamil/pages.json` → Iyal 1 PDF range `page_011.pdf`–`page_035.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
 - Edition / Year: 2022 page.
-- Answer Status: நேரடியாகச் சரிபார்க்கப்பட்டது; ஆனால் source-ல் உள்ள வினை வடிவங்கள் \`questions.md\`-இல் உள்ள வடிவங்களிலிருந்து வேறுபடுகின்றன.
+- Answer Status: நேரடியாகச் சரிபார்க்கப்பட்டது; ஆனால் source-ல் உள்ள வினை வடிவங்கள் `questions.md`-இல் உள்ள வடிவங்களிலிருந்து வேறுபடுகின்றன.
 - Source Answer: அறிதல், அறியாமை, தெரிதல், தெரியாமை, புரிதல், புரியாமை, பிறத்தல், பிறவாமை.
 
 **Source 2 — TN Board Solutions (S2):**
 - Direct URL: https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-1-5/
 - Edition / Year: 2024 guide page.
-- Answer Status: நேரடியாகச் சரிபார்க்கப்பட்டது; source question-ல் \`அறிந்தது, அறியாதது...\` என்ற வேறு உரை வடிவம் உள்ளது.
+- Answer Status: நேரடியாகச் சரிபார்க்கப்பட்டது; source question-ல் `அறிந்தது, அறியாதது...` என்ற வேறு உரை வடிவம் உள்ளது.
 - Source Answer: அறிதல்/அறியாமை, புரிதல்/புரியாமை, தெரிதல்/தெரியாமை, பிறத்தல்/பிறவாமை.
 
 **Source 3 — KalviBot (S3):**
@@ -746,7 +746,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 - Source Answer: அதே எட்டு தொழிற்பெயர் வடிவங்கள்.
 
 **Source Comparison:**
-- \`questions.md\`-ல் “அறிந்து, புரிந்து, தெரிந்து, பிறந்து” என வரும் இடங்களில், S1/S2/S3 மற்றும் கிடைத்த 2024 பாடநூல் mirror text-ல் சில சொற்கள் “அறிந்தது, புரிந்தது, தெரிந்தது, பிறந்தது” என வருகின்றன. எதிர்மறை வடிவங்களிலும் source-களுக்கிடையே உரை வேறுபாடு உள்ளது.
+- `questions.md`-ல் “அறிந்து, புரிந்து, தெரிந்து, பிறந்து” என வரும் இடங்களில், S1/S2/S3 மற்றும் கிடைத்த 2024 பாடநூல் mirror text-ல் சில சொற்கள் “அறிந்தது, புரிந்தது, தெரிந்தது, பிறந்தது” என வருகின்றன. எதிர்மறை வடிவங்களிலும் source-களுக்கிடையே உரை வேறுபாடு உள்ளது.
 - கேள்வி உரையை மாற்றவில்லை. கேள்வியில் உள்ள ஒவ்வொரு வினைச்சொல்லுக்கும் தொழிற்பெயர் வடிவத்தைத் தனியாகப் பொருத்தி எழுதியுள்ளேன்.
 - source answer வடிவங்கள் ஒரே பொதுவான தொழிற்பெயர் மாற்றத்தை ஆதரித்தாலும், அசல் பக்கத்தில் வண்ண எழுத்துகளாக இருந்த துல்லியமான சொற்கள் PDF screenshot மூலம் உறுதிசெய்யப்படவில்லை.
 
@@ -764,9 +764,9 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 | பிறவாது | பிறவாமை |
 
 **காரண விளக்கம்:**  
-தொழிற்பெயர் செயலைப் பெயராகக் குறிக்கும். நேர்மறை வடிவங்களில் செயலைக் குறிக்கும் “தல்” வடிவமும், எதிர்மறை வடிவங்களில் “ஆமை” வடிவமும் பயன்படுத்தப்படுகின்றன. மேலே உள்ள அட்டவணை \`questions.md\`-ல் உள்ள சொற்களை மாற்றாமல் அவற்றுக்கான பதில்களை இணைக்கிறது.
+தொழிற்பெயர் செயலைப் பெயராகக் குறிக்கும். நேர்மறை வடிவங்களில் செயலைக் குறிக்கும் “தல்” வடிவமும், எதிர்மறை வடிவங்களில் “ஆமை” வடிவமும் பயன்படுத்தப்படுகின்றன. மேலே உள்ள அட்டவணை `questions.md`-ல் உள்ள சொற்களை மாற்றாமல் அவற்றுக்கான பதில்களை இணைக்கிறது.
 
-**Final Status:** \`PARTIAL\` — மாற்று வடிவங்கள் source-களில் உள்ளன; ஆனால் வண்ண எழுத்துகளின் அசல் வடிவம் மற்றும் page image உறுதிசெய்யப்பட வேண்டும்.
+**Final Status:** `PARTIAL` — மாற்று வடிவங்கள் source-களில் உள்ளன; ஆனால் வண்ண எழுத்துகளின் அசல் வடிவம் மற்றும் page image உறுதிசெய்யப்பட வேண்டும்.
 
 ---
 
@@ -779,7 +779,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 - Physical PDF Page: 30 — existing short-answer mapping; visual verification pending.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; இரட்டுற மொழிதல்.
-- Existing Page Mapping: Iyal 1 PDF range \`page_011.pdf\`–\`page_035.pdf\`.
+- Existing Page Mapping: Iyal 1 PDF range `page_011.pdf`–`page_035.pdf`.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -816,7 +816,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 ஒரே சொல் அல்லது கருத்து இரண்டு வேறு பொருட்களுக்குப் பொருந்துமாறு அமைவது இரட்டுற மொழிதல். இப்பாடலில் தமிழின் இலக்கியச் சிறப்பும் கடலின் இயற்கை வளமும் இணையாகப் பொருத்தப்பட்டுள்ளன.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -828,10 +828,10 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 மனோன்மணீயம் சுந்தரனாரின் தமிழ்த்தாய் வாழ்த்துப் பாடலையும் பெருஞ்சித்திரனாரின் தமிழ் வாழ்த்தையும் ஒப்பிட்டு மேடைப்பேச்சு ஒன்றை உருவாக்குக.
 
 **Book Reference:**
-- Physical PDF Page: \`questions.md\`-ல் தனி physical page mapping தெளிவாக இல்லை.
+- Physical PDF Page: `questions.md`-ல் தனி physical page mapping தெளிவாக இல்லை.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; அன்னை மொழியே.
-- Existing Page Mapping: \`tamil/pages.json\`-ல் இயல் 1க்கு \`page_011.pdf\`–\`page_035.pdf\`; நீண்ட வினாவுக்கான தனிப்பட்ட PDF பக்கம் மீள்குறிக்கப்பட வேண்டும்.
+- Existing Page Mapping: `tamil/pages.json`-ல் இயல் 1க்கு `page_011.pdf`–`page_035.pdf`; நீண்ட வினாவுக்கான தனிப்பட்ட PDF பக்கம் மீள்குறிக்கப்பட வேண்டும்.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -868,7 +868,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 கேள்வி ஒப்பீட்டுப் பேச்சைக் கோருவதால், இரண்டு பாடல்களின் தனித்துவமான படிமங்களையும் அவற்றின் பொதுக் கருத்துகளையும் தனித்தனியாகக் கூறி, இறுதியில் ஒற்றுமையையும் வேற்றுமையையும் இணைத்துள்ளேன். முக்கியமான வரலாற்று/இலக்கியக் குறிப்புகள் S1/S7-ல் உள்ள சுருக்கங்களின் அடிப்படையில் எழுதப்பட்டுள்ளன.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -878,10 +878,10 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 தமிழின் சொல்வளம் பற்றியும் புதிய சொல்லாக்கத்திற்கான தேவை குறித்தும் தமிழ் மன்றத்தில் பேசுவதற்கான உரைக் குறிப்புகளை எழுதுக.
 
 **Book Reference:**
-- Physical PDF Page: \`questions.md\`-ல் தனி page mapping தெளிவாக இல்லை.
+- Physical PDF Page: `questions.md`-ல் தனி page mapping தெளிவாக இல்லை.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; உரைநடை உலகம் — தமிழ்ச்சொல் வளம்.
-- Existing Page Mapping: \`tamil/pages.json\`-ல் Iyal 1க்கு \`page_011.pdf\`–\`page_035.pdf\`; குறிப்பிட்ட long-question PDF page மீள்குறிக்கப்பட வேண்டும்.
+- Existing Page Mapping: `tamil/pages.json`-ல் Iyal 1க்கு `page_011.pdf`–`page_035.pdf`; குறிப்பிட்ட long-question PDF page மீள்குறிக்கப்பட வேண்டும்.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -927,7 +927,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 கேள்வி “சொல்வளம்” மற்றும் “புதிய சொல்லாக்கத் தேவை” என்ற இரண்டு தலைப்புகளைக் கோருகிறது. எனவே அவற்றைத் தனித்தனி பிரிவுகளாக அமைத்து, source-களில் உள்ள பலசொல் வளம், துறைக்கேற்ற நுண்சொற்கள், உயர்கல்வி, அறிவியல், மொழிபெயர்ப்பு, மொழித்தன்மை ஆகிய காரணங்களை இணைத்துள்ளேன்.
 
-**Final Status:** \`ANSWER_FOUND\`
+**Final Status:** `ANSWER_FOUND`
 
 ---
 
@@ -938,10 +938,10 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 சூழல் – வெளிநாட்டிலிருந்து உங்கள் இல்லத்திற்கு வந்திருக்கும் உறவினரின் மகளுக்குத் தமிழ் மொழியைப் பேச மட்டுமே தெரியும். ஆங்கில இலக்கியம் படித்த அவரிடம் தமிழ் உரைநடையின் சிறப்புப் பற்றி உரையாடுதல்.
 
 **Book Reference:**
-- Physical PDF Page: \`questions.md\`-ல் தனி page mapping தெளிவாக இல்லை.
+- Physical PDF Page: `questions.md`-ல் தனி page mapping தெளிவாக இல்லை.
 - Printed Textbook Page: உறுதிசெய்யப்படவில்லை.
 - Chapter: இயல் 1 — அமுதூற்று; விரிவானம் — உரைநடையின் அணிநலன்கள்.
-- Existing Page Mapping: \`tamil/pages.json\`-ல் Iyal 1க்கு \`page_011.pdf\`–\`page_035.pdf\`; குறிப்பிட்ட long-question PDF page மீள்குறிக்கப்பட வேண்டும்.
+- Existing Page Mapping: `tamil/pages.json`-ல் Iyal 1க்கு `page_011.pdf`–`page_035.pdf`; குறிப்பிட்ட long-question PDF page மீள்குறிக்கப்பட வேண்டும்.
 
 **Source 1 — BrainKart (S1):**
 - Direct URL: https://www.brainkart.in/article/Questions-and-Answers_11807/
@@ -951,7 +951,7 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 
 **Source 2 — GreenTamil main Iyal1 Q&A (legacy source finding):**
 - Direct URL: https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html
-- Edition / Year: பழைய \`answers.md\`-ல் 19-06-2021 எனப் பதிவு.
+- Edition / Year: பழைய `answers.md`-ல் 19-06-2021 எனப் பதிவு.
 - Answer Status: பழைய draft-ல் மாற்று உரையாடல் இருந்ததாகக் குறிப்பிடப்பட்டுள்ளது; anti-bot தடையால் இந்த run-ல் நேரடியாக மீண்டும் திறக்க முடியவில்லை. Verified second answer source எனக் கணக்கிடப்படவில்லை.
 - Legacy Answer Summary: தமிழரசி–கவியரசி என்ற பாத்திரங்களுடன் உரைநடை, வாசிப்பு, வளர்ச்சி, சிறுகதை/புதினம்/மொழிபெயர்ப்பு பற்றிய உரையாடல்.
 
@@ -995,18 +995,18 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 **காரண விளக்கம்:**  
 இந்த உரையாடல் கேள்வியில் கொடுக்கப்பட்ட சூழலைப் பின்பற்றுகிறது. உரைநடையின் வரையறை, பயன்பாடுகள், வளர்ச்சி, உவமை/உருவகம் மற்றும் தெளிவான கருத்து வெளிப்பாடு ஆகியவை S1-ல் உள்ள பாடக்கருத்துகளின் அடிப்படையில் சொந்த வார்த்தைகளில் அமைக்கப்பட்டுள்ளன.
 
-**Final Status:** \`PARTIAL\` — ஒரு நேரடி answer source மட்டும் இந்த run-ல் மீள்சரிபார்க்கப்பட்டது; இரண்டாவது source-ன் முந்தைய finding மீண்டும் திறந்து உறுதிசெய்யப்படவில்லை.
+**Final Status:** `PARTIAL` — ஒரு நேரடி answer source மட்டும் இந்த run-ல் மீள்சரிபார்க்கப்பட்டது; இரண்டாவது source-ன் முந்தைய finding மீண்டும் திறந்து உறுதிசெய்யப்படவில்லை.
 
 ---
 
 ## 7. Legacy Source Findings — பாதுகாக்கப்பட்ட குறிப்புகள்
 
-பழைய \`answers.md\`-ல் இருந்த பயனுள்ள findings-ஐ இழக்காமல் இருக்க கீழே சுருக்கமாகப் பதிவு செய்கிறேன். இவை அனைத்தும் இந்தப் புதிய run-ல் direct source verification பெற்றவை என்று பொருள் கொள்ளக்கூடாது.
+பழைய `answers.md`-ல் இருந்த பயனுள்ள findings-ஐ இழக்காமல் இருக்க கீழே சுருக்கமாகப் பதிவு செய்கிறேன். இவை அனைத்தும் இந்தப் புதிய run-ல் direct source verification பெற்றவை என்று பொருள் கொள்ளக்கூடாது.
 
 | பழைய Source | பழைய finding | புதிய ஆய்வில் கையாளும் முறை |
 |---|---|---|
 | GreenTamil main Iyal1 Q&A — https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html | Iyal1 வினாக்கள், MA1–MA4, LA1–LA3, source answer summaries | பழைய draft-ல் இருந்த findings பாதுகாக்கப்பட்டன; தற்போதைய browser run-ல் anti-bot காரணமாக page மீள்சரிபார்ப்பு முடியவில்லை |
-| TamilVithai — https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrap in.html | K1–K5-க்கு மாற்று எடுத்துக்காட்டுகள்/பதில்கள் | Search excerpt மட்டும் மீண்டும் கிடைத்தது; direct page CAPTCHA காரணமாக verified எண்ணிக்கையில் சேர்க்கப்படவில்லை |
+| TamilVithai — https://www.tamilvithai.com/2022/07/10th-tamil-unit-1-karpavai-kattrapin.html | K1–K5-க்கு மாற்று எடுத்துக்காட்டுகள்/பதில்கள் | Search excerpt மட்டும் மீண்டும் கிடைத்தது; direct page CAPTCHA காரணமாக verified எண்ணிக்கையில் சேர்க்கப்படவில்லை |
 | KalviWorld — https://www.kalviworldofficial.in/2025/06/10th-tamil-book-back-answers-unit-1.html | MCQ1/MCQ2-ல் பிற ஆதாரங்களிலிருந்து மாறுபட்ட விடைகள் | பழைய conflicting findings அழிக்கப்படவில்லை; direct page இந்த run-ல் மீண்டும் திறக்கப்படாததால் unverified legacy conflict எனக் குறிக்கப்பட்டது |
 | A2Z TNPSC — https://www.a2ztnpsc.in/2024/07/10th-std-1.html | MCQ1 தொடர்பான search preview | முந்தைய draft-ல் direct page open 502 எனப் பதிவு; answer verification source ஆக எண்ணப்படவில்லை |
 | Tamil Virtual Academy PDF — https://www.tamilvu.org/courses/new_courses/level05/sem01/pdf/Cikaram_Sem_1.pdf#page=128 | தனிமொழி/தொடர்மொழி/பொதுமொழி வரையறை | புதிய 2025 TVA வெளியீட்டின் துணை இலக்கண ஆதாரமாகப் பயன்படுத்தப்பட்டது; பழைய SCERT edition-ஐ மாற்றாது |
@@ -1015,12 +1015,12 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 
 ## 8. Chapter QA — கணக்கீடு
 
-**Original inventory:** \`questions.md\`-ல் 19 கேள்விகள்.  
+**Original inventory:** `questions.md`-ல் 19 கேள்விகள்.  
 **New answer entries:** இந்த file-ல் 19/19 கேள்விகளுக்கும் தனி entry உருவாக்கப்பட்டுள்ளது.
 
 | QA அளவுகோல் | எண்ணிக்கை | குறிப்பு |
 |---|---:|---|
-| மொத்த கேள்விகள் | 19 | \`questions.md\` inventory எண்ணிக்கை |
+| மொத்த கேள்விகள் | 19 | `questions.md` inventory எண்ணிக்கை |
 | answers.md-ல் entry உள்ளவை | 19 | K1–K5, MCQ1–5, SQ1–2, MA1–4, LA1–3 |
 | குறைந்தது ஒரு நேரடி Answer Page-ல் பதில் காணப்பட்டவை | 19 | சிலவற்றில் source wording mismatch/partial answer உள்ளது |
 | இரண்டு அல்லது அதற்கு மேற்பட்ட answer references உள்ளவை | 18 | LA3 மட்டும் இம்முறை ஒரு direct answer page-ல் உறுதிசெய்யப்பட்டது |
@@ -1034,25 +1034,25 @@ S1/S7 ஒரே மூன்று பெயர்களையும் தர�
 | Final Status: ANSWER_NOT_FOUND | 0 | எல்லா 19 கேள்விகளுக்கும் குறைந்தது ஒரு பதில்/ஆதார வழி உள்ளது |
 | Final Status: WRONG_EDITION | 0 | தற்போதைய working source-களில் edition mismatch எனத் தீர்மானிக்கப்பட்ட வினா இல்லை |
 | Book PDF Printed Page verified | 0 | தனிப்பட்ட page PDF screenshot திறக்கப்படவில்லை; அச்சுப் பக்க எண்கள் ஊகிக்கப்படவில்லை |
-| Existing PDF mapping reference | 3 mapping groups | page 28 / page 29 / page 30; physical file naming மற்றும் \`questions.md\` HTML note அடிப்படையில் |
+| Existing PDF mapping reference | 3 mapping groups | page 28 / page 29 / page 30; physical file naming மற்றும் `questions.md` HTML note அடிப்படையில் |
 
 ### திறந்த QA பணிகள்
 
 1. K4: “எய்தல்” / “எய்துதல்” இரண்டில் பாடநூல் பக்கத்தின் எழுத்துருவை நேரில் ஒப்பிட்டு ஒன்றை உறுதிசெய்ய வேண்டும்.
 2. K5: “வழிபாடு” வகைப்பாட்டில் source முரண்பாட்டை அதிகாரப்பூர்வ பாடநூல் இலக்கண உதாரணத்துடன் தீர்க்க வேண்டும்; “பாடுதல்” என்பதை “கோறல்” என மாற்றக்கூடாது.
 3. SQ1: பாடநூல் பக்கத்தில் “வேங்கை” தனிமொழிப் பொருளை நேரில் சரிபார்க்க வேண்டும்; 2025 TVA துணை நூல் “புலி” எனக் குறிப்பிடுவது பழைய guide-களின் “மரம்” பதிலுடன் வேறுபடுகிறது.
-4. MA3: PDF பக்கத்தில் வண்ண எழுத்துகளாக அச்சிடப்பட்ட துல்லியமான வினை வடிவங்களை screenshot மூலம் உறுதிசெய்ய வேண்டும். \`questions.md\` உரை மாற்றப்படவில்லை.
+4. MA3: PDF பக்கத்தில் வண்ண எழுத்துகளாக அச்சிடப்பட்ட துல்லியமான வினை வடிவங்களை screenshot மூலம் உறுதிசெய்ய வேண்டும். `questions.md` உரை மாற்றப்படவில்லை.
 5. LA3: இரண்டாவது direct answer source மீள்திறந்து சரிபார்க்கப்பட வேண்டும்.
 6. page 28/29/30 மற்றும் LA1–LA3 ஆகியவற்றுக்கான exact printed page number / physical PDF cross-check இன்னும் செய்யப்பட வேண்டும்.
 
 ## 9. பாதுகாப்பு மற்றும் மாற்ற வரம்பு
 
-- \`main\` branch மாற்றப்படவில்லை.
-- \`questions.md\` மாற்றப்படவில்லை.
-- \`quiz.md\`, \`quiz.json\`, \`pages.json\`, PDF files, viewer/routing configuration மாற்றப்படவில்லை.
+- `main` branch மாற்றப்படவில்லை.
+- `questions.md` மாற்றப்படவில்லை.
+- `quiz.md`, `quiz.json`, `pages.json`, PDF files, viewer/routing configuration மாற்றப்படவில்லை.
 - Edition Audit branch-கள் பயன்படுத்தப்படவில்லை.
-- பழைய \`answers.md\` அடங்கிய branch அப்படியே பாதுகாக்கப்பட்டுள்ளது.
-- இந்த commit புதிய working branch-ல் \`answers.md\` மட்டும் புதுப்பிக்கிறது.
+- பழைய `answers.md` அடங்கிய branch அப்படியே பாதுகாக்கப்பட்டுள்ளது.
+- இந்த commit புதிய working branch-ல் `answers.md` மட்டும் புதுப்பிக்கிறது.
 - Pull Request / merge உருவாக்கப்படவில்லை.
 
-**அடுத்த Chapter-க்கு செல்லும் முன்:** மேலே \`CONFLICT\`, \`REVIEW_REQUIRED\`, \`PARTIAL\` எனக் குறிக்கப்பட்ட ஐந்து வினாக்களுக்கான page-level QC-ஐ முடித்த பின் இதே format-ஐ அடுத்த இயலுக்குப் பயன்படுத்தலாம்.
+**அடுத்த Chapter-க்கு செல்லும் முன்:** மேலே `CONFLICT`, `REVIEW_REQUIRED`, `PARTIAL` எனக் குறிக்கப்பட்ட ஐந்து வினாக்களுக்கான page-level QC-ஐ முடித்த பின் இதே format-ஐ அடுத்த இயலுக்குப் பயன்படுத்தலாம்.
