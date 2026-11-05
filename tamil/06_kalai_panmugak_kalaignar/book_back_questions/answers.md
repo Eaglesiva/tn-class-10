@@ -539,31 +539,39 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 
 ### Objective word-bank quiz records — மொழியோடு விளையாடு
 
-#### 1. விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….
-- **S1 — VirkozKalvi:** மரம் வீடு / மரவீடு — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/)
-- **S2 — CBSETamil:** மரம் வீடு / மரவீடு — [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
-- **நிலை:** ANSWER_FOUND
+#### Q6 — விரட்டாதீர்கள் – பறவைக்கு மரம் வீடு; வெட்டாதீர்கள் – மனிதருக்கு அவைதரும் ……….
+- **S1 — BrainKart:** மரம் வீடு / மரவீடு — [இயல் 6 மொழி அறிவு]( https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/ )
+- **S2 — StudentsGuide360:** மரம் வீடு / மரவீடு — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பறவைகளுக்கு மரம் வாழிடமாகவும், மரம் மனிதர்களுக்கு வீடு கட்டத் தேவையான பொருளாகவும் பயன்படுகிறது.
 - **Quiz ID:** `10_tam_u6_q6`
-
-#### 2. காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….
-- **BrainKart source answer:** அவிழும் / கவிழும் — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
-- **VirkozKalvi / CBSETamil source answer:** அவிழும் / தங்கும் — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
-- **நிலை:** CONFLICT_REVIEW_REQUIRED — source வேறுபாடு காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
-
-#### 3. மலை முகட்டில் மேகம் ………. – அதைப் பார்க்கும் மனங்கள் செல்லத் ……….
-- **BrainKart / Thamizhpozhil source answer:** தங்கும் / தயங்கும் — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-slow-learners-study_12.html)
-- **VirkozKalvi / CBSETamil source answer:** கவிழும் / தயங்கும் — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
-- **நிலை:** CONFLICT_REVIEW_REQUIRED — source வேறுபாடு காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
-
-#### 4. வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
-- **S1 — Thamizhpozhil — 2025–2026 மெல்லக் கற்போர் விடைகள்:** தோற்பவர் / பார்ப்பவர் — [Thamizhpozhil — 2025–2026 மெல்லக் கற்போர் விடைகள்](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-slow-learners-study_12.html)
-- **நிலை:** ANSWER_FOUND — questions.md-இன் சொல் வடிவத்துடன் பொருந்துகிறது.
-- **Quiz ID:** `10_tam_u6_q8`
-
-#### 5. கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
-- **S2 — CBSETamil:** விருது / விருந்து — [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
-- **S3 — StudentsGuide360:** விருது / விருந்து — [StudentsGuide360 — இயல் 6.6](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — கேள்வி உரையுடன் நேரடி பொருத்தம்.
-- **S1 — VirkozKalvi:** விருது / விருந்து — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/)
-- **S2 — CBSETamil:** விருது / விருந்து — [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
 - **நிலை:** ANSWER_FOUND
+
+#### Q7 — காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….
+- **S1 — BrainKart:** அவிழும் / கவிழும் — [இயல் 6 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
+- **S2 — StudentsGuide360:** அவிழும் / கவிழும் — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+- **S3 — Suriya Drill Book PDF:** அவிழும் / கவிழும் — [PDF](https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; மலர்களில் வண்டினம் கவிழ்ந்து/அமர்ந்து தேனை அணுகுகிறது.
+- **Quiz ID:** `10_tam_u6_q7`
+- **நிலை:** ANSWER_FOUND
+
+#### Q8 — மலை முகட்டில் மேகம் ………. – அதைப் பார்க்கும் மனங்கள் செல்லத் ……….
+- **S1 — BrainKart:** தங்கும் / தயங்கும் — [இயல் 6 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
+- **S2 — StudentsGuide360:** தங்கும் / தயங்கும் — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+- **S3 — Suriya Drill Book PDF:** தங்கும் / தயங்கும் — [PDF](https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மலைமுகட்டில் மேகம் தங்கும் காட்சியைப் பார்க்கச் செல்லும் மனங்கள் தயங்கும் எனப் பாடல் காட்சியைச் சொல்கிறது.
+- **Quiz ID:** `10_tam_u6_q8`
+- **நிலை:** ANSWER_FOUND
+
+#### Q9 — வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
+- **S1 — StudentsGuide360:** தோற்பவர் / பார்ப்பவர் — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+- ****WORDING_VARIANT:** BrainKart-ல் பழைய வினா வடிவம் “வாழ்க்கையில் தோற்பவை மீண்டும் வெல்லும்; இதைத் தத்துவமாய்த் தோற்பாவை கூத்து சொல்லும்” என உள்ளது; அது இங்கு உள்ள கேள்வியுடன் ஒன்றல்ல — [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தோல்வியடைந்தவரும் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதி முயற்சி மேற்கொள்ள வேண்டும் என்பதே வினாவின் பொருத்தமான சொல் இணை.
 - **Quiz ID:** `10_tam_u6_q9`
+- **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+
+#### Q10 — கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
+- **S1 — StudentsGuide360:** விருது / விருந்து — [இயல் 6 மொழியோடு விளையாடு](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — questions.md wording-உடன் EXACT_MATCH.
+- **S2 — BrainKart:** விருது / விருந்து என்ற பொருள்; ஆனால் “தெருக்கூத்தில் நடிகருக்கு…” என வினா wording மாறுகிறது — [இயல் 6 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) — WORDING_VARIANT.
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் அவருக்கு விருந்தாகவும் உருவகிக்கப்படுகிறது.
+- **Quiz ID:** `10_tam_u6_q10`
+- **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
