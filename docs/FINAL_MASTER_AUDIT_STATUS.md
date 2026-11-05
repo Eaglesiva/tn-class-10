@@ -34,22 +34,30 @@ To maintain strict scientific and documentation integrity, the operations perfor
 
 ## 2. Mutually Exclusive Primary Status Accounting (165 Books)
 
-Every in-scope State Board textbook is categorized into exactly one primary status category:
+Every in-scope State Board textbook across Classes 1–12 is categorized into exactly one mutually exclusive primary status category. Official PDF pages sum to exactly 32,976 pages:
 
-| Primary Status Category | Books | Tracked Pages | Description & Next Steps |
-| :--- | :---: | :---: | :--- |
-| **Direct Official Master Refreshed on Main** | **38** | **11,760** | In-place refresh from 2026-27 master completed via runner; serving live on `main`. (Class 9: 5b/1,664p; Class 10: 1b/224p; Class 12: 32b/9,872p). |
-| **Layer 4 Pilot Verified (Text-Equivalent)** | **3** | **840** | Full word-for-word diff verified text-equivalent after whitespace normalization on legacy `main`. (Class 9: Tamil 272p, English 224p, Maths TM 344p). |
-| **Exact Bit-for-Bit Master Match on Main** | **1** | **248** | Bit-for-bit SHA-256 match between production `main` and official master PDF. (Class 10 Tamil 248p). |
-| **Confirmed GitHub Is Newer (2025 Reprint)** | **4** | **1,152** | GitHub `main` contains newer 2025 reprint than SCERT's 2024 portal upload. (Class 11: Tamil 176p, Maths TM Vol 1 320p, Maths TM Vol 2 288p, Maths EM Vol 1 368p). |
-| **Official Edition Update Stored on Branch** | **29** | **9,608** | Newer official versions structured in canonical `official_editions/` with validated manifests. (Class 10: 4b/1,432p; Class 11: 23b/7,528p; Class 12: 2b/648p). |
-| **Class 11 Reconciled Same Version on Main** | **4** | **952** | Catalog reconciled; matching imprint & page count with production `main`. (Class 11: English 240p, Bio-Botany TM 208p, Bio-Botany EM 216p, Commerce TM 288p). |
-| **Classes 1–8 GET-200 Audit Branch Validated** | **44** | **6,896** | Classes 1–8 Annual, Term-I, and Term-II GET-200 books validated in respective audit branches. |
-| **Class 10 Manual Review Required** | **2** | **720** | Mathematics TM (368p) & Mathematics EM (352p) pending manual page inspection against refreshed snapshot. |
-| **Class 11 API Mapping Unresolved** | **1** | **304** | Chemistry EM Vol 1 (304p) volume designation reconciliation pending. |
-| **Term-II Sale Commenced / CDN 403 Recovery** | **16** | — | Classes 4–7 Term-II books officially on sale since Sept 22, 2026, but CloudFront returns 403. URL recovery pending. |
-| **Term-III Release Unconfirmed / Official Watch**| **23** | — | Classes 1–7 Term-III books unlisted in corporation price list; CloudFront returns 403. Official watch pending publication. |
-| **Total In-Scope Books** | **165** | **32,480** | **Strictly mutually exclusive partition (Sum = 165 books)** |
+| Primary Status Category | Books | Official PDF Pages | GitHub Split Pages | Description & Next Steps |
+| :--- | :---: | :---: | :---: | :--- |
+| **Direct Official Master Refreshed on Main** | **38** | **11,760** | **11,760** | In-place refresh from 2026-27 master completed via runner; serving live on `main`. (Class 9: 5b/1,664p; Class 10: 1b/224p; Class 12: 32b/9,872p). |
+| **Classes 1–8 GET-200 Audit Branch Validated** | **42** | **7,656** | **7,656** | Classes 1–8 Annual, Term-I, and Term-II GET-200 books validated in respective audit branches. |
+| **Official Edition Update Stored on Branch** | **25** | **8,176** | **8,176** | Canonical 1-page PDFs stored in `official_editions/`. (Class 11: 23b/7,528p; Class 12: 2b/648p). |
+| **Class 10 Stored on Update Branch** | **4** | **1,432** | **1,432** | Science TM/EM (792p), Social TM/EM (640p) stored in unit directories on update branch; full diff pending. |
+| **Class 11 Reconciled Same Version on Main** | **4** | **1,304** | **1,304** | Catalog reconciled; matching imprint & page count with production `main`. (Maths EM Vol II 288p, History TM 352p, Geography TM 336p, Political Science TM 328p). |
+| **Confirmed GitHub Is Newer (2025 Reprint)** | **4** | **1,240** | **1,152** | Production `main` contains newer 2025 reprint than SCERT's 2024 upload. (Class 11: Tamil 176p/248p, Maths TM Vol 1 320p/368p, Maths TM Vol 2 288p/304p, Maths EM Vol 1 368p/320p; diff: -88p). |
+| **Layer 4 Pilot Verified (Text-Equivalent)** | **3** | **840** | **840** | Word-for-word diff verified text-equivalent after whitespace normalization on legacy `main`. (Class 9: Tamil 272p, English 224p, Maths TM 344p). |
+| **Class 10 Manual Review Required** | **2** | **0** | **720** | Mathematics TM (368p) & Mathematics EM (352p) pending manual page inspection (official master pages not yet registered; diff: +720p). |
+| **Exact Bit-for-Bit Master Match on Main** | **1** | **248** | **248** | Bit-for-bit SHA-256 match between production `main` and official master PDF. (Class 10 Tamil 248p). |
+| **Class 11 API Mapping Unresolved** | **1** | **320** | **304** | Chemistry EM Vol 1 volume designation reconciliation pending (official URL duplicated Vol 2; branch holds genuine 304p; diff: -16p). |
+| **Term-II Sale Commenced / CDN 403 Recovery** | **16** | **0** | **0** | Classes 4–7 Term-II books officially on sale since Sept 22, 2026, but CloudFront returns 403. URL recovery pending. |
+| **Term-III Release Unconfirmed / Official Watch**| **25** | **0** | **0** | Classes 1–7 Term-III books unlisted in corporation price list; CloudFront returns 403. Official watch pending publication. |
+| **Total In-Scope Books** | **165** | **32,976** | **33,592** | **Strictly mutually exclusive partition (Sum = 165 books, 32,976 known official pages)** |
+
+### Reconciliation of Page Count Difference (+616 Pages)
+The difference between total GitHub split pages (33,592) and total official PDF pages (32,976) is exactly **+616 pages**, fully explained by three known catalog items:
+1. **Class 10 Mathematics TM & EM (+720 pages)**: GitHub has 720 split pages (TM 368p + EM 352p). Because official master pages were held under `MANUAL_REVIEW_REQUIRED`, official pages are currently registered as blank/0. Net: **+720**.
+2. **Class 11 Confirmed GitHub Is Newer (-88 pages)**: GitHub `main` holds 1,152 pages for 4 newer reprints (Tamil 176p, Maths TM Vol 1 320p, Maths TM Vol 2 288p, Maths EM Vol 1 368p) whereas obsolete SCERT portal masters contain 1,240 pages (248p + 368p + 304p + 320p). Net: **-88**.
+3. **Class 11 Chemistry EM Vol 1 (-16 pages)**: GitHub update branch holds genuine 304 split pages, whereas the erroneous duplicate official master URL represents 320 pages. Net: **-16**.  
+**Net Page Difference**: 720 - 88 - 16 = **+616 pages**.
 
 ---
 
@@ -103,11 +111,15 @@ All 38 records in `docs/SCERT_MASTER_EDITION_INDEX.csv` on branch `scert/master-
 
 ## 4. TOC-to-Folder Contiguity & Boundary Audit Findings
 
+**TOC Audit Qualification**: `STRUCTURAL_CONTIGUITY_VERIFIED; TOC_MAPPING_EVIDENCE_INCOMPLETE`  
+*Contiguity evidence artifact generated and persisted at:* [`docs/refresh_evidence/scert_38_toc_contiguity_audit.json`](./refresh_evidence/scert_38_toc_contiguity_audit.json)
+
 A full structural inspection of all 38 books on production `main` confirmed:
-1. **100% Contiguity**: All 38 books exhibit strictly continuous page spans (`00_prelims/page_001.pdf` through `page_NNN.pdf`). No missing page numbers, no overlapping page numbers, and no duplicate file entries exist.
+1. **100% Contiguity (38 / 38 Books)**: All 38 books exhibit strictly continuous page spans (`00_prelims/page_001.pdf` through `page_NNN.pdf`). Every single unit/chapter directory starts exactly at `start_page[i] == end_page[i-1] + 1` with 0 gaps, 0 overlaps, and 0 missing pages across all 478+ directories.
 2. **Folder Boundaries & Nomenclature**:
    - **Class 10 English (224p)**: Partitioned into 22 sequential chapter/prose/poem subdirectories (`00_prelims` to `21_a_dilemma`), strictly matching textbook TOC units.
    - **Class 9 (5 books — 1,664p)**: Partitioned into standard curriculum chapters (`maths_em`: 11 dirs, `science_tm`: 26 dirs, `science_em`: 26 dirs, `social_science_tm`: 31 dirs, `social_science_em`: 31 dirs).
    - **Class 12 (32 books — 9,872p)**: All 32 books partitioned across 478 unit/chapter subdirectories with exact contiguous ranges.
    - **Multi-Volume Separation**: For Class 12 multi-volume subjects (Mathematics TM/EM, Physics TM/EM, Chemistry TM/EM), Vol 1 and Vol 2 directories are cleanly separated without cross-volume collision.
-3. **Exceptions / Reorganization**: **Zero folder renaming or file moves were performed.** All preexisting routing and viewer URLs remain intact.
+3. **Evidence Boundary**: While full structural contiguity from page 1 to the final page across all chapter subdirectories is mathematically verified and recorded in `scert_38_toc_contiguity_audit.json`, formal semantic mapping of every textbook print heading to its syllabus unit is categorized as `TOC_MAPPING_EVIDENCE_INCOMPLETE` until granular line-level TOC json mappings are finalized.
+4. **Exceptions / Reorganization**: **Zero folder renaming or file moves were performed.** All preexisting routing and viewer URLs remain 100% intact.

@@ -88,28 +88,23 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 ## 6. Status of Classes 9, 10, 11, and 12
 
 ### Class 9 (8 records — 2,504 pages)
-- **Status**: `IMPRINT_AND_PAGE_COUNT_MATCHED; FULL_PAGE_DIFF_PENDING`
+- **Status**: 5 Direct Master Refreshed on Main (1,664p) / 3 Layer 4 Pilot Verified (840p)
+- **Production Main Tip Commit**: [`d6fc546d`](https://github.com/Eaglesiva/tn-class-09/commit/d6fc546d58aab5f520c5cfbebddb2a829ce86bae) (Mathematics EM, Science TM, Science EM, Social Science TM, Social Science EM)
 - **Audit Branch**: [`scert/class-09/audit-2026-27`](https://github.com/Eaglesiva/tn-class-09/tree/scert/class-09/audit-2026-27)
-- **Evidence Commits**:
-  - [`45fd4501`](https://github.com/Eaglesiva/tn-class-09/commit/45fd4501324f22f7c4b8ed784ff7bec92d406e66): Audit manifest, summary, API snapshot.
-  - [`0146eae7`](https://github.com/Eaglesiva/tn-class-09/commit/0146eae786be36f3aeb167fe99016b14e22cf2ae): Evidence package (`class9_results.json`, `class9_comparison.md`, `imprint_dump.txt`, `verify_class9.py`).
-  - [`d83a1539`](https://github.com/Eaglesiva/tn-class-09/commit/d83a15398bb81641bad539628be1c3db29f9d5ef): Summary clarification.
-- All 8 books match page counts (2,504p total) and Page 2 imprints (2024 Reprint).
-- **Layer 4 Pilots Completed**:
-  - English (224p): 224/224 pages (100.0%) exact word-for-word match (commit `a2c6840f`).
-  - Tamil (272p): 270/272 pages exact match, 2 pages minor soft-wrap line breaks (99.99% overall similarity, 0 words altered; commit `6b28a78d`).
-- Remaining 6 books (2,008p) pending Layer 4 text diff.
+- **Breakdown**:
+  - **Refreshed on Main (5 books - 1,664p)**: Maths EM (328p), Science TM (336p), Science EM (328p), Social Science TM (344p), Social Science EM (328p) refreshed in-place from 2026–27 masters.
+  - **Layer 4 Pilot Verified (3 books - 840p)**: English (224p, commit `a2c6840f`), Tamil (272p, commit `6b28a78d`), Maths TM (344p, commit `86f68c34`) verified text-equivalent.
 
 ### Class 10 (8 records — 2,624 pages)
-- **Status**: 1 Exact Master SHA Match (248p) / 2 Manual Review (720p) / 1 Imprint Matched (224p) / 4 Stored Updates (1,432p)
+- **Status**: 1 Direct Master Refreshed on Main (224p) / 1 Exact Master SHA Match (248p) / 2 Manual Review (720p) / 4 Stored Updates (1,432p)
+- **Production Main Tip Commit**: [`22f176e2`](https://github.com/Eaglesiva/tn-class-10/commit/22f176e29b3e92be4ff6a110ac8285a1ce371765) (English 224p in-place refreshed)
 - **Audit Branch**: [`scert/class-10/audit-2026-27`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/audit-2026-27)
-- **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in unit folders; restructuring to canonical `editions/` pending)
-- **Evidence Commit**: [`9cb11f78`](https://github.com/Eaglesiva/tn-class-10/commit/9cb11f780128b4b6054445b67447256b06364079)
+- **Update Branch**: [`scert/class-10/official-version-updates`](https://github.com/Eaglesiva/tn-class-10/tree/scert/class-10/official-version-updates) (1,432 split pages in unit folders)
 - **Breakdown**:
-  - **Tamil (248p)**: `EXACT_MASTER_SHA256_MATCH`
-  - **Maths TM (368p) & EM (352p)**: `MANUAL_REVIEW_REQUIRED` (Pending final official master page count and edition comparison; excluded from confirmed newer)
-  - **English (224p)**: `IMPRINT_AND_PAGE_COUNT_MATCHED; CONTENT_DIFF_PENDING`
-  - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages; formal split_validation.json pending)
+  - **English (224p)**: `OFFICIAL_SOURCE_REFRESHED` (Refreshed in-place on production `main`).
+  - **Tamil (248p)**: `EXACT_MASTER_SHA256_MATCH` (Bit-for-bit SHA-256 match on `main`).
+  - **Maths TM (368p) & EM (352p)**: `MANUAL_REVIEW_REQUIRED` (720 split pages; pending manual inspection).
+  - **Science TM (360p), Science EM (360p), Social TM (368p), Social EM (344p)**: `VERSION_DIFFERENT; OFFICIAL_SPLIT_STORED_IN_UPDATE_BRANCH` (1,432 pages stored on update branch).
 
 ### Class 11 (32 records — 10,288 pages)
 - **Status**: 4 Same Version (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 API Mapping Unresolved (304p)
@@ -124,17 +119,17 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 - **Split Validation (Layer 3)**: All 24 stored edition folders (7,832 pages) verified directly from remote tree (`c1a58225`), strictly sequential from `page_001.pdf` to `page_xxx.pdf`, 0 gaps, 0 duplicates, with all four manifests present (`edition.json`, `edition.md`, `manifest.json`, `pages.json`).
 
 ### Class 12 (34 records — 10,520 pages)
-- **Status**: 32 Same Version (9,872p) / 2 Stored Updates (648p)
+- **Status**: 32 Direct Master Refreshed on Main (9,872p) / 2 Stored Updates (648p)
+- **Production Main Tip Commit**: [`c15e34ad`](https://github.com/Eaglesiva/tn-class-12/commit/c15e34ad9ca2f53ccd020b2625995d2c20aaf952) (All 32 books refreshed in-place from 2026-27 master)
 - **Audit Branch**: [`scert/class-12/audit-2026-27`](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/audit-2026-27)
 - **Update Branch**: [`scert/class-12/official-version-updates`](https://github.com/Eaglesiva/tn-class-12/tree/scert/class-12/official-version-updates) (2 edition directories, 648 pages)
-- **API Mapping Scope**: The Class XII API snapshot contains 73 API subject groups. When expanded across mediums and terms, this yields 136 nested academic entries, from which our 34 core State Board Tamil and English medium textbooks are derived.
-- **GitHub Main Combined Volume Mapping**: Physics and Chemistry volumes share combined `pages.json` sequences on `main`. Per-volume boundaries are verified as:
+- **GitHub Main Volume Mapping**:
   - Physics TM (664p): Vol-I = 352p, Vol-II = 312p
-  - Physics EM (648p): Vol-I = 352p, Vol-II = 296p
+  - Physics EM (648p): Vol-I = 352p (update branch), Vol-II = 296p (main)
   - Chemistry TM (672p): Vol-I = 328p, Vol-II = 344p
-  - Chemistry EM (624p): Vol-I = 296p, Vol-II = 328p
+  - Chemistry EM (624p): Vol-I = 296p (update branch), Vol-II = 328p (main)
 - **Breakdown**:
-  - **Same Version (32 books - 9,872p)**: Preserved on `main` (Per-volume page counts and Page 2 imprints matched; Layer 4 content diff remains `FULL_DIFF_PENDING`).
+  - **Refreshed on Main (32 books - 9,872p)**: All 32 books in-place refreshed and serving live on `main`.
   - **Official Edition Updates (2 books - 648p)**: Stored as 1-page PDFs on branch `scert/class-12/official-version-updates`:
     - Physics EM Vol 1: 352 pages (`physics_em/editions/2026-27-scert-official/vol1/`)
     - Chemistry EM Vol 1: 296 pages (`chemistry_em/editions/2026-27-scert-official/vol1/`)
@@ -155,11 +150,11 @@ Classes 1–8 already have separate GitHub audit branches. Each contains a class
 | **6** | 49 | 15 | 0 | Audit complete (`scert/class-06/audit-2026-27`) |
 | **7** | 49 | 15 | 0 | Audit complete (`scert/class-07/audit-2026-27`) |
 | **8** | 28 | 8 | 0 | Audit complete (`scert/class-08/audit-2026-27`) |
-| **9** | 28 | 8 | 0 | 2 Verified Equivalent (496p) / 6 Books Pending Diff (2,008p) |
-| **10** | 32 | 8 | 1,432 | 1 Master Match / 2 Manual Review / 1 Match / 4 Stored Updates (1,432p) |
-| **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Match (1,304p) / 4 GitHub Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) [Total: 10,288p] |
-| **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Same Version (9,872p) / 2 Stored Updates (648p) |
-| **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV** |
+| **9** | 28 | 8 | 0 | 5 Refreshed on Main (1,664p) / 3 Pilot Verified (840p) |
+| **10** | 32 | 8 | 1,432 | 1 Refreshed on Main (224p) / 1 SHA Match (248p) / 2 Manual Review (720p) / 4 Stored Updates (1,432p) |
+| **11** | 73 (groups) | 136 (nested) | 32 | 7,832* | 4 Same (1,304p) / 4 Newer (1,152p) / 23 Stored Updates (7,528p) / 1 Mapping Unresolved (304p) |
+| **12** | 73 (groups) | 136 (nested) | 34 | 648 | 32 Refreshed on Main (9,872p) / 2 Stored Updates (648p) |
+| **Total** | **495 (groups)** | **—** | **165** | **9,912** | **165 rows synchronized in Master Edition Index CSV (32,976 official / 33,592 split pages)** |
 
 ---
 
