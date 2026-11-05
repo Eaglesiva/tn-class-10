@@ -109,23 +109,6 @@
 
 ---
 
-### வினா 7
-காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….
-
-- அ) தங்கும் / அவிழும்
-- ஆ) அவிழும் / தங்கும்
-- இ) கவிழும் / தயங்கும்
-- ஈ) தோற்பவை / விருந்து
-
-**சரியான விடை:** ஆ) அவிழும் / தங்கும்
-
-**காரண விளக்கம்:** காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; வண்டுகள் பூக்களில் தங்குகின்றன.
-
-**விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
-
-
----
-
 ### வினா 8
 வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
 
@@ -158,4 +141,4 @@
 **விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
 
 
-> குறிப்பு: “மலை முகட்டில் மேகம் …” என்ற வினா BrainKart மற்றும் பிற நேரடி ஆதாரங்களில் வேறுபட்ட விடைகளைக் கொண்டதால் இங்கு சேர்க்கப்படவில்லை.
+> குறிப்பு: சொற்பெட்டிப் பயிற்சியில் உள்ள இரண்டு வினாக்கள் (மலரிதழ்/வண்டினம்; மலை முகட்டில் மேகம்) source conflict காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
