@@ -47,136 +47,300 @@
 
 ## Non-objective Book Back — Answer Source Collection
 
-அசல் வினா உரை/வரிசை questions.md-இல் பாதுகாக்கப்பட்டுள்ளன. கீழுள்ள Section / Q ID-கள் அதே கோப்பிலுள்ள வினாவைக் குறிக்கின்றன; இங்கு மாணவர் விடைகள் உருவாக்கப்படவில்லை.
+> கீழே உள்ள ஒவ்வொரு பதிவிலும் அசல் கேள்வி உரை `questions.md`-இலிருந்து மாற்றமின்றி எடுத்துக் கொள்ளப்பட்டுள்ளது. Non-objective விடைகள் எழுதப்படவில்லை. மூன்று placeholders மட்டும் வைக்கப்பட்டுள்ளன. ஒவ்வொரு பதிவுக்கும் பொருத்தமான நேரடி இயல்/இலக்கணப் பக்கம் இணைக்கப்பட்டுள்ளது. கேள்வி-வாரியான exact match மற்றும் answer-line verification தனியாகக் குறிக்கப்பட்டுள்ளது.
 
-### II. குறுவினா
+### II. குறுவினா — II. குறுவினா — பதிவு 1
 
-#### II. குறுவினா — 1
-**Question reference:** questions.md → II. குறுவினா → வினா 1.
+1. 'கொளவோர் கொளக; குரைப்போர் குரைக்க!
+   உளவாய் வார்த்தை உடம்பு தொடாது'
+   அ) அடியெதுகையை எடுத்தெழுதுக.
+   ஆ) இலக்கணக் குறிப்பு எழுதுக - கொளக, குரைக்க
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 2
-**Question reference:** questions.md → II. குறுவினா → வினா 2.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 2
+
+2. குறள்வெண்பாவின் இலக்கணத்தை எழுதி எடுத்துக்காட்டுத் தருக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 3
-**Question reference:** questions.md → II. குறுவினா → வினா 3.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 3
+
+3. குறிப்பு வரைக - அவையம்.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 4
-**Question reference:** questions.md → II. குறுவினா → வினா 4.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 4
+
+4. காலக் கழுதை கட்டெறும்பானதும் கவிஞர் செய்வது யாது?
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### II. குறுவினா — 5
-**Question reference:** questions.md → II. குறுவினா → வினா 5.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### II. குறுவினா — II. குறுவினா — பதிவு 5
+
+5. வஞ்சிப்பாவிற்கு உரிய ஓசை தூங்கல் ஓசை ஆகும். துள்ளல் ஓசை கலிப்பாவுக்கு உரியது. இத்தொடர்களை ஒரே தொடராக இணைத்து எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### III. சிறுவினா
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### III. சிறுவினா — 1
-**Question reference:** questions.md → III. சிறுவினா → வினா 1.
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 6
+
+1. சங்க இலக்கியங்கள் காட்டும் அறங்கள் இன்றைக்கும் தேவையானவையே என்பதற்குச் சில எடுத்துக்காட்டுகள் தருக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### III. சிறுவினா — 2
-**Question reference:** questions.md → III. சிறுவினா → வினா 2.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 7
+
+2. ஆசிரியப்பாவின் பொது இலக்கணத்தை எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### III. சிறுவினா — 3
-**Question reference:** questions.md → III. சிறுவினா → வினா 3.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 8
+
+3. 'சுற்றுச்சூழலைப் பேணுவதே இன்றைய அறம்' என்ற தலைப்பில், பெற்றோர் ஆசிரியர் கூடத்தில் பேசுவதற்கான உரைக்குறிப்பு ஒன்றை உருவாக்குக.
+   (குறிப்பு - சுற்றுச்சூழல் மாசுபடுவதைத் தடுக்கச் சட்டங்கள் இயற்றப்பட்டிருந்தாலும், ஒவ்வொருவரின் உள்ளத்திலும் ஏற்படும் மாற்றமே சுற்றுச்சூழலைப் பாதுகாக்கும்)
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### III. சிறுவினா — 4
-**Question reference:** questions.md → III. சிறுவினா → வினா 4.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### III. சிறுவினா — III. சிறுவினா — பதிவு 9
+
+4. வாளித் தண்ணீர், சாயக் குவளை, கந்தைத் துணி, கட்டைத் தூரிகை – இச்சொற்களைத் தொடர்புபடுத்தி ஒரு பத்தி அமைக்க.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### IV. நெடுவினா
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### IV. நெடுவினா — 1
-**Question reference:** questions.md → IV. நெடுவினா → வினா 1.
+---
+
+### IV. நெடுவினா — IV. நெடுவினா — பதிவு 10
+
+1. பள்ளித்திடலில் கிடைத்த பணப்பையை உரியவரிடம் ஒப்படைத்ததையும் அதற்குப் பாராட்டுப் பெற்றதையும் பற்றி வெளியூரில் இருக்கும் உறவினர் ஒருவருக்குக் கடிதம் எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### IV. நெடுவினா — 2
-**Question reference:** questions.md → IV. நெடுவினா → வினா 2.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### IV. நெடுவினா — IV. நெடுவினா — பதிவு 11
+
+2. காலக்கலக்கணிதம் கவிதையில் பொதிந்துள்ள நயங்களைப் பாராட்டி எழுதுக.
+
+   கவிஞன் யானோர் காலக் கணிதம்
+   கருப்படு பொருளை உருப்பட வைப்பேன்!
+   புவியில் நானோர் புகழுடைத் தெய்வம்
+   பொன்னினும் விலைமிகு பொருளென் செலவம்!
+   இவைசரி யென்றால் இயம்புவதென் தொழில்
+   இவைதவறாயின் எதிர்ப்பதென் வேலை!
+   ஆக்கல் அளித்தல் அழித்தல் இம் மூன்றும்
+   அவனும் யானுமே அறிந்தவை; அறிக!
+   - கண்ணதாசன்
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### IV. நெடுவினா — 3
-**Question reference:** questions.md → IV. நெடுவினா → வினா 3.
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### IV. நெடுவினா — IV. நெடுவினா — பதிவு 12
+
+3. குறிப்புகளைக் கொண்டு ஒரு பக்க அளவில் நாடகம் எழுதுக.
+
+   மாணவன் – கொக்கைப் போல, கோழியைப் போல – உப்பைப் போல – இருக்க வேண்டும் – கொக்கு காத்திருந்து கிடைக்கும் வாய்ப்பைப் பயன்படுத்திக்கொள்ளும் – குப்பையைக் கிளறினாலும் தனது உணவை மட்டுமே எடுத்துக்கொள்ளும் கோழி – கண்ணுக்குத் தெரியாவிட்டாலும் உப்பின் சுவையை உணரமுடியும் – ஆசிரியர் விளக்கம் - மாணவன் மகிழ்ச்சி.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### V. மொழியை ஆள்வோம்
+**Source:** [BrainKart — இயல் 8 — பெருவழி கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### V. மொழியை ஆள்வோம் — 1
-**Question reference:** questions.md → V. மொழியை ஆள்வோம் → வினா 1.
+---
+
+### V. மொழியை ஆள்வோம் — படித்துச் சுவைக. — பதிவு 13
+
+மரம் தேடிய களைப்பு
+மின்கம்பியில் இளைப்பாறும் குருவி.
+- நாணற்காடன்
+
+விற்பனையில் பொட்டலம்
+சிக்கனமாய் மூச்சு விடவும்…
+- புதுவைத் தமிழ் நெஞ்சன்
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-### VI. மொழியோடு விளையாடு
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
 
-#### VI. மொழியோடு விளையாடு — 1
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 1.
+---
+
+### V. மொழியை ஆள்வோம் — மொழிபெயர்க்க. — பதிவு 14
+
+Once upon a time there were two beggars in Rome. The first beggar used to cry in the streets of the city, "He is helped whom God helps". The Second beggar used to cry, "He is helped who the king helps". This was repeated by them everyday. The Emperor of Rome heard it so often that he decided to help the beggar who popularized him in the streets of Rome. He ordered a loaf of bread to be baked and filled with pieces of gold. When the beggar felt the heavy weight of the bread, he sold it to his friend as soon as he met him. The latter carried it home. When he cut the loaf of bread he found sparkling pieces of gold. Thanking God, he stopped begging from that day. But the other continued to beg through the city. Puzzled by the beggar's behaviour, the Emperor summoned him to his presence and asked him, "What have you done with the loaf of bread that I had sent you lately?" The man replied, "I sold it to my friend, because it was heavy and did not seem well baked". Then the Emperor said, "Truly he whom God helps is helped indeed," and turned the beggar out of his palace.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 2
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 2.
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — மரபுத் தொடருக்கான பொருளறிந்து தொடரில் அமைத்து எழுதுக. — பதிவு 15
+
+மரபுத்தொடர்: மனக்கோட்டை, கண்ணும் கருத்தும், அள்ளி இறைத்தல், ஆறப்போடுதல்
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 3
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 3.
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — பின்வரும் உரையாடலில் உள்ள பேச்சு வழக்கினை எழுத்து வழக்காக மாற்றுக. — பதிவு 16
+
+"தம்பீ? எங்க நிக்கிறே?"
+"நீங்க சொன்ன இடத்துல தாண்ணே! எதிர்த்தாப்புல ஒரு டீஸ்டால் இருக்குது."
+"அங்கனக்குள்ளயே டீ சாப்டுட்டு, பேப்பரப் படிச்சிக்கிட்டு இரு... நா வெரசா வந்துருவேன்"
+"அண்ணே! சம்முவத்தையும் கூட்டிக்கிட்டு வாங்கண்ணே! அவனெப் பாத்தே ரொம்ப நாளாச்சு!"
+"அவம் பாட்டியோட வெளியூர் போயிருக்கான். உங்கூருக்கே அவனெக் கூட்டிக்கிட்டு வர்றேன்."
+"ரொம்பச் சின்ன வயசுல பார்த்துண்ணே! அப்பம் அவனுக்கு மூணு வயசு இருக்கும்!"
+"இப்ப ஓசரமா வளந்துடான்! ஒனக்கு அடையாளமே தெரியாது! ஊருக்கு எங்கூட வருவாம் பாரேன்! சரி, போனை வையி. நாங் கெளம்பிட்டேன்..."
+"சரிங்கண்ணே"
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
 
-#### VI. மொழியோடு விளையாடு — 4
-**Question reference:** questions.md → VI. மொழியோடு விளையாடு → வினா 4.
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — கடிதம் எழுதுக. — பதிவு 17
+
+உங்கள் தெருவில் மின்விளக்குகள் பழுதடைந்துள்ளன, அதனால் இரவில் சாலையில் நடந்துசெல்வோருக்கு ஏற்படும் இடையூறுகளை எழுதி ஆவன செய்யும்படி மின்வாரிய அலுவலருக்குக் கடிதம் எழுதுக.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
-**Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — direct unit answer page; exact wording differs, if any, is to be retained as a source variant.
+
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### V. மொழியை ஆள்வோம் — நயம் பாராட்டுக. — பதிவு 18
+
+கோடையிலே இளைப்பாற்றிக் கொள்ளும்வகை கிடைத்த குளிர்தருவே தருநிழலே
+நிழலகன்ந கனியே ஓடையிலே ஊறுகின்ற தீஞ்சுவைத்தண்ணீரே உகந்தண்ணீர்
+இடைமலர்ந்த சுகந்தமண மலரே மேடையிலே வீசுகின்ற மெல்லியபூங் காற்றே
+மென்கான்காற்றில் விளைசுகமே சுகத்தில்உறும் பயனே ஆடையிலே எனைமணந்த
+மணவாளா பொதுவில் ஆடுகின்ற அரசேஎன் அலங்கல்அணிந் தருளே.
+- வள்ளலார்
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — கண்டுபிடித்து எழுதுக — பதிவு 19
+
+ஒன்று, இரண்டு, மூன்று, நான்கு, ஐந்து, ஆறு, ஏழு, எட்டு, பத்து ஆகிய எண்ணுப் பெயர்கள் இடம் பெறும் திருக்குறளைக் கண்டுபிடித்து எழுதுக…
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
+---
+
+### VI. மொழியோடு விளையாடு — செயல்திட்டம் — பதிவு 20
+
+ஔவையாரின் ஆத்திசூடி, பாரதியாரின் ஆத்திசூடி ஆகிய இரண்டின் முதல் பத்துத் தொடர்களை ஒப்பிட்டு, நாள்தோறும் ஒரு தொடர் என்னும் அடிப்படையில் கருத்துகளைக் காலை வழிபாட்டு நிகழ்வில் வழங்குக.
+
+🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
+📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
+📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+
+**Source:** [BrainKart — இயல் 8 — பெருவழி மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி இயல்-பதில் பக்கம்.  
+**QC:** SOURCE_PAGE_OPENED; QUESTION-LEVEL exact wording / answer line check pending.
+
 
 ## Source QA — Iyal 8
 - Objective source answers remain in the first part of this file.
