@@ -10,6 +10,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11859/)
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
 - **மூல உரை QA:** `questions.md`-இல் “அகவைரிசை” என உள்ளது; ஆதாரங்களில் “அகரவரிசை” என உள்ளது. OCR/எழுத்துப் பிழை சந்தேகம் பதிவு செய்யப்பட்டுள்ளது; மூலக் கோப்பு மாற்றப்படவில்லை.
+- **Quiz ID:** `10_tam_u7_q1`
 
 ### Q2 — மாலவன் / வேலவன் குன்றங்கள்
 - **S1 — BrainKart — இயல் 7:** அ) திருப்பதியும் திருத்தணியும் — [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/)
@@ -18,6 +19,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-7-1/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 7, விதைநெல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-7-1/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u7_q2`
 
 ### Q3 — மெய்க்கீர்த்தித் தொடர்
 - **S1 — BrainKart — இயல் 7:** ஈ) நெறியோடு நின்று காவல் காப்பவர் — [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/)
@@ -26,6 +28,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11859/)
 - **மூல உரை QA:** `questions.md`-இல் “அசைன்”, “மேமப்பட்ட”, “செலவம்”, “பணப்பட்ட” என உள்ள எழுத்துருக்கள் source pages-இல் “அரசன்”, “மேம்பட்ட”, “செல்வம்”, “பண்பட்ட” என உள்ளன. மூலக் கேள்வி மாற்றப்படாமல், OCR/wording variants பதிவு செய்யப்பட்டுள்ளன.
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+- **Quiz ID:** `10_tam_u7_q3`
 
 ### Q4 — தும்பைப் பூவைச் சூடிப் போர்
 - **S1 — BrainKart — இயல் 7:** இ) வலிமையை நிலைநாட்டல் — [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/)
@@ -35,6 +38,7 @@
 - **விளக்க ஆதாரம்:** அதே புறத்திணை விடை ஆதாரங்கள்.
 - **மூல உரை QA:** `questions.md`-இல் “அசைர்கள்” என உள்ளது; ஆதாரங்களில் “அரசர்கள்” என உள்ளது. OCR/எழுத்துப் பிழை சந்தேகம் பதிவு செய்யப்பட்டுள்ளது.
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+- **Quiz ID:** `10_tam_u7_q4`
 
 ### Q5 — தமிழினத்தை ஒன்றுபடுத்தும் இலக்கியம்
 - **S1 — BrainKart — இயல் 7:** ஈ) சிலப்பதிகாரம் — [BrainKart — இயல் 7](https://www.brainkart.in/article/Questions-and-Answers_11859/)
@@ -45,6 +49,7 @@
 - **விளக்க ஆதாரம்:** [CBSETamil Textbook PDF](https://cbsetamil.com/wp-content/uploads/2024/02/10th-Tamil-Textbook-2024.pdf)
 - **மூல உரை QA:** `questions.md`-இல் option-இல் “கமப்பராமாயணம்” என உள்ளது; source pages-இல் “கம்பராமாயணம்” என உள்ளது. மூல option மாற்றப்படவில்லை.
 - **நிலை:** ANSWER_FOUND_WITH_WORDING_VARIANT
+- **Quiz ID:** `10_tam_u7_q5`
 
 ## QC
 - `questions.md`-இல் உள்ள 5 objective வினாக்களும் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
