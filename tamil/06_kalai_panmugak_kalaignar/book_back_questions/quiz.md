@@ -102,43 +102,77 @@
 
 **சரியான விடை:** அ) மரம் வீடு / மரவீடு
 
-**காரண விளக்கம்:** பறவைகளுக்கு மரம் வாழிடமாகவும், மனிதர்களுக்கு மரம் வீடாகவும் பயன்படுகிறது.
+**காரண விளக்கம்:** பறவைகளுக்கு மரம் வாழிடமாகவும், மரம் மனிதர்களுக்கு வீடு கட்டத் தேவையான பொருளாகவும் பயன்படுகிறது.
 
-**விடை ஆதாரம்:** [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+
+
+---
+
+### வினா 7
+காலை ஒளியினில் மலரிதழ் ……….; சோலைப் பூவினில் வண்டினம் ……….
+
+- அ) தங்கும் / அவிழும்
+- ஆ) அவிழும் / கவிழும்
+- இ) கவிழும் / தயங்கும்
+- ஈ) தோற்பவை / விருந்து
+
+**சரியான விடை:** ஆ) அவிழும் / கவிழும்
+
+**காரண விளக்கம்:** காலை ஒளியில் மலரிதழ்கள் விரிகின்றன; மலர்களில் வண்டினம் கவிழ்ந்து/அமர்ந்து தேனை அணுகுகிறது.
+
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) · [Suriya Drill Book PDF](https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf)
 
 
 ---
 
 ### வினா 8
-வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
+மலை முகட்டில் மேகம் ………. – அதைப் பார்க்கும் மனங்கள் செல்லத் ……….
 
-- அ) பார்ப்பவர் / தோற்பவர்
-- ஆ) தோற்பவர் / பார்ப்பவர்
-- இ) தோற்பவை / தோற்பாவை
-- ஈ) விருந்து / விருது
+- அ) தங்கும் / தயங்கும்
+- ஆ) அவிழும் / கவிழும்
+- இ) தோற்பவர் / பார்ப்பவர்
+- ஈ) விருது / விருந்து
 
-**சரியான விடை:** ஆ) தோற்பவர் / பார்ப்பவர்
+**சரியான விடை:** அ) தங்கும் / தயங்கும்
 
-**காரண விளக்கம்:** தோல்வியடைந்தவர் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதுபவர் முயற்சி மேற்கொள்வர்.
+**காரண விளக்கம்:** மலைமுகட்டில் மேகம் தங்கும் காட்சியைப் பார்க்கச் செல்லும் மனங்கள் தயங்கும் எனப் பாடல் காட்சியைச் சொல்கிறது.
 
-**விடை ஆதாரம்:** [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
+**விடை ஆதாரம்:** [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/) · [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) · [Suriya Drill Book PDF](https://padasalai.info/wp-content/uploads/2025/05/61-10th-Tamil-Suriya-Drill-Book-Full-Notes-PDF-Download.pdf)
 
 
 ---
 
 ### வினா 9
+வாழ்க்கையில் ………. மீண்டும் வெல்வர் - இதைத் தத்துவமாய்ப் ………. முயற்சி மேற்கொள்வர்.
+
+- அ) தோற்பவர் / பார்ப்பவர்
+- ஆ) தோற்பவை / தோற்பாவை
+- இ) விருது / விருந்து
+- ஈ) அவிழும் / கவிழும்
+
+**சரியான விடை:** அ) தோற்பவர் / பார்ப்பவர்
+
+**காரண விளக்கம்:** தோல்வியடைந்தவரும் மீண்டும் வெல்ல முடியும் என்ற கருத்தைத் தத்துவமாகக் கருதி முயற்சி மேற்கொள்ள வேண்டும் என்பதே வினாவின் பொருத்தமான சொல் இணை.
+
+**விடை ஆதாரம்:** [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/)
+
+
+---
+
+### வினா 10
 கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
 
 - அ) விருந்து / விருது
 - ஆ) விருது / விருந்து
-- இ) தங்கும் / தயங்கும்
-- ஈ) மரவீடு / மரம் வீடு
+- இ) மரம் வீடு / மரவீடு
+- ஈ) தோற்பவர் / பார்ப்பவர்
 
 **சரியான விடை:** ஆ) விருது / விருந்து
 
-**காரண விளக்கம்:** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் விருந்தாகவும் உருவகிக்கப்படுகிறது.
+**காரண விளக்கம்:** கைதட்டல் கலைஞருக்குக் கிடைக்கும் பாராட்டாகவும், அவையோரின் ஆர்வம் அவருக்கு விருந்தாகவும் உருவகிக்கப்படுகிறது.
 
-**விடை ஆதாரம்:** [StudentsGuide360 — இயல் 6.6](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — கேள்வி உரையுடன் நேரடி பொருத்தம் · [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/) · [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/) · [Thamizhpozhil](https://www.thamizhpozhil.com/2025/05/10-th-std-tamil-question-answer-unit-5.html)
+**விடை ஆதாரம்:** [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) · [BrainKart](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11851/)
 
 
-> குறிப்பு: சொற்பெட்டிப் பயிற்சியில் உள்ள இரண்டு வினாக்கள் (மலரிதழ்/வண்டினம்; மலை முகட்டில் மேகம்) source conflict காரணமாக Quiz-ல் சேர்க்கப்படவில்லை.
+> குறிப்பு: இந்த ஐந்து சொற்பெட்டி வினாக்களும் `questions.md` wording-க்கு ஒப்பிட்டு சேர்க்கப்பட்டுள்ளன. BrainKart-இன் பழைய “தோற்பவை / தோற்பாவை” வினா வேறுபட்ட wording என்பதால் புதிய “தோற்பவர் / பார்ப்பவர்” வினாவுக்கான answer source ஆக பயன்படுத்தப்படவில்லை.
