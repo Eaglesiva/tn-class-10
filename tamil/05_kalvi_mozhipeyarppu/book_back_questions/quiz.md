@@ -1,7 +1,7 @@
 # 10-ஆம் வகுப்பு தமிழ் — இயல் 5: மணற்கேணி
 ## Verified Book Back Objective Quiz
 
-> Source of question wording and option order: `questions.md` (read-only). Five Book Back objective MCQs are included. Original option order is preserved.
+> Source of question wording and option order: `questions.md` (read-only). Five Book Back objective MCQs and one Book Back one-word riddle are included. Original option order is preserved.
 
 ### வினா 1
 'மாபாதை தமிழப்படுத்தும் மதுராபுரிச் சங்கம் வைத்தும்' என்னும் சின்னமனூர்ச் செப்பேட்டுக் குறிப்பு உணர்த்தும் செய்தி
@@ -82,6 +82,20 @@
 **விடை ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/) · [YouTube lesson reference — திருவிளையாடற்புராணம்](https://www.youtube.com/watch?v=QOLU-HT0ZYs)
 
 ---
+
+### வினா 6 — புதிர்ப்பாடல்
+தார்போன்ற நிறமுண்டு கரியுமில்லை; பார் முழுதும் பறந்து திரிவேன் மேகமுமில்லை; சேர்ந்து அமர்ந்து ஒலிப்பேன் பள்ளியுமில்லை; சோர்ந்து போகாமல் வீடமைப்பேன் பொறியாளருமில்லை; வீட்டுக்கு வருமுன்னே, வருவதைக் கூறுவேன். நான் யார்?
+
+- அ) காகம்
+- ஆ) கிளி
+- இ) புறா
+- ஈ) கழுகு
+
+**சரியான விடை:** அ) காகம்
+
+**காரண விளக்கம்:** புதிரில் கூறப்பட்ட கருமை, கூட்டமாக அமர்ந்து ஒலித்தல், கூடு கட்டுதல், வருகையை முன்கூட்டியே குரலால் அறிவித்தல் ஆகிய குறிப்புகள் காகத்திற்குப் பொருந்துகின்றன.
+
+**விடை ஆதாரம்:** [TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html) · [Malar Mahendran — இயல் 5 மொழியை ஆள்வோம்](https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/)
 
 ## Source / Wording QA
 - Q1-ல் `questions.md` “மாபாதை தமிழப்படுத்தும்” என உள்ளது; ஆதாரப் பக்கங்களில் “மாபாரதம் தமிழ்ப்படுத்தும்” என உள்ளது. மூலக் கேள்வி மாற்றப்படாமல், wording variant பதிவு செய்யப்பட்டுள்ளது.
