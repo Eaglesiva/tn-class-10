@@ -186,3 +186,190 @@
 **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பொதுவாழ்வில் போலியாக நடந்து கொள்ளக் கூடாது; நடிப்புக் கலையில் அவரை மிஞ்ச யாருமில்லை.
 
 **விடை ஆதாரம்:** [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/) · [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 12
+lute music என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) யாழிசை
+- ஆ) அறை
+- இ) பேத்தி
+- ஈ) நெட்டுரு
+
+**சரியான விடை:** அ) யாழிசை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடநூல் கவிதையில் “lute music” என்பதற்கு “யாழிசை” எனப் பொருள் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 13
+chamber என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) நீதிநூல் திரட்டு
+- ஆ) அறை
+- இ) எட்டிப் பார்த்தல்
+- ஈ) யாழிசை
+
+**சரியான விடை:** ஆ) அறை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “Coming from the chamber” என்ற வரிக்கு இணையாக “அறைக்குள் யாழிசை” எனப் பாடல் அமைந்துள்ளது; chamber என்பது அறை.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 14
+to look up என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) பேத்தி
+- ஆ) நெட்டுரு
+- இ) எட்டிப் பார்த்தல்
+- ஈ) யாழிசை
+
+**சரியான விடை:** இ) எட்டிப் பார்த்தல்
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடநூல் கவிதையில் “to look up” என்பதற்கு “எட்டிப் பார்த்தல்” என இணைக்கப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 15
+grand-daughter என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) பேத்தி
+- ஆ) அறை
+- இ) நெட்டுரு
+- ஈ) யாழிசை
+
+**சரியான விடை:** அ) பேத்தி
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கவிதையில் grand-daughter என்பதற்கு “பேத்தி” எனத் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 16
+rote என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) எட்டிப் பார்த்தல்
+- ஆ) நீதிநூல் திரட்டு
+- இ) அறை
+- ஈ) நெட்டுரு
+
+**சரியான விடை:** ஈ) நெட்டுரு
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “Learning by rote” என்ற சொல்லாக்கத்தில் rote என்பதற்கு “நெட்டுரு” என இணைக்கப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 17
+didactic compilation என்பதற்கான தமிழ்ச் சொல் எது?
+
+- அ) யாழிசை
+- ஆ) நீதிநூல் திரட்டு
+- இ) பேத்தி
+- ஈ) அறை
+
+**சரியான விடை:** ஆ) நீதிநூல் திரட்டு
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** பாடநூல் கவிதையில் didactic compilation என்பதற்கு “நீதிநூல் திரட்டு” எனத் தரப்பட்டுள்ளது.
+
+**விடை ஆதாரம்:** [BrainKart — இயல் 5 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11841/)
+
+
+---
+
+### வினா 18
+ஆதிரையின் “ஆமாம்! கவியரங்கத்துக்குக் கவிதை எழுதிக்கொண்டிருக்கிறேன்.” என்ற பதில் எந்த வகை?
+
+- அ) நேர் விடை
+- ஆ) உற்றது உரைத்தல் விடை
+- இ) சுட்டு விடை
+- ஈ) வினா எதிர் வினாதல் விடை
+
+**சரியான விடை:** ஆ) உற்றது உரைத்தல் விடை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கேள்விக்குப் பதிலாக தற்போது நிகழும் செயலை நேரடியாகக் கூறுவதால் இது உற்றது உரைத்தல் விடை.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 19
+பாமகளின் “அப்படியா! என்ன தலைப்பு?” என்ற வினா எந்த வகை?
+
+- அ) ஐய வினா
+- ஆ) அறியா வினா
+- இ) ஏவல் வினா
+- ஈ) அறி வினா
+
+**சரியான விடை:** ஆ) அறியா வினா
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** தலைப்பு என்ன என்பதை அறிந்துகொள்ளக் கேட்பதால் இது அறியா வினா.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 20
+ஆதிரையின் “கல்வியில் சிறக்கும் தமிழர்!” என்ற பதில் எந்த வகை?
+
+- அ) நேர் விடை
+- ஆ) மறை விடை
+- இ) ஏவல் விடை
+- ஈ) சுட்டு விடை
+
+**சரியான விடை:** அ) நேர் விடை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “என்ன தலைப்பு?” என்ற வினாவுக்கு நேரடியாகத் தலைப்பைக் கூறுவதால் இது நேர் விடை.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 21
+“நீங்கள் கவியரங்கத்துக்கு எல்லாம் வருவீர்களோ? மாட்டீர்களோ?” என்ற வினா எந்த வகை?
+
+- அ) அறியா வினா
+- ஆ) ஏவல் வினா
+- இ) ஐய வினா
+- ஈ) அறி வினா
+
+**சரியான விடை:** இ) ஐய வினா
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** வருவாரா மாட்டாரா என்ற ஐயத்தை நீக்கிக் கொள்ள வினவுவதால் இது ஐய வினா.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
+
+
+---
+
+### வினா 22
+பாமகளின் “ஏன் வராமல்?” என்ற பதில் எந்த வகை?
+
+- அ) வினா எதிர் வினாதல் விடை
+- ஆ) சுட்டு விடை
+- இ) உற்றது உரைத்தல் விடை
+- ஈ) மறை விடை
+
+**சரியான விடை:** அ) வினா எதிர் வினாதல் விடை
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** வினாவுக்குப் பதிலாக இன்னொரு வினாவைக் கேட்டு உடன்பாட்டை உணர்த்துவதால் இது வினா எதிர் வினாதல் விடை.
+
+**விடை ஆதாரம்:** [BrainKart — வினா, விடை வகைகள்](https://www.brainkart.in/article/Grammar--Vina%2C-vidai-vakaikal%2C-porulkol_11839/) · [VirkozKalvi — இயல் 5.5](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
