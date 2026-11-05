@@ -153,3 +153,23 @@
 
 ## Additional direct source
 [BrainKart — இயல் 2 முழு Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11815/)
+
+
+---
+
+### வினா 10 — VII-2 (ஒருமதிப்பெண் வினா)
+
+“அரும்பாகி மொட்டாகிப் பூவாகி…” என்பதை ஒத்து அமைந்துள்ள தொடரைக் கண்டறிக.
+
+- அ) மூங்கில் பூவில் காய் தோன்றிக் கனியாகி அதிலிருந்து ஒருவகை அரிசி தோன்றும்.
+- ஆ) அகவிதழ் முதலிய உறுப்புகள் இருந்து அவை புறத்தே காட்சிப்படாமல் உள்ளேயே பொதிந்திருக்கும் மலர்கள்.
+- இ) பூ உண்டு; ஆனால் கண்ணிற்குக் காட்சி தராமல் காண்பதற்கு அரியனவாய் இருக்கும் மலர்கள்.
+- ஈ) மலர் உண்டு; பெயரும் உண்டு; ஆனால் இதுதான் அது என்று உறுதியாக அறிய இயலாத மலர்கள்.
+
+**சரியான விடை:** அ) மூங்கில் பூவில் காய் தோன்றிக் கனியாகி அதிலிருந்து ஒருவகை அரிசி தோன்றும்.
+
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “அரும்பு–மொட்டு–பூ” என்ற வளர்ச்சி வரிசைக்கு ஒத்தபடி, மூங்கில் பூவிலிருந்து காய் தோன்றி கனியாகி அரிசி உருவாகும் படிநிலைத் தொடரை பாடநூல் உரை தருகிறது.
+
+**விடை ஆதாரம்:** [CBSETamil — இயல் 2.5](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-2-5/) · [KalviTips — இயல் 2, 2025](https://www.kalvitips.com/2025/05/10th-tamil-book-back-answers-unit-2-guide-tamilnadu-school-books.html) · [KalviKavi — இயல் 2, 2025](https://www.kalvikavi.com/2025/06/10th-tamil-unit-2-book-back-answers.html) · [StudentsGuide360 — புதிய பாடத்திட்டம்](https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/)
+
+**Source variant குறிப்பு:** முந்தைய சில Guide-கள் “அகவிதழ்…” என்ற வேறுபட்ட தொடரைத் தருவதால், அது answers.md-ல் தனியாகப் பதிவு செய்யப்பட்டுள்ளது.
