@@ -663,3 +663,35 @@ Rearrange the ten supplied sentences in coherent order.
 - **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
 - **Status:** ANSWER_FOUND
 
+### 10_eng_u1_q40 — In the Parts of Speech chart, what is the noun form corresponding to the adjective “mad”?
+- **S1 — OMTEX:** madness — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** madness — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** madness — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “madness” as the noun form corresponding to the adjective “mad”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q41 — In the Parts of Speech chart, what is the verb form corresponding to the adjective “mad”?
+- **S1 — OMTEX:** madden — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** madden — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** madden — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “madden” as the verb form corresponding to the adjective “mad”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q42 — In the Parts of Speech chart, what is the adverb form corresponding to the adjective “mad”?
+- **S1 — OMTEX:** madly — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** madly — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** madly — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “madly” as the adverb form corresponding to the adjective “mad”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q43 — In the Parts of Speech chart, what is the noun form corresponding to the adverb “perfectly”?
+- **S1 — OMTEX:** perfection — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** perfection — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** perfection — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “perfection” as the noun form corresponding to “perfectly”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
