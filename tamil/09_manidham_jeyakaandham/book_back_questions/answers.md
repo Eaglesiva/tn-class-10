@@ -540,3 +540,35 @@
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q17`
 
+
+
+### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 4
+
+#### 1. வலமிருந்து இடம் 16 — மதிமுகம் உவமை எனில் முகமதி ………… (5)
+- **Source answer:** உருவகம்
+- **காரண விளக்கம்:** முகம் நிலவைப் போன்றது என்ற உவமை மாற்றத்தில், முகமே மதி எனக் கூறப்படுவது உருவகம்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q18`
+
+#### 2. கீழிருந்து மேல் 5 — விடையின் வகைகள் (3)
+- **Source answer:** எட்டு
+- **காரண விளக்கம்:** விடைகள் பொதுவாக எட்டு வகைகளாகப் பகுக்கப்படுகின்றன எனப் பாடவிடை ஆதாரம் தருகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q19`
+
+#### 3. கீழிருந்து மேல் 6 — வீரமாமுனிவர் இயற்றிய நூல் (5)
+- **Source answer:** தேம்பாவணி
+- **காரண விளக்கம்:** தேம்பாவணி வீரமாமுனிவர் இயற்றிய தமிழ் காப்பியமாகும்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q20`
+
+#### 4. கீழிருந்து மேல் 8 — பிள்ளைத்தமிழின் இரண்டாம் பருவம் (4)
+- **Source answer:** செங்கீரை
+- **காரண விளக்கம்:** பிள்ளைத்தமிழின் பருவ வரிசையில் இரண்டாவது பருவம் செங்கீரை ஆகும்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q21`
+
