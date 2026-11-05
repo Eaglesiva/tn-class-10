@@ -22,7 +22,7 @@
 | 2 | Non-objective கேள்விகள் | விடை எழுத வேண்டாம்; 3 காலி placeholders + எல்லா சரிபார்க்கப்பட்ட direct source links மட்டும் |
 | 3 | மூன்று Answer Tiers | 🔑 விடைக்குறிப்பு, 📝 சாதாரண விடை, 📖 விரிவான விடை — அனைத்தும் [TO_BE_PREPARED_LATER] |
 | 4 | Objective / one-word / MCQ | Source-ல் காணப்பட்ட option code + குறுகிய answer text மட்டும்; ஒவ்வொரு source தனித்தனியாக |
-| 5 | காரண விளக்கம் | இலக்கண விதி சார்ந்த கேள்வி என்றும், பொருந்தும் உண்மையான இலக்கண விதி direct source-ல் உறுதி செய்யப்பட்டதென்றும் இருந்தால் மட்டும் 1–2 வரி |
+| 5 | காரண விளக்கம் | ஒவ்வொரு one-mark / one-word வினாவுக்கும் பொருத்தமான காரண விளக்கம்: இலக்கணம், பாடநூல் சொற்பொருள், பாடப்பொருள், வகைப்பாடு அல்லது பொதுத் தகவல்; ஆதார URL கட்டாயம் |
 | 6 | பொருள்/அறிவு சார்ந்த MCQ | பொருத்தமான இலக்கண விதி இல்லையெனில் காரணம் உருவாக்கக்கூடாது; REASON_NOT_REQUIRED |
 | 7 | Source எண்ணிக்கை | 3 அல்லது 5 என்ற வரம்பு இல்லை; உண்மையில் பதில் உள்ள எல்லா சரிபார்க்கப்பட்ட source-களையும் சேர்க்க வேண்டும் |
 | 8 | Source fidelity | ஒவ்வொரு தளமும் சொல்வதை தனித்தனியாக வைக்க வேண்டும்; விடைகளை merge செய்யவோ ஒன்றைத் தேர்ந்தெடுத்து மற்றதை மறைக்கவோ கூடாது |
@@ -54,6 +54,7 @@
 | questions.md | அசல் Book Back Questions; இந்த Answer Source பணியில் read-only |
 | quiz.md | Objective quiz-க்கான தனி வாசிப்பு வடிவம் |
 | quiz.json | Quiz structured data |
+| quiz.start.md / quiz.start.json | One-mark quiz generation-க்கான இடைநிலை input/output கோப்புகள் என user குறிப்பிடுகிறார்; இந்த branch-ல் schema/blueprint இல்லை. Antigravity வழங்கும் canonical schema கிடைத்த பிறகே உருவாக்க வேண்டும் |
 | answers.md | கேள்வி வாரியான answer source links; objective source answers; தேவையான grammar-rule reason; non-objective காலி placeholders |
 
 Project-wide edition/source research docs/PROJECT_BLUEPRINT_TA.md-ல் இருக்கும். Chapter-specific answer collection rules ANSWER_RESEARCH_BLUEPRINT_TA.md-ல் இருக்கும்.
@@ -63,16 +64,38 @@ Project-wide edition/source research docs/PROJECT_BLUEPRINT_TA.md-ல் இர�
 Quiz பணி Answer Source Collection-இலிருந்து தனியாகவே இருக்கும்.
 
 ### Quiz-ல் சேர்க்கக்கூடியவை
-- Textbook-ல் ஏற்கெனவே one-word / one-mark / objective வடிவில் உள்ள கேள்விகள்.
-- பாடநூலில் நேரடியாக நான்கு தேர்வுகளுடன் உள்ள MCQ.
-- Textbook-ன் நோக்கம் மாறாமல் ஒரே சரியான விடை உறுதியாகக் கிடைக்கும் objective வகைகள்.
+- பாடநூலில் நேரடியாக உள்ள one-word / one-mark / objective கேள்விகள்.
+- பாடநூலில் ஏற்கெனவே நான்கு தேர்வுகளுடன் உள்ள MCQ-கள் — கேள்வி, option வரிசை, சரியான விடை ஆகியவற்றை source-க்கு ஏற்றபடி பாதுகாத்து பயன்படுத்த வேண்டும்.
+- பாடநூலில் one-word / one-mark வினாவாக உள்ள fill-in-the-blank, பொருத்துக, கூற்று சார்ந்த வினா, சொல்/பொருள் தேர்வு போன்ற பிற objective வடிவங்கள் — அவற்றின் மூல வினா நோக்கத்தை மாற்றாமல் நான்கு-option MCQ-ஆக மாற்றலாம்.
+- இவ்வாறு மாற்றும்போது ஒரு சரியான விடை + மூன்று தவறான ஆனால் நம்பத்தகுந்த distractor-கள் அமைக்க வேண்டும். சரியான விடை source-ல் உறுதிப்படுத்தப்பட்டிருக்க வேண்டும்; distractor-கள் கேள்வியின் பாடப்பகுதியைச் சேர்ந்த தவறான தேர்வுகளாக இருக்க வேண்டும்.
+- ஒவ்வொரு one-mark வினாவுக்கும் பொருத்தமான காரண விளக்கம் சேர்க்க வேண்டும். அது இலக்கண விதி, பாடநூல் சொற்பொருள், பாடப்பொருள் விளக்கம், வகைப்பாடு அல்லது பொது அறிவு சார்ந்ததாக இருக்கலாம். காரண விளக்கத்திற்கும் தனி ஆதார URL கட்டாயம்.
+- ஏற்கெனவே 4 options உள்ள கேள்விகளின் option-களை தேவையின்றி மறுஎழுதவோ மாற்றவோ கூடாது.
 
 ### Quiz-ல் சேர்க்கக்கூடாதவை
 - குறுவினா, சிறுவினா, நெடுவினா.
 - திறந்தநிலை உரையாடல், மேடைப்பேச்சு, கட்டுரை, எழுதிப் பழகும் பணிகள்.
-- பெரிய கேள்விகளை செயற்கையாக MCQ-ஆக மாற்றுதல்.
+- பெரிய கேள்வியின் உள்ளடக்கத்திலிருந்து புதிதாக ஒரு one-word / MCQ வினாவை உருவாக்குதல்.
+- நீண்ட விடையின் ஒரு வரியை மட்டும் வெட்டி objective கேள்வியாகக் காட்டுதல்.
+- பாடநூலில் இல்லாத கேள்வி வடிவம் அல்லது வெளியிலிருந்து உருவாக்கிய புதிய வினாக்களை book-back quiz எனக் கலப்பது.
 
-Quiz-இல் காரண விளக்கம் தேவைப்பட்டாலும் அது பாடநூல்/இலக்கண விதி/நேரடி Answer Source ஆதாரத்துடன் தனியாகச் சரிபார்க்கப்பட வேண்டும். Answer Source கோப்புக்கான விதிகளை Quiz கோப்புக்கு மாற்றிப் பயன்படுத்தக்கூடாது; அதேபோல் Quiz விளக்கத்தை வைத்து answers.md-ல் மாணவர் விடை உருவாக்கக்கூடாது.
+### Answer-to-Quiz data flow
+- `answers.md` தான் answer verification-க்கான canonical source register: source-wise correct answer, conflict status, reason text, reason source URL ஆகியவை அங்கே முதலில் உறுதி செய்யப்பட வேண்டும்.
+- அதே verified one-mark question, correct answer, reason, source links ஆகியவை Antigravity வழங்கும் schema-க்கு ஏற்ப `quiz.start.md` / `quiz.start.json`-க்கு மாற்றப்பட வேண்டும்.
+- Quiz output-ல் answer.md-ல் இல்லாத அல்லது உறுதிசெய்யப்படாத correct answer உருவாக்கக்கூடாது.
+- ஒரு கேள்விக்கு source conflict தீர்க்கப்படவில்லை என்றால் அது final quiz-க்கு செல்லக்கூடாது; `CONFLICT_REVIEW_REQUIRED` எனத் தற்காலிகமாக நிறுத்த வேண்டும்.
+- Non-objective கேள்விகளின் மூன்று answer tiers quiz-க்கு செல்லாது.
+
+### காரண விளக்கம் — எல்லா one-mark கேள்விகளுக்கும்
+- இலக்கணம் மட்டுமல்ல; பாடநூல் சொற்பொருள், இலக்கிய/பாடப்பொருள், தாவர/வகைப்பாடு, பொதுத் தகவல் போன்றவற்றுக்கும் வினாவுக்கு ஏற்ற விளக்கம் தர வேண்டும்.
+- முதன்மை ஆதாரம் பாடநூலின் தொடர்புடைய பகுதி. தேவைப்பட்டால் நம்பகமான வெளி source பயன்படுத்தலாம்.
+- Extractor தன் சொற்களில் விளக்கத்தைச் சுருக்கினால் `Extractor-written explanation based on cited source` என்று label செய்ய வேண்டும்.
+- ஆதாரம் இல்லாத விளக்கத்தை ஊகிக்கக்கூடாது; `EXPLANATION_SOURCE_NOT_FOUND` என்று குறிக்க வேண்டும்.
+
+### quiz.start schema status
+- இந்த repository / working branch-ல் `quiz.start.md`, `quiz.start.json` அல்லது அவற்றுக்கான dedicated blueprint கண்டறியப்படவில்லை.
+- தற்போது உள்ள `quiz.md`, `quiz.json` என்பது ஏற்கெனவே உள்ள quiz artifact-கள்; அவை quiz.start schema-வாகக் கருதப்படக்கூடாது.
+- Antigravity-யிடம் canonical field list, ID convention, option format, correct-answer representation, explanation/source fields, conversion rules, sample files ஆகியவற்றைக் கேட்டு பெற வேண்டும்.
+- அந்த schema கிடைக்கும் வரை quiz.start கோப்புகளை உருவாக்கவோ, தற்போதைய quiz.md/json-ஐ overwrite செய்யவோ கூடாது.
 
 ## 5. Answer Source Collection — தற்போதைய ஒரே நடைமுறை
 
@@ -96,7 +119,7 @@ Quiz-இல் காரண விளக்கம் தேவைப்பட்
 - Source-கள் முரண்பட்டால் ஒவ்வொன்றையும் காட்டி CONFLICT எனக் குறி.
 - இலக்கண விதி கேள்வி என்றால் மட்டுமே, பொருந்தும் விதியை நேரடியாக விளக்கும் இலக்கண source-ஐத் திறந்து, 1–2 வரி காரண விளக்கத்தை எழுது.
 - அந்தக் காரண விளக்கத்தின் direct grammar-rule URL கட்டாயம்.
-- காரண விளக்கம் source-லிருந்து verbatim copy அல்ல; cited grammar rule-ஐ அடிப்படையாகக் கொண்டு extractor எழுதும் குறுகிய குறிப்பு. அதை "Extractor-written explanation based on cited grammar rule" என்று தெளிவாக label செய்.
+- காரண விளக்கம் source-லிருந்து verbatim copy அல்ல; cited grammar rule / textbook fact / subject-matter source-ஐ அடிப்படையாகக் கொண்டு extractor எழுதும் குறுகிய குறிப்பு. அதை "Extractor-written explanation based on cited source" என்று தெளிவாக label செய்.
 - பொருள்/பொது அறிவு சார்ந்த MCQ-க்கு இலக்கண காரணம் தேடிப் பொருத்தக்கூடாது.
 
 ### 5.3 Source எண்ணிக்கை மற்றும் source தரம்
@@ -360,7 +383,7 @@ Guide புத்தகத்தின் பெயர் அல்லது �
 | பல website answer-களை ஒன்றாக்குதல் | ஒவ்வொரு source தனித்தனி record |
 | Source-ல் இல்லாத answer-ஐ அந்தத் தளத்துக்கு உரிமை கூறுதல் | direct page open செய்து answer இருப்பதை உறுதி செய் |
 | Search snippet-ஐ source proof என எடுத்துக்கொள்ளுதல் | original answer page திறக்கப்பட வேண்டும் |
-| காரண விளக்கம் ஊகித்து எழுதுதல் | நேரடி grammar-rule source ஆதாரம் இல்லையெனில் காரணம் எழுத வேண்டாம் |
+| காரண விளக்கம் ஊகித்து எழுதுதல் | பாடநூல் / இலக்கணம் / பொருள் விளக்க source ஆகியவற்றில் பொருத்தமான ஆதாரம் தேடு; ஆதாரம் இல்லையெனில் EXPLANATION_SOURCE_NOT_FOUND |
 | பொதுப் பொருள் வினாவுக்கு இலக்கண காரணம் சேர்த்தல் | REASON_NOT_REQUIRED |
 | வேறுபட்ட source answers-ல் ஒன்றை மறைத்தல் | எல்லா variants-ஐ பதிவு செய்து CONFLICT |
 | Source question பழைய/வேறுபட்ட edition | WORDING_VARIANT / QUESTION_MISMATCH |
@@ -401,11 +424,11 @@ Guide புத்தகத்தின் பெயர் அல்லது �
 
 **Non-objective output:** 🔑 விடைக்குறிப்பு, 📝 சாதாரண விடை, 📖 விரிவான விடை — மூன்றும் [TO_BE_PREPARED_LATER]; அதன் கீழ் எல்லா direct source links மட்டும்.
 
-**Objective output:** Source-ல் உண்மையில் காணப்பட்ட option code + short answer, source-wise. Grammar-rule based question என்றால் மட்டுமே authoritative grammar source மூலம் short reason. மற்ற objective questions-க்கு reason எழுத வேண்டாம்.
+**Objective output:** Source-ல் உண்மையில் காணப்பட்ட option code + short answer, source-wise. ஒவ்வொரு one-mark வினாவுக்கும் கேள்விக்கு ஏற்ற grammar / textbook / subject-matter காரண விளக்கம் மற்றும் direct supporting URL.
 
 **Sources:** 3/5 count cap கிடையாது. உண்மையில் சரிபார்க்கப்பட்ட எல்லா relevant pages/PDFs-ஐ சேர்க்கவும். Product page ≠ Guide PDF.
 
-**Never:** Own model answer, paraphrase as source text, source merge, unsupported answer, question wording alteration, deploy, merge to main, delete.
+**Never:** Non-objective own model answer, paraphrase as source text, source merge, unsupported answer, question wording alteration, பெரிய வினாவிலிருந்து புதிய one-word வினா உருவாக்குதல், deploy, merge to main, delete.
 
 **Current chapter:** Class 10 Tamil — Iyal 1, tamil/01_mozhi_amuthaootru/book_back_questions/.
 
@@ -425,7 +448,7 @@ Guide புத்தகத்தின் பெயர் அல்லது �
 ### 15.3 Objective answer
 - ஒவ்வொரு source கூறும் option code + short answer மட்டும்.
 - Conflict இருந்தால் ஒவ்வொன்றும் தனித்தனி.
-- காரண விளக்கம் இலக்கண விதியால் நிரூபிக்கக்கூடிய கேள்விகளுக்கு மட்டும்; நேரடி grammar source URL கட்டாயம்.
+- ஒவ்வொரு one-mark / one-word வினாவுக்கும் பொருத்தமான காரண விளக்கம் தேடு; இலக்கணம், பாடநூல், சொற்பொருள், பாடப்பொருள் அல்லது பொதுத் தகவல் எனப் பொருத்தமான ஆதார URL கட்டாயம்.
 
 ### 15.4 Non-objective answer
 - மூன்று placeholder-களையும் காலியாக வை.
@@ -585,7 +608,7 @@ The 2025 Revised 184-page publication's first Iyal text includes the printed for
 1. தற்போதைய 248-page / 9-Iyal Tamil book source மற்றும் அதன் edition audit result-ஐ reference ஆக வைத்துக் கொள்ளவும்.
 2. questions.md-இல் உள்ள கேள்வி உரை மற்றும் inventory மாற்றமின்றி பயன்படுத்தப்பட வேண்டும்.
 3. ஒவ்வொரு கேள்விக்கும் direct answer page / Guide PDF தேடித் திறந்து verify செய்யவும்.
-4. Objective questions-க்கு source-ல் காணப்பட்ட option code + answer text மட்டும்; இலக்கண விதி ஆதாரம் கிடைத்தால் மட்டும் காரண விளக்கம்.
+4. Objective questions-க்கு source-ல் காணப்பட்ட option code + answer text; எல்லா one-mark வினாக்களுக்கும் பொருத்தமான source-based காரண விளக்கம்.
 5. குறுவினா/சிறுவினா/நெடுவினா/திறந்தநிலை வினாக்களுக்கு மூன்று empty placeholders + source links மட்டும்.
 6. Old Answer Website-ன் question wording வேறுபட்டால் WORDING_VARIANT / QUESTION_MISMATCH என்று குறிக்கவும்; கேள்வியை மாற்றக்கூடாது.
 7. Source conflict, inaccessible page, missing answer ஆகியவை தெளிவாகப் பதிவு செய்யப்பட வேண்டும்.
@@ -794,7 +817,7 @@ If chapter structure or exercises change substantially, re-extract the entire cu
 3. ஒவ்வொரு page-ஐத் திறந்து answer உண்மையில் உள்ளதா, கேள்வி exact match ஆகிறதா என்று பதிவு செய்யவும்.
 4. Non-objective questions: விடைக்குறிப்பு, சாதாரண விடை, விரிவான விடை மூன்றையும் [TO_BE_PREPARED_LATER] ஆக விட்டு, source links மட்டும் சேர்.
 5. Objective questions: source-ல் காணப்பட்ட குறுகிய option/answer ஒவ்வொன்றையும் தனித்தனியாக சேர்; 3/5 source cap கிடையாது.
-6. Grammar-rule objective questions-க்கு மட்டும் verified grammar rule source URL உடன் 1–2 வரி காரண விளக்கம் சேர்க்கலாம்.
+6. எல்லா one-mark / one-word வினாக்களுக்கும் காரண விளக்கம் தேடு: grammar / textbook vocabulary / lesson content / classification / general knowledge. 1–3 வரி விளக்கத்துடன் supporting URL கொடு.
 7. Conflict / wording mismatch / access block / missing answer-ஐ பதிவு செய்; unsupported choice செய்யாதே.
 8. Quiz file உருவாக்குதல் தனி task; அதற்கான தனி அறிவுறுத்தல் இல்லாமல் quiz files மாற்றாதே.
 9. இந்தக் கட்டத்தில் சொந்த model answers எழுதப்படமாட்டாது.
