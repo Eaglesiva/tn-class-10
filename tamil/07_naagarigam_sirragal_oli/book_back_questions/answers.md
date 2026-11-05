@@ -395,3 +395,35 @@ Among the five geographical divisions of the Tamil country in Sangam literature,
 - **விடை ஆதாரம்:** [CBSE Tamil — இயல் 7.6 புறப்பொருள் இலக்கணம் / மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-7-6/) — ஊர்ப்பெயர்–மரூஉ அட்டவணை.
 - **சரிபார்ப்பு:** ANSWER_FOUND; questions.md-இல் உள்ள 11 ஊர்ப்பெயர்களும் ஆதாரப் பக்கத்தில் உள்ளன. தஞ்சாவூர்–தஞ்சை எடுத்துக்காட்டு கேள்வியிலேயே கொடுக்கப்பட்டுள்ளது; அதனை மீண்டும் Quiz வினாவாகச் சேர்க்கவில்லை.
 - **Quiz நிலை:** இவை தனித்தனி ஒருசொல் விடை வினாக்கள். நான்கு தேர்வுகளுடன் Quiz-ஆக மாற்ற வேண்டியவை; தற்போதைய Quiz-ல் இன்னும் சேர்க்கப்படவில்லை.
+
+
+### Dictionary lookup — ஒருசொல் / பொருள் வினாக்கள்
+
+#### Q6 — மிரியல் என்பதன் அகராதிப் பொருள்
+- **S1 — SaraNextGen:** மிளகு — [இயல் 7.6 புறப்பொருள் இலக்கணம்](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S2 — KalviVithaigal:** மிளகு — [இயல் 7 மெல்லக் கற்போர் வழிகாட்டி](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மிரியல் என்பது மிளகைக் குறிக்கும் பழந்தமிழ்ச் சொல்.
+- **Quiz ID:** `10_tam_u7_q6`
+- **நிலை:** ANSWER_FOUND
+
+#### Q7 — வருத்தனை என்பதன் அகராதிப் பொருள்
+- **S1 — SaraNextGen:** பிழைப்பு; தொழில்; பெருகுதல்; மானிய உரிமை; சம்பளம் — [இயல் 7.6 புறப்பொருள் இலக்கணம்](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S2 — KalviVithaigal:** தொழில்; பிழைப்பு — [இயல் 7 மெல்லக் கற்போர் வழிகாட்டி](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** வருத்தனை என்பதற்கு வாழ்வாதாரம்/தொழில் உள்ளிட்ட பொருள்கள் ஆதாரத்தில் தரப்பட்டுள்ளன.
+- **Quiz ID:** `10_tam_u7_q7`
+- **நிலை:** ANSWER_FOUND
+
+#### Q8 — அதசி என்பதன் அகராதிப் பொருள்
+- **S1 — SaraNextGen:** சணல் — [இயல் 7.6 புறப்பொருள் இலக்கணம்](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S2 — KalviVithaigal:** சணல் — [இயல் 7 மெல்லக் கற்போர் வழிகாட்டி](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** அதசி என்பது சணல் செடியைக் குறிக்கும்.
+- **Quiz ID:** `10_tam_u7_q8`
+- **நிலை:** ANSWER_FOUND
+
+#### Q9 — துரிஞ்சில் என்பதன் அகராதிப் பொருள்
+- **S1 — SaraNextGen:** வௌவால் வகை; சீக்கரி மரம் — [இயல் 7.6 புறப்பொருள் இலக்கணம்](https://www.saranextgen.com/help/48w/254/chapter-7-6-purapporul-ilakkanam-chapter-7-6-10th-tamil-guide-samacheer-kalvi-solutions)
+- **S2 — KalviVithaigal:** வௌவால் வகை — [இயல் 7 மெல்லக் கற்போர் வழிகாட்டி](https://www.kalvivithaigal.com/2022/07/10th-tamil-unit-7-slow-learners-guide.html)
+- **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** துரிஞ்சில் என்பதற்கு வௌவால் வகை மற்றும் சீக்கரி மரம் என்ற பொருள்கள் தரப்பட்டுள்ளன.
+- **Quiz ID:** `10_tam_u7_q9`
+- **நிலை:** ANSWER_FOUND
+
