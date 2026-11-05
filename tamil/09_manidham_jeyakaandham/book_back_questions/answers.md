@@ -476,3 +476,35 @@
 - **நிலை:** ANSWER_FOUND
 - **Quiz ID:** `10_tam_u9_q9`
 
+
+
+### குறுக்கெழுத்துப் போட்டி — Objective quiz batch 2
+
+#### 1. மேலிருந்து கீழ் 1 — முல்லைத் திணைக்குரிய பெரும்பொழுது (5)
+- **Source answer:** கார்காலம்
+- **காரண விளக்கம்:** முல்லைத் திணைக்குரிய பெரும்பொழுது கார்காலம் என வகைப்படுத்தப்படுகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q10`
+
+#### 2. மேலிருந்து கீழ் 2 — மொழிஞாயிறு (9)
+- **Source answer:** தேவநேயப்பாவாணர்
+- **காரண விளக்கம்:** “மொழிஞாயிறு” என்ற சிறப்புப்பெயர் தேவநேயப்பாவாணரைக் குறிக்கிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q11`
+
+#### 3. மேலிருந்து கீழ் 3 — நல்ல என்னும் அடைமொழி கொண்ட தொகைநூல் (5)
+- **Source answer:** குறுந்தொகை
+- **காரண விளக்கம்:** “நல்ல குறுந்தொகை” என்பது சங்கத் தொகைநூலின் மரபுவழிப் பெயராக வழங்குகிறது.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q12`
+
+#### 4. மேலிருந்து கீழ் 4 — கழை என்பதன் பொருள் (4)
+- **Source answer:** மூங்கில்
+- **காரண விளக்கம்:** “கழை” என்பது மூங்கிலைச் சுட்டும் சொல்.
+- **விடை ஆதாரம்:** [CBSETamil — இயல் 9.5 குறுக்கெழுத்துப் புதிர்](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-9-5/) · [StudentsGuide360 — இயல் 9.5](https://www.studentsguide360.com/10th-tamil-guide-unit-9-5/)
+- **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u9_q13`
+
