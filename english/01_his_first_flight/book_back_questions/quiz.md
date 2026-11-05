@@ -672,3 +672,71 @@ In the Parts of Speech chart, what is the adverb form corresponding to the verb 
 **Explanation (extractor-written from cited source):** The chart lists “widely” as the adverb form corresponding to the verb “widen”.
 
 **Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 40 — Prose C
+In the Parts of Speech chart, what is the noun form corresponding to the adjective “mad”?
+
+- a) madly
+- b) madness
+- c) madden
+- d) mad
+
+**Correct answer:** b) madness
+
+**Explanation (extractor-written from cited source):** The chart lists “madness” as the noun form corresponding to the adjective “mad”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 41 — Prose C
+In the Parts of Speech chart, what is the verb form corresponding to the adjective “mad”?
+
+- a) madness
+- b) madly
+- c) madden
+- d) mad
+
+**Correct answer:** c) madden
+
+**Explanation (extractor-written from cited source):** The chart lists “madden” as the verb form corresponding to the adjective “mad”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 42 — Prose C
+In the Parts of Speech chart, what is the adverb form corresponding to the adjective “mad”?
+
+- a) madly
+- b) madness
+- c) madden
+- d) mad
+
+**Correct answer:** a) madly
+
+**Explanation (extractor-written from cited source):** The chart lists “madly” as the adverb form corresponding to the adjective “mad”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+
+
+---
+
+### Question 43 — Prose C
+In the Parts of Speech chart, what is the noun form corresponding to the adverb “perfectly”?
+
+- a) perfect
+- b) perfection
+- c) perfected
+- d) perfectly
+
+**Correct answer:** b) perfection
+
+**Explanation (extractor-written from cited source):** The chart lists “perfection” as the noun form corresponding to “perfectly”.
+
+**Answer sources:** [OMTEX](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [Learn Cram](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/) · [TamilSangamam](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
