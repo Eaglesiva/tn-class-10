@@ -61,7 +61,7 @@
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
-**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+**QC:** WORDING_VARIANT — questions.md-ல் “கொளவோர் கொளக / உளவாய்”; BrainKart-ல் “கொள்வோர் கொள்க / உள்வாய்”. செய்யுள் சொல் வடிவம் வேறுபடுகிறது; அசல் questions.md உரை மாற்றப்படவில்லை.
 
 ---
 
