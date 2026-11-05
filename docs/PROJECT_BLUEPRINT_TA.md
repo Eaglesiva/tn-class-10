@@ -1,39 +1,39 @@
 # TN Samacheer Kalvi — Project Blueprint & Source Research Report
 
-> **ஆவண நிலை:** Working Blueprint / Initial Source Research  
-> **ஆய்வு தேதி:** 03-11-2026  
+> **ஆவண நிலை:** Current user-approved workflow + retained source research  
+> **கடைசி Workflow Update:** 05-11-2026  
 > **மொழி:** தமிழ் + தேவையான Technical English  
 > **Repository Reference:** [Eaglesiva/tn-class-10](https://github.com/Eaglesiva/tn-class-10)
 
 ## 1. Project நோக்கம்
 
-தமிழ்நாடு Samacheer Kalvi வகுப்பு 1–12 பாடப்புத்தகங்களில் உள்ள Book Back Questions-ஐச் சரிபார்த்து, இரண்டு தனித்தனி பணிகளைச் செய்வது:
+தமிழ்நாடு Samacheer Kalvi வகுப்பு 1–12 பாடப்புத்தகங்களின் Book Back Questions-ஐ ஏற்கெனவே உள்ள extraction-ஐ அடிப்படையாகக் கொண்டு சரிபார்த்து, ஒவ்வொரு Subject / Chapter-க்கும் கீழே உள்ள குறுகிய workflow-ஐப் பின்பற்றுவது:
 
-1. **Quiz Creation:** ஏற்கெனவே One-word / Objective / MCQ வடிவில் உள்ள கேள்விகளை மட்டும் Quiz-ஆக அமைத்தல்.
-2. **Answer Reference Collection:** Book Back-ல் உள்ள எல்லா வகைக் கேள்விகளுக்கும் Website, Professional Guide PDF மற்றும் தேவையான பிற வெளிப்புற Source-களிலிருந்து பதில்களைச் சேகரித்தல்.
+1. **Question Check:** questions.md-ல் உள்ள கேள்விகள் மற்றும் வரிசையை தற்போதைய மாணவர் பயன்படுத்தும் பாடநூல் PDF-உடன் ஒப்பிடுதல்.
+2. **One-mark Answer Verification:** ஒரு மதிப்பெண் / ஒருசொல் / Objective வினாக்களுக்கு மட்டும் சரியான விடையை நேரடி நம்பகமான Answer Source மற்றும் பாடநூல் சூழலுடன் சரிபார்த்தல்.
+3. **Quiz Creation:** பாடநூலில் நேரடியாக உள்ள MCQ-களையும், தெளிவான ஒரே விடையுள்ள ஒரு மதிப்பெண் / ஒருசொல் வினாக்களையும் நான்கு Options கொண்ட Quiz-ஆக அமைத்தல்.
+4. **Long-answer Reference Retention:** குறுவினா, சிறுவினா, நெடுவினா போன்ற பெரிய விடை வினாக்களுக்கு ஏற்கெனவே உள்ள Source Link-ஐ மட்டும் வைத்திருத்தல். அவற்றின் பதிலை இப்போது எழுதவோ, கூடுதல் Answer Source தேடவோ வேண்டாம்.
 
-பல Source-களின் பதில்களை ஒப்பிட்ட பிறகே நம்முடைய சொந்த wording-ல் Final Answers உருவாக்கப்படும். ஆரம்ப Reference Collection-ஐ Final Answer என்று கருதக்கூடாது.
+GitHub இந்தப் பணிக்கான Common Working Space. அடுத்த AI / Developer இந்த ஆவணத்தைப் படித்தவுடன் தற்போதைய User-approved workflow-ஐத் தொடர வேண்டும்; கீழே உள்ள பழைய exhaustive source-collection குறிப்புகள் இந்தச் சுருக்கமான நடைமுறையை மீறக்கூடாது.
 
-GitHub இந்தப் பணிக்கான Common Working Space. இது Final Student-facing Website அல்ல. புதிய Chat அல்லது வேறு AI / Developer இந்த ஆவணத்தைப் படித்தாலும் Project நோக்கம், முடிவுகள், Source பட்டியல், அடுத்த வேலை ஆகியவை புரிந்து தொடரக்கூடியதாக இருக்க வேண்டும்.
-
-## 2. Finalized Decisions — இதுவரை எடுக்கப்பட்ட முடிவுகள்
+## 2. Finalized Decisions — தற்போதைய User-approved விதிகள்
 
 | எண் | முடிவு | செயல்படுத்த வேண்டிய விதி |
 |---|---|---|
-| 1 | ஏற்கெனவே Extract செய்த கேள்விகளே அடிப்படை | Existing questions.md-ஐப் பயன்படுத்த வேண்டும்; தேவையில்லாமல் மீண்டும் Extract செய்ய வேண்டாம் |
-| 2 | PDF தான் Cross-check Reference | சந்தேகமான கேள்வியை அதற்குரிய PDF Page-ல் திறந்து சரிபார்க்க வேண்டும் |
-| 3 | Quiz-ல் Objective Questions மட்டும் | One-word / Objective / Textbook-ல் ஏற்கெனவே MCQ வடிவில் உள்ளவை மட்டும் |
-| 4 | பெரிய கேள்விகளை MCQ-ஆக மாற்ற வேண்டாம் | குறுவினா, சிறுவினா, நெடுவினா, விளக்கவுரை, கட்டுரை, Homework / Writing Tasks Quiz-ல் வரக்கூடாது |
-| 5 | answers.md-ல் எல்லா கேள்விகளும் இடம்பெற வேண்டும் | One-mark முதல் நீண்ட விளக்கக் கேள்விகள் வரை அனைத்துக்கும் Source தேட வேண்டும் |
-| 6 | Answer-க்கு External Source கட்டாயம் | AI Training Data, சொந்த அறிவு அல்லது ஊகத்திலிருந்து Answer உருவாக்கக்கூடாது |
-| 7 | குறிப்பிட்ட Page Link கட்டாயம் | அந்தப் பாடம் / கேள்விக்கான பதில் உள்ள நேரடி URL வேண்டும்; Homepage மட்டும் போதாது |
-| 8 | PDF Source-க்கு Page Number தேவை | Publisher, Guide Title, Edition, Class, Subject, Medium, Term, PDF Page பதிவு செய்ய வேண்டும் |
-| 9 | Source எண்ணிக்கை கட்டாயமாக ஐந்து அல்ல | 1, 2, 3 அல்லது அதற்கு மேல் — உண்மையில் Answer உள்ள Source-களை மட்டுமே பதிவு செய்ய வேண்டும் |
-| 10 | Round-wise Collection | முதலில் அதிக Coverage உள்ள Source; பிறகு விடுபட்ட கேள்விகள் மற்றும் மாற்று பதில்களுக்கு அடுத்த Source |
-| 11 | Final Answer பின்னர் | Reference சேகரிப்பு மற்றும் ஒப்பீடு முடிந்த பிறகே சொந்த Final Answer உருவாக்க வேண்டும் |
-| 12 | Lesson Folder எளிமையாக இருக்க வேண்டும் | தேவையில்லாத புதிய Files-ஐ ஒவ்வொரு Chapter Folder-க்கும் சேர்க்கக்கூடாது |
-| 13 | GitHub Common Working Space | பல AI tools ஒரே Repository-ஐ அணுகவும், ஒரே Reference-இலிருந்து பணியைத் தொடரவும் |
-| 14 | வேலை முடிந்ததும் Local Copy | தேவையான Files-ஐ Local-ஆக எடுத்துக்கொண்டு Public Repository-யிலிருந்து அகற்ற திட்டமிடப்பட்டுள்ளது |
+| 1 | Existing questions.md அடிப்படை | ஏற்கெனவே Extract செய்த கேள்விகளையே பயன்படுத்தவும்; தேவையின்றி மீண்டும் Extract செய்ய வேண்டாம். PDF-ல் உள்ள அசல் wording / வரிசை மாறியிருந்தால் ஆதாரத்துடன் மட்டும் திருத்தவும். |
+| 2 | பாடநூல் முதன்மை | கேள்வி உரை, பாடப்பொருள், சொல்வகை, வகைப்பாடு மற்றும் edition-ஐ தற்போதைய சரிபார்க்கப்பட்ட பாடநூல் PDF மூலம் உறுதிப்படுத்தவும். |
+| 3 | Quiz scope | நேரடி MCQ / Objective மற்றும் தெளிவான ஒரே விடையுள்ள One-mark / One-word வினாக்கள் மட்டும். |
+| 4 | Four-option conversion | One-mark / One-word கேள்விக்கு உறுதியான விடை இருந்தால் நான்கு Options அமைக்கலாம்; ஒரு சரியான விடை + மூன்று தவறான ஆனால் பொருத்தமான Distractors இருக்க வேண்டும். |
+| 5 | பெரிய விடை வினாக்கள் | குறு / சிறு / நெடு / கட்டுரை / writing task-களை Quiz-ஆக மாற்ற வேண்டாம்; பதில்களை எழுத வேண்டாம்; இருக்கும் placeholder-களையும் ஏற்கெனவே உள்ள Source Link-களையும் அப்படியே வைத்திருக்கவும். |
+| 6 | answers.md scope | Objective / One-mark வினாக்களுக்கு சரியான விடை + சுருக்கமான ஆதார விளக்கம். மற்ற வகை வினாக்களுக்கு ஏற்கெனவே உள்ள link/reference மட்டும்; புதிய exhaustive answer research வேண்டாம். |
+| 7 | ஆதாரம் கட்டாயம் | One-mark விடையை AI நினைவிலிருந்து அல்லது ஊகத்திலிருந்து உருவாக்க வேண்டாம். நேரடி Answer Page / Guide PDF மற்றும் பாடநூல் சூழலைப் பார்க்கவும். |
+| 8 | Source எண்ணிக்கை | ஒவ்வொரு One-mark விடைக்கும் ஒரு பொருத்தமான Direct Source போதுமானது; பதில் தெளிவில்லையெனில் அல்லது முரண்பாடு இருந்தால் மட்டும் இரண்டாவது ஆதாரம் தேடவும். ஐந்து Source / Round-wise research கட்டாயமில்லை. |
+| 9 | Ambiguity / conflict | தலைப்பு, அட்டவணை வரிசை, page context மற்றும் question wording-ஐ முழுமையாகப் படிக்காமல் conflict எனக் குறிக்க வேண்டாம். உறுதியாகத் தீராததை REVIEW_REQUIRED என வெளிப்படையாகக் குறிக்கவும். |
+| 10 | Quiz files | quiz.md மற்றும் quiz.json-ல் கேள்வி, நான்கு Options, சரியான விடை, explanation ஒரே மாதிரி இருக்க வேண்டும். |
+| 11 | Master Quiz | Unit quiz.json புதுப்பித்ததும் tamil/book_back_questions/quiz.json-ல் அதே Question ID / content sync செய்து duplicates, missing, extra, invalid indexes சரிபார்க்கவும். |
+| 12 | Subject transition | ஒரு Subject-இன் அத்தியாயங்கள் முடிந்து QA முடிந்ததும் அடுத்த Subject-க்கு செல்லலாம்; அடுத்த Subject-ன் Book Version Gate தனியாகச் செய்ய வேண்டும். |
+| 13 | File scope | தேவையில்லாத புதிய Chapter Files உருவாக்க வேண்டாம்; தற்போதைய questions.md, answers.md, quiz.md, quiz.json அமைப்பைத் தொடரவும். |
+| 14 | GitHub working copy | மாற்றங்களை main-இல் commit செய்வதற்கு முன் current head-ஐப் பெற்று, முடிவில் GitHub-இல் இருந்து மீண்டும் fetch செய்து QA செய்யவும். |
 
 ## 3. Repository மற்றும் File Structure
 
@@ -66,113 +66,60 @@ Project-level Blueprint மற்றும் Source Research Report மட்�
 
 ### Quiz-ல் சேர்க்க வேண்டியவை
 
-- ஏற்கெனவே One-word / One-mark Answer வகையில் உள்ள கேள்விகள்.
-- பலவுள் தெரிக போன்ற Objective / MCQ கேள்விகள்.
-- பாடப்புத்தகத்தில் ஏற்கெனவே நான்கு Options கொடுக்கப்பட்டுள்ள கேள்விகள்.
-- தெளிவான ஒரே சரியான விடையுடன் Objective வடிவில் அமைக்கக்கூடிய பொருத்துக வினாக்கள் மட்டும்.
+- Book Back-ல் ஏற்கெனவே நான்கு Options உள்ள பலவுள் தெரிக / Objective வினாக்கள்.
+- ஒரு மதிப்பெண் / ஒருசொல் / குறுகிய பதில் கேள்விகள்; சரியான விடை ஆதாரத்துடன் தெளிவாகக் கிடைத்தால் அவற்றை நான்கு-option MCQ-ஆக மாற்றலாம்.
+- Quiz-ஆக மாற்றும்போது கேள்வியின் அசல் பொருள், நோக்கம் மற்றும் தேவையான context மாறக்கூடாது.
 
 ### Quiz-ல் சேர்க்கக்கூடாதவை
 
-- குறுவினா, சிறுவினா, நெடுவினா.
-- 2 / 5 / 10 மதிப்பெண் விளக்கக் கேள்விகள்.
-- கட்டுரை, Paragraph, விரிவான விடை.
-- வீட்டுப்பாடம் / எழுதிப் பழகும் / Open-ended Writing Tasks.
+- குறுவினா, சிறுவினா, நெடுவினா, விரிவான விளக்கவுரை, கட்டுரை.
+- வீட்டுப்பாடம், படைப்பாற்றல் / திறந்தநிலை எழுத்துப் பணிகள்.
+- ஒரே ஒரு சரியான விடையை ஆதாரத்துடன் நிர்ணயிக்க முடியாத கேள்விகள்.
 
-இந்தக் கேள்விகள் answers.md-ல் இடம்பெறும். அவற்றை செயற்கையாக MCQ-ஆக மாற்றக்கூடாது.
+### Four-option MCQ தர விதிகள்
 
-### Quiz Quality Rules
+1. ஒவ்வொரு Quiz வினாவிலும் துல்லியமாக நான்கு Options இருக்க வேண்டும்.
+2. ஒரே ஒரு Correct Answer மட்டுமே இருக்க வேண்டும்.
+3. மீதமுள்ள மூன்று Distractors பொருத்தமானதாக இருக்க வேண்டும்; பாடநூல் / நம்பகமான Answer Source அடிப்படையில் தேர்வு செய்யவும். ஆதாரமில்லாத குழப்பமான Options உருவாக்க வேண்டாம்.
+4. Quiz-ல் வினாவின் அசல் wording-ஐப் பாதுகாக்கவும்; typo திருத்தம் PDF ஆதாரத்துடன் மட்டுமே.
+5. சரியான விடையை பாடநூல் PDF மற்றும் குறைந்தது ஒரு நேரடி நம்பகமான Answer Source-உடன் சரிபார்க்கவும். இரண்டும் கிடைக்காவிட்டால் REVIEW_REQUIRED; ஊகித்து publish செய்ய வேண்டாம்.
+6. ஒவ்வொரு explanation-மும் பாடநூல் context / இலக்கண விதி / verified answer source-ஆல் ஆதரிக்கப்பட வேண்டும்.
+7. quiz.md மற்றும் quiz.json-ஐ ஒன்றோடொன்று ஒப்பிட்டு, Unit JSON-ஐ Master Quiz JSON-க்கும் sync செய்யவும்.
 
-1. ஒவ்வொரு MCQ-க்கும் நான்கு Options.
-2. ஒரே ஒரு Correct Answer மட்டுமே.
-3. மூன்று தவறான Options நம்பகமான Distractors ஆக இருக்க வேண்டும்.
-4. இரண்டு Options-மும் சரியாக இருக்கக்கூடிய கேள்வியை வெளியிடக்கூடாது.
-5. கேள்வியின் அசல் பொருள் / நோக்கம் மாறக்கூடாது.
-6. Textbook PDF-ஐ வைத்து Options மற்றும் Answer சரிபார்க்க வேண்டும்.
-7. quiz.md மற்றும் quiz.json இரண்டிலும் ஒரே கேள்வி, Options, Correct Answer இருக்கிறதா Validate செய்ய வேண்டும்.
-8. நிலையான Question ID வைத்தால் Update மற்றும் Cross-check எளிதாகும்.
+## 5. Answers Collection — எளிமைப்படுத்தப்பட்ட Workflow
 
-## 5. Answers Collection — முக்கிய Workflow
+### 5.1 answers.md-ல் என்ன செய்ய வேண்டும்?
 
-### 5.1 answers.md என்பது முதலில் Reference Collection
+- Book Back வினாக்களின் தற்போதைய headings / numbering / grouping-ஐப் பாதுகாக்கவும்.
+- **ஒரு மதிப்பெண் / ஒருசொல் / Objective வினாக்கள்:** சரியான விடையைத் தேடி உறுதிப்படுத்தி, ஒரு சுருக்கமான காரணம் மற்றும் நேரடி Answer Source / பாடநூல் ஆதாரத்தைப் பதிவு செய்யவும்.
+- **குறுவினா / சிறுவினா / நெடுவினா / பெரிய விடை / கட்டுரை:** ஏற்கெனவே உள்ள blank placeholders மற்றும் source links-ஐ அப்படியே வைத்திருக்கவும். அந்த விடைகளை இப்போது எழுத வேண்டாம்; கூடுதல் links தேட வேண்டாம்; source-ல் உள்ள நீண்ட பதிலை நகலெடுக்க வேண்டாம்.
+- பெரிய விடை கேள்விகளுக்கான placeholder-களை நீக்க வேண்டாம்; அவை பின்னர் பயனர் தனியாகச் செய்யும் பணிக்கான இடமாக இருக்கும்.
+- ஒரு Mark answer கிடைக்கவில்லை அல்லது இரண்டு ஆதாரங்கள் மாறினால் மட்டும் REVIEW_REQUIRED / CONFLICT எனக் குறிப்பிட்டு காரணத்தைச் சொல்லவும்.
 
-ஒவ்வொரு Book Back Question-க்கும் கிடைக்கும் ஒவ்வொரு உண்மையான Source-இலிருந்தும் பதில் சேகரிக்கப்படும்.
+### 5.2 One-mark Answer Verification
 
-- Website என்றால் அந்த Answer இருக்கும் குறிப்பிட்ட Page URL.
-- PDF என்றால் நேரடி PDF Link, Guide விவரம், PDF Page Number.
-- App என்றால் App பெயர், Store Link, அதற்குள் உள்ள குறிப்பிட்ட Answer-ஐ எவ்வாறு சரிபார்த்தோம் என்ற விவரம்.
-- Answer இல்லையென்றால் ANSWER_NOT_FOUND / NO_ANSWER_ON_PAGE என்று பதிவு செய்ய வேண்டும்.
-- Page-ல் Answer இல்லாதபோது Website பெயரை மட்டும் வைத்து Answer உள்ளது என்று காட்டக்கூடாது.
-- AI-ன் சொந்த அறிவால் Source Answer-ஐ நிரப்பக்கூடாது.
-- Source-களின் பதில்கள் மாறுபட்டால் அனைத்தையும் தனித்தனியாகப் பதிவு செய்ய வேண்டும். உடனே ஒன்றைத் தேர்ந்தெடுக்க வேண்டாம்.
+1. questions.md-இல் உள்ள அசல் One-mark / One-word / Objective கேள்வியை எடுத்துக்கொள்ளவும்.
+2. அதே கேள்வி / அதே context உள்ள Direct Answer Page அல்லது Guide PDF-ஐத் திறக்கவும்.
+3. கேள்வி wording மற்றும் விடையை தற்போதைய Textbook PDF / பாடப்பகுதியுடன் ஒப்பிடவும்.
+4. சரியான விடை கிடைத்தால் answers.md-ல் விடை, சுருக்கமான விளக்கம், நேரடி URL மற்றும் தேவையானால் PDF Page Number பதிவு செய்யவும்.
+5. Answer Source மற்றும் பாடநூல் விளக்கம் முரண்படுவது போலத் தோன்றினால், தலைப்பு, அட்டவணை, வரிசை, page context அனைத்தையும் மீண்டும் படித்து மட்டுமே முடிவு செய்யவும். தெளிவு கிடைக்காவிட்டால் REVIEW_REQUIRED.
+6. இன்னொரு Source தேடுவது விடை கிடைக்காத / முரண்பட்ட கேள்விகளுக்கு மட்டும்; எல்லா கேள்விகளுக்கும் பல Guide-களைச் சுற்றித் தேட வேண்டியதில்லை.
 
-### 5.2 ஒவ்வொரு Question-க்கான Reference Record
+### 5.3 Long-answer Reference Policy
 
-    Question ID: T10-U01-Q001
+பெரிய விடை வகைகளுக்கான பணி இந்த Workflow-இல் **Reference Link Retention Only**:
+- Source URL ஏற்கெனவே இருந்தால் அதை அப்படியே பாதுகாக்கவும்.
+- குறுவினா / சிறுவினா / நெடுவினா answer placeholders காலியாகவே இருக்கட்டும்.
+- புதிய சொந்த விடை, guide paraphrase, விரிவான ஒப்பீடு அல்லது கூடுதல் Source Hunt செய்ய வேண்டாம்.
+- பயனர் பின்னர் குறிப்பாகக் கேட்டால் மட்டுமே இந்த scope-ஐ விரிவாக்கலாம்.
 
-    Original Question:
-    [questions.md-ல் உள்ள அசல் கேள்வி]
+### 5.4 Source Verification — குறைந்தபட்சத் தேவை
 
-    Source 1 — Website:
-    Website Name:
-    Direct Answer Page:
-    Access Date:
-    Edition / Syllabus:
-    Answer Status: FOUND
-
-    Source Answer:
-    [Source-ல் உண்மையில் உள்ள பதிலுக்கான Reference Record]
-
-    Source 2 — Professional Guide PDF:
-    Publisher:
-    Guide Title:
-    Class / Subject:
-    Medium:
-    Term:
-    Edition / Year:
-    Direct PDF:
-    PDF Page:
-    Answer Status: FOUND
-
-    Source Answer:
-    [PDF-ல் உள்ள பதிலுக்கான Reference Record]
-
-    Source 3:
-    ...
-
-    Collection Status:
-    Sources checked:
-    Sources with answer:
-    Sources not found:
-    Conflicts / Notes:
-    Final Answer: NOT CREATED YET
-
-### 5.3 Round-wise Source Collection
-
-| Round | பணி |
-|---|---|
-| Round 0 | Website, Guide PDF, App Source-களை அடையாளம் காணுதல்; Source Coverage Audit |
-| Round 1 | அதிக Coverage கொண்ட Website / Guide Source-ல் முதலில் Answers சேகரித்தல் |
-| Round 2 | முதல் Source-ல் விடுபட்ட கேள்விகளை இரண்டாவது Source-ல் தேடுதல் |
-| Round 3 | வேறுபட்ட விளக்கங்கள் மற்றும் கூடுதல் Answers-ஐ மூன்றாவது Source-ல் சேகரித்தல் |
-| Round 4+ | தேவைப்பட்டால் கூடுதல் Source-களில் தொடருதல் |
-| Final Comparison | Reference-களை ஒப்பிட்டு, பின்னர் சொந்த wording-ல் Final Answers உருவாக்குதல் |
-
-ஐந்து Source என்பது கட்டாய எண்ணிக்கை அல்ல. உண்மையில் பதில் உள்ள தரமான Source எத்தனை கிடைக்கிறதோ அவ்வளவையே பதிவு செய்ய வேண்டும்.
-
-### 5.4 Website மற்றும் PDF Reference-களில் பதிவு செய்ய வேண்டியவை
-
-| விவரம் | Website | Guide PDF |
-|---|---|---|
-| Direct Reference | குறிப்பிட்ட Answer Page URL | நேரடி PDF Link |
-| Answer Location | Page URL + Section | PDF Page Number |
-| Edition | Page-ல் உள்ள ஆண்டு / பாடத்திட்டம் | Guide Edition / Academic Year |
-| Medium | TM / EM | TM / EM |
-| Term | Term 1 / 2 / 3 / Annual | Term 1 / 2 / 3 / Full Year |
-| Verification | பக்கத்தைத் திறந்து Answer இருப்பதைப் பார்க்க வேண்டும் | PDF திறந்து குறிப்பிட்ட Page-ல் Answer இருப்பதைப் பார்க்க வேண்டும் |
-
-Search Result-ல் Website பெயர் அல்லது Download Link தெரிகிறது என்பதற்காக மட்டும் Verified Answer Source என்று கருதக்கூடாது. குறிப்பிட்ட கேள்வியின் பதில் உண்மையில் அந்தப் பக்கத்தில் / PDF Page-ல் இருக்க வேண்டும்.
-
----
+- Homepage அல்ல; குறிப்பிட்ட கேள்வி / பதில் உள்ள Direct Page URL வேண்டும்.
+- PDF பயன்படுத்தினால் சரியான Guide / Edition மற்றும் PDF Page Number குறிப்பிடவும்.
+- Search preview மட்டும் பார்த்து Answer FOUND எனக் கூற வேண்டாம்; Answer உள்ள பக்கத்தைத் திறந்து சரிபார்க்கவும்.
+- Source-ல் இல்லாத விடையை அந்த Source-க்கு attributed செய்ய வேண்டாம்.
+- Third-party Answer Website அதிகாரப்பூர்வ SCERT source அல்ல என்பதைத் தேவையான இடத்தில் தெளிவுபடுத்தவும்.
 
 ## 6. Source Research Report — ஆரம்ப Source பட்டியல்
 
@@ -390,54 +337,45 @@ Repository Public ஆக இருக்கும் வரை அதன் File
 
 | ஏற்படக்கூடிய தவறு | தவிர்க்கும் முறை |
 |---|---|
-| questions.md-ல் OCR / Extract பிழை | PDF Page-ஐ திறந்து Original Text-உடன் ஒப்பிடுதல் |
-| கேள்வி விடுபடுதல் | PDF Exercises மற்றும் questions.md எண்ணிக்கையை ஒப்பிடுதல் |
-| Wrong Edition Answer | Academic Year / Term / Edition பதிவு செய்து Textbook ஒப்பிடுதல் |
-| Generic Homepage Link | அந்தக் கேள்விக்கான Direct Page மட்டும் பதிவு செய்தல் |
-| Page-ல் Answer இல்லாமல் உள்ளது என்று கூறுதல் | ANSWER_FOUND கொடுப்பதற்கு முன் Answer-ஐத் திறந்து பார்க்க வேண்டும் |
-| AI சொந்த அறிவால் Answer நிரப்புதல் | Source evidence இல்லாவிட்டால் ANSWER_NOT_FOUND |
-| Mirror Pages-ஐ தனித்தனி Sources என்று எண்ணுதல் | Content Origin / Publisher / Identical Text ஒப்பிடுதல் |
-| Multiple Correct MCQ Options | ஒரே Correct Answer இருக்கிறதா சோதித்தல் |
-| Long Answer-ஐ MCQ-ஆக மாற்றுதல் | Quiz Rules படி Exclude செய்தல் |
-| quiz.md / quiz.json வேறுபடுதல் | Automated Consistency Validation |
-| PDF Page Number விடுபடுதல் | Guide Page Number கட்டாயமாகப் பதிவு செய்தல் |
-| Source Answers முரண்படுதல் | அனைத்தையும் பதிவு செய்து Final Comparison-க்கு ஒதுக்குதல் |
-| Final Answer விரைவாக உருவாக்குதல் | Reference Collection முடியும் வரை Final Answer உருவாக்க வேண்டாம் |
+| questions.md-ல் OCR / Extract பிழை | பாடநூல் PDF Page-ஐத் திறந்து அசல் உரையுடன் ஒப்பிடுதல் |
+| கேள்வி விடுபடுதல் | PDF Book Back Questions எண்ணிக்கையையும் questions.md-ஐயும் ஒப்பிடுதல் |
+| Wrong Edition Answer | Subject தொடக்கத்தில் Book Version Gate செய்து, Answer Source கேள்வி பொருந்துகிறதா பார்க்கவும் |
+| Generic Homepage Link | One-mark answer-க்கு நேரடி page / PDF page மட்டும் பதிவு செய்யவும் |
+| Page-ல் Answer இல்லாமல் FOUND என்று கூறுதல் | Answer-ஐத் திறந்து பார்த்த பிறகே ANSWER_FOUND |
+| AI சொந்த அறிவால் Answer நிரப்புதல் | ஆதாரம் இல்லாவிட்டால் REVIEW_REQUIRED / ANSWER_NOT_FOUND |
+| Table / heading தவறாக வாசித்தல் | தலைப்பு, row, column, page context உடன் படித்து வகைப்பாட்டை உறுதி செய்யவும் |
+| Multiple Correct MCQ Options | ஒரே சரியான Option மட்டுமே உள்ளதா சோதிக்கவும் |
+| ஆதாரமில்லாத Distractor | பாடநூல் / Answer Source-ல் இருந்து பொருத்தமான தவறான Options தேர்வு செய்யவும் |
+| Long Answer-ஐ MCQ-ஆக மாற்றுதல் | Quiz Rules படி Exclude செய்யவும்; placeholder + link மட்டும் வைக்கவும் |
+| quiz.md / quiz.json வேறுபடுதல் | Automated consistency check |
+| Unit quiz.json Master-ல் இல்லாமை | Master Quiz count / IDs / order / indexes reconciliation |
+| Source conflict | முழு page context சரிபார்த்து; தீராததை மட்டும் REVIEW_REQUIRED |
 
----
-
-## 12. End-to-End Work Plan
+## 12. End-to-End Work Plan — தற்போதைய Chapter Workflow
 
 | Stage | வேலை | Result |
 |---|---|---|
-| 0 | Project Blueprint / Rules Lock | எல்லா AI / Developer-க்கும் ஒரே Workflow |
-| 1 | Classes 1–12 Repository / Folder Audit | Class-wise Existing Structure |
-| 2 | Questions + PDF Inventory | questions.md மற்றும் PDF பட்டியல் |
-| 3 | Question Cross-check | Extracted Questions சரிபார்ப்பு |
-| 4 | Website Research | Answer Website Master List |
-| 5 | Guide PDF Research | Publisher / Guide / PDF Source List |
-| 6 | App Research | Public App Listings மற்றும் Access Status |
-| 7 | Source Coverage Audit | Class × Subject × Medium × Term × Chapter Matrix |
-| 8 | Quiz Generation | quiz.md + quiz.json |
-| 9 | Answer Reference Collection | Source-wise answers.md |
-| 10 | Missing Answer Search | கிடைக்காத கேள்விகளுக்கான கூடுதல் Source Search |
-| 11 | Source Comparison | Differences / Common Points / Quality Notes |
-| 12 | Final Answer Drafting | நம்முடைய சொந்த wording-ல் Answers |
-| 13 | Final QA | Textbook, PDF, Sources, Quiz அனைத்தும் சரிபார்ப்பு |
-| 14 | Local Backup & GitHub Cleanup | Working Files Local-ல்; Public Repo Cleanup |
+| 1 | Subject-ன் current book / edition / medium / term-ஐச் சரிபார்த்தல் | Book Version Gate |
+| 2 | Chapter questions.md-ஐ PDF-உடன் ஒப்பிடுதல் | Verified Question Inventory |
+| 3 | One-mark / One-word / direct MCQ candidates மட்டும் வகைப்படுத்துதல் | Quiz Candidate List |
+| 4 | One-mark answers-ஐ Direct Answer Source + Textbook மூலம் சரிபார்த்தல் | Verified One-mark Answer Set |
+| 5 | அத்தகைய கேள்விகளை நான்கு Options கொண்ட Quiz-ஆக அமைத்தல் | quiz.md |
+| 6 | அதே கேள்விகளை quiz.json-ல் அமைத்தல் | Valid Unit JSON |
+| 7 | Unit JSON-ஐ Master Quiz-க்கு sync செய்து IDs / count / order / answer indexes சரிபார்த்தல் | Valid Master Quiz |
+| 8 | answers.md-ல் objective answers பதிவு; long-answer placeholders / links அப்படியே | Updated Answer Reference |
+| 9 | Chapter-level QA முடித்தல் | Chapter Complete |
+| 10 | அடுத்த Chapter; Subject முடிந்ததும் அடுத்த Subject | Next Work Item |
 
-Stage 4–7 முடிவதற்கு முன் 1–12 Classes முழுவதற்கும் Source கிடைத்துவிட்டது என்று அறிவிக்கக்கூடாது. Reference Collection முடிவதற்கு முன் Final Answers எழுத வேண்டாம்.
-
----
+இந்தப் பணிக்கான Source Research வரம்பு One-mark / Quiz answers வரை மட்டுமே. பெரிய விடைகளுக்கான முழுமையான Answer Collection / Final drafting இந்த workflow-இன் ஒரு பகுதி அல்ல.
 
 ## 13. அடுத்ததாக செய்ய வேண்டியவை
 
-1. தற்போதைய Class 10 Repository-யில் Folder Structure மற்றும் questions.md / PDF இணைப்புகளை Audit செய்தல்.
-2. Classes 1–12 Repository URLs கிடைத்தால் அவற்றின் Folder Structure Audit செய்தல்.
-3. Website / Guide PDF / App Source Research-ஐ முடித்து Source Coverage Master List உருவாக்குதல்.
-4. 1–12 வகுப்புகளுக்கான TM/EM, Term, Subject, Edition Coverage எவ்வளவு என்பதை ஆதாரத்துடன் கணக்கிடுதல்.
-5. அதிக Coverage கொண்ட Source-ல் Round 1 தொடங்குதல்.
-6. Quiz மற்றும் Answer Collection-ஐத் தனித்தனி பணிகளாகச் செயல்படுத்துதல்.
+1. Class 10 Tamil Subject-ன் எல்லா Chapter Quiz / Answer files மற்றும் Master Quiz-க்கு இறுதி QA செய்தல்.
+2. Class 10 Tamil முடிந்ததும் அடுத்த Subject — **English** — க்கு செல்லுதல்.
+3. English-க்கு முதலில் அதன் சொந்த textbook edition / medium / structure-ஐச் சரிபார்த்தல்; Tamil edition அல்லது Source-களை English-க்கு தானாகப் பொருத்த வேண்டாம்.
+4. English questions.md-இல் உள்ள One-mark / One-word / Objective வினாக்களை மட்டும் answer-verify செய்து நான்கு-option Quiz-ஆக அமைத்தல்.
+5. English short / long answers-க்கு ஏற்கெனவே உள்ள Source Links மற்றும் blank placeholders-ஐ மட்டும் பாதுகாத்தல்.
+6. Subject Master Quiz மற்றும் chapter count / ID QA முடிந்ததும் அடுத்த Subject-க்கு நகர்தல்.
 
 ## 14. Quick Handover Summary — புதிய Chat / மற்ற AI-க்காக
 
@@ -450,19 +388,19 @@ Stage 4–7 முடிவதற்கு முன் 1–12 Classes முழ
 - Professional Guide PDFs — Publisher / Edition / Medium / Term / Page Number உடன்.
 - Public Play Store App Listings — App Source Candidates; App உள்ளே உள்ள Content தனியாக அணுகக்கூடியதாக இருந்தால் மட்டுமே.
 
-**Quiz Rule:** One-word / Objective / Existing MCQ கேள்விகள் மட்டும். குறுவினா, சிறுவினா, நெடுவினா, Essay, Writing Tasks Quiz-ல் வேண்டாம்.
+**Quiz Rule:** Existing MCQ-களும், சரியான ஒரே விடை உள்ள One-mark / One-word கேள்விகளும் மட்டும். One-mark கேள்வியை நான்கு-option MCQ-ஆக மாற்றலாம்; குறு / சிறு / நெடு / Essay / Writing Tasks Quiz-ல் வேண்டாம்.
 
-**Answers Rule:** Book Back-ல் உள்ள எல்லா வகைக் கேள்விகளுக்கும் Source-based Reference Collection. AI-ன் சொந்த அறிவிலிருந்து Answer உருவாக்கக்கூடாது. Direct Page / PDF Page ஆதாரம் இல்லாவிட்டால் கிடைக்கவில்லை என்று பதிவு செய்ய வேண்டும்.
+**Answers Rule:** One-mark / One-word / Objective விடைகளை மட்டும் ஆதாரத்துடன் சரிபார்த்து answers.md-ல் பதிவு செய்யவும். பெரிய விடை கேள்விகளுக்கான ஏற்கெனவே உள்ள source links மற்றும் blank placeholders-ஐ அப்படியே வைத்திருக்கவும்; அவற்றின் பதிலை எழுதவோ புதிய links தேடவோ வேண்டாம்.
 
-**Final Answer Rule:** பல Source-களை ஒப்பிட்ட பிறகு மட்டுமே சொந்த Wording-ல் Final Answer எழுத வேண்டும்.
+**Long Answer Rule:** இந்த workflow-இல் குறு / சிறு / நெடு விடைகளை எழுதுவது இல்லை; அவை source-link reference ஆக மட்டும் இருக்கும். One-mark Quiz answer-க்கு ஆதாரம் தேவை.
 
 **Files per Chapter:** questions.md, quiz.md, quiz.json, answers.md.
 
-**Research Priority:** முதலில் 1–12 வகுப்புகளுக்கான Website / Guide PDF / App Source Coverage-ஐ உறுதிப்படுத்துதல். பின்னர் Class × Subject × Medium × Term × Chapter அடிப்படையில் Round-wise Answer Collection.
+**Research Priority:** ஒவ்வொரு Subject தொடக்கத்திலும் Book Edition verify; பின்னர் Chapter-ன் One-mark answers-ஐ நேரடி source-இல் சரிபார்த்து Quiz-ஆக மாற்றுதல். பல Source சுற்றுகள் ambiguity / conflict உள்ள கேள்விகளுக்கு மட்டும்.
 
 **Repository Purpose:** Common AI Working Space; Final Student-facing Website அல்ல. வேலை முடிந்ததும் Local Backup மற்றும் Public GitHub Cleanup செய்ய வேண்டும்.
 
-**Current Status:** Blueprint மற்றும் Initial Source List தயார். Full Coverage Audit இன்னும் Pending.
+**Current Status (05-11-2026):** Class 10 Tamil-ன் 9 இயல்களுக்கான 134 Quiz பதிவுகள் Master JSON-இல் உள்ளன. தற்போதைய user-approved next subject: English. ஒவ்வொரு Subject-க்கும் தனி Book Version Gate அவசியம்.
 
 
 ### நேரடியாகத் திறக்கப்பட்ட Guide PDF உதாரணங்கள்
@@ -501,19 +439,18 @@ Stage 4–7 முடிவதற்கு முன் 1–12 Classes முழ
 
 | படி | வேலை | Output / Check |
 |---|---|---|
-| 1 | அந்த Chapter-ன் questions.md மற்றும் PDF Page Range கண்டறிதல் | Original Question Inventory |
-| 2 | questions.md-ல் உள்ள ஒவ்வொரு கேள்வியையும் PDF Page-க்கு எதிராகச் சரிபார்த்தல் | Correct / Typo / Missing / Extra / Unclear Status |
-| 3 | அசல் கேள்வியின் சொற்களைச் சரிசெய்ய வேண்டுமெனில் PDF ஆதாரம் இருந்தால் மட்டுமே திருத்துதல் | Verified questions.md |
-| 4 | Quiz-க்கு தகுதியான Objective Questions-ஐ மட்டும் குறித்தல் | Quiz Candidate List |
-| 5 | Round 1-ல் ஒரு நல்ல Direct Answer Source தேர்வு செய்தல் | குறிப்பிட்ட பாடத்திற்கான Source Page / PDF |
-| 6 | அந்த Source-ல் உள்ள கேள்வி வாரியான பதில்களை answers.md-ல் Reference ஆகச் சேகரித்தல் | Source 1 Answer Collection |
-| 7 | அந்த Source-ல் பதில் இல்லாத கேள்விகளை Missing எனக் குறித்தல்; தேவையானால் அதே கட்டத்தில் ஒரு கூடுதல் Source தேடுதல் | Honest Coverage Status |
-| 8 | Objective Questions-ன் Correct Answer-ஐ Textbook / நம்பகமான Answer Source-உடன் சரிபார்த்தல் | Quiz Answer Validation |
-| 9 | உறுதிசெய்யப்பட்ட Objective Questions-ஐ ஏற்கெனவே உள்ள 10th Tamil Quiz Format-ல் அமைத்தல் | quiz.md |
-| 10 | அதே Data-வை quiz.json-ல் அமைத்து இரண்டையும் ஒப்பிடுதல் | Valid JSON + Content Match |
-| 11 | Question Count, Correct Answer Count, Options, Explanations, PDF references ஆகியவற்றை QA செய்தல் | Chapter Completion Check |
+| 1 | Chapter questions.md மற்றும் PDF Page Range கண்டறிதல் | Original Question Inventory |
+| 2 | ஒவ்வொரு கேள்வியையும் PDF Page-க்கு எதிராகச் சரிபார்த்தல் | Correct / Typo / Missing / Extra / Unclear |
+| 3 | One-mark / One-word / direct MCQ candidates மட்டும் குறித்தல் | Quiz Candidate List |
+| 4 | One-mark answer-ஐ ஒரு பொருத்தமான Direct Answer Source மற்றும் பாடநூல் மூலம் உறுதி செய்தல் | Verified Answer + Source |
+| 5 | உறுதியான One-mark கேள்விகளை நான்கு Options கொண்ட Quiz-ஆக அமைத்தல் | quiz.md |
+| 6 | quiz.md data-வுடன் பொருந்தும் quiz.json உருவாக்குதல் | Valid Unit JSON |
+| 7 | answers.md-ல் One-mark answer / source பதிவு; long-answer பகுதியில் உள்ள placeholders மற்றும் existing links-ஐ மாற்றாமல் விடுதல் | Updated answers.md |
+| 8 | Unit JSON-ஐ Master Quiz-க்கு sync செய்து count, IDs, order, duplicate, options, correct index validate | Master QA |
 
-**ஒவ்வொரு பாடத்திலும் Answers முதலில், Quiz அதன் பிறகு.** இதனால் Quiz-ல் உள்ள Answer மற்றும் Explanation-க்கு முன்னதாக Source ஆதாரம் இருக்கும்.
+**நடைமுறை வரிசை:** Book / Question check → One-mark answer verification → quiz.md → quiz.json → answers.md scope check → Master sync → QA. பெரிய விடைகளுக்கான Answer research இந்த வரிசையில் இல்லை.
+
+**தகுதி விதி:** One-mark / One-word கேள்விக்கான விடை உறுதியாக இருந்தால் மட்டுமே நான்கு-option MCQ உருவாக்கவும். விடை அல்லது மூன்று நம்பகமான Distractors ஆதாரத்துடன் அமைக்க முடியாவிட்டால் Quiz-ல் சேர்க்காமல் REVIEW_REQUIRED எனக் குறிக்கவும்.
 
 ### 15.3 Quiz Explanation (காரண விளக்கம்) விதி
 
@@ -523,91 +460,46 @@ Stage 4–7 முடிவதற்கு முன் 1–12 Classes முழ
 - Explanation Source-ல் இல்லாவிட்டால் Textbook-ல் உள்ள தொடர்புடைய பகுதியைச் சரிபார்த்து ஆதரிக்க வேண்டும்.
 - எந்த ஆதாரமும் இல்லாத நிலையில் AI தானாகக் காரணம் உருவாக்கக்கூடாது; REVIEW_REQUIRED என்று குறிக்க வேண்டும்.
 
-### 15.4 Source 1-ன் பங்கு
+### 15.4 Answer Source-ன் பங்கு
 
-ஒரு Direct Answer Website-ல் இருந்து முதற்கட்ட Reference Set உருவாக்குவது நோக்கம். இது Final Answer அல்லது முழு சுயாதீன Cross-verification என்று கருதப்படக்கூடாது.
-
-- அந்த Source-ல் உண்மையில் உள்ள கேள்வி / பதில்களையே பதிவு செய்ய வேண்டும்.
-- Source-ல் இல்லாத கேள்வியைத் தானாக நிரப்பக்கூடாது.
-- Source Answer மற்றும் Textbook Question பொருந்துகிறதா பார்க்க வேண்டும்.
-- பின்னர் Round 2 / 3-ல் மற்ற Guide / Website Source-களிலிருந்து ஒப்பீடு செய்ய வேண்டும்.
-- Quiz-ல் பயன்படுத்தப்படும் Objective Answer-களுக்கு குறைந்தது Textbook Context அல்லது இரண்டாவது நம்பகமான ஆதாரம் மூலம் தனி சரிபார்ப்பு இருக்க வேண்டும்.
+- One-mark / One-word Quiz answer-ஐச் சரிபார்க்க நேரடி Answer Website அல்லது Guide PDF-ஐப் பயன்படுத்தவும்.
+- Source-ல் உண்மையில் உள்ள அதே கேள்வி / அதே context-ஐ மட்டும் ஏற்கவும்; பழைய Question wording-ஐ புதிய பாடநூலுக்கு force செய்ய வேண்டாம்.
+- பாடநூல் context-இல் விடை நேரடியாகத் தெரிந்தாலும், Answer key பயன்படுத்தும் போது அது பொருந்துகிறதா என்று பார்க்கவும்.
+- இரு ஆதாரங்கள் மாறினால் அல்லது table / heading தெளிவில்லாவிட்டால் மட்டும் இரண்டாவது Source-ஐத் திறந்து முழு context-ஐ ஒப்பிடவும்.
+- Short / long answer-களுக்கு இந்த Source-ல் புதிய content collection வேண்டாம்; ஏற்கெனவே உள்ள links மட்டும் பாதுகாக்கவும்.
 
 ### 15.5 Subject முடிக்கும் முறை
 
 ஒரு Subject-ல் உள்ள எல்லா Chapters-க்கும்:
-- questions.md PDF Cross-check முடிந்திருக்க வேண்டும்.
-- answers.md-ல் கிடைத்த Source Answers அனைத்தும் பதிவு செய்யப்பட்டிருக்க வேண்டும்.
-- Quiz eligible questions அனைத்தும் மட்டும் quiz.md / quiz.json-ல் இருக்க வேண்டும்.
-- Missing / Conflict / Wrong Edition ஆகியவை வெளிப்படையாகக் குறிக்கப்பட்டிருக்க வேண்டும்.
-- இறுதியில் Subject-level coverage மற்றும் pending list தயாரிக்க வேண்டும்.
+- questions.md-ன் தேவையான PDF cross-check முடிந்திருக்க வேண்டும்.
+- One-mark / Objective answer-கள் ஆதாரத்துடன் சரிபார்க்கப்பட்டிருக்க வேண்டும்.
+- Quiz eligible questions மட்டும் quiz.md / quiz.json-ல் இருக்க வேண்டும்.
+- எல்லா Unit JSON-களும் Subject Master Quiz-உடன் sync ஆகி இருக்க வேண்டும்.
+- Long-answer பகுதிகளில் placeholder-களும் ஏற்கெனவே உள்ள source links-உம் அப்படியே இருக்க வேண்டும்.
+- Missing / Conflict / Wrong Edition / REVIEW_REQUIRED நிலைகள் வெளிப்படையாகக் குறிக்கப்பட்டிருக்க வேண்டும்.
 
-பிறகுதான் அடுத்த Subject-க்கு செல்ல வேண்டும். எல்லா Subject-களின் Reference Collection முடிந்த பிறகே Final Answer Comparison மற்றும் நம்முடைய சொந்த Wording-ல் பதில் உருவாக்கும் கட்டம்.
-
----
-
-## 16. Current Audit Finding — Class 10 Tamil Book Version (Provisional Warning)
-
-**Repository:** [Eaglesiva/tn-class-10](https://github.com/Eaglesiva/tn-class-10)
-
-GitHub Tree Audit-ல் Tamil Subject-க்கான PDF Page Files:
-- tamil/00_prelims/page_001.pdf முதல் page_010.pdf
-- பாட அத்தியாயங்களின் கீழ் தொடர்ச்சியாக page_011.pdf முதல் page_248.pdf
-- மொத்தம்: **248 individual one-page PDF files**.
-
-### 16.1 வெளிப்புற புத்தகப் பதிப்பு ஒப்பீடு
-
-- FreeTNBooks 10ஆம் வகுப்பு புத்தகப் பக்கம் 2024 Tamil PDF மற்றும் தனியாக “New” 2025 Tamil PDF என இரண்டு பதிவுகளை வேறுபடுத்துகிறது. 2025 Edition Tamil புத்தகம் வெளியிடப்பட்டதாகவும் அந்தப் பக்கம் குறிப்பிடுகிறது: [10th Standard Books](https://www.freetnbooks.com/10th-standard-books/).
-- மற்றொரு 2026 textbook index 2025 10th Tamil book-ஐ 184 pages என்றும் 2024 Tamil book-ஐ 248 pages என்றும் வேறுபடுத்துகிறது: [Class 10 Tamil Book 2026 listing](https://cbsetamil.com/ncert-tamil-book-for-class-10-pdf/).
-- Tamil Nadu Textbook and Educational Services Corporation 2026–27 Class 10 Annual Textbooks விற்பனை 10-04-2026 முதல் தொடங்கியதாக அறிவித்துள்ளது: [Official Textbook Corporation](https://textbookcorp.in/schools).
-- 2026–27-ல் Classes 4–12 பழைய syllabus-ஐத் தொடரும் என்றும் புதிய curriculum 2027–28-ல் அமல்படுத்தப்படுமென்றும் செய்தி அறிக்கைகள் தெரிவிக்கின்றன: [DT Next — Classes 4–12 textbook work](https://www.dtnext.in/news/tamilnadu/teachers-continue-with-classes-4-12-textbook-work-despite-new-regime-uncertainty), [New Indian Express — draft curriculum](https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/21/tn-revamps-syllabus-for-class-6-10-with-emphasis-on-critical-thinking).
-
-### 16.2 தற்போதைய நிலை / தீர்மானம்
-
-Repo-வில் உள்ள 248 page sequence, வெளியிடப்பட்ட 2024 Edition 248-page தகவலுடன் பொருந்துகிறது. 2025 Revised Tamil Edition 184 pages என்று மற்றொரு Source காட்டுகிறது. எனவே Repo-வில் உள்ள 248-page copy **2024 Edition ஆக இருக்கக்கூடிய வலுவான சாத்தியம் உள்ளது**.
-
-ஆனால் PDF Cover / Imprint / Edition Page-ஐ நேரடியாகப் படித்து, 2025 copy-யுடன் page-level content comparison முடிக்காமல் இதை 100% உறுதிப்படுத்தக்கூடாது.
-
-**தற்காலிக முடிவு:** தற்போதைய Repo PDF-ஐ 2026–27-க்கான Verified Current Edition என்று குறிக்க வேண்டாம். 2025 Revised Tamil PDF (அல்லது 2026–27 official reprint) கிடைத்து அதன் title page, revision imprint, TOC, lesson pages மற்றும் Book Back Questions ஒப்பிடப்படும் வரை Quiz Finalization-ஐ நிறுத்த வேண்டும்.
-
-### 16.3 Class 10 Tamil — முதற்கட்ட Answer Source Candidate
-
-[BrainKart — 10th Tamil, இயல் 1: அமுத ஊற்று — Questions & Answers](https://www.brainkart.in/article/Questions-and-Answers_11807/)
-
-இந்தப் பக்கம் இயல் 1-க்கான Objective, குறுவினா, சிறுவினா, நெடுவினா வகை உள்ளடக்கங்களை வழங்குகிறது. அதே பாடத்திற்கான Subject Index-ல் பிற இயல்களுக்கும் தனிப்பட்ட Questions & Answers பதிவுகள் உள்ளன: [BrainKart 10th Tamil Subject Index](https://www.brainkart.in/subject/Tamil-10th-Std_396).
-
-இது Round 1 Source Candidate மட்டுமே; பக்கம் 2022-ல் வெளியிடப்பட்டது. Current 2026–27 Textbook-உடன் ஒவ்வொரு கேள்வியும் பொருந்துகிறதா என்பதைக் கட்டாயம் சரிபார்க்க வேண்டும். இந்த Source-ல் இல்லாத கேள்விகளுக்கு பதில் உள்ளது என்று கருதக்கூடாது.
-
-### 16.4 Existing Class 10 Tamil Unit 1 File Cross-check Note
-
-தற்போதைய Repository-ல்:
-- [questions.md — Unit 1](https://github.com/Eaglesiva/tn-class-10/blob/main/tamil/01_mozhi_amuthaootru/book_back_questions/questions.md)
-- [quiz.md — Unit 1](https://github.com/Eaglesiva/tn-class-10/blob/main/tamil/01_mozhi_amuthaootru/book_back_questions/quiz.md)
-
-இரண்டிலும் சில சொல் / Option வேறுபாடுகள் உள்ளன. உதாரணமாக:
-- questions.md-ல் “எந்தமிழ்நா”; quiz.md-ல் “எண்தமிழ்நா” என்று உள்ளது.
-- ஒரு கேள்வியின் பெயர்/சொல் மற்றும் சில Options-ன் wording / ordering மாறுபடுகின்றன.
-
-இவை எது சரி என்று இப்போது தீர்மானிக்கக்கூடாது. சரியான 2026–27 Textbook Page-ஐப் பார்த்தே உறுதி செய்ய வேண்டும். தற்போதைய quiz.md-ன் **format**-ஐ மட்டும் Reference-ஆகப் பயன்படுத்தலாம்; அதில் உள்ள Question Content-ஐ Verified என்று கருதக்கூடாது.
-
-மேலும் questions.md-ல் உள்ள file:///e:/... போன்ற Local Computer Links மற்ற AI-க்கு அணுக முடியாது. Cross-check முடிந்தபின் அவற்றை Repository-relative link அல்லது GitHub Page Link-ஆக மாற்ற வேண்டும்.
+Subject முடிந்ததும் count / ID / duplicate / option-index QA செய்து, அடுத்த Subject-ன் Book Version Gate-ஐத் தொடங்கலாம். பெரிய விடை Answer drafting-க்காக எல்லா Subjects முடியும் வரை காத்திருக்கத் தேவையில்லை.
 
 ---
 
-## 17. புதிய Chat / AI-க்கு உடனடி அடுத்த செயல்
+## 16. Historical Class 10 Tamil Edition Warning — SUPERSEDED
 
-1. முதலில் Section 16-ல் உள்ள Class 10 Tamil Version Warning-ஐத் தீர்க்க வேண்டும்.
-2. 2025 Revised / 2026–27 current Tamil textbook PDF-ஐப் பெற்று Cover, Revision Imprint, TOC, Chapter-1 pages, Book Back exercise pages ஆகியவற்றை பழைய Repo copy-யுடன் ஒப்பிட வேண்டும்.
-3. அது சரியான Current Edition என்று உறுதியான பின், Unit 1 questions.md-ஐ PDF-க்கு எதிராகத் திருத்த / உறுதி செய்ய வேண்டும்.
-4. BrainKart Unit 1 Direct Answer Page-ல் உள்ள ஒவ்வொரு கேள்வியையும் questions.md-உடன் ஒப்பிட்டு, Source 1 answers-ஐ answers.md-ல் பதிவு செய்ய வேண்டும்.
-5. அடுத்து Unit 1-ன் Objective questions-ஐ மட்டும் எடுத்துக் கொண்டு, ஆதாரமுள்ள Correct Answer மற்றும் உண்மையான Explanation உடன் quiz.md / quiz.json உருவாக்க / சரிபார்க்க வேண்டும்.
-6. Unit 1 முடிந்ததும் Unit 2-க்கு இதே நடைமுறையை மீண்டும் செய்ய வேண்டும்.
-7. எல்லா Tamil Chapters முடிந்த பின் Tamil Subject-level Audit முடித்து அடுத்த Subject-க்கு செல்ல வேண்டும்.
+இந்த Section-இல் 248-page / 9-Iyal Tamil PDF current edition அல்லவாக இருக்கலாம் என்றும், 184-page / 7-Iyal copy-ஐப் பார்க்க வேண்டும் என்றும் இருந்த provisional warning, பின்னர் வந்த official API evidence-ஆல் superseded செய்யப்பட்டுள்ளது.
 
-**நிறுத்த வேண்டிய நிலை:** சரியான Book Edition உறுதி ஆகவில்லை என்றால், Source Answer Research-ஐ முன்னெடுத்துச் செல்லலாம்; ஆனால் அந்தப் பழைய புத்தகத்தின் PDF Page References அல்லது Quiz-ஐ Current Edition என்று Finalize செய்யக்கூடாது.
+**தற்போதைய கட்டுப்பாட்டு முடிவு Section 22:** 248-page / 9-Iyal local Tamil PDF ஆனது Official TNSchools SCERT Books API-யின் 10th_Tamil_Text.pdf-உடன் Antigravity பதிவு செய்த byte-size / MD5 evidence அடிப்படையில் exact match. 184-page / 7-Iyal copy third-party-hosted reduced / modified 2025–26 candidate. பழைய Section 16 / 17 warning-ஐ இனி செயலில் உள்ள stop instruction-ஆகப் பயன்படுத்த வேண்டாம்.
 
+Class 10 Tamil-க்கு இந்த edition gate முடிந்தது. அடுத்த Subject-ன் edition தனியாகச் சரிபார்க்கப்பட வேண்டும்.
 
----
+## 17. புதிய Chat / AI-க்கு உடனடி அடுத்த செயல் — 05-11-2026
+
+1. Class 10 Tamil workflow-ஐ முடித்த reference state-ஆக எடுத்துக்கொள்ளவும்: 9 இயல்கள், 134 Quiz JSON records, Unit ↔ Master order / ID / options / correct-index QA செய்யப்பட்டுள்ளன.
+2. அடுத்த Subject **English**. முதலில் English book / medium / edition / chapter structure-ஐ verify செய்யவும்; Tamil edition decision-ஐ English-க்கு பயன்படுத்த வேண்டாம்.
+3. English Chapter-ன் questions.md மற்றும் PDF-ஐ ஒப்பிட்டு One-mark / One-word / Objective வினாக்களை மட்டும் தேர்வு செய்யவும்.
+4. அந்த வினாக்களுக்கான சரியான விடைகளை Direct Answer Source + textbook context மூலம் சரிபார்த்து Quiz உருவாக்கவும்.
+5. English short / long answer கேள்விகளுக்கு existing source links மற்றும் blank placeholders-ஐ மட்டும் வைத்திருக்கவும்; விரிவான விடைகளை எழுத வேண்டாம்.
+6. Unit quiz.md / quiz.json மற்றும் subject Master Quiz-ஐ sync செய்து QA செய்யவும்.
+
+**Current stop condition:** English book edition / question match உறுதியாகவில்லை என்றால், அந்த uncertainty-ஐ பதிவு செய்து; current edition என்று கூறாமல், source-supported பகுதிகளுக்கு மட்டும் பணியைத் தொடரவும்.
 
 ## 18. User Clarification + Cloudflare / Current-Book Verification Update (03-11-2026)
 
@@ -691,17 +583,9 @@ This remains a **strong provisional finding**, not a final visual audit of the s
 
 The 2025 Revised 184-page publication's first Iyal text includes the printed form **“எந்தமிழ்நா”** in the poem / prose section. The current Repo `questions.md` uses “எந்தமிழ்நா”, while the existing `quiz.md` has “எண்தமிழ்நா” in one question. This supports checking the original current textbook before copying quiz wording. It does not make the existing quiz question verified.
 
-### 18.6 Correct next actions for Class 10 Tamil
+### 18.6 Historical next actions — SUPERSEDED by Section 22 and the 2026-11-05 handover
 
-1. Use the user's Cloudflare site and GitHub paths as the Repo-copy locator. Attempt the direct PDF / viewer route when tools support it; if not, record that page-level visual inspection was unavailable.
-2. Obtain / open the 2025 Revised 184-page Tamil textbook or an official 2026–27 issued copy.
-3. Compare cover, imprint, contents, total pages, all 7 Iyal titles, and Book Back evaluation pages against the Repo's 248-page / 9-folder structure.
-4. If confirmed mismatch, label the existing Repo files as Legacy / Old Edition in the audit notes; do not destructively delete them.
-5. Create or point to the correct current PDF page set before editing questions.md.
-6. Verify the existing extracted questions against the current book. Preserve exact printed question wording and source page references.
-7. Only after that, use BrainKart or another Answer Source as an answer reference. Compare each Answer Source question with the current textbook question before using it.
-8. Create answers.md Source 1 records for all question types found. Mark missing answers honestly.
-9. Derive quiz.md / quiz.json from verified objective questions and verified answers; preserve the existing Class 10 Tamil quiz presentation format, but do not blindly preserve the old quiz question text or answers.
+இந்த subsection-ல் உள்ள 184-page / 7-Iyal edition comparison மற்றும் Unit 1 மீண்டும் தொடங்க வேண்டும் என்ற படிகள் அப்போது இருந்த provisional recommendation. Section 22-ல் உள்ள Official SCERT API match evidence அந்த warning-ஐ supersede செய்கிறது. Class 10 Tamil Quiz work 05-11-2026 அன்று முடிக்கப்பட்டது; தற்போதைய அடுத்த Subject English (Section 17).
 
 ### 18.7 Scope across other Classes
 
@@ -899,25 +783,25 @@ For every chapter, compare existing `questions.md` with the verified current tex
 
 If chapter structure or exercises change substantially, re-extract the entire current edition's Book Back question set for that subject rather than trying to patch fragments. If only a few pages changed, update those pages and retain verified unchanged questions.
 
-### 19.9 Answer and Quiz Sequence for Each Current Chapter
+### 19.9 Answer and Quiz Sequence for Each Current Chapter — simplified workflow
 
 1. Confirm the current book edition for this Class / Subject / Medium / Term.
 2. Verify questions.md against the current PDF page by page.
-3. Collect Round 1 answers from one suitable direct Answer Website / Guide Source into answers.md. Record exact URL / PDF page and mark missing answers.
-4. Do not force an old Answer Website's questions to fit the new book. Use its answer only if the question / context actually matches.
-5. Create Quiz only from the current book's existing Objective / One-word / MCQ questions.
-6. Validate exactly one correct answer and three incorrect options.
-7. Ensure each explanation is supported by current textbook context or an explicit Answer Source. Otherwise mark REVIEW_REQUIRED.
+3. Identify direct MCQ / Objective and One-mark / One-word questions.
+4. Verify only these quiz-candidate answers using one suitable direct Answer Source and textbook context. Use another source only for missing / unclear / conflicting answers.
+5. Keep short / long answer placeholders and existing source links as-is; do not draft their answers or search extra sources.
+6. Create Quiz from direct MCQs and answer-verified One-mark questions. For converted One-mark questions, create exactly four options and exactly one supported correct answer.
+7. Ensure each explanation is supported by textbook context or explicit Answer Source; otherwise mark REVIEW_REQUIRED.
 8. Generate / validate quiz.json to match quiz.md.
-9. Complete the chapter, then proceed to the next chapter.
-10. After the subject is complete, create a subject-level audit summary.
+9. Sync the chapter quiz.json into the subject Master Quiz and validate IDs / count / order / indexes.
+10. Complete the chapter, then proceed to the next chapter; after the subject is complete, perform subject-level QA.
 
 ### 19.10 Current Recommendation
 
 Do not immediately redo all 12 classes. First build the edition audit matrix for all available class repositories and all books. This prevents redoing work that is already based on a still-current reprint.
 
 Prioritize:
-1. Class 10 Tamil — confirmed need for current-vs-legacy comparison because current Repo has 248 pages / 9 folders while the 2025 revised candidate has 184 pages / 7 iyals.
+1. Class 10 Tamil — current 248-page / 9-Iyal repository PDF matches the Official SCERT API file per Section 22; Tamil Quiz workflow is complete. Do not reopen the old 184-page / 7-Iyal provisional warning unless new official evidence appears.
 2. Classes 1–3 — urgently inspect Term-I PDFs because the Corporation explicitly says 2025–26 Term-I books are obsolete and 2026–27 Term-I / Term-II books have been issued.
 3. Classes 4–7 — verify 2026–27 Term-I and Term-II books individually.
 4. Classes 8, 9, 10, 11, 12 — verify each 2026–27 annual book and its internal edition / reprint page.
@@ -1187,16 +1071,9 @@ If only the imprint is known, mark `IMPRINT_DETECTED` and `CURRENT_VALIDITY_UNVE
 If an official portal lists the book for the correct 2026–27 term, but the PDF file itself cannot be opened / matched, mark `OFFICIAL_LISTING_FOUND_PDF_UNVERIFIED`.
 If a third-party mirror provides the candidate file, mark `THIRD_PARTY_MIRROR` separately from the validity status.
 
-### 21.7 Class 10 Tamil present decision
+### 21.7 Class 10 Tamil present decision — superseded by Section 22
 
-- Existing Repo 2024 / 9-Iyal PDF: preserve as a pre-revision Legacy copy.
-- 2025 Revised / 7-Iyal book: strongest revised candidate identified to date.
-- 2026–27 current school-issued PDF / physical copy: exact official imprint and content match still pending.
-- Do not treat the 2025 FlipHTML5 mirror as an official Government-hosted PDF.
-- Do not assume every 2024 imprint in Classes 4–12 is obsolete. Confirm each current book using official distribution + school-issued content / Government e-book PDF.
-
-**Operational priority:** In Chrome, try `https://tnschools.gov.in/scert-textbook` first. If it opens, download the exact Class 10 Tamil full-year PDF and share its URL or file. If it does not open, use the school-issued 2026–27 book / Corporation confirmation rather than guessing from a private site.
-
+இந்த பகுதியில் பதிவான பழைய முடிவு (248-page copy-ஐ legacy எனக் கருதி 184-page revised candidate-ஐ முன்னிலைப்படுத்தியது) பின்னர் வந்த Official SCERT API exact-file evidence-ஆல் superseded செய்யப்பட்டது. நடைமுறைக்கான தற்போதைய முடிவு Section 22.1–22.2-ஐப் பார்க்கவும். 248-page / 9-Iyal Local PDF-ஐ current official portal match base-ஆக வைத்திருக்கவும்; 184-page / 7-Iyal TAMILVITHAI copy-ஐ third-party modified candidate-ஆக மட்டும் பதிவு செய்யவும்.
 
 ---
 
