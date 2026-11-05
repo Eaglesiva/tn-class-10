@@ -26,6 +26,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **விளக்க ஆதாரம்:** [VirkozKalvi — இயல் 5, வினா-விடை வகைகள்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-5-5/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u5_q3`
 
 ### Q4 — “அருளைப் பெருக்கி அறிவைத் திருத்தி”
 - **S1 — BrainKart — இயல் 5:** இ) கல்வி — [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
@@ -34,6 +35,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u5_q4`
 
 ### Q5 — இடைக்காடனார்
 - **S1 — BrainKart — இயல் 5:** ஈ) மன்னன், இறைவன் — [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
@@ -42,6 +44,7 @@
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **விளக்க ஆதாரம்:** [BrainKart — இயல் 5](https://www.brainkart.in/article/Questions-and-Answers_11840/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u5_q5`
 
 ### Q6 — புதிர்ப்பாடல்: “தார்போன்ற நிறமுண்டு”
 - **S1 — TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி:** காகம் — [TamilVithai — இயல் 5 சிறப்பு வழிகாட்டி](https://www.tamilvithai.com/2022/03/10th-tamil-unit-5-special-guide.html)
@@ -49,6 +52,7 @@
 - **💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கருமையான நிறம், கூட்டமாக அமர்ந்து ஒலித்தல், கூடு கட்டுதல், வருகையை முன்கூட்டியே குரலால் அறிவித்தல் ஆகிய குறிப்புகள் காகத்திற்குப் பொருந்துகின்றன.
 - **காரண விளக்க Source:** [விளக்க ஆதாரம்](https://malarmahendran.wordpress.com/2021/03/02/%E0%AE%AE%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%AF%E0%AF%88-%E0%AE%86%E0%AE%B3%E0%AF%8D%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D-%E0%AE%87%E0%AE%AF%E0%AE%B2%E0%AF%8D-5/)
 - **நிலை:** ANSWER_FOUND
+- **Quiz ID:** `10_tam_u5_q6`
 
 ## QC
 - 5 பல்தேர்வு வினாக்களும், 1 ஒரு-சொல் புதிர் வினாவும் source-wise விடைகளுடன் Quiz-ல் சேர்க்கப்பட்டுள்ளன.
