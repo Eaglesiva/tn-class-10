@@ -131,3 +131,15 @@ GitHub பல AI/கருவிகள் ஒரே temporary working file-ஐ�
 ## 10. ஒரு வரி நினைவூட்டல்
 
 **Non-objective = மூன்று காலி placeholder + எல்லா சரிபார்க்கப்பட்ட source links மட்டும்; Objective = source-ல் உள்ள குறுகிய விடை + இலக்கணம்/பாடநூல்/பொது விளக்கம் எனப் பொருத்தமான source-based காரண விளக்கம்; சொந்த model answer எதுவும் இல்லை.**
+
+
+## 11. Answer-to-Quiz handoff — quiz.start
+
+- `answers.md`-ல் verify செய்யப்பட்ட one-mark / one-word வினா, source-wise correct answer, காரண விளக்கம், விளக்க source URL ஆகியவை முதன்மை data.
+- இந்தத் தகவல்களே பின்னர் `quiz.start.md` மற்றும் `quiz.start.json`-க்கு எடுத்துச் செல்லப்பட வேண்டும்; இரண்டு இடங்களிலும் answer / explanation முரண்படக்கூடாது.
+- பாடநூலில் ஏற்கெனவே நான்கு options உள்ள MCQ-களில் அசல் கேள்வி மற்றும் options பாதுகாக்கப்பட வேண்டும்; உறுதி செய்யப்பட்ட correct option index / answer text மட்டும் இணைக்க வேண்டும்.
+- பாடநூலில் one-mark ஆக உள்ள fill-in-the-blank, பொருத்துக, கூற்று அல்லது வேறு objective வடிவங்களை நான்கு options கொண்ட MCQ-ஆக மாற்றலாம்: ஒரு சரியான விடை + மூன்று பொருத்தமான தவறான options.
+- பெரிய/நீண்ட விடை வினாக்களிலிருந்து புதிய one-word / MCQ வினாக்களை உருவாக்கக்கூடாது. Book-back-ல் உள்ள objective/one-mark வினாக்களே quiz scope.
+- Answer source conflict தீர்க்கப்படாத வினா final quiz-க்கு செல்லக்கூடாது; `CONFLICT_REVIEW_REQUIRED` என நிறுத்தப்பட வேண்டும்.
+- இந்த branch-ல் `quiz.start.md`, `quiz.start.json` அல்லது அவற்றின் canonical schema இல்லை. Antigravity-யிடம் இருந்து field schema, ID rule, sample files கிடைக்கும் வரை அவற்றை உருவாக்க வேண்டாம்.
+- தற்போதைய `quiz.md` / `quiz.json` ஏற்கெனவே உள்ள artifact-கள்; அவற்றை quiz.start schema என்று கருதவோ இந்தப் பணியில் overwrite செய்யவோ கூடாது.
