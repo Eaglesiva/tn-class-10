@@ -17,142 +17,6 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
-    "id": "10_eng_u2_q2",
-    "question": "The narrator searched for three days to buy ceramic paint.",
-    "options": [
-      "True",
-      "False",
-      "Partly true",
-      "Cannot be determined"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "The source corrects this to two days, so the statement is false.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q3",
-    "question": "The author was going to New York.",
-    "options": [
-      "True",
-      "False",
-      "Partly true",
-      "Cannot be determined"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "The source marks this statement true.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q4",
-    "question": "Gilson asked the narrator to buy a tie.",
-    "options": [
-      "True",
-      "False",
-      "Partly true",
-      "Cannot be determined"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "Gilson requested a tie with a small embroidered G.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q5",
-    "question": "The taxi driver took away the narrator’s suitcase.",
-    "options": [
-      "True",
-      "False",
-      "Partly true",
-      "Cannot be determined"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "The source marks the statement false; the taxi is described as waiting on the next street.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q6",
-    "question": "Departure was delayed because of the author.",
-    "options": [
-      "True",
-      "False",
-      "Partly true",
-      "Cannot be determined"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "The plane's departure was delayed because the writer arrived late.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q7",
-    "question": "The author left the ties in the taxi.",
-    "options": [
-      "True",
-      "False",
-      "Partly true",
-      "Cannot be determined"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "The writer discovers that he has left the paper bag of ties in the taxi.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q8",
-    "question": "Everything falls to the ground _______ earth’s gravitational pull.",
-    "options": [
-      "in addition to",
-      "because of",
-      "cause of",
-      "in spite of"
-    ],
-    "correctOptionIndex": 1,
-    "explanation": "“Because of” expresses the cause: the earth’s gravitational pull.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
-    "id": "10_eng_u2_q9",
-    "question": "The trial was conducted _______ the procedure of law.",
-    "options": [
-      "in accordance with",
-      "due to",
-      "despite of",
-      "in front of"
-    ],
-    "correctOptionIndex": 0,
-    "explanation": "“In accordance with” means following or conforming to the legal procedure.",
-    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
-    "additionalSourceUrls": [],
-    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
-    "verificationStatus": "ANSWER_FOUND"
-  },
-  {
     "id": "10_eng_u2_q10",
     "question": "There is a temple right _______ my house.",
     "options": [
@@ -323,6 +187,23 @@
     "verificationStatus": "ANSWER_FOUND"
   },
   {
+    "id": "10_eng_u2_q2",
+    "question": "The narrator searched for three days to buy ceramic paint.",
+    "options": [
+      "True",
+      "False",
+      "Partly true",
+      "Cannot be determined"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The source corrects this to two days, so the statement is false.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
     "id": "10_eng_u2_q20",
     "question": "What did the Grumble family scold?",
     "options": [
@@ -439,6 +320,201 @@
     "sourceName": "VirkozKalvi — Zigzag",
     "additionalSourceUrls": [],
     "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-zigzag/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q27",
+    "question": "What is the plural form of “chair”?",
+    "options": [
+      "chairs",
+      "chaires",
+      "chair",
+      "chairies"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "For the regular noun “chair”, add -s to form the plural “chairs”.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q28",
+    "question": "What is the plural form of “box”?",
+    "options": [
+      "boxs",
+      "boxes",
+      "boxies",
+      "boxen"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "Nouns ending in -x usually take -es in the plural: box → boxes.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q29",
+    "question": "What is the plural form of “eskimo”?",
+    "options": [
+      "eskimoes",
+      "eskimos",
+      "eskimo",
+      "eskimes"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The Book Back table gives “eskimos” as the plural form of “eskimo”.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q3",
+    "question": "The author was going to New York.",
+    "options": [
+      "True",
+      "False",
+      "Partly true",
+      "Cannot be determined"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The source marks this statement true.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q30",
+    "question": "What is the plural form of “lady”?",
+    "options": [
+      "ladys",
+      "ladies",
+      "lady's",
+      "ladyes"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "For a consonant + y ending, change y to -ies: lady → ladies.",
+    "sourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "sourceName": "BrainKart — Vocabulary: Singular and Plural Forms",
+    "additionalSourceUrls": [
+      "https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html"
+    ],
+    "explanationSourceUrl": "https://www.brainkart.com/article/Vocabulary_39467/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q4",
+    "question": "Gilson asked the narrator to buy a tie.",
+    "options": [
+      "True",
+      "False",
+      "Partly true",
+      "Cannot be determined"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "Gilson requested a tie with a small embroidered G.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q5",
+    "question": "The taxi driver took away the narrator’s suitcase.",
+    "options": [
+      "True",
+      "False",
+      "Partly true",
+      "Cannot be determined"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "The source marks the statement false; the taxi is described as waiting on the next street.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q6",
+    "question": "Departure was delayed because of the author.",
+    "options": [
+      "True",
+      "False",
+      "Partly true",
+      "Cannot be determined"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The plane's departure was delayed because the writer arrived late.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q7",
+    "question": "The author left the ties in the taxi.",
+    "options": [
+      "True",
+      "False",
+      "Partly true",
+      "Cannot be determined"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "The writer discovers that he has left the paper bag of ties in the taxi.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q8",
+    "question": "Everything falls to the ground _______ earth’s gravitational pull.",
+    "options": [
+      "in addition to",
+      "because of",
+      "cause of",
+      "in spite of"
+    ],
+    "correctOptionIndex": 1,
+    "explanation": "“Because of” expresses the cause: the earth’s gravitational pull.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "verificationStatus": "ANSWER_FOUND"
+  },
+  {
+    "id": "10_eng_u2_q9",
+    "question": "The trial was conducted _______ the procedure of law.",
+    "options": [
+      "in accordance with",
+      "due to",
+      "despite of",
+      "in front of"
+    ],
+    "correctOptionIndex": 0,
+    "explanation": "“In accordance with” means following or conforming to the legal procedure.",
+    "sourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
+    "sourceName": "VirkozKalvi — The Night the Ghost Got In",
+    "additionalSourceUrls": [],
+    "explanationSourceUrl": "https://virkozkalvi.com/samacheer-kalvi-10th-english-books-the-night-the-ghost-got-in/",
     "verificationStatus": "ANSWER_FOUND"
   }
 ]
