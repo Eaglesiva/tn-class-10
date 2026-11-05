@@ -183,3 +183,17 @@
 - Non-objective items are traceable by exact section/question number to questions.md; answer tiers remain placeholders.
 - Q&A and language exercise URLs are direct chapter-specific answer pages, not generic indexes.
 - Any missing answer or source wording mismatch must remain flagged; no answer is inferred.
+
+---
+## கூடுதல் Objective வினாக்கள் — Quiz-க்கு தயாரிக்க வேண்டியவை
+
+### II. குறுவினா — செய்யுள் இலக்கணத்தில் உள்ள குறுகிய விடைகள்
+
+1. **அடியெதுகை:** கொள்வோர் — உள்வாய்.
+   - **காரணம்:** இரு அடிகளின் தொடக்கச் சொற்களில் எதுகை அமைந்துள்ளது; பாடலில் தரப்பட்டுள்ள இணை “கொள்வோர் – உள்வாய்”.
+   - **விடை ஆதாரம்:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — குறுவினா 1.
+
+2. **“கொள்க, குரைக்க” — இலக்கணக் குறிப்பு:** வியங்கோள் வினைமுற்றுகள்.
+   - **காரணம்:** “கொள்க”, “குரைக்க” ஆகியவை செயலைச் செய்யுமாறு கூறும் வியங்கோள் வினைமுற்று வடிவங்கள்.
+   - **விடை ஆதாரம்:** [BrainKart — இயல் 8 கேள்விகள் மற்றும் பதில்கள்](https://www.brainkart.in/article/Questions-and-Answers_11867/) — குறுவினா 1.
+   - **Quiz நிலை:** இரண்டு குறுகிய, நிலையான விடை கொண்ட வினாக்கள்; தற்போதைய Quiz-ல் இல்லை.
