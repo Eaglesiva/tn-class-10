@@ -90,3 +90,7 @@
 3. முந்தைய `quiz.md`-ல் வினா 3 “எண்தமிழ்நா” எனத் தவறாக இருந்தது; இப்போது `questions.md`-இன் “எந்தமிழ்நா” வடிவத்துடன் ஒத்திசைக்கப்பட்டுள்ளது.
 4. இவை direct answer reference pages; BrainKart, GreenTamil, TamilVithai அரசு இணையதளங்கள் அல்ல. TVA grammar / vocabulary links தனி அதிகாரப்பூர்வ reference-களாக மட்டுமே பயன்படுத்தப்பட்டுள்ளன.
 5. MCQ விடைகள் source pages-ல் இருப்பதை உறுதிசெய்துள்ளோம்; 2026–27 edition-க்கு இப்பக்கங்கள் புதுப்பிக்கப்பட்டதாகக் கூறவில்லை.
+
+
+## Additional direct source
+[BrainKart — இயல் 1 முழு Book Back Q&A](https://www.brainkart.in/article/Questions-and-Answers_11807/)
