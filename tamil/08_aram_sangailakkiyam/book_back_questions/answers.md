@@ -334,12 +334,14 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 
 1. கானடை
 
+எ.கா. கானடை என்பதை, கான் அடை - காட்டைச் சேர், கான் நடை - காட்டுக்கு நடத்தல், கால் நடை - காலால் நடத்தல் இவ்வாறு மூன்று வகையாகப் பிரித்துப் பொருள் கூறலாம்.
+
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
-**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+**QC:** ANSWER_FOUND — BrainKart மொழி அறிவு பக்கத்தில் இந்தச் சொல்லுக்கான பிரிப்பு/பொருள் நேரடியாகக் கொடுக்கப்பட்டுள்ளது.
 
 ---
 
@@ -352,7 +354,7 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
-**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+**QC:** ANSWER_FOUND — BrainKart மொழி அறிவு பக்கத்தில் இந்தச் சொல்லுக்கான பிரிப்பு/பொருள் நேரடியாகக் கொடுக்கப்பட்டுள்ளது.
 
 ---
 
@@ -365,7 +367,7 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
-**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+**QC:** ANSWER_FOUND — BrainKart மொழி அறிவு பக்கத்தில் இந்தச் சொல்லுக்கான பிரிப்பு/பொருள் நேரடியாகக் கொடுக்கப்பட்டுள்ளது.
 
 ---
 
@@ -373,14 +375,12 @@ Once upon a time there were two beggars in Rome. The first beggar used to cry in
 
 4. பலகையொலி
 
-எ.கா. கானடை என்பதை, கான் அடை - காட்டைச் சேர், கான் நடை - காட்டுக்கு நடத்தல், கால் நடை - காலால் நடத்தல் இவ்வாறு மூன்று வகையாகப் பிரித்துப் பொருள் கூறலாம்.
-
 🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]  
 📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]  
 📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
 
 **Source:** [BrainKart — இயல் 8 மொழி அறிவு](https://www.brainkart.in/article/Tamil-Language-Exercise---Questions-and-Answers_11868/) — நேரடி மொழி அறிவு பதில் பக்கம்.  
-**QC:** Original question text copied exactly from questions.md; the direct language-exercise page has been opened. Exact item-level answer match pending.
+**QC:** ANSWER_FOUND — BrainKart மொழி அறிவு பக்கத்தில் இந்தச் சொல்லுக்கான பிரிப்பு/பொருள் நேரடியாகக் கொடுக்கப்பட்டுள்ளது.
 
 ---
 
