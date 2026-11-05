@@ -561,6 +561,8 @@ Kalaignar Karunanidhi is known for his contributions to Tamil literature. His co
 - **Quiz ID:** `10_tam_u6_q8`
 
 #### 5. கைதட்டலே கவிஞர்க்கு……….– அவையோரின் ஆர்வமே அவருக்கு ……….
+- **S2 — CBSETamil:** விருது / விருந்து — [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
+- **S3 — StudentsGuide360:** விருது / விருந்து — [StudentsGuide360 — இயல் 6.6](https://www.studentsguide360.com/10th-tamil-unit-5-question-and-answers/) — கேள்வி உரையுடன் நேரடி பொருத்தம்.
 - **S1 — VirkozKalvi:** விருது / விருந்து — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-6-6/)
 - **S2 — CBSETamil:** விருது / விருந்து — [CBSETamil](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-6-6/)
 - **நிலை:** ANSWER_FOUND
