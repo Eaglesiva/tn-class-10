@@ -110,7 +110,7 @@
 - S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/) — ஆ) மோனை, எதுகை — `ANSWER_FOUND`.
 - S13 — [VirkozKalvi, காற்றே வா](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-2/) — ஆ) மோனை, எதுகை — `ANSWER_FOUND`.
 
-**💡 காரண விளக்கம்:** “உனக்குப்” என்ற தொடக்க ஒலி மீளவும், அடிகளில் எதுகை ஒலியமைப்பும் காணப்படுவதால் மோனை, எதுகை நயங்கள் பொருந்துகின்றன.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “உனக்குப்” என்ற தொடக்க ஒலி மீளவும், அடிகளில் எதுகை ஒலியமைப்பும் காணப்படுவதால் மோனை, எதுகை நயங்கள் பொருந்துகின்றன.  
 **விளக்க ஆதாரம்:** S11 — [தமிழ் இணையக் கல்விக்கழகம் — எதுகை, மோனை](https://www.tamilvu.org/ta/courses-degree-d031-d0312-html-d0312662-20396).  
 **விளக்க நிலை:** `EXTRACTOR_WRITTEN_BASED_ON_CITED_GRAMMAR_SOURCE`.
 
@@ -125,7 +125,7 @@
 - S14 — [VirkozKalvi, கேட்கிறதா என் குரல்](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/) — ஈ) செய்தி 1, 3 ஆகியன சரி — `ANSWER_REFERENCE`.
 - S4 — [StudentsGuide360](https://www.studentsguide360.com/10th-tamil-unit-2-book-back-answers-guide-new-revised-syllabus/) — இதே கேள்வியின் 2025 பாடப்பதிப்பு wording-ல் ஈ) செய்தி 1, 3 — `WORDING_VARIANT`.
 
-**💡 காரண விளக்கம்:** இந்தக் கேள்விக்கான திறந்த விடை ஆதாரங்கள் செய்தி 1 மற்றும் 3-ஐச் சரி எனக் குறிக்கின்றன. செய்தி 2-ஐத் தவறு எனக் காட்டும் தனிப்பட்ட புள்ளிவிவர விளக்கம் கிடைக்கவில்லை; கூடுதல் புள்ளிவிவரக் கூற்று சேர்க்கப்படவில்லை.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** இந்தக் கேள்விக்கான திறந்த விடை ஆதாரங்கள் செய்தி 1 மற்றும் 3-ஐச் சரி எனக் குறிக்கின்றன. செய்தி 2-ஐத் தவறு எனக் காட்டும் தனிப்பட்ட புள்ளிவிவர விளக்கம் கிடைக்கவில்லை; கூடுதல் புள்ளிவிவரக் கூற்று சேர்க்கப்படவில்லை.  
 **விளக்க ஆதாரம்:** S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/).  
 **விளக்க நிலை:** `ANSWER_SOURCE_CONFIRMS_OPTION; SEPARATE_STATISTICAL_REASON_NOT_FOUND`.
 
@@ -137,7 +137,7 @@
 - S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/) — அ) கடல் நீர் ஆவியாகி மேகமாதல் — `ANSWER_FOUND`.
 - S15 — [VirkozKalvi, முல்லைப்பாட்டு](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-3/) — அ) கடல் நீர் ஆவியாகி மேகமாதல் — `ANSWER_REFERENCE`.
 
-**💡 காரண விளக்கம்:** கடல்நீர் ஆவியாகி மேகமாகி மழையாகப் பொழியும் இயற்கை நிகழ்வை இவ்வடி சுட்டுகிறது.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** கடல்நீர் ஆவியாகி மேகமாகி மழையாகப் பொழியும் இயற்கை நிகழ்வை இவ்வடி சுட்டுகிறது.  
 **விளக்க ஆதாரம்:** S1 — [BrainKart, முல்லைப்பாட்டு விளக்கம்](https://www.brainkart.in/article/Questions-and-Answers_11815/).  
 **விளக்க நிலை:** `EXTRACTOR_WRITTEN_BASED_ON_CITED_TEXTBOOK_EXPLANATION`.
 
@@ -150,7 +150,7 @@
 - அன்மொழித்தொகை — S1 [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/) — `CONFLICT_SIDE_B`.
 - அன்மொழித்தொகை — S18 [NammaKalvi Slow Learners PDF](https://www.nammakalvi.com/uploads/3/0/7/5/30750087/namma_kalvi_10th_tamil_slow_learners_study_material_216363.pdf) · S19 [OMTEX](https://www.omtexclasses.com/2025/08/10th-std-sslc-tamil-slow-learners-study-material-guide-model-questions-and-answers.html) — `CONFLICT_SIDE_B_REFERENCE`.
 
-**💡 காரண விளக்கம்:** விடை வகைப்பாட்டிலேயே source-கள் முரண்படுவதால் உறுதியான காரண விளக்கம் தேர்ந்தெடுக்கப்படவில்லை.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** விடை வகைப்பாட்டிலேயே source-கள் முரண்படுவதால் உறுதியான காரண விளக்கம் தேர்ந்தெடுக்கப்படவில்லை.  
 **விளக்க ஆதாரம்:** தீர்மானிக்கப்படவில்லை — `EXPLANATION_SOURCE_NOT_FOUND_DUE_TO_CONFLICT`.  
 **நிலை:** `CONFLICT_REVIEW_REQUIRED`. இந்தக் கேள்வியை Quiz-ல் சேர்க்கும் முடிவு பின்னர் செய்யப்பட வேண்டும்.
 
@@ -168,7 +168,7 @@
 - S14 — [VirkozKalvi](https://virkozkalvi.com/samacheer-kalvi-10th-tamil-books-chapter-2-1/) — ஆ) 3, 1, 4, 2 — `ANSWER_REFERENCE`.
 
 **விளக்கமான பொருத்தம்:** கொண்டல்—கிழக்கு (3); கோடை—மேற்கு (1); வாடை—வடக்கு (4); தென்றல்—தெற்கு (2).  
-**💡 காரண விளக்கம்:** ஒவ்வொரு காற்றின் பெயருக்கும் உரிய திசையைப் பொருத்திய வரிசை 3, 1, 4, 2.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** ஒவ்வொரு காற்றின் பெயருக்கும் உரிய திசையைப் பொருத்திய வரிசை 3, 1, 4, 2.  
 **விளக்க ஆதாரம்:** S12 — [தமிழ் டிஜிட்டல் நூலகம் — திசைக்காற்றுப் பெயர்கள்](https://tamildigitallibrary.in/assets/docs/uploads/catalogue_article_file/BOK/upload/2025/12/TVA_TVA_BOK_062716/upload_primary_20251209034251297_20251209032739.pdf).  
 **விளக்க நிலை:** `EXTRACTOR_WRITTEN_BASED_ON_CITED_REFERENCE`.
 
@@ -239,7 +239,7 @@
 **Source-wise விடை:**
 - S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/) — பொருள்: திருமால்; இலக்கணக் குறிப்பு: செய்யுளிசை அளபெடை — `ANSWER_FOUND`.
 
-**💡 காரண விளக்கம்:** BrainKart பதிலில் “மாஅல்” என்பதற்கான பொருளும் செய்யுளிசை அளபெடை என்ற இலக்கணக் குறிப்பும் நேரடியாகக் கொடுக்கப்பட்டுள்ளன.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** BrainKart பதிலில் “மாஅல்” என்பதற்கான பொருளும் செய்யுளிசை அளபெடை என்ற இலக்கணக் குறிப்பும் நேரடியாகக் கொடுக்கப்பட்டுள்ளன.  
 **விளக்க ஆதாரம்:** S1 — [BrainKart](https://www.brainkart.in/article/Questions-and-Answers_11815/).  
 **நிலை:** `ANSWER_FOUND`.  
 **Quiz தகுதி:** ஒரு குறுவினா/சொற்பொருள் வினா; பின்னர் Quiz eligibility review-இல் பார்க்க வேண்டும்.
@@ -393,7 +393,7 @@
 - S6 — [SaraNextGen, Chapter 2.5](https://www.saranextgen.com/homeworkhelp/index.php?id=15901) — “மலருக்குப் பெயர் உண்டு” — `ANSWER_FOUND`.
 - S7 — [KalviVithaigal](https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html) — “மலருக்கு பெயர் உண்டு” — `WORDING_VARIANT`.
 
-**💡 காரண விளக்கம்:** “மலர் உண்டு; பெயரும் உண்டு” என்ற இரு தொடர்களின் கருத்து “மலருக்குப் பெயர் உண்டு” என ஒரே தொடரில் சுருக்கப்படுகிறது.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “மலர் உண்டு; பெயரும் உண்டு” என்ற இரு தொடர்களின் கருத்து “மலருக்குப் பெயர் உண்டு” என ஒரே தொடரில் சுருக்கப்படுகிறது.  
 **விளக்க ஆதாரம்:** S5 — [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/).  
 **நிலை:** `ANSWER_FOUND`.
 
@@ -405,7 +405,7 @@
 - S7 — [KalviVithaigal](https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html) — அதே தொடரை விடையாகக் கொடுக்கிறது — `ANSWER_FOUND`.
 
 **குறிப்பு:** S5/S6/S7 பதில்கள் ஒன்றுபோல் உள்ளன; ஆனால் பாடப்பகுதியிலுள்ள “காயாகி, கனியாகி...” என்ற தொடர் ஒப்புமை நோக்கில் வேறு source-களில் மாறுபட்ட பதில் அமைப்பு காணப்படுவதால், பாடநூல் passage-ஐ வைத்து இறுதி Quiz suitability பின்னர் மதிப்பிட வேண்டும்.  
-**💡 காரண விளக்கம்:** source-கள் தரும் ஒப்புமைத் தொடர் விளக்கத்தில் முழுமையான ஒருமித்த முடிவு இல்லை — `EXPLANATION_SOURCE_NOT_FOUND`.
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** source-கள் தரும் ஒப்புமைத் தொடர் விளக்கத்தில் முழுமையான ஒருமித்த முடிவு இல்லை — `EXPLANATION_SOURCE_NOT_FOUND`.
 
 ### VII-3. நீங்கள் அறிந்த இரு பூக்களின் பெயர்களையும் பயன்களையும் எழுதுக.
 
@@ -430,7 +430,7 @@
 - S6 — [SaraNextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15901) — குறிப்புப் பெயரெச்சம் — `ANSWER_FOUND`.
 - S7 — [KalviVithaigal](https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html) — பெயரெச்சம் — `CONFLICT`.
 
-**💡 காரண விளக்கம்:** “அரிய” என்பது மலரின் பண்பைக் குறிப்பதால் குறிப்புப் பெயரெச்சம் என S5/S6 வகைப்படுத்துகின்றன; S7 பொதுவாகப் பெயரெச்சம் எனக் குறிக்கிறது. இந்த வேறுபாடு source-களில் அப்படியே பதிவு செய்யப்பட்டுள்ளது.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** “அரிய” என்பது மலரின் பண்பைக் குறிப்பதால் குறிப்புப் பெயரெச்சம் என S5/S6 வகைப்படுத்துகின்றன; S7 பொதுவாகப் பெயரெச்சம் எனக் குறிக்கிறது. இந்த வேறுபாடு source-களில் அப்படியே பதிவு செய்யப்பட்டுள்ளது.  
 **விளக்க ஆதாரம்:** S5 — [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/) · S6 — [SaraNextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15901).  
 **நிலை:** `SOURCE_VARIANT_REVIEW`.
 
@@ -441,7 +441,7 @@
 - S6 — [SaraNextGen](https://www.saranextgen.com/homeworkhelp/index.php?id=15901) — அதே திருத்தங்களை வழங்குகிறது — `ANSWER_FOUND`.
 - S7 — [KalviVithaigal](https://www.kalvivithaigal.com/2022/06/10th-tamil-unit-2-slow-learners-guide.html) — அதே திருத்தங்களை வழங்குகிறது — `ANSWER_FOUND`.
 
-**💡 காரண விளக்கம்:** மயங்கொலி எழுத்துகளில் எழுத்து மாறினால் சொல்லின் பொருள் மாறும்; இங்கு “மரத்தின்”, “பறித்து”, “மணத்தை” என்பவையே passage-ன் பொருளுடன் பொருந்துகின்றன.  
+**💡 காரண விளக்கம் (Extractor-written explanation based on cited source):** மயங்கொலி எழுத்துகளில் எழுத்து மாறினால் சொல்லின் பொருள் மாறும்; இங்கு “மரத்தின்”, “பறித்து”, “மணத்தை” என்பவையே passage-ன் பொருளுடன் பொருந்துகின்றன.  
 **விளக்க ஆதாரம்:** S5 — [TN Board Solutions](https://tnboardsolutions.com/samacheer-kalvi-10th-tamil-guide-chapter-2-5/).  
 **நிலை:** `ANSWER_FOUND`.
 
