@@ -175,3 +175,26 @@
 - Non-objective questions are linked by section and question number to questions.md; three answer tiers remain placeholders.
 - Q&A and language-exercise source pages are direct unit-specific pages, not generic subject indexes.
 - A wording difference or a missing answer must remain marked as a variant / not found; no answer is inferred from a merely related passage.
+
+---
+## கூடுதல் Objective வினாக்கள் — Quiz-க்கு தயாரிக்க வேண்டியவை
+
+### VI. மொழியோடு விளையாடு — ஊர்ப்பெயர்களின் மரூஉ
+
+| Book Back-ல் உள்ள ஊர்ப்பெயர் | சரியான மரூஉ |
+|---|---|
+| புதுக்கோட்டை | புதுகை |
+| திருச்சிராப்பள்ளி | திருச்சி |
+| உதகமண்டலம் | உதகை |
+| கோயம்புத்தூர் | கோவை |
+| நாகப்பட்டினம் | நாகை |
+| புதுச்சேரி | புதுவை |
+| கும்பகோணம் | குடந்தை |
+| திருநெல்வேலி | நெல்லை |
+| மன்னார்குடி | மன்னை |
+| மயிலாப்பூர் | மயிலை |
+| சைதாப்பேட்டை | சைதை |
+
+- **விடை ஆதாரம்:** [CBSE Tamil — இயல் 7.6 புறப்பொருள் இலக்கணம் / மொழியோடு விளையாடு](https://cbsetamil.com/ncert-class-10-tamil-solution-lesson-7-6/) — ஊர்ப்பெயர்–மரூஉ அட்டவணை.
+- **சரிபார்ப்பு:** ANSWER_FOUND; questions.md-இல் உள்ள 11 ஊர்ப்பெயர்களும் ஆதாரப் பக்கத்தில் உள்ளன. தஞ்சாவூர்–தஞ்சை எடுத்துக்காட்டு கேள்வியிலேயே கொடுக்கப்பட்டுள்ளது; அதனை மீண்டும் Quiz வினாவாகச் சேர்க்கவில்லை.
+- **Quiz நிலை:** இவை தனித்தனி ஒருசொல் விடை வினாக்கள். நான்கு தேர்வுகளுடன் Quiz-ஆக மாற்ற வேண்டியவை; தற்போதைய Quiz-ல் இன்னும் சேர்க்கப்படவில்லை.
