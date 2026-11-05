@@ -322,7 +322,7 @@
 - **Quiz ID:** `10_eng_u2_q30`
 - **Status:** ANSWER_FOUND
 
-> Eight of the ten entries are recorded; the final two source-listed forms remain.
+- All ten entries in the original plural-form table now have source-wise answers and Quiz records.
 ### Prose E2
 
 **Book Back question / task:** Where did Chulong catch the bird?
@@ -759,5 +759,21 @@
 - **💡 Explanation (extractor-written from cited source):** “Deer” has the same form in the singular and plural in the Book Back table.
 - **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
 - **Quiz ID:** `10_eng_u2_q34`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q35 — According to the Book Back table, what is the plural form of “loaf”?
+- **S1 — BrainKart:** loaves — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** loaves — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** “Loaf” changes to “loaves” in the plural.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q35`
+- **Status:** ANSWER_FOUND
+
+#### 10_eng_u2_q36 — According to the Book Back table, what is the plural form of “hero”?
+- **S1 — BrainKart:** heroes — [Vocabulary — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **S2 — TamilSangamam:** heroes — [Unit 2 Prose — Singular and Plural Forms](https://www.tamilsangamam.in/2021/08/10th-std-english-unit-2-prose-night.html)
+- **💡 Explanation (extractor-written from cited source):** The Book Back table gives “heroes” as the plural of “hero”.
+- **Explanation source:** [BrainKart — Singular and Plural Forms](https://www.brainkart.com/article/Vocabulary_39467/)
+- **Quiz ID:** `10_eng_u2_q36`
 - **Status:** ANSWER_FOUND
 
