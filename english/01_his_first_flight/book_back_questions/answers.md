@@ -290,15 +290,32 @@ Your parents sometimes behave like the young bird’s parents. They may seem cru
 
 **Source:** [VirkozKalvi — His First Flight](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-his-first-flight/) — நேரடி பாடவிடை ஆதாரம்.
 
-### Prose C
+### Prose C — Parts of Speech chart: source-wise answers
 
-Vocabulary: Parts of Speech — complete the word-form chart for exhaustion, widen, mad and perfectly.
+**Source group 1 — OMTEX / Learn Cram**
 
-🔑 விடைக்குறிப்பு — [TO_BE_PREPARED_LATER]
-📝 சாதாரண விடை — [TO_BE_PREPARED_LATER]
-📖 விரிவான விடை — [TO_BE_PREPARED_LATER]
+| Noun | Verb | Adjective | Adverb |
+|---|---|---|---|
+| exhaustion | exhaust | exhaustible | exhaustively |
+| wideness | widen | wide | widely |
+| madness | madden | mad | madly |
+| perfection | perfect | perfect | perfectly |
 
-**Source:** [VirkozKalvi — His First Flight](https://virkozkalvi.com/samacheer-kalvi-10th-english-books-his-first-flight/) — நேரடி பாடவிடை ஆதாரம்.
+- **S1 — OMTEX:** [Chapter 1 — His First Flight]( https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html )
+- **S2 — Learn Cram:** [His First Flight Book Back Answers]( https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/ )
+
+**Source group 2 — TamilSangamam**
+
+| Noun | Verb | Adjective | Adverb |
+|---|---|---|---|
+| exhaustion | exhaust | exhaustive | exhaustively |
+| width | widen | wide | widely |
+| madness | madden | mad | madly |
+| perfection | perfect | perfect | perfectly |
+
+- **S1 — TamilSangamam:** [Unit 1 Prose — His First Flight]( https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html )
+
+**Source conflict:** The adjective paired with “exhaustion” is “exhaustible” in OMTEX / Learn Cram but “exhaustive” in TamilSangamam. The noun paired with “widen” is “wideness” in OMTEX / Learn Cram but “width” in TamilSangamam. These two cells remain flagged and are not turned into Quiz questions. The remaining ten word-form cells agree across these sources.
 
 ### Prose D — One-word form transformations
 
@@ -614,3 +631,35 @@ Rearrange the ten supplied sentences in coherent order.
 - Four modal blanks with multiple accepted alternatives and the source-mismatched modal dialogue are not forced into single-answer quiz format.
 - Non-objective prose, poem and supplementary questions are recorded with the three empty answer tiers and direct unit source links.
 - `questions.md` was not changed.
+### 10_eng_u1_q36 — In the Parts of Speech chart, what is the verb form corresponding to the noun “exhaustion”?
+- **S1 — OMTEX:** exhaust — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** exhaust — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** exhaust — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “exhaust” as the verb form corresponding to the noun “exhaustion”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q37 — In the Parts of Speech chart, what is the adverb form corresponding to the noun “exhaustion”?
+- **S1 — OMTEX:** exhaustively — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** exhaustively — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** exhaustively — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “exhaustively” as the adverb form corresponding to the noun “exhaustion”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q38 — In the Parts of Speech chart, what is the adjective form corresponding to the verb “widen”?
+- **S1 — OMTEX:** wide — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** wide — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** wide — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “wide” as the adjective form corresponding to the verb “widen”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
+### 10_eng_u1_q39 — In the Parts of Speech chart, what is the adverb form corresponding to the verb “widen”?
+- **S1 — OMTEX:** widely — [Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html)
+- **S2 — Learn Cram:** widely — [Parts of Speech chart](https://www.learncram.com/tamilnadu-board/tamilnadu-class-10-english-solutions-prose-chapter-1/)
+- **S3 — TamilSangamam:** widely — [Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **💡 Explanation (extractor-written from cited source):** The chart lists “widely” as the adverb form corresponding to the verb “widen”.
+- **Explanation source:** [OMTEX — Parts of Speech chart](https://www.omtexclasses.com/2021/02/chapter-1-his-first-flight-samacheer.html) · [TamilSangamam — Parts of Speech chart](https://www.tamilsangamam.in/2021/07/10th-std-unit-1-prose-his-first-flight.html)
+- **Status:** ANSWER_FOUND
+
