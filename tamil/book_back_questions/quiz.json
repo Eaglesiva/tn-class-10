@@ -94,17 +94,16 @@
       "இலை வகை"
     ],
     "correctOptionIndex": 1,
-    "explanation": "சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை கற்றல் கையேடு (2022–23) விடையை “மணி வகை” எனக் குறிக்கிறது. ஆனால் SCERT பாடநூலின் சொல்வள அட்டவணையில் கடலை/விதை/கொட்டை எடுத்துக்காட்டுகள் “குலை வகை” தலைப்பின் கீழ் காணப்படுகின்றன; எனவே அதிகாரப்பூர்வ விடைக்குறிப்பு–பாடநூல் வகைப்பாடு முரண்பாடு உள்ளது.",
-    "sourceUrl": "https://www.brainkart.in/article/Questions-and-Answers_11807/",
-    "sourceName": "BrainKart — இயல் 1 நேரடி விடைப் பக்கம்",
+    "explanation": "SCERT பாடநூலின் “மணிவகை — தானியங்களுக்கு வழங்கும் சொற்கள்” என்ற தலைப்பின் கீழ் கடலை: வேர்க்கடலை/கொண்டைக்கடலை, விதை: கத்தரி/மிளகாய், கொட்டை: மா/பனை என நேரடியாக வகைப்படுத்தப்பட்டுள்ளது. அதே பக்கத்தில் “குலை வகை” தனிப் பிரிவாக இருந்து கொத்து, குலை, தாறு, கதிர், அலகு/குரல், சீப்பு ஆகியவற்றைக் குறிக்கிறது. ஆகவே வேர்க்கடலை, மிளகாய் விதை, மாங்கொட்டை ஆகிய மூன்றும் மணிவகையைச் சேர்ந்தவை. சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலரின் பள்ளிக்கல்வித்துறை கற்றல் கையேடும் (2022–23) ஆ) மணி வகை என உறுதிப்படுத்துகிறது.",
+    "sourceUrl": "https://mytamil.in/pdf/em/10/xslch2023.pdf",
+    "sourceName": "பள்ளிக்கல்வித்துறை, சென்னை மாவட்ட முதன்மைக் கல்வி அலுவலர் — 10ஆம் வகுப்பு கற்றல் கையேடு (2022–23)",
     "additionalSourceUrls": [
-      "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html",
+      "https://fliphtml5.com/nidbx/gilh/Namma_Kalvi_10th_Tamil_Textbook/",
       "https://www.brainkart.in/article/Questions-and-Answers_11807/",
-      "https://mytamil.in/pdf/em/10/xslch2023.pdf",
-      "https://athiyamanteam.com/wp-content/uploads/2019/06/New-TN-Samacheer-Book-10th-Std-Tamil-Term-1-Athiyaman-Team.pdf"
+      "https://www.greentamil.in/2021/06/1-10-tamil-iyal-1-book-back-question.html"
     ],
-    "verificationStatus": "OFFICIAL_GUIDE_KEY_WITH_TEXTBOOK_CLASSIFICATION_CONFLICT",
-    "explanationSourceUrl": "https://mytamil.in/pdf/em/10/xslch2023.pdf"
+    "verificationStatus": "ANSWER_CONFIRMED_OFFICIAL_TEXTBOOK_AND_DISTRICT_GUIDE",
+    "explanationSourceUrl": "https://fliphtml5.com/nidbx/gilh/Namma_Kalvi_10th_Tamil_Textbook/"
   },
   {
     "id": "10_tam_u2_q1",
