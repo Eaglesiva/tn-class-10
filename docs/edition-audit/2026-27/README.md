@@ -24,3 +24,10 @@ See the [Common SCERT Edition Verification Blueprint](https://github.com/Eaglesi
 ## Common master register
 
 [Open Class 10 in the one-click Master Cross-Verification Index](https://github.com/Eaglesiva/tn-schools-project/blob/main/docs/03-edition-register/MASTER_CROSS_VERIFICATION_INDEX.md#class-10)
+
+## Supplementary audit evidence
+
+- [Class 10 Tamil 2024 vs 2025 comparison](CLASS_10_TAMIL_2024_VS_2025_DIFF_ANALYSIS.md)
+- [Maths audit evidence folder](audit_evidence/)
+- [English refresh evidence folder](refresh_evidence/)
+- [Cloud edition update report](class_10_cloud_edition_update_report.md)
