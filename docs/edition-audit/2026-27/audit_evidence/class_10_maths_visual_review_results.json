@@ -1,0 +1,402 @@
+{
+  "em": {
+    "2": {
+      "page": 2,
+      "classification": "TYPOGRAPHICAL_REVISION",
+      "pixel_diff_pct": 4.43,
+      "normalized_text_similarity": 60.78,
+      "finding_detail": "Page 2 Imprint: GitHub main is newer 2025 Revised Edition with Government Helplines 1098 & 14417. Official portal is 2024 Reprint.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p002_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "17": {
+      "page": 17,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.74,
+      "normalized_text_similarity": 78.0,
+      "finding_detail": "Visually equivalent (0.74% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p017_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "40": {
+      "page": 40,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.79,
+      "normalized_text_similarity": 79.99,
+      "finding_detail": "Visually equivalent (0.79% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p040_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "167": {
+      "page": 167,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.76,
+      "normalized_text_similarity": 74.91,
+      "finding_detail": "Visually equivalent (0.76% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p167_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "274": {
+      "page": 274,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 1.14,
+      "normalized_text_similarity": 69.91,
+      "finding_detail": "Visually equivalent (1.14% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p274_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "325": {
+      "page": 325,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.89,
+      "normalized_text_similarity": 55.18,
+      "finding_detail": "Visually equivalent (0.89% pixel diff). Mathematical content, figures, and exercises are identical.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p325_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "352": {
+      "page": 352,
+      "classification": "LAYOUT_ONLY_REVISION",
+      "pixel_diff_pct": 0.53,
+      "normalized_text_similarity": 68.31,
+      "finding_detail": "Final glossary slugline: InDesign compile timestamp and print line variation at bottom of page.",
+      "is_content_identical": true,
+      "comparison_image": "c10_em_p352_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    }
+  },
+  "tm": {
+    "1": {
+      "page": 1,
+      "classification": "LAYOUT_ONLY_REVISION",
+      "pixel_diff_pct": 0.84,
+      "normalized_text_similarity": 78.26,
+      "finding_detail": "Cover / Title Page: Minor layout and publisher slugline spacing; identical book title and grade.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p001_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "2": {
+      "page": 2,
+      "classification": "TYPOGRAPHICAL_REVISION",
+      "pixel_diff_pct": 4.76,
+      "normalized_text_similarity": 62.74,
+      "finding_detail": "Page 2 Imprint: GitHub main is newer 2025 Revised Edition with Government Helplines 1098 & 14417. Official portal is 2024 Reprint.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p002_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "4": {
+      "page": 4,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.8,
+      "normalized_text_similarity": 66.02,
+      "finding_detail": "Visually identical layout (0.80% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p004_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "34": {
+      "page": 34,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.01,
+      "normalized_text_similarity": 79.16,
+      "finding_detail": "Visually identical layout (1.01% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p034_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "43": {
+      "page": 43,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.37,
+      "normalized_text_similarity": 74.37,
+      "finding_detail": "Visually identical layout (1.37% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p043_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "92": {
+      "page": 92,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.06,
+      "normalized_text_similarity": 74.44,
+      "finding_detail": "Visually identical layout (1.06% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p092_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "123": {
+      "page": 123,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.06,
+      "normalized_text_similarity": 69.67,
+      "finding_detail": "Visually identical layout (1.06% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p123_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "132": {
+      "page": 132,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.65,
+      "normalized_text_similarity": 78.1,
+      "finding_detail": "Visually identical layout (0.65% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p132_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "135": {
+      "page": 135,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.64,
+      "normalized_text_similarity": 78.81,
+      "finding_detail": "Visually identical layout (1.64% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p135_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "137": {
+      "page": 137,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.33,
+      "normalized_text_similarity": 74.57,
+      "finding_detail": "Visually identical layout (1.33% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p137_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "146": {
+      "page": 146,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.89,
+      "normalized_text_similarity": 78.67,
+      "finding_detail": "Visually identical layout (0.89% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p146_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "173": {
+      "page": 173,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.76,
+      "normalized_text_similarity": 79.63,
+      "finding_detail": "Visually identical layout (0.76% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p173_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "180": {
+      "page": 180,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.31,
+      "normalized_text_similarity": 76.33,
+      "finding_detail": "Visually identical layout (1.31% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p180_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "225": {
+      "page": 225,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.96,
+      "normalized_text_similarity": 78.28,
+      "finding_detail": "Visually identical layout (0.96% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p225_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "235": {
+      "page": 235,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.8,
+      "normalized_text_similarity": 76.67,
+      "finding_detail": "Visually identical layout (0.80% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p235_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "242": {
+      "page": 242,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.05,
+      "normalized_text_similarity": 77.9,
+      "finding_detail": "Visually identical layout (1.05% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p242_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "253": {
+      "page": 253,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.86,
+      "normalized_text_similarity": 75.82,
+      "finding_detail": "Visually identical layout (0.86% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p253_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "265": {
+      "page": 265,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.25,
+      "normalized_text_similarity": 73.94,
+      "finding_detail": "Visually identical layout (1.25% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p265_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "269": {
+      "page": 269,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 3.26,
+      "normalized_text_similarity": 79.55,
+      "finding_detail": "Visually identical layout (3.26% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p269_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "282": {
+      "page": 282,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.82,
+      "normalized_text_similarity": 78.67,
+      "finding_detail": "Visually identical layout (0.82% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p282_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "283": {
+      "page": 283,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 1.07,
+      "normalized_text_similarity": 75.1,
+      "finding_detail": "Visually identical layout (1.07% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p283_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "295": {
+      "page": 295,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.83,
+      "normalized_text_similarity": 77.53,
+      "finding_detail": "Visually identical layout (0.83% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p295_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "306": {
+      "page": 306,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.74,
+      "normalized_text_similarity": 72.12,
+      "finding_detail": "Visually identical layout (0.74% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p306_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "315": {
+      "page": 315,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.88,
+      "normalized_text_similarity": 76.75,
+      "finding_detail": "Visually identical layout (0.88% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p315_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "316": {
+      "page": 316,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.6,
+      "normalized_text_similarity": 77.94,
+      "finding_detail": "Visually identical layout (0.60% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p316_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "335": {
+      "page": 335,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.66,
+      "normalized_text_similarity": 74.57,
+      "finding_detail": "Visually identical layout (0.66% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p335_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "339": {
+      "page": 339,
+      "classification": "OCR_EXTRACTION_ARTIFACT",
+      "pixel_diff_pct": 0.95,
+      "normalized_text_similarity": 71.53,
+      "finding_detail": "Visually identical layout (0.95% pixel diff). Raw text diff caused by PDF ToUnicode CMap ligature decomposition artifacts in Tamil fonts.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p339_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "367": {
+      "page": 367,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.08,
+      "normalized_text_similarity": 53.85,
+      "finding_detail": "Visually equivalent (0.08% pixel diff). Identical mathematical problems, formulas, and diagrams.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p367_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    },
+    "368": {
+      "page": 368,
+      "classification": "VISUALLY_EQUIVALENT",
+      "pixel_diff_pct": 0.08,
+      "normalized_text_similarity": 53.85,
+      "finding_detail": "Visually equivalent (0.08% pixel diff). Identical mathematical problems, formulas, and diagrams.",
+      "is_content_identical": true,
+      "comparison_image": "c10_tm_p368_comparison.png",
+      "has_diagram_formula_diff": false,
+      "genuine_content_difference": false
+    }
+  }
+}
