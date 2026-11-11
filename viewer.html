@@ -396,8 +396,10 @@
         }
       }
     }, { passive: true });
-    pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
-    if (currentPageNum <= 1) btnPrevPage.disabled = true;
+    if (!isBookBackMode) {
+      pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
+      if (currentPageNum <= 1) btnPrevPage.disabled = true;
+    }
 
     const docTitle = document.getElementById('docTitle');
     if (customTitle) {
