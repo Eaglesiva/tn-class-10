@@ -377,21 +377,10 @@
         const diffX = e.changedTouches[0].clientX - viewerTouchStartX;
         const diffY = e.changedTouches[0].clientY - viewerTouchStartY;
         if (Math.abs(diffX) > 60 && Math.abs(diffX) > Math.abs(diffY) * 1.4) {
-          const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement);
           if (diffX < 0) {
-            // Swipe Left -> Next Page (In embed: flips Book-Back question; In fullscreen/standalone: flips book page)
-            if (isEmbedded && !isFull) {
-              window.parent.postMessage({ action: 'navigate_page', direction: 'next' }, '*');
-            } else {
-              navigatePage(1);
-            }
+            navigatePage(1);
           } else {
-            // Swipe Right -> Previous Page
-            if (isEmbedded && !isFull) {
-              window.parent.postMessage({ action: 'navigate_page', direction: 'prev' }, '*');
-            } else {
-              navigatePage(-1);
-            }
+            navigatePage(-1);
           }
         }
       }
@@ -442,14 +431,14 @@
     // Page Turners Navigation (Standalone Mode - Retains Zoom!)
     // ----------------------------------------------------
     function navigatePage(direction) {
-      const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement);
-      // If embedded inside the outer learning shell, synchronize with outer SPA platform
-      if (isEmbedded && !isFull) {
-        window.parent.postMessage({ action: 'navigate_page', direction: direction > 0 ? 'next' : 'prev' }, '*');
-        return;
-      }
+      // 1. Notify parent shell to synchronize outer UI if embedded
+      try {
+        if (window.parent && window.parent !== window) {
+          window.parent.postMessage({ action: 'navigate_page', direction: direction > 0 ? 'next' : 'prev' }, '*');
+        }
+      } catch (e) {}
 
-      // Standalone, New Tab, or Fullscreen: Navigate strictly through pageList (normal book or book-back sequence)!
+      // 2. Direct page flip according to pageList (normal book or book-back sequence)!
       if (pageList && pageListIndex !== -1) {
         const targetIndex = pageListIndex + direction;
         if (targetIndex < 0 || targetIndex >= pageList.length) return;
