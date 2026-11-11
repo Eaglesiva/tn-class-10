@@ -116,7 +116,7 @@
       text-align: center;
     }
 
-    /* Book Page Navigation Arrows */
+    /* Book Page Navigation Arrows (Visible everywhere) */
     .nav-page-group {
       display: flex;
       align-items: center;
@@ -125,11 +125,6 @@
       border-radius: 999px;
       padding: 2px 6px;
       gap: 3px;
-    }
-
-    /* In embedded iframe mode (Book-Back & Master Learning Platform), hide inner flip arrows completely */
-    body.is-embedded .nav-page-group {
-      display: none !important;
     }
 
     /* Right Action Buttons (Fullscreen, Download, Pop-out) */
@@ -328,14 +323,19 @@
       currentPageNum = parseInt(match[1]);
     }
 
-    // Load the subject's flat page list so navigation can cross unit folders correctly
-    // (Class 8 onward uses a single full-year book per subject, no term subdivision)
+    // Load the subject's page list (normal full book or dedicated book-back questions)
     let pageList = null;
     let pageListIndex = -1;
     const bookMatch = pdfUrl.match(/^\.\/([^/]+)\//);
+    const isBookBackMode = params.get('mode') === 'book_back' || window.location.href.includes('mode=book_back');
+
     if (bookMatch) {
-      const pagesJsonUrl = `./${bookMatch[1]}/pages.json`;
-      fetch(pagesJsonUrl).then(r => r.ok ? r.json() : null).then(list => {
+      const subjectDir = bookMatch[1];
+      const targetJsonUrl = isBookBackMode 
+        ? `./${subjectDir}/book_back_pages.json` 
+        : `./${subjectDir}/pages.json`;
+
+      fetch(targetJsonUrl).then(r => r.ok ? r.json() : null).then(list => {
         if (!Array.isArray(list)) return;
         pageList = list;
         pageListIndex = list.indexOf(pdfUrl);
@@ -343,23 +343,24 @@
           const norm = p => p.replace(/^\.\//, '');
           pageListIndex = list.findIndex(p => norm(p) === norm(pdfUrl));
         }
+
+        if (isBookBackMode && pageListIndex !== -1) {
+          pageIndicator.textContent = `வினா ${pageListIndex + 1} / ${pageList.length}`;
+        } else {
+          pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
+        }
+
         if (pageListIndex <= 0) btnPrevPage.disabled = true;
+        else btnPrevPage.disabled = false;
+
         if (pageListIndex === list.length - 1) btnNextPage.disabled = true;
+        else btnNextPage.disabled = false;
       }).catch(() => { pageList = null; });
     }
 
-    // When embedded inside an iframe (like our Master Learning Platform or Book-Back Guide),
-    // hide ONLY the inner page flip arrows (navPageGroup) so students only use the clean outer shell controls.
-    // KEEP the popout / full-screen button and zoom controls visible!
-    if (isEmbedded) {
-      document.body.classList.add('is-embedded');
-      if (navPageGroup) navPageGroup.style.setProperty('display', 'none', 'important');
-      if (btnPopout) btnPopout.style.display = 'flex';
-    } else {
-      document.body.classList.remove('is-embedded');
-      if (navPageGroup) navPageGroup.style.display = 'flex';
-      if (btnPopout) btnPopout.style.display = 'flex';
-    }
+    // Always keep page navigation arrows & popout visible everywhere!
+    if (navPageGroup) navPageGroup.style.display = 'flex';
+    if (btnPopout) btnPopout.style.display = 'flex';
 
     // 📱 Touch Swipe Gesture (Mobile Thumb Navigation)
     let viewerTouchStartX = 0;
@@ -439,7 +440,14 @@
     // Page Turners Navigation (Standalone Mode - Retains Zoom!)
     // ----------------------------------------------------
     function navigatePage(direction) {
-      // Prefer the flat page list (crosses unit/lesson folder boundaries correctly)
+      const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement);
+      // If embedded inside the outer learning shell, synchronize with outer SPA platform
+      if (isEmbedded && !isFull) {
+        window.parent.postMessage({ action: 'navigate_page', direction: direction > 0 ? 'next' : 'prev' }, '*');
+        return;
+      }
+
+      // Standalone, New Tab, or Fullscreen: Navigate strictly through pageList (normal book or book-back sequence)!
       if (pageList && pageListIndex !== -1) {
         const targetIndex = pageListIndex + direction;
         if (targetIndex < 0 || targetIndex >= pageList.length) return;
@@ -677,7 +685,7 @@
       }
     }
 
-    // Update controls when fullscreen changes (show page nav in fullscreen, hide when back in embed)
+    // Update controls when fullscreen changes
     function updateFullscreenMode() {
       const btn = document.getElementById('btnFullscreen');
       const isFull = !!(document.fullscreenElement || document.webkitFullscreenElement || document.mozFullScreenElement || document.msFullscreenElement);
@@ -686,16 +694,10 @@
           btn.textContent = '✕';
           btn.title = 'முழுத்திரையிலிருந்து வெளியேறு (Exit Fullscreen)';
         }
-        document.body.classList.remove('is-embedded');
-        if (navPageGroup) navPageGroup.style.removeProperty('display');
       } else {
         if (btn) {
           btn.textContent = '⛶';
           btn.title = 'முழுத்திரை (Fullscreen)';
-        }
-        if (isEmbedded) {
-          document.body.classList.add('is-embedded');
-          if (navPageGroup) navPageGroup.style.setProperty('display', 'none', 'important');
         }
       }
     }
