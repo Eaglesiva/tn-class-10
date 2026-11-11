@@ -116,15 +116,20 @@
       text-align: center;
     }
 
-    /* Book Page Navigation Arrows (Always visible on all screens!) */
+    /* Book Page Navigation Arrows */
     .nav-page-group {
-      display: flex !important;
+      display: flex;
       align-items: center;
       background: rgba(30, 41, 59, 0.85);
       border: 1px solid rgba(255, 255, 255, 0.14);
       border-radius: 999px;
       padding: 2px 6px;
       gap: 3px;
+    }
+
+    /* In embedded iframe mode (Book-Back & Master Learning Platform), hide inner flip arrows completely */
+    body.is-embedded .nav-page-group {
+      display: none !important;
     }
 
     /* Right Action Buttons (Fullscreen, Download, Pop-out) */
@@ -347,9 +352,11 @@
     // hide ONLY the inner page flip arrows (navPageGroup) so students only use the clean outer shell controls.
     // KEEP the popout / full-screen button and zoom controls visible!
     if (isEmbedded) {
-      if (navPageGroup) navPageGroup.style.display = 'none';
+      document.body.classList.add('is-embedded');
+      if (navPageGroup) navPageGroup.style.setProperty('display', 'none', 'important');
       if (btnPopout) btnPopout.style.display = 'flex';
     } else {
+      document.body.classList.remove('is-embedded');
       if (navPageGroup) navPageGroup.style.display = 'flex';
       if (btnPopout) btnPopout.style.display = 'flex';
     }
