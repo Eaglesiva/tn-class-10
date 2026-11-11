@@ -310,7 +310,7 @@
     const customTitle = params.get('title');
 
     // Check if embedded in iframe or running standalone
-    const isEmbedded = (window.self !== window.top);
+    const isEmbedded = (window.self !== window.top) || (new URLSearchParams(window.location.search).get('embed') === '1');
     const btnPopout = document.getElementById('btnPopout');
     const navPageGroup = document.getElementById('navPageGroup');
     const pageIndicator = document.getElementById('pageIndicator');
@@ -346,7 +346,6 @@
     // When embedded inside an iframe (like our Master Learning Platform or Book-Back Guide),
     // hide ONLY the inner page flip arrows (navPageGroup) so students only use the clean outer shell controls.
     // KEEP the popout / full-screen button and zoom controls visible!
-    const isEmbedded = window.self !== window.top || new URLSearchParams(window.location.search).get('embed') === '1';
     if (isEmbedded) {
       if (navPageGroup) navPageGroup.style.display = 'none';
       if (btnPopout) btnPopout.style.display = 'flex';
