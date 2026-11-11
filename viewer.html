@@ -343,9 +343,51 @@
       }).catch(() => { pageList = null; });
     }
 
-    // Always show navigation & popout everywhere
-    btnPopout.style.display = 'flex';
-    navPageGroup.style.display = 'flex';
+    // When embedded inside an iframe (like our Master Learning Platform or Book-Back Guide),
+    // hide ONLY the inner page flip arrows (navPageGroup) so students only use the clean outer shell controls.
+    // KEEP the popout / full-screen button and zoom controls visible!
+    const isEmbedded = window.self !== window.top || new URLSearchParams(window.location.search).get('embed') === '1';
+    if (isEmbedded) {
+      if (navPageGroup) navPageGroup.style.display = 'none';
+      if (btnPopout) btnPopout.style.display = 'flex';
+    } else {
+      if (navPageGroup) navPageGroup.style.display = 'flex';
+      if (btnPopout) btnPopout.style.display = 'flex';
+    }
+
+    // 📱 Touch Swipe Gesture (Mobile Thumb Navigation)
+    let viewerTouchStartX = 0;
+    let viewerTouchStartY = 0;
+    window.addEventListener('touchstart', (e) => {
+      if (e.touches && e.touches.length === 1) {
+        viewerTouchStartX = e.touches[0].clientX;
+        viewerTouchStartY = e.touches[0].clientY;
+      }
+    }, { passive: true });
+
+    window.addEventListener('touchend', (e) => {
+      if (e.changedTouches && e.changedTouches.length === 1) {
+        const diffX = e.changedTouches[0].clientX - viewerTouchStartX;
+        const diffY = e.changedTouches[0].clientY - viewerTouchStartY;
+        if (Math.abs(diffX) > 60 && Math.abs(diffX) > Math.abs(diffY) * 1.4) {
+          if (diffX < 0) {
+            // Swipe Left -> Next Page
+            if (isEmbedded) {
+              window.parent.postMessage({ action: 'navigate_page', direction: 'next' }, '*');
+            } else {
+              navigatePage(1);
+            }
+          } else {
+            // Swipe Right -> Previous Page
+            if (isEmbedded) {
+              window.parent.postMessage({ action: 'navigate_page', direction: 'prev' }, '*');
+            } else {
+              navigatePage(-1);
+            }
+          }
+        }
+      }
+    }, { passive: true });
     pageIndicator.textContent = `பக்கம் ${currentPageNum}`;
     if (currentPageNum <= 1) btnPrevPage.disabled = true;
 
