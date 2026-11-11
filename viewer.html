@@ -326,14 +326,23 @@
     // Load the subject's page list (normal full book or dedicated book-back questions)
     let pageList = null;
     let pageListIndex = -1;
-    const bookMatch = pdfUrl.match(/^\.\/([^/]+)\//);
     const isBookBackMode = params.get('mode') === 'book_back' || window.location.href.includes('mode=book_back');
 
-    if (bookMatch) {
-      const subjectDir = bookMatch[1];
+    // Universal bookDir resolution: works for both nested term books and direct subjects
+    let bookDir = null;
+    if (pdfUrl.includes('/pages/')) {
+      bookDir = pdfUrl.substring(0, pdfUrl.lastIndexOf('/pages/'));
+    } else {
+      const parts = pdfUrl.replace(/^\.\//, '').split('/');
+      if (parts.length >= 2) {
+        bookDir = './' + parts[0];
+      }
+    }
+
+    if (bookDir) {
       const targetJsonUrl = isBookBackMode 
-        ? `./${subjectDir}/book_back_pages.json` 
-        : `./${subjectDir}/pages.json`;
+        ? `${bookDir}/book_back_pages.json` 
+        : `${bookDir}/pages.json`;
 
       fetch(targetJsonUrl).then(r => r.ok ? r.json() : null).then(list => {
         if (!Array.isArray(list)) return;
@@ -341,7 +350,11 @@
         pageListIndex = list.indexOf(pdfUrl);
         if (pageListIndex === -1) {
           const norm = p => p.replace(/^\.\//, '');
-          pageListIndex = list.findIndex(p => norm(p) === norm(pdfUrl));
+          const curNorm = norm(pdfUrl);
+          pageListIndex = list.findIndex(p => {
+            const pNorm = norm(p);
+            return pNorm === curNorm || curNorm.endsWith(pNorm) || pNorm.endsWith(curNorm);
+          });
         }
 
         if (isBookBackMode && pageListIndex !== -1) {
@@ -434,7 +447,7 @@
       // 1. Notify parent shell to synchronize outer UI if embedded
       try {
         if (window.parent && window.parent !== window) {
-          window.parent.postMessage({ action: 'navigate_page', direction: direction > 0 ? 'next' : 'prev' }, '*');
+          window.parent.postMessage({ type: 'tn_navigate', action: 'navigate_page', direction: direction > 0 ? 'next' : 'prev' }, '*');
         }
       } catch (e) {}
 
